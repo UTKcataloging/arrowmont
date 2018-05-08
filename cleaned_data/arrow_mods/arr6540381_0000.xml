@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Summer Workshop 1948</title>
+   </titleInfo>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of
+            Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <originInfo>
+      <publisher>Pi Beta Phi Fraternity</publisher>
+      <dateIssued encoding="w3cdtf" keyDate="yes">1949-05</dateIssued>
+   </originInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not
+            Evaluated</accessCondition>
+   <subject authority="local">
+      <temporal>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964.</temporal>
+   </subject>
+   <subject authority="local">
+      <topic>Summer crafts workshop.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Arrowcraft.</topic>
+   </subject>
+   <identifier type="local">TU:DLC:Filename:arr6540381_0000</identifier>
+   <location>
+      <physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+      <physicalLocation displayLabel="Repository">Pi Beta Phi Fraternity</physicalLocation>
+      <physicalLocation displayLabel="Detailed Location">Box 40, Folder 1</physicalLocation>
+      <physicalLocation displayLabel="City">St. Louis</physicalLocation>
+      <physicalLocation displayLabel="State">Missouri</physicalLocation>
+   </location>
+   <physicalDescription>
+      <extent>Pages 380; 384-386</extent>
+   </physicalDescription>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <genre>News</genre>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem type="host" displayLabel="Bibliographic Citation">
+      <titleInfo>
+         <title>The Arrow of Pi Beta Phi</title>
+         <partNumber>Volume 65, Number 4</partNumber>
+      </titleInfo>
+      <part>
+         <extent unit="pages">
+            <list>Pages 380; 384-386</list>
+         </extent>
+      </part>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>From Pi Beta Phi to Arrowmont</title>
+      </titleInfo>
+   </relatedItem>
+   <note displayLabel="Project Part">Arrow Articles</note>
+</mods>

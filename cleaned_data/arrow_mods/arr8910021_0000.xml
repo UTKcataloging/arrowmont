@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Pi Beta Phi Settlement School</title>
+   </titleInfo>
+   <name>
+      <namePart>Betty BaileyHall</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Helen Anderson Lewis</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+      </role>
+   </name>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of
+            Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <originInfo>
+      <publisher>Pi Beta Phi Fraternity</publisher>
+      <dateIssued qualifier="approximate" keyDate="yes">Fall 1972</dateIssued>
+   </originInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not
+            Evaluated</accessCondition>
+   <tableOfContents displayLabel="Table Of Contents">Chairman, Board of Governors, Arrowmont; Administrator-Pi Beta Phi Settlement School; Arrowmont and Arrowcraft Awards 1971-1972</tableOfContents>
+   <subject authority="local">
+      <temporal>The Birth of Arrowmont, Gatlinburg, Tennessee, 1965-1979.</temporal>
+   </subject>
+   <subject authority="local">
+      <topic>Facilities.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Arrowcraft.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Funding.</topic>
+   </subject>
+   <identifier type="local">TU:DLC:Filename:arr8910021_0000</identifier>
+   <location>
+      <physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+      <physicalLocation displayLabel="Repository">Pi Beta Phi Fraternity</physicalLocation>
+      <physicalLocation displayLabel="Detailed Location">Box 41, Folder 9</physicalLocation>
+      <physicalLocation displayLabel="City">St. Louis</physicalLocation>
+      <physicalLocation displayLabel="State">Missouri</physicalLocation>
+   </location>
+   <physicalDescription>
+      <extent>Pages 20-24</extent>
+   </physicalDescription>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <genre>Report</genre>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem type="host" displayLabel="Bibliographic Citation">
+      <titleInfo>
+         <title>The Arrow of Pi Beta Phi</title>
+         <partNumber>Volume 89, Number 1</partNumber>
+      </titleInfo>
+      <part>
+         <extent unit="pages">
+            <list>Pages 20-24</list>
+         </extent>
+      </part>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>From Pi Beta Phi to Arrowmont</title>
+      </titleInfo>
+   </relatedItem>
+   <note displayLabel="Project Part">Arrow Articles</note>
+</mods>
