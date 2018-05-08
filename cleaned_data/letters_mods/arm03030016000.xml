@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>[Letter] Nov. 12, 1919, [Gatlinburg, Tennessee to] family</title>
+   </titleInfo>
+   <name>
+      <namePart>Sturley, Ruth</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+      </role>
+   </name>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of
+            Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <originInfo>
+      <publisher>Arrowmont School of Arts and Crafts</publisher>
+      <dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1919-11-12</dateCreated>
+   </originInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not
+            Evaluated</accessCondition>
+   <abstract>Autumn coloring everywhere - School subjects - Plans for Thanksgiving program</abstract>
+   <subject authority="local">
+      <topic>Living Conditions.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Holidays.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>People.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Social life.</topic>
+   </subject>
+   <identifier type="local">TU:DLC:Filename:arm03030016000</identifier>
+   <location>
+      <physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+      <physicalLocation displayLabel="Repository">Arrowmont School of Arts and Crafts</physicalLocation>
+      <physicalLocation displayLabel="Detailed Location">Box 3, Folder 3</physicalLocation>
+      <physicalLocation displayLabel="City">Gatlinburg</physicalLocation>
+      <physicalLocation displayLabel="State">Tennessee</physicalLocation>
+   </location>
+   <physicalDescription>
+      <extent>10p</extent>
+   </physicalDescription>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="AAT">personal correspondence</genre>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>From Pi Beta Phi to Arrowmont</title>
+      </titleInfo>
+   </relatedItem>
+   <note displayLabel="Project Part">Arrowmont Letters</note>
+</mods>
