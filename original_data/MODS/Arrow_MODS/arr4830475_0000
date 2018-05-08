@@ -1,0 +1,47 @@
+<metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+<titleInfo><title>News from Little Pigeon</title></titleInfo>
+<name><namePart type="family">Frost</namePart><namePart type="given">Mary Cooper</namePart><role><roleTerm authority="marcrelator">author</roleTerm></role></name>
+<name><namePart type="family">Krieg</namePart><namePart type="given">Shirley Kreasan</namePart><role><roleTerm authority="marcrelator">author</roleTerm></role></name>
+<name><namePart type="family">Stark</namePart><namePart type="given">Nita Hill</namePart><role><roleTerm authority="marcrelator">author</roleTerm></role></name>
+<recordInfo>
+<recordContentSource>Great Smoky Mountains Regional Project, University of Tennessee Libraries</recordContentSource>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<originInfo>
+<publisher>Pi Beta Phi Fraternity</publisher>
+<dateIssued encoding="w3cdtf" keyDate="yes">1932-02</dateIssued>
+</originInfo>
+<accessCondition type="useAndReproduction">Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.  For current rights information, visit http://idserver.utk.edu/?id=200500000001941</accessCondition>
+<tableOfContents displayLabel="Table Of Contents">Gatlinburg as Seen by Another Greek; Christmas, 1931, at the School; Hand Loom and Fly Shuttle Weaving; Blanche Huff Pledge by Iowa Gamma</tableOfContents>
+<note displayLabel="Statement of Responsibility">The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+<subject authority="local">
+<temporal>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943.</temporal>
+</subject>
+<subject authority="local">
+<topic>Holidays.</topic>
+</subject>
+<subject authority="local">
+<topic>Weaving.</topic>
+</subject>
+<identifier type="local">TU:DLC:Filename:arr4830475_0000</identifier>
+<identifier type="uri">http://idserver.utk.edu/?id=200700000000707</identifier>
+<location>
+<physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+<physicalLocation displayLabel="Repository">Pi Beta Phi Fraternity</physicalLocation>
+<physicalLocation displayLabel="Detailed Location">Box 38, Folder 8</physicalLocation>
+<physicalLocation displayLabel="City">St. Louis</physicalLocation>
+<physicalLocation displayLabel="State">Missouri</physicalLocation>
+<url>http://idserver.utk.edu/?id=200700000000707</url>
+</location>
+<physicalDescription>
+<extent>Pages 474-476</extent>
+<internetMediaType>text/html</internetMediaType>
+</physicalDescription>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm></language>
+<genre>News</genre>
+<typeOfResource>text</typeOfResource>
+<relatedItem type="host" displayLabel="Bibliographic Citation"><titleInfo><title>The Arrow of Pi Beta Phi</title><partNumber>Volume 48, Number 3</partNumber></titleInfo><part><extent unit="pages"><list>Pages 474-476</list></extent></part></relatedItem>
+<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>From Pi Beta Phi to Arrowmont</title></titleInfo><identifier type="uri">http://idserver.utk.edu/?id=200600000001205</identifier></relatedItem>
+</mods></metadata>

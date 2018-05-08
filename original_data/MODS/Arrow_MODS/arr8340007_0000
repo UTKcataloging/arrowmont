@@ -1,0 +1,53 @@
+<metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+<titleInfo><title>News From Little Pigeon</title></titleInfo>
+<name><namePart type="family">Gordon</namePart><namePart type="given">Sally Wild</namePart><role><roleTerm authority="marcrelator">author</roleTerm></role></name>
+<name><namePart type="family">Huff</namePart><namePart type="given">Henrietta McChtchan</namePart><role><roleTerm authority="marcrelator">author</roleTerm></role></name>
+<name><namePart type="family">Mueller</namePart><namePart type="given">Marion Webb</namePart><role><roleTerm authority="marcrelator">author</roleTerm></role></name>
+<recordInfo>
+<recordContentSource>Great Smoky Mountains Regional Project, University of Tennessee Libraries</recordContentSource>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<originInfo>
+<publisher>Pi Beta Phi Fraternity</publisher>
+<dateIssued qualifier="approximate" keyDate="yes">Summer 1967</dateIssued>
+</originInfo>
+<accessCondition type="useAndReproduction">Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.  For current rights information, visit http://idserver.utk.edu/?id=200500000001941</accessCondition>
+<tableOfContents displayLabel="Table Of Contents">Memoirs of Settlement School; Settlement School Panorama - 1945-1967; Settlement School Committee 1962-1967; 1963-1967 Settlement School - Art and Craft Center; When We Were Young</tableOfContents>
+<note displayLabel="Statement of Responsibility">The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+<subject authority="local">
+<temporal>The Birth of Arrowmont, Gatlinburg, Tennessee, 1965-1979.</temporal>
+</subject>
+<subject authority="local">
+<topic>Teachers.</topic>
+</subject>
+<subject authority="local">
+<topic>Arrowcraft.</topic>
+</subject>
+<subject authority="local">
+<topic>Facilities.</topic>
+</subject>
+<subject authority="local">
+<topic>Education.</topic>
+</subject>
+<identifier type="local">TU:DLC:Filename:arr8340007_0000</identifier>
+<identifier type="uri">http://idserver.utk.edu/?id=200700000000871</identifier>
+<location>
+<physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+<physicalLocation displayLabel="Repository">Pi Beta Phi Fraternity</physicalLocation>
+<physicalLocation displayLabel="Detailed Location">Box 41, Folder 3</physicalLocation>
+<physicalLocation displayLabel="City">St. Louis</physicalLocation>
+<physicalLocation displayLabel="State">Missouri</physicalLocation>
+<url>http://idserver.utk.edu/?id=200700000000871</url>
+</location>
+<physicalDescription>
+<extent>Pages 7-18</extent>
+<internetMediaType>text/html</internetMediaType>
+</physicalDescription>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm></language>
+<genre>News</genre>
+<typeOfResource>text</typeOfResource>
+<relatedItem type="host" displayLabel="Bibliographic Citation"><titleInfo><title>The Arrow of Pi Beta Phi</title><partNumber>Volume 83, Number 4</partNumber></titleInfo><part><extent unit="pages"><list>Pages 7-18</list></extent></part></relatedItem>
+<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>From Pi Beta Phi to Arrowmont</title></titleInfo><identifier type="uri">http://idserver.utk.edu/?id=200600000001205</identifier></relatedItem>
+</mods></metadata>

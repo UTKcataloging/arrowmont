@@ -1,0 +1,48 @@
+<metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+<titleInfo><title>News from Little Pigeon</title></titleInfo>
+<name><namePart type="family">Gordon</namePart><namePart type="given">Sally Wild</namePart><role><roleTerm authority="marcrelator">author</roleTerm></role></name>
+<recordInfo>
+<recordContentSource>Great Smoky Mountains Regional Project, University of Tennessee Libraries</recordContentSource>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<originInfo>
+<publisher>Pi Beta Phi Fraternity</publisher>
+<dateIssued qualifier="approximate" keyDate="yes">Summer 1965</dateIssued>
+</originInfo>
+<accessCondition type="useAndReproduction">Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.  For current rights information, visit http://idserver.utk.edu/?id=200500000001941</accessCondition>
+<tableOfContents displayLabel="Table Of Contents">Bell Ledford Mottern Is New Designer at Arrowcraft; Gregg Powers-Virginia Alpha Scholarship Winner; For Pi Phis Who Teach; Summer Craft Workshop Mentioned in February Holiday Magazine</tableOfContents>
+<note displayLabel="Statement of Responsibility">The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+<subject authority="local">
+<temporal>The Birth of Arrowmont, Gatlinburg, Tennessee, 1965-1979.</temporal>
+</subject>
+<subject authority="local">
+<topic>Staff.</topic>
+</subject>
+<subject authority="local">
+<topic>People.</topic>
+</subject>
+<subject authority="local">
+<topic>Summer craft workshop.</topic>
+</subject>
+<identifier type="local">TU:DLC:Filename:arr8140011_0000</identifier>
+<identifier type="uri">http://idserver.utk.edu/?id=200700000000859</identifier>
+<location>
+<physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+<physicalLocation displayLabel="Repository">Pi Beta Phi Fraternity</physicalLocation>
+<physicalLocation displayLabel="Detailed Location">Box 41, Folder 1</physicalLocation>
+<physicalLocation displayLabel="City">St. Louis</physicalLocation>
+<physicalLocation displayLabel="State">Missouri</physicalLocation>
+<url>http://idserver.utk.edu/?id=200700000000859</url>
+</location>
+<physicalDescription>
+<extent>Pages 10-11</extent>
+<internetMediaType>text/html</internetMediaType>
+</physicalDescription>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm></language>
+<genre>News</genre>
+<typeOfResource>text</typeOfResource>
+<relatedItem type="host" displayLabel="Bibliographic Citation"><titleInfo><title>The Arrow of Pi Beta Phi</title><partNumber>Volume 81, Number 4</partNumber></titleInfo><part><extent unit="pages"><list>Pages 10-11</list></extent></part></relatedItem>
+<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>From Pi Beta Phi to Arrowmont</title></titleInfo><identifier type="uri">http://idserver.utk.edu/?id=200600000001205</identifier></relatedItem>
+</mods></metadata>

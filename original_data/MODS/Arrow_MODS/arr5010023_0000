@@ -1,0 +1,53 @@
+<metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+<titleInfo><title>Settlement School Reports</title></titleInfo>
+<name><namePart type="family">Hill</namePart><namePart type="given">Frankie C. </namePart><role><roleTerm authority="marcrelator">author</roleTerm></role></name>
+<name><namePart type="family">Bishop</namePart><namePart type="given">Evelyn</namePart><role><roleTerm authority="marcrelator">author</roleTerm></role></name>
+<name><namePart type="family">Post</namePart><namePart type="given">Grace</namePart><role><roleTerm authority="marcrelator">author</roleTerm></role></name>
+<recordInfo>
+<recordContentSource>Great Smoky Mountains Regional Project, University of Tennessee Libraries</recordContentSource>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<originInfo>
+<publisher>Pi Beta Phi Fraternity</publisher>
+<dateIssued encoding="w3cdtf" keyDate="yes">1933-09</dateIssued>
+</originInfo>
+<accessCondition type="useAndReproduction">Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.  For current rights information, visit http://idserver.utk.edu/?id=200500000001941</accessCondition>
+<tableOfContents displayLabel="Table Of Contents">Settlement School Committee Chairman; Director of Pi Beta Phi Settlement School; Treasurer of Pi Beta Phi Settlement School</tableOfContents>
+<note displayLabel="Statement of Responsibility">The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+<subject authority="local">
+<temporal>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943.</temporal>
+</subject>
+<subject authority="local">
+<topic>Funding.</topic>
+</subject>
+<subject authority="local">
+<topic>Curriculum.</topic>
+</subject>
+<subject authority="local">
+<topic>Facilities.</topic>
+</subject>
+<subject authority="local">
+<topic>Teachers.</topic>
+</subject>
+<identifier type="local">TU:DLC:Filename:arr5010023_0000</identifier>
+<identifier type="uri">http://idserver.utk.edu/?id=200700000000717</identifier>
+<location>
+<physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+<physicalLocation displayLabel="Repository">Pi Beta Phi Fraternity</physicalLocation>
+<physicalLocation displayLabel="Detailed Location">Box 38, Folder 11</physicalLocation>
+<physicalLocation displayLabel="City">St. Louis</physicalLocation>
+<physicalLocation displayLabel="State">Missouri</physicalLocation>
+<url>http://idserver.utk.edu/?id=200700000000717</url>
+</location>
+<physicalDescription>
+<extent>Pages 22-42</extent>
+<internetMediaType>text/html</internetMediaType>
+</physicalDescription>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm></language>
+<genre>Report</genre>
+<typeOfResource>text</typeOfResource>
+<relatedItem type="host" displayLabel="Bibliographic Citation"><titleInfo><title>The Arrow of Pi Beta Phi</title><partNumber>Volume 50, Number 1</partNumber></titleInfo><part><extent unit="pages"><list>Pages 22-42</list></extent></part></relatedItem>
+<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>From Pi Beta Phi to Arrowmont</title></titleInfo><identifier type="uri">http://idserver.utk.edu/?id=200600000001205</identifier></relatedItem>
+</mods></metadata>
