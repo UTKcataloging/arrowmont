@@ -39,9 +39,10 @@
     <xsl:template match="name">
         <xsl:variable name="first" select="namePart[@type = 'given']"/>
         <xsl:variable name="last" select="namePart[@type = 'family']"/>
+        <xsl:variable name="notype" select="namePart[not(@type)]"/>
         <name>
             <namePart>
-                <xsl:value-of select="normalize-space(concat($first, $last))"/>
+                <xsl:value-of select="normalize-space(concat($first, $last, $notype))"/>
             </namePart>
             <role>
                 <roleTerm authority="marcrelator"
