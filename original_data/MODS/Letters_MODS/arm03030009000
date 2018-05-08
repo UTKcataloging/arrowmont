@@ -1,0 +1,47 @@
+<metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+<titleInfo><title>[Letter] Oct. 29, 1919, [Gatlinburg, Tennessee to] family</title></titleInfo>
+<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator">author</roleTerm></role></name>
+<recordInfo>
+<recordContentSource>Great Smoky Mountains Regional Project, University of Tennessee Libraries</recordContentSource>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<originInfo>
+<publisher>Arrowmont School of Arts and Crafts</publisher>
+<dateCreated encoding="w3cdtf" qualifier="inferred" keyDate="yes">1919-10-29</dateCreated>
+</originInfo>
+<accessCondition type="useAndReproduction">Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.  For current rights information, visit http://idserver.utk.edu/?id=200500000001941</accessCondition>
+<abstract>In Knoxville. Trip to Wear&#x0027;s Valley for baskets. Home again at the burg.</abstract>
+<note displayLabel="Statement of Responsibility">The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+<subject authority="local">
+<topic>People.</topic>
+</subject>
+<subject authority="local">
+<topic>Landscape.</topic>
+</subject>
+<subject authority="local">
+<topic>Baskets.</topic>
+</subject>
+<subject authority="local">
+<topic>Living conditions.</topic>
+</subject>
+<identifier type="local">TU:DLC:Filename:arm03030009000</identifier>
+<identifier type="uri">http://idserver.utk.edu/?id=200600000001888</identifier>
+<location>
+<physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+<physicalLocation displayLabel="Repository">Arrowmont School of Arts and Crafts</physicalLocation>
+<physicalLocation displayLabel="Detailed Location">Box 3, Folder 3</physicalLocation>
+<physicalLocation displayLabel="City">Gatlinburg</physicalLocation>
+<physicalLocation displayLabel="State">Tennessee</physicalLocation>
+<url>http://idserver.utk.edu/?id=200600000001888</url>
+</location>
+<physicalDescription>
+<extent>4p</extent>
+<internetMediaType>Text/html</internetMediaType>
+</physicalDescription>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<genre authority="AAT">personal correspondence</genre>
+<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>From Pi Beta Phi to Arrowmont</title></titleInfo><identifier type="uri">http://idserver.utk.edu/?id=200600000001205</identifier></relatedItem>
+</mods></metadata>
