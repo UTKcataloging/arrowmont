@@ -6,6 +6,7 @@ This repository includes all metadata and working files for the Arrowmont migrat
 
 ## Structure
 
+```
 |-- cleaned_data
     |-- arrow_mods
 |-- original_data
@@ -13,4 +14,5 @@ This repository includes all metadata and working files for the Arrowmont migrat
         |--Arrow_MODS
     |-- TEI
 |-- README.md
-|--Arrowmont.xpr
+|-- Arrowmont.xpr
+```
