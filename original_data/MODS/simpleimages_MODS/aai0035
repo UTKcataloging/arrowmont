@@ -1,0 +1,54 @@
+<metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+<titleInfo><title>Construction of Teachers&#x0027; Cottage, Sugarlands 1926.</title></titleInfo>
+<name><namePart>Unknown</namePart><role><roleTerm>Photographer</roleTerm></role></name>
+<recordInfo>
+<recordContentSource>Great Smoky Mountains Regional Project, University of Tennessee Libraries</recordContentSource>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<originInfo>
+<dateCreated encoding="w3cdtf" point="start" keyDate="yes">1926</dateCreated>
+</originInfo>
+<accessCondition type="useAndReproduction">For rights relating to this resource, visit: http://idserver.utk.edu/?id=200500000001941</accessCondition>
+<abstract>Construction of Teachers&#x0027; Cottage, Sugarlands 1926; Harv Reagan, 1st on left (holding trowel). Property of Pi Beta Phi School; c/o Charles A. Huskey, Post Office Box 132, Sevierville, Tenn.  37862; Active in Hist. Society</abstract>
+<note displayLabel="Statement of Responsibility">The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+<subject authority="local">
+<topic>Staff quarters.</topic>
+</subject>
+<subject authority="local">
+<topic>People.</topic>
+</subject>
+<subject authority="local">
+<topic>Construction.</topic>
+</subject>
+<subject authority="local">
+<topic>Sugarlands.</topic>
+</subject>
+<subject authority="local">
+<topic>Hazel Todd Meaden Cottage.</topic>
+</subject>
+<subject authority="local">
+<topic>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927.</topic>
+</subject>
+<subject authority="local">
+<name><namePart>Reagan, Harv.</namePart></name>
+</subject>
+<identifier type="local">TU:DLC:Filename:aai0035</identifier>
+<identifier type="uri">http://idserver.utk.edu/?id=200700000000450</identifier>
+<location>
+<physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+<physicalLocation displayLabel="Repository">Arrowmont School of Arts and Crafts</physicalLocation>
+<physicalLocation displayLabel="Detailed Location">Box 61, Folder 13.</physicalLocation>
+<physicalLocation displayLabel="City">Gatlinburg</physicalLocation>
+<physicalLocation displayLabel="State">Tennessee</physicalLocation>
+<url>http://idserver.utk.edu/?id=200700000000450</url>
+</location>
+<physicalDescription>
+<internetMediaType>image/jpeg</internetMediaType>
+</physicalDescription>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm></language>
+<typeOfResource>still image</typeOfResource>
+<genre>photograph</genre>
+<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>From Pi Beta Phi to Arrowmont Photographic Collection</title></titleInfo><identifier type="uri">http://idserver.utk.edu/?id=200600000001205</identifier></relatedItem>
+</mods></metadata>

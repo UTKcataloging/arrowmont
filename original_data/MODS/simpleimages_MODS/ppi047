@@ -1,0 +1,66 @@
+<metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+<titleInfo><title>Mrs. Dowell and the girls in the Pollard Cottage -- March 1923.</title></titleInfo>
+<name><namePart>Unknown</namePart><role><roleTerm>Photographer</roleTerm></role></name>
+<recordInfo>
+<recordContentSource>Great Smoky Mountains Regional Project, University of Tennessee Libraries</recordContentSource>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<originInfo>
+<dateCreated encoding="w3cdtf" point="start" keyDate="yes">1923</dateCreated>
+</originInfo>
+<accessCondition type="useAndReproduction">For rights relating to this resource, visit: http://idserver.utk.edu/?id=200500000001941</accessCondition>
+<abstract>Front row, from left to right: Unknown, Unknown, Veatress Parton, Lucinda Oakley Ogle; back row: Myrtle Parton, Unknown, Barbara Dowell.</abstract>
+<note displayLabel="Statement of Responsibility">The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+<subject authority="local">
+<topic>Students.</topic>
+</subject>
+<subject authority="local">
+<topic>Teachers.</topic>
+</subject>
+<subject authority="local">
+<topic>Girls.</topic>
+</subject>
+<subject authority="local">
+<topic>People.</topic>
+</subject>
+<subject authority="local">
+<topic>Pollard Cottage.</topic>
+</subject>
+<subject authority="local">
+<topic>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927.</topic>
+</subject>
+<subject authority="local">
+<geographic>Gatlinburg, Tennessee.</geographic>
+</subject>
+<subject authority="local">
+<name><namePart>Parton, Veatress.</namePart></name>
+</subject>
+<subject authority="local">
+<name><namePart>Parton, Myrtle.</namePart></name>
+</subject>
+<subject authority="local">
+<name><namePart>Ogle, Lucinda Oakley.</namePart></name>
+</subject>
+<subject authority="local">
+<name><namePart>Dowell, Barbara.</namePart></name>
+</subject>
+<identifier type="local">TU:DLC:Filename:ppi047</identifier>
+<identifier type="uri">http://idserver.utk.edu/?id=200700000000179</identifier>
+<location>
+<physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+<physicalLocation displayLabel="Repository">Pi Beta Phi Fraternity</physicalLocation>
+<physicalLocation displayLabel="Detailed Location">Box 1, Folder 11a.</physicalLocation>
+<physicalLocation displayLabel="City">St. Louis</physicalLocation>
+<physicalLocation displayLabel="State">Missouri</physicalLocation>
+<url>http://idserver.utk.edu/?id=200700000000179</url>
+</location>
+<physicalDescription>
+<internetMediaType>image/jpeg</internetMediaType>
+</physicalDescription>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm></language>
+<typeOfResource>still image</typeOfResource>
+<genre>photograph</genre>
+<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>From Pi Beta Phi to Arrowmont Photographic Collection</title></titleInfo><identifier type="uri">http://idserver.utk.edu/?id=200600000001205</identifier></relatedItem>
+</mods></metadata>

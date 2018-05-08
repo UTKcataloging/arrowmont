@@ -1,0 +1,54 @@
+<metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+<titleInfo><title>Gattlinburg looking South East.</title></titleInfo>
+<name><namePart>Unknown</namePart><role><roleTerm>Photographer</roleTerm></role></name>
+<recordInfo>
+<recordContentSource>Great Smoky Mountains Regional Project, University of Tennessee Libraries</recordContentSource>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<originInfo>
+<dateCreated encoding="w3cdtf" point="start" keyDate="yes">1914</dateCreated>
+</originInfo>
+<accessCondition type="useAndReproduction">For rights relating to this resource, visit: http://idserver.utk.edu/?id=200500000001941</accessCondition>
+<abstract>An interesting view of Gatlinburg, notice the misspelling in the title of the postcard, prior to the construction of the Six-Room Schoolhouse. The view of Gatlinburg is similar to that of ppi080; in the foreground, the abandoned Methodist church, briefly used as a schoolhouse by the Pi Phi Settlement School teachers, and Squire Maples&#x0027; house before the addition of the large porch visible in ppi080.</abstract>
+<note displayLabel="Statement of Responsibility">The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+<subject authority="local">
+<topic>Landscape.</topic>
+</subject>
+<subject authority="local">
+<topic>Methodist churches.</topic>
+</subject>
+<subject authority="local">
+<topic>Homes.</topic>
+</subject>
+<subject authority="local">
+<topic>Residence.</topic>
+</subject>
+<subject authority="local">
+<topic>Squire Maples Home.</topic>
+</subject>
+<subject authority="local">
+<topic>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927.</topic>
+</subject>
+<subject authority="local">
+<geographic>Gatlinburg, Tennessee.</geographic>
+</subject>
+<identifier type="local">TU:DLC:Filename:ppi121</identifier>
+<identifier type="uri">http://idserver.utk.edu/?id=200700000000254</identifier>
+<location>
+<physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+<physicalLocation displayLabel="Repository">Pi Beta Phi Fraternity</physicalLocation>
+<physicalLocation displayLabel="Detailed Location">Box 1, Folder 11a.</physicalLocation>
+<physicalLocation displayLabel="City">St. Louis</physicalLocation>
+<physicalLocation displayLabel="State">Missouri</physicalLocation>
+<url>http://idserver.utk.edu/?id=200700000000254</url>
+</location>
+<physicalDescription>
+<internetMediaType>image/jpeg</internetMediaType>
+</physicalDescription>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm></language>
+<typeOfResource>still image</typeOfResource>
+<genre>photograph</genre>
+<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>From Pi Beta Phi to Arrowmont Photographic Collection</title></titleInfo><identifier type="uri">http://idserver.utk.edu/?id=200600000001205</identifier></relatedItem>
+</mods></metadata>

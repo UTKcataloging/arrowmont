@@ -1,0 +1,72 @@
+<metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+<titleInfo><title>Gatlinburg in front of Staff House.  Left to right: Lois Summers, Marian Prince Hensle, Olivia Moore, Helen Russell, Helen Dix, Zoe James, Marian Heard.  Settlement School Committee 1958-63.</title></titleInfo>
+<name><namePart>Unknown</namePart><role><roleTerm>Photographer</roleTerm></role></name>
+<recordInfo>
+<recordContentSource>Great Smoky Mountains Regional Project, University of Tennessee Libraries</recordContentSource>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<originInfo>
+<dateCreated encoding="w3cdtf" point="start" keyDate="yes">1955</dateCreated>
+</originInfo>
+<accessCondition type="useAndReproduction">For rights relating to this resource, visit: http://idserver.utk.edu/?id=200500000001941</accessCondition>
+<abstract>The Settlement School Committee, circa 1955.</abstract>
+<note displayLabel="Statement of Responsibility">The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+<subject authority="local">
+<topic>Committees.</topic>
+</subject>
+<subject authority="local">
+<topic>People.</topic>
+</subject>
+<subject authority="local">
+<topic>Administrators.</topic>
+</subject>
+<subject authority="local">
+<topic>Staff House.</topic>
+</subject>
+<subject authority="local">
+<topic>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964.</topic>
+</subject>
+<subject authority="local">
+<geographic>Gatlinburg, Tennessee.</geographic>
+</subject>
+<subject authority="local">
+<name><namePart>Summers, Lois.</namePart></name>
+</subject>
+<subject authority="local">
+<name><namePart>Hensle, Marian Prince.</namePart></name>
+</subject>
+<subject authority="local">
+<name><namePart>Moore, Olivia.</namePart></name>
+</subject>
+<subject authority="local">
+<name><namePart>Russell, Helen.</namePart></name>
+</subject>
+<subject authority="local">
+<name><namePart>Dix, Helen.</namePart></name>
+</subject>
+<subject authority="local">
+<name><namePart>James, Zoe.</namePart></name>
+</subject>
+<subject authority="local">
+<name><namePart>Heard, Marian.</namePart></name>
+</subject>
+<identifier type="local">TU:DLC:Filename:ppi137</identifier>
+<identifier type="uri">http://idserver.utk.edu/?id=200700000000270</identifier>
+<location>
+<physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+<physicalLocation displayLabel="Repository">Pi Beta Phi Fraternity</physicalLocation>
+<physicalLocation displayLabel="Detailed Location"></physicalLocation>
+<physicalLocation displayLabel="City">St. Louis</physicalLocation>
+<physicalLocation displayLabel="State">Missouri</physicalLocation>
+<url>http://idserver.utk.edu/?id=200700000000270</url>
+</location>
+<physicalDescription>
+<internetMediaType>image/jpeg</internetMediaType>
+</physicalDescription>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm></language>
+<typeOfResource>still image</typeOfResource>
+<genre>photograph</genre>
+<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>From Pi Beta Phi to Arrowmont Photographic Collection</title></titleInfo><identifier type="uri">http://idserver.utk.edu/?id=200600000001205</identifier></relatedItem>
+</mods></metadata>
