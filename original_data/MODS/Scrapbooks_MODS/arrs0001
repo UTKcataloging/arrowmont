@@ -1,0 +1,54 @@
+<metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+<titleInfo><title>Character Studies</title></titleInfo>
+<name><namePart>Chalmers, Marjorie</namePart><role><roleTerm>Photographer</roleTerm></role></name>
+<recordInfo>
+<recordContentSource>Great Smoky Mountains Regional Project, University of Tennessee Libraries</recordContentSource>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<originInfo>
+<dateCreated encoding="w3cdtf" point="start" keyDate="yes">1941</dateCreated>
+</originInfo>
+<accessCondition type="useAndReproduction">For rights relating to this resource, visit: http://idserver.utk.edu/?id=200500000001941</accessCondition>
+<abstract>Scrapbook compiled by and lettered by Marjorie Chalmers, R. N. in 1941.  Contains 12 photographs by Dorothy J. MacLean, P. S. Q.  Several copies of the scrapbook were made and distributed among Pi Beta Phi Fraternity for Women chapters across the country.  Promoted the work of the Pi Beta Phi Settlement School in Gatlinburg, Tennessee.</abstract>
+<note displayLabel="Statement of Responsibility">The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+<subject authority="local">
+<topic>Handicraft.</topic>
+</subject>
+<subject authority="local">
+<topic>People.</topic>
+</subject>
+<subject authority="local">
+<topic>Health care.</topic>
+</subject>
+<subject authority="local">
+<topic>Community.</topic>
+</subject>
+<subject authority="local">
+<topic>Pi Beta Phi Settlement School.</topic>
+</subject>
+<subject authority="local">
+<topic>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964.</topic>
+</subject>
+<subject authority="local">
+<geographic>Gatlinburg, Tennessee.</geographic>
+</subject>
+<identifier type="local">TU:DLC:Filename:arrs0001</identifier>
+<identifier type="uri">http://idserver.utk.edu/?id=200700000000595</identifier>
+<location>
+<physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+<physicalLocation displayLabel="Repository">Arrowmont School of Arts and Crafts</physicalLocation>
+<physicalLocation displayLabel="Detailed Location">Box 73.</physicalLocation>
+<physicalLocation displayLabel="City">Gatlinburg</physicalLocation>
+<physicalLocation displayLabel="State">Tennessee</physicalLocation>
+<url>http://idserver.utk.edu/?id=200700000000595</url>
+</location>
+<physicalDescription>
+<internetMediaType>image/jpeg</internetMediaType>
+</physicalDescription>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm></language>
+<typeOfResource>still image</typeOfResource>
+<genre>photograph</genre>
+<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>From Pi Beta Phi to Arrowmont</title></titleInfo><identifier type="uri">http://idserver.utk.edu/?id=200600000001205</identifier></relatedItem>
+</mods></metadata>

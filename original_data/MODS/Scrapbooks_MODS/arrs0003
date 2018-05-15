@@ -1,0 +1,48 @@
+<metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+<titleInfo><title>Evelyn Bishop Scrapbook</title></titleInfo>
+<name><namePart>Bishop, Evelyn</namePart><role><roleTerm>Photographer</roleTerm></role></name>
+<recordInfo>
+<recordContentSource>Great Smoky Mountains Regional Project, University of Tennessee Libraries</recordContentSource>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<originInfo>
+<dateCreated encoding="w3cdtf" point="start" keyDate="yes">1919-1925</dateCreated>
+</originInfo>
+<accessCondition type="useAndReproduction">For rights relating to this resource, visit: http://idserver.utk.edu/?id=200500000001941</accessCondition>
+<abstract>This scrapbook, which consists of 217 images, was assembled by Pi Beta Phi Settlement School Head Resident Evelyn Bishop between 1919 and 1925.  Many of the images in this book appear to have been taken by Settlement School teacher and Tacoma, Washington native Ruth Sturley, and are duplicates of those seen in the Ruth Sturley Scrapbook.  This book is currently housed in the Arrowmont School of Arts and Crafts archives. </abstract>
+<note displayLabel="Statement of Responsibility">The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+<subject authority="local">
+<topic>People.</topic>
+</subject>
+<subject authority="local">
+<topic>Community.</topic>
+</subject>
+<subject authority="local">
+<topic>Facilities.</topic>
+</subject>
+<subject authority="local">
+<topic>Landscape.</topic>
+</subject>
+<subject authority="local">
+<topic>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943.</topic>
+</subject>
+<identifier type="local">TU:DLC:Filename:arrs0003</identifier>
+<identifier type="uri">http://idserver.utk.edu/?id=200700000000594</identifier>
+<location>
+<physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+<physicalLocation displayLabel="Repository">Arrowmont School of Arts and Crafts</physicalLocation>
+<physicalLocation displayLabel="Detailed Location">Box 68.</physicalLocation>
+<physicalLocation displayLabel="City">Gatlinburg</physicalLocation>
+<physicalLocation displayLabel="State">Tennessee</physicalLocation>
+<url>http://idserver.utk.edu/?id=200700000000594</url>
+</location>
+<physicalDescription>
+<internetMediaType>image/jpeg</internetMediaType>
+</physicalDescription>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm></language>
+<typeOfResource>still image</typeOfResource>
+<genre>photograph</genre>
+<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>From Pi Beta Phi to Arrowmont</title></titleInfo><identifier type="uri">http://idserver.utk.edu/?id=200600000001205</identifier></relatedItem>
+</mods></metadata>

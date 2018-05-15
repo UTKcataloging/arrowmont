@@ -1,0 +1,42 @@
+<metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+<titleInfo><title>Rosemary Moorehead Scrapbook</title></titleInfo>
+<name><namePart>Moorehead, Rosemary</namePart><role><roleTerm>Photographer</roleTerm></role></name>
+<recordInfo>
+<recordContentSource>Great Smoky Mountains Regional Project, University of Tennessee Libraries</recordContentSource>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<originInfo>
+<dateCreated encoding="w3cdtf" point="start" keyDate="yes">1936-11-07</dateCreated>
+</originInfo>
+<accessCondition type="useAndReproduction">For rights relating to this resource, visit: http://idserver.utk.edu/?id=200500000001941</accessCondition>
+<abstract>This scrapbook was compiled by Pi Beta Phi Rosemary Moorehead, a Decatur, Illinois native and James Milliken University graduate.  The scrapbook is dated November 11th, 1936 and is comprised of 118 images.  Rosemary Moorehead taught 5th and 6th grades at the Pi Beta Phi Settlement School between the years 1935 and 1937.</abstract>
+<note displayLabel="Statement of Responsibility">The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+<subject authority="local">
+<topic>Students.</topic>
+</subject>
+<subject authority="local">
+<topic>Education.</topic>
+</subject>
+<subject authority="local">
+<topic>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943.</topic>
+</subject>
+<identifier type="local">TU:DLC:Filename:arrs0002</identifier>
+<identifier type="uri">http://idserver.utk.edu/?id=200700000000596</identifier>
+<location>
+<physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+<physicalLocation displayLabel="Repository">Arrowmont School of Arts and Crafts</physicalLocation>
+<physicalLocation displayLabel="Detailed Location">Box 73.</physicalLocation>
+<physicalLocation displayLabel="City">Gatlinburg</physicalLocation>
+<physicalLocation displayLabel="State">Tennessee</physicalLocation>
+<url>http://idserver.utk.edu/?id=200700000000596</url>
+</location>
+<physicalDescription>
+<internetMediaType>image/jpeg</internetMediaType>
+</physicalDescription>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm></language>
+<typeOfResource>still image</typeOfResource>
+<genre>photograph</genre>
+<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>From Pi Beta Phi to Arrowmont</title></titleInfo><identifier type="uri">http://idserver.utk.edu/?id=200600000001205</identifier></relatedItem>
+</mods></metadata>
