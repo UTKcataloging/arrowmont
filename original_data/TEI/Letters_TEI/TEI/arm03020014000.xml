@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020014000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Oct. 01, 1919, [Gatlinburg, Tennessee to] Tacoma, Washington Pi Beta Phi Alumnae Club</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020014000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Oct. 01, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-10-01">Oct. 01, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>21p</extent>
+                    <note type="summary">Letter to Pi Phi Alumnae Club in Tacoma, Aunt Lizzie, Other schools in neighborhood, <del>Shir</del>Shivaree First fair at the burg, Fair in Sevierville</note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020014000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living conditions</item>
+                        <item>People</item>
+                        <item>Schools</item>
+                        <item>Fairs</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020014001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Letter to Pi Phi Alumnae Club in Tacoma</item>
+                        <item>Aunt Lizzie</item>
+                        <item>Other schools in neighborhood</item>
+                        <item><del>Shir</del>Shivaree First fair at the burg</item>
+                        <item>Fair in Sevierville</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03020014002" seq="02"/>
+                <head>
+                    <date value="1919-10-01"> Oct. 1, 1919</date>
+                </head>
+                <p>
+                    Dear Pi Phi sisters - In the light of two Rochester lamps on the big table in the living room Emily and I are working. 
+                    She is ruling paper in inch squares for her primary class and I&apos;m writing you all which perhaps should not 
+                    be considered work and in fact really is more pleasure than anything else but yet there is an element of labor in pushing 
+                    a fountain pen on and on &amp; forming rhythmical sentences suitable for your ears - the bad grammar I constantly 
+                    bear may prove too much for me and if &quot;hits&quot; &quot;caint&quot; &quot;I reckon&quot; &quot;you-un&apos;s&quot; 
+                    &quot;plumb slack&quot; and other &quot;plumbs&quot; don&apos;t twine themselves into my vocabulary it will be a wonder 
+                    <pb ref="arm03020014003" seq="03"/>and a &quot;heap surprising&quot; &quot;sure enough!&quot; Abbie Runyan has just been 
+                    over to mix up &quot;light bread&quot; for her household and Aunt Lizzie did ditto for hers - The latter is very proud of her 
+                    bread &amp; until last winter had never made any with yeast and white flour - Tonight she was instructing 
+                    <del>Evely</del> Abbie as to just how to make it and last week she knew exactly what was the matter 
+                    with some made by Evelyn. She is such an old dear! I told you didn&apos;t I that she was quite progressive for a mountain 
+                    woman? Made herself a khaki skirt (rather narrow) not long ago and wears white cotton stockings (without feet) over her 
+                    heavy ones so that the effect is modern anyway. She is also affectionate and likes to kiss us all &amp; be kissed - which 
+                    is very unusual among these people - there are so very very undemonstrative. I get so impatient at times with their supreme 
+                    contentment in their ignorance and dirt to wonder how they can live as 
+                    they do and yet there is something so fine &amp; likeable after all that externals vanish completely. I do love the youngsters 
+                    at school - but the little they know is appalling &amp; the poorly prepared lessons <del>is</del> 
+                    <add place="supralinear">are</add> more than appalling. I scolded my whole room the last five <pb ref="arm03020014004" seq="04" n="02"/>
+                    minutes before noon one day about everything from conduct to dirtiness in the schoolroom &amp; in themselves. Then I 
+                    went home and by the time I&apos;d read my mail and eaten lunch was quite calm. Returning to school at 12:45 I found my 
+                    room swept &amp; lovely wild flowers everywhere in baskets. So you can see how it is - quite like school anywhere else in 
+                    many respects. Since I wrote you last month I&apos;ve gazed upon four school buildings on various creeks - just three 
+                    miles or so from here and such pathetic places as they are. It makes me wonder why our school so wonderfully equipped in 
+                    comparison is not full to overflowing - that our enrollment is not two hundred rather than half that number. These schools were 
+                    one-room log buildings all of them - a rusty stove at one end (at the front with one exception) benches and no desks - a little 
+                    blackboard back of the teacher&apos;s <pb ref="arm03020014005" seq="05"/>desk - which is more apt to be a split log on end with 
+                    a small board across it than a table. No textbooks except readers and an occasional arithmetic or history - the youngsters have 
+                    to buy their own books - a great handicap among these people - Writing is not often taught just reading - This is a fine 
+                    description without exaggeration &amp; no omissions except big chinks in the walls of one and glassless windows in another!! 
+                    There is so much absence and tardiness every day and nothing to be done about it either. You girls that teach know what a sin 
+                    tardiness is and <add place="supralinear">how</add> almost criminal is truancy! Twice have we had boys stay out part of a 
+                    morning to fish in Little Pigeon &amp; afterwards present us with the fish they caught! It&apos;s funny isn&apos;t it and 
+                    yet provoking. &quot;Pulling fodder&quot; was the chief occupation last month and since then it&apos;s been picking 
+                    beans and making molasses from sorghum. By the way molasses is considered plural number here - &quot;molasses 
+                    are&quot; - never &quot;molasses is&quot; - We teachers are going in the hack after school tomorrow night about 
+                    three miles to the McCarter&quot;s and see the <del>sug</del> boilin&apos; - by 
+                    <pb ref="arm03020014006" seq="06" n="03"/>special invitation and girls we are going possum hunting some night soon 
+                    if the fates smile upon us - doesn&apos;t that thrill you? It does me.
+                </p>
+                <p>
+                    Miss Turner was in our midst at the time of my last epistle and has now gone back to Washington and from the 
+                    letter sent us had a very interesting and profitable visit here. She is anxious and expectant too that in the course 
+                    of time the fraternity turn the school over to the county - a thing we would never wish done for we girls feel that it 
+                    would rapidly degenerate. She came over one night from the hotel - such a wonderful baling moonlight night as 
+                    it was - and found Abbie Evelyn &amp; I starting forth on a <hi1 rend="underscore">shivaree</hi1> (don&apos;t 
+                    believe that&apos;s spelled correctly) you know what that is - don&apos; you - a noisy celebration in honor of a 
+                    newly married couple - We had a cow bell - sheep bell &amp; two tin cavers to be clapped together 
+                    <pb ref="arm03020014007" seq="07"/> a la cymbals and were bubbling over with giggles &amp; excitement I fear we we 
+                    shocked Miss Turner a wee bit. Three of the school girls also went and a dozen or more of the older boys - some 
+                    in school but most of them not and also our manual training teacher Mr. Cresswell - We girls went in a Ford about 
+                    three miles up the river &amp; the boys walked until the Ford went back after them - Then reunited we left the car &amp; 
+                    proceeded up a steep &amp; exceedingly rocky trail on a mountain side which we followed for about two miles 
+                    &amp; what do you suppose was the name of this place? Wild Cat Holler and the cabin in a clearing was at Dry Pond! 
+                    Here in the light of the moon we held a whispered consultation and then broke the peaceful stillness of the night 
+                    by <add place="supralinear">an</add> awful din going round &amp; round the house until lights appeared &amp; 
+                    various people - Finally the bridegroom came forth &amp; was at once seized &amp; ridden up &amp; down on 
+                    a fence rail - some dynamite was set off and guns fired - Then the bride appeared &amp; was given a ride. She is 
+                    a girl about seventeen - perhaps younger - and has gone to our school - Mrs. Helwick when here this fall offered to 
+                    pay her <del>way</del> <add place="supralinear">expenses</add> if she would go away to school - 
+                    but instead she married this young fellow &amp; I suppose will live like the rest of them. Her honeymoon was certainly 
+                    pitiful - They were at her <pb ref="arm03020014008" seq="08" n="04"/>husband&apos;s brother&apos;s and as I had 
+                    the priviledge of going through the house can describe it briefly with the statement that it was beds and old clothes 
+                    principally - absolutely no order or cleanliness anywhere visible to the naked eye. Well in spite of the pathetic side 
+                    to it all we did enjoy the experience immensely &amp; got home about 11:30.
+                </p>
+                <p>
+                    The same weekend we went to Sevierville to a <hi1 rend="underscore">party</hi1> given by the Bishops for the Murphy 
+                    College faculty. Emily &amp; I stayed all night at their home. They are such lovely people - and we thoroughly enjoyed
+                    visiting in a real home among our own kind. As Gatlinburg played Murphy College that same weekend we stayed until 
+                    after the game - the only Gatlingburger&apos;s there in the small but enthusiastic crowd of baseball fans. We were 
+                    terribly beaten too - 16 to 3 - It was a funny game - long waits while <pb ref="arm03020014009" seq="09"/>the ball was 
+                    being hunted in neighboring fields &amp; for ten minutes or more complete stoppage as a small boy was hit -
+                </p>
+                <p>
+                    Next happening during the month was Evelyn&apos;s stay of a week with a friend in Alabama - She felt guilty about 
+                    going but we insisted that it would be perfectly all right so away she went &amp; we proceeded to celebrate as we 
+                    had told her we&apos;d do - Had a picnic one night just we four teachers on top of Pi Phi hill &amp; planned our trip 
+                    across the Smoky <abbr expan="Mountains">Mts.</abbr> to North Carolina - a thing we had so often talked of 
+                    doing. Then we got up a party for the youngsters one night - had two animal games &amp; what fun they all had! The 
+                    next day which was Friday we started on our expedition as we had planned. Our chaperone was Mrs. Reagan the 
+                    mother of one of our girls - our equipage consisted of Dan &amp; the hack - our equipment - blankets - provisions - 
+                    lantern - hatchet - <del>rifle</del> shotgun and kodak.
+                </p>
+                <p>
+                    We had many minor mishaps but none serious or dampening to our enthusiasm - we took the wrong road once 
+                    - broke a shaft - Dan proved most obstreperous Abbie lost her hat - we flavored our coffee one night with liquid from 
+                    canned sausage - in the dark the tin was exactly like our can of condensed milk &amp; until morn-<pb ref="arm03020014010" seq="10" n="05"/>ing 
+                    we didn&apos;t know what was the matter with our coffee - At the boundary line between <abbr expan="Tennessee">Tenn.</abbr> 
+                    &amp; <abbr expan="North Carolina">N. C.</abbr> <add place="supralinear">on the top of the Smokies</add> <del>just</del> 
+                    as we were gazing in admiration at the many ranges one above the other (five in all) stretching out in the blue hazy 
+                    distance the outlines became dim &amp; blotted out in gray mist which soon enveloped us &amp; turned into a heavy 
+                    downpour of real &amp; wet rain. We hastily ran down the mountain side into North Carolina &amp; found shelter in 
+                    a thick grove but did not escape a thorough wetting. It soon passed over however &amp; we walked gaily back to the 
+                    cabin about four miles from the summit where we passed the night. Never before had I spent two days fully clad even 
+                    to shoes - nor rolled up in a blanket &amp; slept on Mother Earth in the light of the moon &amp; stars. All of this did 
+                    we do &amp; with what joy did we welcome hot water &amp; clean clothes on our return - yet we enjoyed every 
+                    minute of the trip &amp; the cooking over a fire &amp; the packing &amp; unpacking. We drove 
+                    <pb ref="arm03020014011" seq="11"/>about six miles only but such miles &amp; such roads - Then we abandoned the 
+                    hack and made Dan into a pack horse - even to the lantern and hats!
+                </p>
+                <p>
+                    The next excitement was our fair which happened last Thursday and took all the week in preparation. A community 
+                    meeting was held the Monday before at the schoolhouse for which we girls had made posters which were sent 
+                    up the various creeks. On top of all our <sic corr="business">busy-ness</sic> two wandering musicians arrived 
+                    &amp; asked to give an entertainment the next night at the school - Permission was given &amp; of course we all 
+                    went &amp; sat in front seats. Can&apos;t you imagine what it was like? - wailing songs accompanied by guitar 
+                    music &amp; one original song about the tragic death of John Henry - copies of which were sold afterwards and 
+                    as it was such a gem I got one &amp; sent it home - It is typical of the songs we have at our 
+                    &quot;<hi1 rend="underscore">sings</hi1>&quot;. This was followed by an animated conversation between Dennis 
+                    and Sambo as our entertainer was also a ventriloquist.
+                </p>
+                <p>
+                    Thursday - the day dawned &quot;brite &amp; fair&quot; &amp; by ten o&apos;clock practically everything was labelled 
+                    and on exhibition - Although not very much was brought in after all - <pb ref="arm03020014012" seq="12" n="06"/>the building 
+                    looked gay &amp; festive. This is the first year Gatlinburg ever attempted a fair and next year more will bring things 
+                    and come themselves. The panels were up between the three recitation rooms for a program was to be given at 
+                    11 a.m. As you went in the hall baskets met your gaze on the right &amp; the manual training exhibits on the left - 
+                    Ferns in baskets which the girls had dug up &amp; helped plant were (<del>in baskets</del>) 
+                    everywhere and on the <del>mantal</del> <add place="supralinear">mantel</add> - boughs of 
+                    gorgeous red sumac were in the fireplace &amp; great bunches of golden rod &amp; little wild asters - whilte &amp; 
+                    lavender were in the windows back of the radiators - Great bunches of the same were on the desks in our rooms - 
+                    boughs of autumn leaves. Our maps and writing papers filled three corners in my room and some drawings of 
+                    Japanese lanterns in colored crayons filled another corner <pb ref="arm03020014013" seq="13"/>corner and formed 
+                    a border across the blackboard where was written the program consisting of flag salute - patriotuc song - several 
+                    drills - article on farm life - <unclear reason="illegible">matin</unclear> songs &amp; dramatizations 
+                    by primary class with more singing by the whole school - Then one of our prominent citizens talked &amp; the two 
+                    judges who came up from Sevierville - Miss Whittle who had charge of the fairs in the country was very much pleased 
+                    with everything we did &amp; had. In the sewing room was shown a table of cooked things by the little girls in 
+                    Abbie&apos;s class - some bags made by my girls - three cases of canned fruits &amp; vegetables - two tables of 
+                    apples - two coverl<del>&apos;eds</del><add place="supralinear">ets</add> and fancy work - In the 
+                    shop were the vegetables - peppers - stalks of corn - sage - pumpkin - potatoes etc. The livestock exhibit consisted 
+                    of six white chickens &amp; a tiny puppy!
+                </p>
+                <p>
+                    &quot;Dinner on tho&apos; grounds&quot; renewed our energies. Aunt Lizzie - Evelyn &amp; her mother who came 
+                    up for the celebration had made four pies - two cakes &amp; fried chicken &amp; others had contributed generously 
+                    so that two long tables back of the schoolhouse were loaded &amp; all had enough to eat. I forgot to say that 
+                    besides the children I don&apos;t <pb ref="arm03020014014" seq="14" n="07"/>believe more than sixty people were 
+                    present in the morning - But after lunch more came as there was to be a baseball game with Murphy College at 2:30 - 
+                    Three carloads of players &amp; girls including the teachers soon arrived - and we had a great game full of pep - which 
+                    extended to the grandstand too. The Murphy College girls are great rooters &amp; ours were soon inspired to follow 
+                    suit &amp; all were so worked up before long that personal remarks began flying. That was soon stopped &amp; as we 
+                    beat 6 to 4 we didn&apos;t mind what was said - by the other side. The Sevierville bunch came to the house afterwards 
+                    and found food &amp; rest before going back. We were glad to wave adieu to the last of them all &amp; go quietly to bed 
+                    after hunting up scraps of food for ourselves - found a <del>racl</del> <add place="supralinear">pan</add> 
+                    of bis-<pb ref="arm03020014015" seq="15"/>cuits in the warming oven that fortunately escaped a trip with the other edibles to 
+                    school - also Abbie&apos;s cookery on display helped to fill out the menu.
+                </p>
+                <p>
+                    The next day was one of cleaning up &amp; putting away along with recitations. Emily &amp; I were pleased to leave 
+                    the burg all of Saturday on a tramp up Baskin Creek and down Roaring Fork - making a few calls - Roaring Fork is 
+                    beautiful - great boulders &amp; rocky cliffs a <unclear reason="illegible" resp="tl">braniling</unclear> brook (as 
+                    the poets say) always by the roadside and over the road many times too. Some day auto parties are going to infest 
+                    Roaring Fork - am pleased to be able to see it before its pristine beauty is spoiled.
+                </p>
+                <p>
+                    Tuesday (yesterday) was our day for the Sevierville fair. Abbie and Evelyn went down before to get our display in 
+                    order &amp; then we chaperoned about a dozen youngsters there. However the chaperonage rested rather lightly 
+                    on our shoulders - The most of them went down in a car ahead of us teachers who went with the Huff youngsters. 
+                    It was a long day <pb ref="arm03020014016" seq="16" n="08"/>we started at seven and left about five -
+                </p>
+                <p>
+                    The fair was so interesting though and the exhibits quite different from ours. Sevierville is an awfully unattractive 
+                    town so ungainly and sprawly - a big square red brick courthouse topped with tower and clock is the main building 
+                    &amp; in it were the exhibits and in the yard were autos - chickens - cows - oxen - horses - mules etc. There was 
+                    one large room where the colored people had their things on display by themselves and a good showing they made. 
+                    And what else do you suppose was unusual? A small room was opened up part of the morning &amp; in it were 
+                    over twenty <hi1 rend="underscore">stills</hi1> that had been captured in the mountains. You remember I 
+                    <pb ref="arm03020014017" seq="17"/>had seen all of the equipment but the still itself. I took two pictures of them and 
+                    surely hope one at least proves good. There were exhibits from twelve communities in which ours ranked eighth - 
+                    but among the four school exhibits <del>exhib</del> ours stood way above the others am glad to 
+                    say. One pumpkin weighed 133<num type="fraction" value="one fourth">1/4</num> <abbr expan="pounds">lbs.</abbr> 
+                    - there were ears of corn 14 <abbr expan="inches">in.</abbr> long - cotton plants - peanuts attached to plant - 
+                    peppers ditto - broom corn - sugar cane - apples etc. Then the handwork was of all sorts. The fair was not anywhere 
+                    near as large as that in Puyallup - but Sevierville is only fifteen 
+                    hundred strong and began only last year having an annual fair. The people turned out in full force and seemed to 
+                    thoroughly enjoy it - warm as the day was - the correct garb was a fall suit and hat. They felt comfortable when we 
+                    started in the early morning but our afternoons <pb ref="arm03020014018" seq="18" n="09"/>are still so very very hot - 
+                    Evelyn and I had our lunch at the dormitory of Murphy College from whence we departed to the &quot;horse show&quot; 
+                    - One street was roped off &amp; here all the mules were first displayed &amp; ribbons awarded - Next three 
+                    beautiful horses were ridden by three women up &amp; down a dozen times or so &amp; then they were adorned. 
+                    Fifteen or twenty men on horseback were next on the program &amp; they went up and down many times and oft - 
+                    all sorts of horses &amp; men too from a dignified <pb ref="arm03020014019" seq="19"/>and correct lieutenant in 
+                    uniform to the fat old squire. The funniest was a typical country square jawed minister who conversed with his horse 
+                    most of the time - when he passed us at least - &quot;Easy now - easy now&quot; then when he warmed up to the 
+                    situation he urged his steed on valiantly clinging to his strawhat. I was rather sorry he didn&apos;t get a white 
+                    ribbon for his earnest endeavors.
+                </p>
+                <p>
+                    I have written on and on this whole evening &amp; must cease and get to bed. I must tell you how funny Aunt 
+                    Lizzie &amp; I were Sunday night - Everyone had gone to <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.U.</abbr> 
+                    (Baptist Young Person&apos;s Union) Naughty Ruth Sturley felt that the two hours in Sunday School that morning 
+                    was sufficient &amp; was studying &amp; looking over papers - Aunt Lizzie was supposedly in bed - But lo she 
+                    <pb ref="arm03020014020" seq="20" n="10"/>came padding downstairs in her wrapper with the announcement that she 
+                    could hear cows in the corn. Well I seized the lamp &amp; we sallied forth and sure enough way up in the 
+                    distance were dim forms - so picture me running up &amp; down the rows of corn clutching the lamp in one 
+                    hand trying to chase cows. Aunt Lizzie nearly convulsed me when she got after them she simply growled at them.
+                </p>
+                <p>
+                    Such is life in Gatlinburg! You never know what may happen next - at least I don&apos;t - and that&apos;s 
+                    <pb ref="arm03020014021" seq="21"/>one of its many charms -
+                </p>
+                <p>
+                    Chestnuts are beginning to ripen and the foliage is turning - while trees of red can be seen occasionally among 
+                    the green - As yet we have had no frost but as soon as that comes then they&apos;ll turn fast enough I imagine.
+                </p>
+                <p>
+                    Before I close I must say that your program sounds very interesting and am glad to have it. Now I can picture what 
+                    you do at your meetings each month.
+                </p>
+                <p>
+                    Let me remind you all again that letters are much appreciated.
+                </p>
+                <p>
+                    With love to you all -
+                </p>
+                <p>
+                    Ruth Sturley
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

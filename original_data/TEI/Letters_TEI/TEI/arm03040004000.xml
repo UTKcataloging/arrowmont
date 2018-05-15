@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03040004000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Feb. 5, 1920, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03040004000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Feb. 5, 1920, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1920-02-05">Feb. 5, 1920</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>7p</extent>
+                    <note type="summary">More calls. Primary class has party at the house - Plans for the future of Gatlinburg.</note>
+                    <note type="box">3</note>
+                    <note type="folder">4</note>
+                    <note type="document">arm03040004000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Home visits</item>
+                        <item>School children</item>
+                        <item>Social life</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03040004001" seq="01"/>
+                <p>
+                    <list>
+                        <item>More calls</item>
+                        <item>Primary class has party at the house - </item>
+                        <item>Plans for the the future of Gatlinburg</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03040004002" seq="02"/>
+                <head>
+                    <date value="1920-02-05">Feb. 5, 1920</date>
+                </head>    
+                <p>
+                     Dearest family - 
+                </p>
+                <p>
+                     It&apos;s six o&apos;clock this dark cloudy morning &amp; am sitting in bed done up in bathrobe &amp; comforter. Harrison started the fire in the furnace some time ago
+                    but things are not warmed up yet. I intended writing last night but was so sleepy just left my lessons &amp; everything &amp; was in bed by eight or before I guess. We
+                    have all had a sleepy spell lately - the weather is warm &amp; rainy again which may partly account for it.
+                </p>
+                <p><del>
+                          Mabel&apos;s letter came Monday with a long one from Ruth Victoria  also has sent me another nice long letter &amp; yours came. Feel real conscience stricken
+                        about <abbr expan="Ruth Victoria">Vic</abbr> - as I&apos;ve not written her for months! </del><pb ref="arm03040004003" seq="03"></pb><del>Didn&apos;t have her address part of the time
+                        - and then forgot to take it with me to New Orleans &amp; have just put it off from day to day - felt too that she probably read some of my letters home. But am really going
+                            to write her. Have to get off my Pi Phi letter this week too.</del>
+                    </p>
+                    <p>
+                        <del>
+                          Am glad you are getting along so well at home - you will miss Mabel &amp; &quot;her little ways&quot; won&apos;t you? Shall send her a letter before she departs Friday
+                        the <hi1 rend="underscore">13th</hi1>! If there is another in days - she has selected a good combination hasn&apos;t she?
+                        </del>
+                    </p>
+                    <p><del>
+                        No my itinerary is not planned neither is anything else - shall just let things go along &amp; see how they work out by the end of March - seven</del>
+                        <pb ref="arm03040004004" seq="04"></pb> <del>more weeks only. Everyone hopes that I see some of the East before starting home - that is several have so expressed themselves in
+                        letters - and it does seem like a good opportunity even though my wardrobe is pitiful &amp; my purse nigh empty! We will see!
+                        </del>
+                    </p>
+                <p>
+                     No - Evelyn hasn&apos;t given me any singing lessons after all - her music lessons have dropped off - entirely - Stella Huff is the only one starting again - Miss Langmaid
+                    stopped them by her absorbing visit.
+                </p>
+                <p>
+                     Monday after school (a lovely day &amp; the last one of this week) Emily &amp; I went up Mill Creek with the Oakley children &amp; made a little call at their cabin &amp;
+                    then went on to some cousins of theirs - Nicholas hasn&apos;t been in school lately &amp; I wanted to find out why. They live in a frame house &amp; are quite
+                    comfortably fixed for these parts - It&apos;s about three miles from here right at the foot of the mountains which are higher than at the <abbr expan="Gatlinburg">burg</abbr> - 
+                    Le Conte the highest peak of <abbr expan="Great Smoky Mountains">Smoky</abbr> is just a short distance away. We had a very nice time and came home through Turkey&apos;s
+                    Nest arriving just at dark - Evelyn &amp; Abbie went to the hotel for the night to visit Josie Trentham &amp; her mother - They have charge for the Huff&apos;s you know.
+                </p>
+                <p>
+                     Tuesday Emily had her little tots over - twenty of them - they played games &amp; were fed cookies &amp; chocolate. It was such a rainy day &amp; 
+                    <pb ref="arm03040004005" seq="05"></pb> as ordinarily half of her youngsters stay out <del>or</del> such weather - she thought of postponing the party which
+                    had been announced the day before - But do you know - every last one of them was at school - so the party came off as scheduled. The girls that stayed with Abbie are at
+                    home as the father is away &amp; the weather ill - so Abbie is here now - It&apos;s much pleasanter for her than having to be with them too!
+                </p>
+                <p>
+                    Mr. Cresswell and about half a dozen men - here &amp; in Sevierville have formed a company and are going <pb ref="arm03040004006" seq="06"></pb> to build a dam &amp; put 
+                    up a factory for making furniture &amp; coffins. - They have bought the machinery which we had intended using for the same purpose. Miss Langmaid gave up the scheme
+                    as it seemed a pretty big undertaking &amp; needed an experienced man at the head of it. This company is going into quite deeply &amp; guess it will pay as the railroad
+                    will be through soon. Evelyn is going to wait before putting in the Delco System of lighting as there will be enough power to furnish electricity to the whole
+                    <abbr expan="Gatlinburg">burg</abbr> - (I mean <add place="supralinear">power</add> at the factory) <pb ref="arm03040004007" seq="07"></pb> Work is to start this summer - 
+                    Gatlinburg seems to have a future before it!
+                </p>
+                <p>
+                     It&apos;s just time to call the family to arise so will cease my erratic pennings for now &amp; high me hence - 
+                </p>
+                <p>
+                     You see there is little news just now to write so fear my letters must seem quite a sameness - 
+                </p>
+                <p>
+                     Oh yes - I wrote to the street car company in New Orleans in regard to lack of courtesy on the part of their <sic corr="employees">employes</sic> &amp; got a reply
+                    yesterday saying that was one of the things they tried to make the men understand &amp; that they were surprised  - that my experience had been such - that they thanked
+                    me for calling their attention to the matter &amp; would increase their efforts!
+                </p>
+                <p>
+                     Just lots &amp; lots of love
+                </p>
+                <p>
+                     Ruth.
+                </p>
+              </div1>
+        </body>
+    </text>
+</TEI.2>

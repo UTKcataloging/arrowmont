@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03040001000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Jan. 8, 1920, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03040001000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Jan. 8, 1920, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1920-01-08">Jan. 8, 1920</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>4p</extent>
+                    <note type="summary">Items on bulletin board at school. School paper planned.</note>
+                    <note type="box">3</note>
+                    <note type="folder">4</note>
+                    <note type="document">arm03040001000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Revivals</item>
+                        <item>School children</item>
+                        <item>Religion</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03040001001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Items on bulletin board at school</item>
+                        <item> School paper planned</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03040001002" seq="02"/>
+                <head>
+                    <date value="1920-01-08">Jan. 8, 1920</date>
+                </head>
+                <p>
+                    Dearest family - It&apos;s nine p.m. by my alarm clock (half an hour ahead of the real time are we up here) - 
+                    have been sitting in my room tonight looking over papers that came in my absence &amp; getting clippings 
+                    for my bulletin boards at school - all sorts of things. Today had <add place="supralinear">up</add> an article 
+                    <del>up</del> on the first canning of goods - (by a Frenchman in 1795 during Napoleonic 
+                    wars - food needed for the armies) census taking - appreciation of nature - poem part of the childrens page 
+                    &amp; article on one of romney&apos;s pictures &amp; art in general. At my side are the two boxes - nuts 
+                    &amp; candies in your Christmas package of which I partake frequently while 
+                    <unclear reason="illegible" resp="tal">inditing</unclear>. They are very good &amp; have not <pb ref="arm03040001003" seq="03"></pb>
+                    eaten much of them yet. Uncle Art&apos;s big box has been downstairs all week &amp; is just about empty enormous 
+                    as it was. Even Aunt Lizzie has eaten of it till she asked me to put it away - Evelyn piles magazines over it every so 
+                    often says she can&apos;t let candy alone when it&apos;s around. The revival is still <hi1 rend="underscore">reviving</hi1> 
+                    but is supposed to &quot;break&quot; tonight though every night we have heard the same rumor. Evelyn has 
+                    gone every time nearly. I&apos;ve been once - Tuesday night. It began about six and lasted over two hours!! 
+                    &quot;Preacher Baily&quot; is much milder than the two who conducted &quot;meetin&apos;&quot; last summer. 
+                    The children are the ones who are stirred up especially. Two little girls in Abbie&apos;s room look 
+                    <add place="supralinear">to</add> the mourner&apos;s bench &amp; wept &amp; sobbed violently that night &amp; 
+                    I guess have done so nearly every <del>minute</del> meeting but haven&apos;t 
+                    &quot;gone through&quot; yet. <pb ref="arm03040001004" seq="04"></pb>We have closed school at ten each morning until 
+                    afternoon so as to give them the opportunity to attend the morning meetings.
+                </p>
+                <p>
+                    Tuesday took a little walk with Abbie calling at the Huff&apos;s &amp; last night went <del>up</del> 
+                    <add place="supralinear">with</add> Emily - spent the evening reading. <del>As yet have not 
+                        written my Christmas letters but will get at them this week-end. I thought I&apos;d get a letter to Arthur &amp; Nell 
+                        before this but haven&apos;t - the book &amp; apron are both so lovely. Mary Weir sent me a very pretty handkerchief 
+                        &amp; sweet little note.</del>
+                </p>
+                <p>
+                    School has been very poorly attended - so many are waiting till church is over - several youngsters have visited school 
+                    this week &amp; may attend. One boy said he&apos;d come if the others would which seems to be the attitude 
+                    &amp; state of mind generally.
+                </p>
+                <p>
+                    <del>I enjoyed your letter Jane so much written New Year&apos;s eve &amp; which arrived 
+                        Monday an unusually quick transit.</del>
+                </p>
+                <p>
+                    Things seem very quick &amp; peaceful here - Evelyn hopes we won&apos;t have any more company for a month. 
+                    Mr. Cresswell has two boys staying with him now &amp; Abbie another girl. Have started the school paper &amp; 
+                    Estel Huff is going to fix the cover - dark brown paper with <add place="supralinear">picture from</add> the cover of 
+                    an old Literary Digest (fall number &amp; very pretty woodland scene) &amp; the name printed - Appalachian News - 
+                    It will be read a week from tomorrow. <del>Am enclosing the check for my sweater - which 
+                        I&apos;ve simply forgotten about until me letter was sealed each time. I do like it so well - &amp; so does the 
+                        family here!</del>
+                </p>
+                <p>
+                    <del>Will close &amp; retire or withdraw. Mabel is so unexpected - Is she in Montana by now 
+                        or where? And Marie was lovely about the flowers -</del>
+                </p>
+                <p>
+                    Much love to all as ever
+                </p>
+                <p>
+                    Ruth.
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

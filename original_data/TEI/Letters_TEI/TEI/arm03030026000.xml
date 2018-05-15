@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030026000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Dec. 11, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030026000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Dec. 11, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-12-11">Dec. 11, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>5p</extent>
+					<note type="summary">School Work - Visit to the Oakley Family</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030026000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living conditions</item>
+						<item>People</item>
+						<item>Home visits</item>
+						<item>School children</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030026001" seq="01"/>
+				<p>
+					<list>
+						<item>School Work</item>
+						<item>Visit to the Oakley Family</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030026002" seq="02"/>
+				<head>
+					<date value="1919-12-11">Dec. 11, 1919</date>
+					</head>
+				<p>
+                     Dearest family - I started a letter to you earlier in the evening &amp; then was interrupted &amp; later on coming to bed left it downstairs but do want to dash off a few lines to 
+                    you  - hence the scribbling with pencil &amp; this kind of paper. Everyone has gone to bed - its a cold night &amp; <unclear reason="illegible" resp="bds">besides</unclear>
+                    the coldest day we&apos;ve had yet - Yesterday was so warm a wrap was unnecessary Towards evening it began raining &amp; grew quite windy &amp; cold. As no letter has
+                    come from you this week can make no comments. You were so good about writing Thanksgiving that I quite forgive the absence of the usual Monday letter. A grand long letter
+                    from Mabel &amp; also from &quot;<hi1 rend="underscore">Vic</hi1>&quot; have come &amp; the newspapers - For all of which I thank the senders muchly &amp; greatly 
+                    enjoyed reading.
+                </p>
+				<p>
+                     The last three days - Monday <abbr expan="Tuesday">Tues.</abbr> &amp; today have flown by on wings &amp; do not know where they have gone. Monday
+                    <abbr expan="afternoon">p.m.</abbr> the girls made cocoa &amp; ginger snap in cooking class which they brought over here for the club meeting. About twenty came. I
+                    had the three officers serve immediately as some have so far to go home - a few brought sewing - We <pb ref="arm03030026003" seq="03"/> talked about fixing baskets to 
+                    take to several sick people &amp; then dispersed about 4. I hustled over to school &amp; mixed up the powdered paints until nearly dark - preparatory to painting toys
+                    the next <abbr expan="afternoon">p.m.</abbr> Then Emily &amp; I took a short walk up the river returning to a supper of hot chocolate &amp; toast. Miss Langmaid &amp;
+                    Evelyn had gone up to Crocket Maples&apos; on Fighting Creek (where we three stayed one night) with the two boys - <unclear reason="illegible" resp="bds">Pellie</unclear>
+                    &amp; Ephraim. Tuesday was another busy-ness - painted toys the last three quarters of an hour - rehearsed tableaux &amp; helped youngsters till about dark - Spent both
+                    evenings looking over <add place="supralinear">news</add>papers - Evelyn &amp; Miss <abbr expan="Langmaid">L.</abbr> were home last night &amp; so it was not quite
+                    so peaceful as the one before.
+                </p>
+				<p>
+                     Tonight Evelyn drilled Abbie&apos;s class &amp; then I want through tableaux again &amp; mixed up paint. Just as I finished Emily arrived with the information that
+                    she &amp; Evelyn were going up to the Oakley&apos;s on Mill Creek - a distance of nearly two miles or more. It was a bright &amp; sunny <abbr expan="afternoon">p.m.</abbr>
+                    in spite of the cold - &amp; rushing home for my big coat &amp; gloves off I went &amp; soon overtook them <pb ref="arm03030026004" seq="04"/> on the road overlooking the 
+                    Huff&apos;s - where Miss Langmaid was calling - Such a pitiful family as we visited. There are six children from two to about twelve years. The mother has been sick so much
+                    &amp; the father with the help of the two little girls just get along the best they can. They live in a two story frame house such a bare forlorn place as it is. The father was outside
+                    when we arrived - the mother &amp; youngest in bed &amp; the others so dirty &amp; yet such attractive children. They are the ones to whom Emily took a lot of clothes not long
+                    ago &amp; who last week sent three of the youngsters to school - Elmer who came to me wears an undershirt over his <hi1 rend="underscore">outside</hi1>
+					<hi1 rend="underscore">shirt</hi1> - it&apos;s part of the clothing <abbr expan="Emily">E.</abbr> took. They couldn&apos;t be nice enough to us! A <abbr expan="Professor">Prof.</abbr>
+                    Gottschalk who stayed at the hotel last summer &amp; who became acquainted with them sent the girls each some dolls &amp; a little tea set. What do you suppose they have 
+                    done with those dolls? Each is in a case with a glass door &amp; fastened to the wall &amp; the note of presentation with <pb ref="arm03030026005" seq="05"/> each also. The
+                    dishes are carefully arranged on a table around a cup containing a handful of yellow chicken feathers! The children have such nice manners &amp; gave us each a handful
+                    of dried bachelor buttons. Mr. <abbr expan="Oakley">O.</abbr> showed us some pieces of pine wood just heavy with rosin &amp; insisted on our <sic corr="each">eaching</sic>
+                    taking a piece - also a large chunk of <hi1 rend="underscore">alum</hi1> from an alum cave up in the <abbr expan="mountains">mts.</abbr> which we hope to visit some
+                    day.
+                </p>
+				<p>
+                     Will add my farewells this <abbr expan="morning">a.m.</abbr> at 7:15 It&apos;s cold &amp; frosty again &amp; will be sunny too. The odor of coffee permeates from
+                    below - we usually have hot biscuits &amp; once in awhile hot cakes - but not like yours!
+                </p>
+				<p>
+                    Hoping a letter comes today - In two weeks you all will be saying Merry <abbr expan="Christmas">Xmas</abbr> - <hi1 rend="underscore">my</hi1>
+					<hi1 rend="underscore">first</hi1>
+                    away from home - think of that!! Where &amp; how will you celebrate it?
+                </p>
+				<p>
+                     With loads of love to each &amp; all 
+                </p>
+				<p>
+                     Ruth
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

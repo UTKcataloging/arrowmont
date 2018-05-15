@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020002000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Aug. 8, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Young, Philip</name>
+                    <name>Carter, Genny</name>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020002000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Aug. 8, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-08-08">Aug. 8, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>17p</extent>
+                    <note type="summary">Organization of school, Girls&apos; dormitory, Revival meetings</note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020002000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Revivals</item>
+                        <item>People</item>
+                        <item>Schools</item>
+                        <item>Living conditions</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020002001" seq="01"/>
+                    <list>
+                        <item>Organization of school - </item>
+                        <item>Girls&apos; dormitory</item>
+                        <item>Revival meetings</item>
+                    </list>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03020002002" seq="02"/>
+                <head>
+                    <date value="1919-08-08">Aug. 8, 1919</date>
+                </head>
+                <p>
+                    Dearest family - This is Friday night the end of my first week! Two letters only
+                    have come from your end of the line since I left Evanston - both from Jane - one
+                    Monday &amp; the other yesterday - but not a thing from anyone else - or
+                    literature! I wonder if you have gotten all my letters. I do not imagine I&apos;m
+                    going to get many for there is going to be very little time to write - myself
+                    and if I don&apos;t write others won&apos;t I suppose - We really are awfully busy - of
+                    course this week has been more so - for we have worked at school numbering the
+                    books - cleaning up &amp; mending - then last night Emily &amp; I
+                    cleaned out the closet for supplies &amp; some dirty job - I just revelled
+                    in throwing out the old trash &amp; Emily ditto. Have not yet put my own
+                    desk in order or started my register - The youngsters <pb ref="arm03020002003" seq="03"
+                        />are awfully dear - but not quite so mountainous as I had expected - one of my
+                    girls has the fashionable ear puffs &amp; had rouge on her face yesterday -
+                    I told her not to use it any more that she had lots of color already etc. - so
+                    today she was clean &amp; neat! Last week there was a &quot;short course&quot; in
+                    connection with the home service or community work department at Sevierville -
+                    The girls learned how to can fruit &amp; vegetables. Three or four of mine
+                    went - the dolled up lady above mentioned was one - Maud Clabo was another
+                    &amp; she told me that she had never been on a train before or to
+                    Sevierville - I think she was the one who thought I must have gotten awfully
+                    tired coming so far on the train! I have so far about 22 in my room - the big
+                    room - 4 in freshman high - Latin Algebra &amp; <pb ref="arm03020002004" seq="04"
+                        n="02"/> Ancient History in which latter class I have put about 4 - 8 a&apos;s
+                    and they <add place="supralinear">(the latter)</add> have arithmetic <add place="supralinear">too</add> 
+                    <del>&amp; geography</del>The 7&apos;s have <abbr expan="geography">geog.</abbr> with <del>them</del> 
+                    <add place="supralinear">the 8&apos;bs</add> and
+                    the 7&apos;s &amp; 8 b&apos;s have <add place="supralinear">U.S.</add> history together. (You see I got this rather
+                    mixed &amp; had to go back over it &amp; straighten it out) Then I have
+                    a separate class of 7 arithmetic - besides spelling &amp; writing. There is
+                    one vacant period the last 25 minutes in the morning &amp; I shall probably
+                    devote it to hygiene &amp; general science or anything else that comes up -
+                    The last hour from 2 to 3 will be given over to English that is sort of a
+                    mixture of written &amp; oral composition - technical grammar &amp; some
+                    reading - This will be only three afternoons for the other 2 will be used by my
+                    girls&apos; cooking &amp; sewing - Abbie Runyan has that part &amp; the
+                    intermediate grades <pb ref="arm03020002005" seq="05"/>which will come in my room just
+                    to study while my girls are gone. Just what will be done with my boys I don&apos;t
+                    know yet - for there is no manual training for them as yet.</p>
+                <p>
+                    <date value="1919-08-09">Aug. 9, 1919</date>
+                </p>
+                <p>Saturday morning - My pen was getting dry - the ink was downstairs &amp;
+                    besides I was sleepy so went to bed - Am now out on the front porch - it&apos;s just
+                    8:10 a.m. - of a lovely coolness - The evenings &amp; mornings are so lovely
+                    &amp; cool - but the middle of the day &amp; afternoon are of the
+                    temperature that your clothes become wet through from the skin out - so usually
+                    I get into the tub as soon as I get home from school.</p>
+                <p>Was so sorry to hear about Betty&apos;s sister and Victoria too - and shall write this
+                    week-end surely - also to Lida. It will be quite an event if <unclear reason="illegible">J.W.</unclear> 
+                    sells out &amp; shall be wondering about it - Why the ship yard
+                    strike again? Have not had time to look at the paper once - although one from
+                    Knoxville arrives with the mail every morning - so feel quite out of the world.
+                    Do not expect to be so busy after while - at least I hope not - The letter I
+                    sent to the girls may have <pb ref="arm03020002006" seq="06" n="03"/>told you a little
+                    more news - Our house faces the north west and across one end of the big porch
+                    towards the west is a thickly growing vine and in space between porch supports
+                    either side of the steps is a big flower box of myrtle nasturtiums and
+                    chrysanthemums - then two rockers made of maple with seats of oak splints - and
+                    some little straight backed chairs to match - a big rocker - a couch &amp; two
+                    built in seats - I want to tell you some more about the little straight backed
+                    chairs - they are made here in the mountains - all by hand - no nails in them as
+                    the pieces are all fitted together and the legs &amp; everything shaped
+                    without machinery - only $1.25 apiece - are very light &amp; comfortable
+                    though not large - would make fine bedroom chairs or porch chairs - they are
+                    certainly attractive &amp; unusual - we have them all over the house except
+                    in the living room - &amp; at school for the use of the teachers. Wouldn&apos;t
+                    you and Arthur like half a dozen between you?<figure>
+                        <figDesc>Drawing of chair.</figDesc>
+                    </figure>
+                </p>
+                <p>The people here all go by the sun rather than <pb ref="arm03020002007" seq="07"/> by
+                    railroad time so we are about half an hour ahead of them now &amp; will be
+                    that much behind them later! We are in the Central Time district (2 hrs. ahead
+                    of yours) but almost in Eastern Time - I would love to see the youngsters but
+                    since I can&apos;t - hope to have some pictures soon - Have taken several kodaks here
+                    &amp; expect to take a lot today &amp; get off at least two film packs
+                    to Knoxville to be developed &amp; printed &amp; of course will send
+                    some of each to you - The youngsters are awfully dear &amp; think everything
+                    is going to be all right as far as they are concerned - 3 of my girls sweep out
+                    the building every night for which they are paid. We girls take turns a week at
+                    the time about ringing the bell &amp; conducting &quot;assembly&quot; (8:00-8:15) or
+                    morning exercises every morning - Yesterday 3 of my girls sang a hymn - the
+                    youngsters gave texts all around &amp; sang. Miss Abbott - her father
+                    &amp; mother <pb ref="arm03020002008" seq="08" n="04"/>left Thursday morning -
+                    after a visit of about 3 <abbr expan="weeks">wks.</abbr> - part of the time they were in the small cottage
+                    near the house. Abbie has moved over there now &amp; is to have charge of
+                    some girls who are to live there &amp; come to school - as they live too far
+                    to go back &amp; forth - There will probably be four at first. A friend of
+                    Abbie&apos;s Cora Ingle has been with her all week an awfully nice girl - she is
+                    going to school at Maryville as soon as it opens. Have not made any visits -
+                    real visits this week - Monday night did not go to church at all but strolled
+                    with Emily &amp; Miss Abbott (her first name is Mabel by the way) up a road
+                    back of the house called Pi Phi lane - very lovely &amp; woodsy which lead
+                    to Baskin&apos;s Creek (Bearskin) a romantic spot - then across it by a little wooden
+                    bridge or planking - As we were right by the Huff&apos;s we stopped &amp; made a
+                    call which I told about in my Pi Phi letter - Tuesday evening was the last of
+                    the revival <pb ref="arm03020002009" seq="09"/>so we went to church - The heat
+                    &amp; odor about knocked me over at the door and it was so lovely &amp;
+                    cool outside! We sat down in the choir section by an open window which let in a
+                    tiny breeze once in awhile. It became very emotional towards the last. Three
+                    little boys went to the mourner&apos;s bench to weep as usual after shaking hands
+                    with the revivalist to show that they were &quot;to stand for Christ hereafter&quot; -
+                    then a little girl about the same age (12) came up &amp; after speaking to
+                    the minister was about to return to her seat somewhere at the back when a woman
+                    presumably her mother dashed at her from the front section opposite us &amp;
+                    pushed her down in the mourning pew - then she went to the back &amp;
+                    brought forward her other small daughter &amp; put her beside the first - a
+                    couple of young fellows came forward too &amp; then &quot;all the Christians&quot;
+                    came forward to pray for them. The girls&apos; mother burst forth into loud weeping
+                    &amp; shouting begging the Lord to wake them all up &amp; save her girls
+                    from hell - she kept this up for a long time and it <pb ref="arm03020002010" seq="10"
+                        n="05"/>soon became a duet (with accompanying chorus of sobs - groans
+                    &amp; amens -) for a man began praying in an equally loud key shaking his
+                    right fist high in the air to emphasize his demands! Really it was awful
+                    &amp; pathetic too. After this was singing &amp; in the midst of it -
+                    one of the little boys got up suddenly from the mourner&apos;s bench &amp; went
+                    up to the minister - That meant he wanted to join the church &amp; was saved
+                    - His mother came crying and shouting to him and then jigged - actually jigged
+                    all around in front among everyone waving her arms &amp; shouting - &quot;I&apos;m so
+                    happy - I&apos;m so happy&quot; - then she began shaking hands not in the ordinary way -
+                    but seizing the hand she would proceed to sway back &amp; forth pulling away
+                    at the poor victim! Fortunately we were not within the radius of her grasp! Well
+                    altogether four or five little boys &amp; girls were ready for baptism as
+                    the result of these services and it was decided to perform <pb ref="arm03020002011"
+                        seq="11"/>the ceremony up the river next <abbr expan="morning">a.m.</abbr> at 9. Evelyn looked at me -
+                    for that meant we could have no school until the <abbr expan="afternoon">p.m.</abbr> So I studied &amp;
+                    finished my chapter letter - went to the school house &amp; worked until
+                    noon. The Abbotts were here for lunch &amp; asked us to go to the hotel for
+                    dinner that night. About 6:30 we started forth - Aunt Lizzie - we three teachers
+                    - Cora &amp; Evelyn (who had just come back from the day&apos;s visit at
+                    Sevierville) The hotel is a moderate sized green frame building owned by the
+                    Huffs - About seven or eight boarders were there - very ordinary &amp; we
+                    ate at two tables set in the big screened in porch at the back - I have an
+                    enormous appetite all the time - and so ate some of nearly everything - fried
+                    chicken - mutton - mashed potatoes - corn - string beans <pb ref="arm03020002012"
+                        seq="12" n="06"/>baked apple - black berry jelly - apple jelly &amp;
+                    last but not least - hot biscuits - There were tomatoes &amp; honey but
+                    didn&apos;t partake of them strange to say. We sat around awhile after this strenuous
+                    meal and then strolled back of the house to a lovely cool spring and then to the
+                    little white school house which is on a hill opposite us &amp; where we sat
+                    on the steps and gazed at the lovely hills in the moonlight with the usual
+                    orchestra of insects &amp; the dear little fireflies! Evelyn started with
+                    Emily &amp; me but went back when we came to the woodsy path leading from
+                    the road to schoolhouse - for she cannot endure snakes - These are quite common
+                    it seems - rattlers &amp; copperheads both. Thursday as I said before we
+                    cleaned out the closet at school - then came <pb ref="arm03020002013" seq="13"/>home -
+                    got in the tub &amp; cleaned up - dolling up in my gray dress &amp;
+                    coral beads - Evelyn &amp; Cora had taken old Dan and gone up Baskin&apos;s Creek
+                    for about three or four miles to Richard Ogle&apos;s - They make baskets - &amp;
+                    have to tell the Yakima people that I do not know when their order can be
+                    filled. Aunt Lizzie seemed rather tired &amp; didn&apos;t have much planned for
+                    supper - so Emily &amp; I who were awfully eager for food went out in the
+                    kitchen &amp; investigated the larder - Emily made some lemonade &amp; I
+                    scrambled eggs - so with that &amp; biscuits &amp; jelly &amp;
+                    apples that Evelyn &amp; Cora brought back with them about this time made a
+                    &quot;nourishing&quot; meal. <pb ref="arm03020002014" seq="14" n="07"/>I went to bed early
+                    &amp; got up about 5:15 &amp; did my lessons &amp; stayed after
+                    school awhile last night &amp; did some for Monday - a Miss Evans bobbed up
+                    here yesterday a.m. a very pleasant girl a few years older than myself &amp;
+                    from Vassar - Don&apos;t know exactly what she is doing but is connected with the
+                    M.E. Church &amp; the department of agriculture &amp; is going all
+                    through the rural communities. She - Emily &amp; I went for a walk up the
+                    river Little Pigeon last night - not a wrap have I had on since lighting in this
+                    spot - &amp; most of the week have worn my ready made white dress from
+                    McCormack&apos;s which I&apos;m quite crazy about - &amp; wish I had some more of them
+                    - my black &amp; white is a <unclear>cool</unclear>
+                    <unclear/> but is a perfect rag these hot days - Mary Ogle who <pb ref="arm03020002015"
+                        seq="15"/>lives in the 3rd little cottage in this establishment did my
+                    washing last week &amp; is going to do it next - thought first I wouldn&apos;t
+                    trust my gingham to her (which is now very dirty) but guess I&apos;ll risk it for I
+                    haven&apos;t time to wash it - &amp; do only my <hi1 rend="underscore">union
+                        suits</hi1>! &amp; silk stockings. It is about 9:15 now and as the man comes
+                    after the mail about 10 think I&apos;ll start the closing of this epistle. Harrison
+                    the man who works for us - has gone to get Dan &amp; the buggy ready for
+                    Emily &amp; me - We are planning to take kodaks &amp; food &amp;
+                    stay away all day - driving up to McCarter&apos;s place (I have <hi1 rend="underscore"
+                        >four</hi1> of them) &amp; then on up past their house where one gets a
+                    wonderful view - hope to get some good <pb ref="arm03020002016" seq="16" n="08"
+                        />pictures too. Evelyn &amp; Miss Evans left about 6:30 in Mr. Huff&apos;s car
+                    this morning -</p>
+                <p>We are planning to have a party for the older youngsters here next Friday night -
+                    just games - no refreshments I believe - Hope to get some visiting done this
+                    next week.</p>
+                <p>Please don&apos;t mind if I don&apos;t write individual letters to you - for at present
+                    it&apos;s impossible - but will later soon as time permits.</p>
+                <p>This is my birthday &amp; had almost forgotten about it - tell Bessie I&apos;m
+                    enjoying my Daylogue <unclear/> immensely &amp; keep it up-to-date. Started
+                    my diary too and am at present a couple of days <pb ref="arm03020002017" seq="17"
+                        />behind - but will get caught up this week-end. Enjoy the letters from home so
+                    much even though I do not comment much. The Maxwell is not as nice as a Dodge -
+                    much like a Ford - at least Art&apos;s is - 1916 model I believe &amp; light
+                    gray. He alone can drive &amp; does not drive as fast as we do.</p>
+                <p>Once more with loads of love to all as ever - Ruth.</p>
+                <p>If bathing suits are not too expensive will you get me one &amp; see if you
+                    can find that green rubber cap I had last year - don&apos;t know where it is - unless
+                    in one of my boxes - would prefer a green suit - The girls bathe in the river -
+                    a nice pool about 1/4 of a mile from here -
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

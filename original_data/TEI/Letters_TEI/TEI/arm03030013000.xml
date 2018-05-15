@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030013000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Nov. 5, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030013000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Nov. 5, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-11-05">Nov. 5, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>10p</extent>
+					<note type="summary">Visit at a mountain home over night - Description of house, occupants &amp; ways of living</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030013000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living conditions</item>
+						<item>Home visits</item>
+						<item>People</item>
+						<item>Social life</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030013001" seq="01"/>
+				<p>
+					<list>
+						<item>Visit at a mountain home over night</item>
+						<item>Description of house, occupants &amp; ways of living</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030013002" seq="02"/>
+				<head>
+					<date value="1919-11-05">Nov. 5, 1919</date>
+					</head>
+				<p><del>
+                    Dearest Jane - I wrote you quite a long letter Sunday &amp; then got yours and the dear little yarn flower which I&apos;m quite
+                    crazy about - also the girls - It shall go to New Orleans with me! The green for my sweater is just right! </del>
+                </p>
+				<p><del>
+						<unclear reason="illegible" resp="bds">Poor</unclear> Jane - getting up in the cold to light the fire - it&apos;s not as it used be
+                    is it? Had a letter from Pa today - in which he said he did not know how long he&apos;d <gap reason="illegible" resp="bds"/>
+                    the <abbr expan="Saint">St.</abbr> John&apos;s and that <gap reason="illegible" resp="bds"/> was going to Los Angeles and
+                    San Diego - Guess he is having a <unclear reason="illegible" resp="bds">good</unclear> time &amp; am very glad <gap reason="illegible" resp="bds"/>
+						<unclear reason="illegible" resp="bds">thing</unclear> there Well - <gap reason="illegible" resp="bds"/>
+						<unclear reason="illegible" resp="bds">such</unclear> &amp; yet I have no <gap reason="illegible" resp="bds"/> on the other hand
+                    to see Tacoma! and wonder if I will change by spring - Just don&apos;t know Jane whether I want to come back here a second year or not.</del>
+					<pb ref="arm03030013003" seq="03"/><del> You see as in other days - I can say &quot;I do not know what I&apos;ll do next!&quot; Cannot picture
+                    myself teaching again as in the past - in either high school or grade!</del>
+                </p>
+				<p><del>
+                    The week-end that I was in Knoxville you were surely a lively family with Jo - Eliza Mabel &amp; Miss P <!-- Unknown Name bds -->
+                    Victoria &amp; Mrs. McD. <!-- Unknown Name bds --> Am just so sorry about the way I don&apos;t write people but so far just can&apos;t
+                    do it! Miss <unclear reason="illegible" resp="bds">Hebrezd</unclear> sent me such a very nice letter the day you talked with her 
+                    over the phone - she is one more whom I promised to write to &amp; so far haven&apos;t.</del>
+                </p>
+				<p><del>
+                    And those baskets - they are still right here but do intend getting them off this week or &quot;bust a lung&quot; or 
+					<unclear reason="illegible" resp="bds">mabrel</unclear> so appropriately rema<add place="supralinear">r</add>ks </del><pb ref="arm03030013004" seq="04"/><del>
+                    Maybe she &amp; I will meet in New York this summer after all - who knows?</del>
+                </p>
+				<p><del>
+                    Nellie K. Miss English &amp; Miss Bramble all sent me postals from Seattle Institute which was nice of them. East <abbr expan="Tennessee">Tenn.</abbr>
+                    had me in <abbr expan="Knoxville">K.</abbr> last <sic corr="weekend">week-end</sic> - the County Schools closed for it <abbr expan="Thursday">Thurs.</abbr>
+                    &amp; <abbr expan="Friday">Fri.</abbr> but we kept blithely on - Emily &amp; I had no money to go &amp; Evelyn didn&apos;t think it necessary
+                    as Miss Langmaid went &amp; so the school was represented. <abbr expan="Tennessee">Tenn.</abbr> is divided into West - Middle &amp; East
+                    <abbr expan="Tennessee">Tenn.</abbr> Funny isn&apos;t it?</del>
+                </p>
+				<p><del>
+                    Am sorry to hear about Mrs. Wein and hope this finds her <unclear reason="illegible" resp="bds">flitting</unclear> around as usual - Are they
+                    going to California?</del>
+                </p>
+				<p><del>
+                    It was my blue <add place="supralinear">suit</add> skirt I ripped as it&apos;s always been too high waisted in front - Mary fixed it &amp; like it
+                    much better.</del>
+                </p>
+				<p>
+                    The weather this week has been beautiful and cold - This <abbr expan="morning">a.m.</abbr> we had our <hi1 rend="underscore">first</hi1>
+					<hi1 rend="underscore">frost</hi1>! Wore my challie to school - with my old white shoes. Don&apos;t see how they manage to hang together so
+                    long do you? We had a fire in the furnace at school yesterday &amp; today both - for the first time.
+                </p>
+				<p>
+                    Monday Lucrettie Reagan asked me to home with her &amp; as I had long promised to do so said I would - we were there calling Sunday you 
+                    remember. Emily went along too - We got there just <del>at</del>
+					<add place="supralinear">before</add> dark as I had to look
+                    over lessons at school &amp; then go up to the next house above Reagan&apos;s &amp; tell them we would take a ham. Now 
+                    <pb ref="arm03030013005" seq="05" n="2"/> that the weather has turned &amp; the warm wet spell &quot;<hi1 rend="underscore">broken</hi1>&quot;
+                    people are beginning to kill their hogs &amp; meat is abundant. Supper was almost ready - Lucrettie just finishing some doughnuts which we
+                    were allowed to sample - Carl the little boy in Emily&apos;s room had selected one of his chickens for our breakfast. We sat around the fireplace
+                    in the room off the kitchen - there are 3 besides the latter - all containing beds! Mrs. <sic corr="Aunt Sophie Campbell">Camel</sic> our 
+                    old friend whom we hadn&apos;t seen for weeks had come down also to stay so we were quite a party. Really I&apos;m degenerating terribly - 
+                    in fact we all are here - our own dishes are so <hi1 rend="underscore">low</hi1> and where <del>ver</del> you go the supply
+                    is of course scantier far scantier than ours. We ate off a dark brown oil cloth in the light of a lamp set high on <pb ref="arm03030013006" seq="06"/>
+                    a pail at one corner. The two girls (Lilly is in Abbie&apos;s room) waited until we finished as there wasn&apos;t room or dishes for them - 
+                    don&apos;t know which. Had pork - sweet potatoes - tomatoes (fresh) - corn bread (no butter) pickled beets - jelly - doughnuts coffee &amp;
+                    of course beans - forgot them.
+                </p>
+				<p>
+                    After this we sat in a circle around the little stone fireplace which gave out lots of heat &amp; was very cozy - on one side sat old Mrs.
+                    <sic corr="Aunt Sophie Campbell">Camel</sic> puffing at her long pipe &amp; opposite Mr. Reagan with his. Mrs. <abbr expan="Reagan">R.</abbr>
+                    pulled off her shoes &amp; stockings as did the girls. The heat brought forth the odors more intensely &amp; the tobacco was <hi1 rend="underscore">very</hi1>
+                    strong! Mr. <abbr expan="Reagan">R.</abbr> has a mill up Little Pigeon &amp; is very nice. Lucrettie said her father made her so mad - 
+                    wouldn&apos;t keep any stock but worked away in the mill like an <pb ref="arm03030013007" seq="07"/> old man. Their house is really the neatest
+                    &amp; most attractive in the <abbr expan="Gatlinburg">burg</abbr> - Mrs. <abbr expan="Reagan">R.</abbr> is very pretty too. We were asking why
+                    so many of the men stayed outside the &quot;church-house&quot; Sunday instead of coming in to the <del>service</del> preachin&apos; - 
+                    Mr. <abbr expan="Reagan">R.</abbr> said he liked to fish around so that Monday he could make a trade and that&apos;s what most of them do too!
+                    About nine we went to the next room where were two double beds - In one Emily &amp; I slept on corn shuck mattress with a feather tick over us - 
+                    and in the other <del>slept</del> were Mrs. <sic corr="Aunt Sophie Campbell">Camel</sic> - Lucrettie - &amp; Lilly who slept
+                    in their clothes - Lucrettie pulled off her shoes &amp; stockings but don&apos;t know about the others! The bed was very clean &amp; comfortable
+                    only that kind of a mattress is not really <hi1 rend="underscore">soft</hi1>! The door was open too &amp; we slept <hi1 rend="underscore">well</hi1>!
+                    We arose about six - putting on our garments &amp; combing our hair best we could using a chair for bureau - no mirror &amp; washing in tin wash
+                    basin in kitchen - no soap but some Emily took &amp; a very dirty family towel - I didn&apos;t have the strength of mind to wash my face or clean
+                    my teeth &amp; dried off with my handkerchief as much as possible <hi1 rend="underscore">unobserved</hi1>! 
+                </p>
+				<p>
+                    Breakfast was bountiful with coffee - hot biscuits - fried chicken jelly gravy ham - doughnuts. But how glad I was to hustle up to the house and 
+                    comb &amp; scrub up before going to school. They are all so hospitable &amp; kindly but the way they live in some respects! <hi1 rend="underscore">Well</hi1>!
+                    Mr. <abbr expan="Reagan">R.</abbr> it seems has been talking of building on to his house for the last two years - and is <pb ref="arm03030013008" seq="08" n="3"/>
+                    going to add a dining room amoung other improvements. Carl said &quot;What is a dining room?&quot;
+                </p>
+				<p>
+                    Last night I stayed at school till dark cleaning up - fixing pictures - looking over writing papers etc. The room has needed fixing for some time
+                    but knew there was no use until after the Halloween party.
+                </p>
+				<p>
+                    By the way did I bring my <sic corr="pastels">pastals</sic> of Yellowstone &amp; the Yosemite? Just can&apos;t find them among my things. They may
+                    turn up - yet. Don&apos;t remember seeing them nor those of the Panama Exposition since I left home but it seems strange if I didn&apos;t bring them.
+                    <pb ref="arm03030013009" seq="09"/> Miss Langmaid is very pleasant - chats along in a very calm way much of the time. She brought a lot of grape fruit
+                    with her &amp; you can&apos;t imagine how good they taste. Something acid like that just hits the right spot! We sat around the table &amp; fireplace
+                    in the living room last night - I crosslegged on the floor toasting in my usual fashion &amp; looking over the newspapers - everyone had a book or
+                    literature of some sort but a good deal of conversation ensued of course among so many females - Abbie came over &amp; Aunt Lizzie always sits a little 
+                    while.
+                </p>
+				<p>
+                    Today was late again getting <pb ref="arm03030013010" seq="10"/> home as Mr. Cresswell asked me to print three Red Cross posters to put up in the stores - 
+                    notices of a meeting to be held at the schoolhouse Friday eve - A man or two comes up from Sevierville to talk. Suppose you have been going through a
+                    drive too.
+                </p>
+				<p>
+                    Our pump was working tonight so there was great rejoicing for it&apos;s been very spasmodic for a week &amp; consequently no baths - washing etc. There
+                    is a pump at Abbie&apos;s so we would never be entirely without aqua pura.
+                </p>
+				<p>
+                    I washed my hair and again spent the evening in front of the fire on the floor. A roll of <abbr expan="Red Cross">R.C.</abbr> posters arrived from 
+                    Charlotte <unclear reason="illegible" resp="bds">Alspaugh</unclear> today which will do nicely for our meeting - we have four in the building now.
+                    So you see the days have been full again as usual - managed to write pa last night &amp; do a little darning tonight. The next excitement is 
+                    Thanksgiving for which I must compose my mind &amp; finish planning my program &amp; the details of the play. Half the class have been out until today
+                    when practically everyone got back -
+                </p>
+				<p><del>
+                    Must cease for now &amp; bid you a fond &amp; sweetly loving goodnight. Tell Nellie am going to squeeze in a note to her in answer to her
+                    very nice letter &amp; that I hope birthday greetings are not too late!</del>
+                </p>
+				<p><del>
+                    With ever so much love &amp; kisses!</del>
+                </p>
+				<p><del>
+                    Ruth</del>
+                </p>
+				<p><del>
+                    (<hi1 rend="underscore">Pay</hi1>
+						<hi1 rend="underscore">day</hi1> that was!)</del>
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020010000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Sept. 14, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020010000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Sept. 14, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-09-14">Sept. 14, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>17p</extent>
+                    <note type="summary">Go to shivaree up Wildcat Holler - Miss Turner&apos;s visit - All night at the Maples&apos; home - Visit at Sevierville</note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020010000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Social events</item>
+                        <item>School activities</item>
+                        <item>Sports</item>
+                        <item>Social life</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020010001" seq="01"/>
+                <list>
+                    <item>Go to shivaree up Wildcat Holler -</item>
+                    <item>Miss Turner&apos;s visit -</item>
+                    <item>All night at the Maples&apos; home -</item>
+                    <item>Visit at Sevierville</item>
+                </list>
+                </div1>
+            <div1 type="letter">
+                <pb ref="arm03020010002" seq="02"/>
+                <head>
+                    <date value="1919-09-14"> Sept. 14, 1919</date>
+                </head>
+                <p>
+                    Dearest family one and all - <del>Pa&apos;s letter written the 4th and mailed the <hi1 rend="underscore">6th</hi1> is the last news I&apos;ve had - From
+                        you all - I hope you don&apos;t consider me a pill about writing for its just a week ago today since I wrote you!</del> It has been a busy week and will have to 
+                    consult my daylogue about it - but first let me say that <del>pa you must take a trip somewhere just as soon as you get the house
+                    fixed up - am curious to know where you will go after you sell it! Was pleased to get the papers and read about institute etc. Miss Chesney sent me a 
+                    nice postal not long ago &amp; also had one from Miss Sillix that was sent from <unclear reason="illegible" resp="bds">Miagona</unclear> Falls. Some of
+                        the girls thought Mr. </del><pb ref="arm03020010003" seq="03"></pb><del>Sherman might be the new principal - hope he suits! Wonder where Mrs. French went.</del>     
+                </p>
+                <p>
+                <del>
+                        Some time could you pick out about a dozen of those old photogravures of ours and send them to me? Brought a few but 
+                        would really like some more in the room. I have cut off part of the extremely wide margin leaving it about three inches wide and they look much better. 
+                        Will leave the selection to the good judgement of you all!
+                </del>   
+                </p>
+                    <p>
+                        <del>Your party Jane sounded very nice - What did you wear? Where will Miss Hartman live this winter? Has Jo come and is Mabel with you or not? 
+                            When she leaves I&apos;ll </del><pb ref="arm03020010004" seq="04" n="2"></pb> <del>sure write her some letters.</del> Yes I&apos;ve half a dozen small baskets the same
+                        kind as that I&apos;m holding in the picture with Mrs. <sic corr="Campbell">Camel</sic>. Hope to find some others &amp; a coverlet - but such things are 
+                        very scarce it seems. As to the race riots - they were very serious and the merchants estimated their losses at about 15 million. However I must confess that
+                        I seldom see more than the headlines of the paper &amp; often not even that. There are no colored people whatsoever in Gatlinburg - though there seem to be
+                        a number in Sevierville. It&apos;s perfectly safe here - no one locks their doors. Our screens are latched at night but the doors and windows are left wide
+                        open. By the way did I ever tell you that the hangings in the dining room are exactly like ours? Not nearly so pretty with<pb ref="arm03020010005" seq="05"></pb>
+                        <del>the chestnut wood which is in a perfectly natural state as the ivory!</del>
+                    </p>
+                <p>
+                    <del>Your trip sounds fine and think you all are becoming quite wonderful drivers without me! Wonder if I&apos;ll have the nerve to drive
+                    when I get home? Have not the slightest wish to attempt it on <hi1 rend="underscore">these</hi1> roads. Started a long letter to Jo last Sunday but as I 
+                    did not finish it - will wind up by sending it to Gretta as I want Charlotte to see it - have written about some things to <abbr expan="Charlotte">C.</abbr>
+                    &amp; the others to the Thomlins so they can exchange.</del>
+                </p>
+                <p>
+                    This is Sunday eve, about 7:45 by Gatlinburg time - which is <hi1 rend="underscore">sun</hi1> time you know - any sitting in the living room in the light 
+                    of the big Rochester lamp - Aunt Lizzie <add place="supralinear">(Housekeeper)</add> is rocking away on the other <pb ref="arm03020010006" seq="06" n="3"></pb>
+                    side of the table occasionally spitting as she is a dipper of snuff you know. Her eyes bother her so she is just swaying back &amp; forth &amp; watching
+                    little Rellie who is on the seat near the fireplace looking at a magazine &amp; chattering away about everything he sees. His mother Mary went with
+                    Abbie &amp; Emily to <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.</abbr> tonight - Evelyn <add place="supralinear">Head of School"</add> is gone
+                    again - went to Sevierville Thursday morning &amp; by this time is in southern Alabama. She went Saturday morning with Blanche Mass<add place="supralinear">e</add>y
+                    Wood - &amp; the two youngsters - Blanche has been visiting her people all summer you know. She &amp; Evelyn are old pals &amp; as someone had to help her
+                    go home &amp; none of the Masseys felt that they could leave - they offered to pay Evelyn&apos;s expenses - so she is gone for a week.
+                    <pb ref="arm03020010007" seq="07"></pb>
+                </p>
+                <p>
+                    We girls told her not to worry about things here that we&apos;d celebrate her absence every day somehow! This has sure been a week of festivity! Monday
+                    we got a new cow in the <abbr expan="afternoon">p.m.</abbr> a very nice Jersey &amp; in the <abbr expan="evening">eve.</abbr> went to a 
+                    <hi1 rend="underscore">shivaree!</hi1> One of my girls Flora Reagan has a sister who was married just a week ago &amp; the young people got up the affair
+                    in their honor. Abbie Evelyn &amp; I went with three of the school girls and a dozen or more youths. Lillard Maples took us girls in his Ford three miles
+                    up to the Forks of the river the boys meanwhile having started to walk. Then Lillard went back &amp; brought them all up. It was a most glorious balmy
+                    night fulll moon &amp; so warm that no wraps were <pb ref="arm03020010008" seq="08" n="4"></pb> needed though we brought them along in case -
+                </p>
+                <p>
+                    We turned off the main road and went toward a mountain crossing a creek first &amp; leaving the car started on foot up the steepest trail along
+                    the <abbr expan="mountain">mt.</abbr> side. It wound along up &amp; up &amp; soon I learned that we were going up <hi1 rend="underscore">Wildcat</hi1>
+                    <hi1 rend="underscore">Holler</hi1>! Wasn&apos;t that delicious? At last we came to the top or near it where was a little clearing (called
+                    <hi1 rend="underscore">Dry</hi1> <hi1 rend="underscore">Pond</hi1>) &amp; a large cabin. We stopped &amp; assembling our forces proceeded to march
+                    round &amp; round shouting - blowing ox horns - ring<del>s</del> cow-bells - sheep bells &amp; I know not what. My noise was
+                    produced by clapping together two tin pan covers - Then some sticks of dynamite were set off - By this time strange to say the cabin was astir &amp;
+                    eventually the bridegroom was hauled <pb ref="arm03020010009" seq="09"></pb> out &amp; ridden around on a fence rail. We girls went inside &amp; such a place!
+                    The married couple were at his brother&apos;s and I guess about a dozen people slept in beds in the two rooms we were in - It was a pathetic honeymoon 
+                    to us girls - the bride is a bright pretty girl whom Mrs. Helmick has been anxious to help with her education &amp; for whom she made plans when here - but
+                    Allie all the time had it in her mind to be married but with nary a word to any one. Next she was given a ride around &amp; after &quot;settin&apos;&quot;
+                    awhile we started for home. It was really harder going down Wildcat Holler than coming up - We were pleased to get in the little car again &amp; buzz
+                    home where we arrived tired dirty &amp; full of giggles - Tuesday Mrs. Hall &amp; Miss Turner came <pb ref="arm03020010010" seq="10" n="5"></pb> over from the
+                    hotel &amp; spent the balmy moonlight <abbr expan="evening">eve.</abbr> on the porch. Wednesday Emily Abbie &amp; I go with Dan &amp; the hack with the
+                    two Maples boys Ephraim &amp; Rellie in my room <del>it</del> &amp; the youngest brother Bruce in Abbie&apos;s to their home four
+                    miles from here on Fightin&apos; Creek. This is the place where Emily &amp; I went one evening long ago in the car &amp; found them all in bed. Do you
+                    remember? They visited cheerfully with us as they were &amp; then got up &amp; fed us watermelon. Well this time we were expected for dinner and the night.
+                    Mr. Maples is a mail carrier besides having  the usual farm. He has twenty-six miles of <hi1 rend="underscore">mountain</hi1> rural delivery which takes
+                    about eight hours each day! They are very nice people &amp; have a real house - <pb ref="arm03020010011" seq="11"></pb>We had the whole upstairs to ourselves - 
+                    two bedrooms in each of which were two double beds - but besides a chair and washstand that was all. Life consists of essentials only in all these
+                    houses - 
+                </p>
+                <p>
+                    We each took one of the beds but in spite of the many feathers Abbie &amp; I slept very little - don&apos;t know why but don&apos;t believe I got in
+                    more than a couple of hours. Then we arose about 6 &amp; by 7 had started for school arriving at 7:45. That morning of all times Miss Turner decides
+                    to visit school &amp; brings three fair ladies from the hotel with her. However in spite of my dirty white &amp; sleepy apperance got along all right
+                    for she afterwards commented on my <hi1 rend="underscore">neat</hi1> appearance &amp; the good work we were all doing everywhere. Such is life!
+                    <pb ref="arm03020010012" seq="12" n="6"></pb>
+                </p>
+                <p>
+                    She visited us in the evening again - Emily &amp; I were real naughtly though. Aunt Lizzie told us that she left word she&apos;d be over but as Evelyn
+                    had stayed here the night before expecting her &amp; giving up going to Maples with us as was originally planned - only to be disappointed we went off
+                    for a walk. Had a very early supper &amp; went up the Mill Creek road &amp; branching off took a steep rocky path down to the river road &amp; so home
+                    again - about a two mile walk. It was exactly 7:10 when we arrived &amp; of course Miss Turner was waiting for us on the porch with Aunt Lizzie. We
+                    like her but she is so full of searching &amp; probing questions about the school &amp; people that it&apos;s somewhat wearing. Evelyn took her up Tom
+                    <sic corr="Campbell">Camel</sic>&apos;s trail Wednesday morning &amp; got <pb ref="arm03020010013" seq="13"></pb> home quite fagged in mind as well as body.
+                </p>
+                <p>
+                    To continue - Friday was the day of the Bishop&apos;s party for the Murphy College faculty &amp; as we all were asked we went down that 
+                    <abbr expan="afternoon">p.m.</abbr> right after school - that is - Mr. Cresswell - Emily &amp; I - Abbie stayed here - Evelyn had gone the day before. Mary
+                    asked me to take her &quot;cross bill&quot; in to her lawyer &amp; ask him about some things. All of which I did as soon as we got to Sevierville - then
+                    Emily &amp; I went up to the Bishops&apos; &amp; helped with the preparation for the party. We had an early supper winding up with lemon pie topped off
+                    with huge slices of watermelon. About eight we were all dressed (I in my new tan wool) &amp; people began coming. There <pb ref="arm03020010014" seq="14" n="7"></pb>
+                    were seven tables of us &amp; we played progressive hearts - with cubes - quite fun - Started out very nicely with Mr. Cresswell - his brother
+                    and Miss Whittle - She is such a dear! Progressed nine times out of the twelve which was unusually good for me - but didn&apos;t encounter Emily
+                    all evening. Then we had the most delicious chicken patties - olives &amp; sandwiches - followed by cake and layer icecream and coffee. As the
+                    Sevierville lights go out at ten we finished by lamplight quite early. Then next after all had gone we cleared up everything &amp; washed the dishes.
+                    Next morning instead of getting up &amp; writing this letter &amp; darning as I had planned I simply lay in bed - wasn&apos;t that an act of laziness? 
+                    But really felt like <pb ref="arm03020010015" seq="15"></pb> that &amp; nothing else so did it. <del>Sat</del> In the
+                    <abbr expan="afternoon">p.m.</abbr> we had to go to the baseball game - as Gatlinburg played Murphy College - score 16 to 3 - <hi1 rend="underscore">not</hi1>
+                    in our favor - wasn&apos;t that awful - the field is just across the street from the depot &amp; the college building. We sat on a bench in the hot sun
+                    the only Gatlinburgers. All of the team didn&apos;t come down either &amp; they had to fill out with Sevierville-ites - most of them are school boys - Mr.
+                    <abbr expan="Cresswell">C.</abbr> is catcher for them. Murphy College they say will be here to play in a couple of weeks. 
+                </p>
+                <p>
+                    We got back in Mr. Huff&apos;s car about 5:30 most pleased to return too &amp; glad to go to bed early after the strenuous weekend. This morning Abbie &amp;
+                    I went to Sunday School &amp; between <pb ref="arm03020010016" seq="16" n="8"></pb> us managed to teach Evelyn&apos;s large class of girls - Wore my tan dress today
+                    as it has been cool - in spite of the bright sun. Some of the hotel people about a dozen escorted by Miss Turner came over to see the school and the
+                    house &amp; were charmed with everything. We girls made out our fair program which comes off the 25th &amp; planned a party here at the house for Friday
+                    night. Darned up my stockings which was some job - read a little &amp; wrote a little &amp; now its about 9:15 &amp; time for bed.
+                </p>
+                <p>
+                    <del>Am sending my travelling check which came </del><pb ref="arm03020010017" seq="17"></pb><del>for travelling expenses - and Jane will you put in bank with
+                    yours &amp; pay my January insurance with it? Please - Then the &#36;14 which will be left can go on postage for things I&apos;ve
+                    sent for and pay for that book of games etc.</del>
+                </p>
+                <p>
+                    <del>Will close now - with just loads of love to you all as ever - </del>
+                </p>
+                <p>
+                    Ruth.
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

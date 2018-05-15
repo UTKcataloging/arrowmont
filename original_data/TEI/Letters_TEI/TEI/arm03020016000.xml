@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020016000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Oct. 05, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020016000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Oct. 05, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-10-05">Oct. 05, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>15p</extent>
+                    <note type="summary">We visit the Sevierville Fair &amp; see <hi1 rend="underscore">our</hi1> exhibits and others. Visit the McCarter family to see the making of molasses.</note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020016000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>People</item>
+                        <item>Fairs</item>
+                        <item>Social events</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020016001" seq="01"/>
+                <p>
+                    <list>
+                        <item>We visit the Sevierville Fair &amp; see <hi1 rend="underscore">our</hi1> exhibits and others</item>
+                        <item>Visit the McCarter family to see the making of molasses.</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03020016002" seq="02"/>
+                <head>
+                    <date value="1919-10-05">Oct. 5, 1919</date>
+                </head>
+                <!-- Page 1 missing -->
+                <p>
+                    I was there.
+                </p>
+
+                <p><del>
+                        Have not heard a word from St. Paul since my arrival here though wrote twice and 
+                        told them about things &amp; sent kodaks. I think it&apos;s perfectly funny the way things have moved since 
+                        I left and hope that next <gap></gap> land on the market. Think our original plan of building on the <gap></gap> 
+                        lots quite feasible &amp; <gap></gap> discuss it with him? Did you ever think of his finding you 
+                    something to do? Don&apos;t for goodness sake buy another store - ever.</del>
+                    </p>
+                <p><del>
+                        <gap></gap> since I wrote and seems ages since then somehow - the days </del><pb ref="arm03020016003" seq="03"/> <del>
+                        have been so full - I do not like to let a week roll around without getting off a letter - I had to write the Tacoma Pi 
+                        Phis &amp; that&apos;s where my letter writing time went this week - I send them a letter the beginning of each 
+                        month you know.</del>
+                    </p>
+                <p>
+                    Talking  about the Puyallup Fair - you should have seen the one I saw at Sevierville - We went down in the Huff 
+                    Ford - Mr. Cresswell Abbie &amp; I - besides three youngsters &amp; Estel who drove - In another car were about 
+                    ten of the school youngsters. This was 7 a.m. Tuesday - and no school - We arrived in an hour or so and went 
+                    to the big square red brick courthouse where the fair was in progress. Around the building is quite a yard with 
+                    a number of large old trees. Here were many cars &amp; people congregated early as it was &amp; inside the 
+                    rooms where were the ex-<pb ref="arm03020016004" seq="04" n="03"/>hibits - it was very jammed. Last year was 
+                    the first time Sevierville had a fair &amp; it lasted one day only. This year it was for two days and there were exhibits 
+                    from twelve places around. Ours was one and we ranked eighth place which wasn&apos;t so bad considering. 
+                    Then the school exhibits were separate - There were only four of them but we were at the head &amp; 
+                    <hi1 rend="underscore">way</hi1> <hi1 rend="underscore">ahead</hi1> too! There were many things that we never 
+                    have - I saw sugar cane - cotton on the plants - peanuts ditto - peppers ditto - tobaco plants - a pumpkin 
+                    weighing 133<num type="fraction" value="one forth">1/4</num> <abbr expan="pounds">lbs.</abbr> - an ear 
+                    of corn 14 <abbr expan="inches">in.</abbr> long - apples and apples - besides the usual assortment. In 
+                    one small room was exhibited part of the morning a whole collection of stills - over twenty of them. You 
+                    re-<pb ref="arm03020016005" seq="05"/>member I saw all but the still itself <hi1 rend="underscore">once</hi1>! A still 
+                    is a big copper vessel in which the stuff is boiled together &amp; from which a pipe carries off the steam to formed. 
+                    The steam distilled makes the moonshine. I took some pictures of the collection &amp; hope they prove good as 
+                    they will be interesting to say the least. Then in one big room the colored people had all their exhibits to themselves 
+                    &amp; very nice they looked too. Lots of canned stuff &amp; fancy work especially quilts. Well we stayed around a 
+                    long time. Then Evelyn &amp; I went off &quot;down town&quot; which was across the street - bought some ice-cream 
+                    cones &amp; deposited my check (first month&apos;s pay of &#36;60) in the bank &amp; got a little check book - 
+                    We had our lunch at the dormitory of Murphy College &amp; going back to the grounds partook of cake &amp; 
+                    lemonade sold by the Epworth League - Strange that they were the only ones who sold <pb ref="arm03020016006" seq="06" n="04"/>
+                    stuff to eat and as for kewpies &amp; chances on articles nary a one was there - exhibits &amp; nothing else. 
+                    Outside were the livestock - hogs - chickens - cows - oxen - horses &amp; mules. The excitement after lunch was 
+                    to see the riding. One street was roped off for this. The people lined the sides &amp; the judges stood at one end 
+                    &amp; gave out <del>the</del> ribbons - first the mules were exhibited about twenty or more 
+                    and such a dust as they kicked up! Next three fine horses - ridden by three women cantered &amp; walked up 
+                    &amp; down many times before us - followed by twenty horses ridden by men. They were of all sorts &amp; 
+                    conditions as were the riders - farmers - methodist minister with a little straw hat &amp; square jaw - spruce 
+                    lieutenant spick &amp; span in uniform - a <pb ref="arm03020016007" seq="07"/> fat old doctor and an elderly squire - 
+                    We didn&apos;t stay for it all - it was too hot and dusty to stand so long - Going back to the grounds - we fooled 
+                    around &amp; in the course of time began packing up our exhibits which was quite a job. There was a good 
+                    <sic corr="deal">dealed</sic> of canned stuff in it that all had to be wrapped. We were tired &amp; dirty when we 
+                    got home just before dark &amp; glad to go to bed early.
+                </p>
+                <p>
+                    The next day passed off without any excitement out of the ordinary but the next <hi1 rend="underscore">oh</hi1> 
+                    <hi1 rend="underscore">my</hi1>! The McCarters - a very nice family of which I have four in school - sent word that they 
+                    wanted us to go out there and see them make molasses - and that was the afternoon. Boiling sorghum is the 
+                    great thing that keeps the youngsters out of school at present and the <pb ref="arm03020016008" seq="08" n="05"/>
+                    McCarters had all been out for a week or more. Well we all piled into our old rickety hack Mr. Cresswell at the 
+                    reins &amp; started off after school - to their thouse about three miles off - A mile isn&apos;t much on a paved 
+                    street or one of our good roads - but over these it&apos;s some distance especially in a vehicle that has to be 
+                    driven as carefully as our hack. When we took the trip up Smokey you remember a shaft broke which was fixed 
+                    with a piece of barbed wire - Well Harrison had doctored it some more &amp; consequently they were at an angle 
+                    so that when Dan stayed in the middle of the road &amp; went straight ahead as he should the hack didn&apos;t - 
+                    but followed in a zigzag course rather dangerous at times when you are in a narrow road <pb ref="arm03020016009" seq="09"/>
+                    way up the side of a mountain! We arrived however &amp; there in a field by the house were all the family working away. 
+                    A huge oven had been built of stone with chimney at one end - and on top were three vats in which the sap was 
+                    boiling &amp; at one side <del>was</del> <add place="supralinear">were</add> the rollers through 
+                    which the sorghum is put. The juice is a light green &amp; boiling turns it brown - They had boiled about twenty eight 
+                    gallons that day &amp; since noon of the day before. We took pieces of the cane &amp; dipped them into the big tins 
+                    full of the molasses &amp; <hi1 rend="underscore">licked</hi1> them off - Did not care much for 
+                    <hi1 rend="underscore">them</hi1>. People here always think of molasses as <hi1 rend="underscore">they</hi1> never 
+                    <hi1 rend="underscore">it</hi1>. Chewed a piece of the cane too - sweet &amp; insipid tasting. 
+                    Then we stirred <pb ref="arm03020016010" seq="10" n="06"/> the molasses cooking away - which is hard work - hot and 
+                    steamy. The ladles are heavy too. But it was loads of fun &amp; incidentally messy - my clean white dress 
+                    &amp; shoes of the morning were no longer! The mountains are lovely from their farm - and we hated to start 
+                    back but finally did. It was dark when we got to <abbr expan="Gatlinburg">the burg</abbr> and just by our lane 
+                    we stopped to let a car pass - It stopped too and a voice called out &quot;Anyone want to go to Pigeon Forge?&quot; 
+                    Pigeon Forge is seven miles down the river you know &amp; quite a place not as big as Sevierville I guess 
+                    which has about 1500 but is nearly half as big anyway. All the week there has been what is called 
+                    &quot;Association&quot; going <pb ref="arm03020016011" seq="11"/>on there - a sort of conference of all the 
+                    Baptist churches round about. People went and stayed all day &amp; took their youngsters out of school for it - 
+                    several of ours stayed out for that purpose &amp; the school at Pigeon Forge had to close. Well I thought it was 
+                    Mr. Huff in the car &amp; so asked Abbie if she didn&apos;t want to go - we two then jumped out &amp; got into 
+                    the car &amp; found it to be two of the boys up here - we went anyway - supperless
+                    and dirty. It was a lovely balmy night &amp; the boys had some pears which stayed the pangs of hunger a little. We
+                    were too messy to go into the meeting which was well attended the church being full &amp; loads of boys &amp; men outside. 
+                    We waited in the car till it was over - <pb ref="arm03020016012" seq="12" n="07"/>and then about 9:30 when it broke up started back 
+                    - eight of us all together in that little Ford. They dropped off one by one so that we were back to our original number when we got about two
+                    miles toward home. Here we stopped - left our Ford &amp; got into a big truck &amp; lumbered up the remaining five miles
+                    in it. You see the boy in whose car we were - Lillard Maples - had some hauling to do in the <abbr expan="morning">a.m.</abbr>
+                    with said truck &amp; thought he&apos;d save a trip by taking it up then. We sat on the front seat but it was awfully bumpy &amp; noisy
+                    as you can imagine. But quite an adventure to get home at 11 p.m. in this qui<del>t</del>et burg via a truck!
+                    Friday was quite a peaceful day except for an <pb ref="arm03020016013" seq="13"/> awful rainstorm at noon - just torrents 
+                    came down - yet by the time school was dismissed in the <abbr expan="afternoon">p.m.</abbr> the sun came out &amp; we 
+                    girls took a stroll - Spent the evening quietly in the light of the lamp reading.</p>
+                <p>Saturday was a day of toil until about four when I was cleaned up and through sweeping sewing dusting etc. - I
+                    went over to see the Huffs and eventually stayed for dinner. About seven went to the school-house where was an old-fashioned
+                    sing scheduled to come off - You remember there was one the early part of <del>the</del> my arrival
+                    at the house - Only one man showed up however but he was very nice and went <pb ref="arm03020016014" seq="14" n="8"/>
+                    about  and sang some of those ancient &amp; quaint ballads with the help of his young daughter for an hour or so - Evelyn
+                    played &amp; sang some - and then we all sang &amp; by 9:30 all were home and bedtime arrived. It gets dark so early &amp; 
+                    we have an early supper so that the evenings are delightfully long - 8 seems like 10 - and nine o&apos;clock is midnight!
+                </p>  
+                <p>
+                    The new preacher arrived yesterday &amp; held services - you know its once a month we have &quot;preaching&quot;
+                    <hi1 rend="underscore">only</hi1>. None of us went Saturday so all took in the Sunday School - &amp; church - I didn&apos;t 
+                    stay for the latter however. Will wind up with <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.U.</abbr> <pb ref="arm03020016015" seq="15"/> tonight to make up for it though - I didn&apos;t go to 
+                    <abbr expan="Baptist Young Person&apos;s Union">B. Y.</abbr> last Sunday night &amp; was studying &amp; looking over papers 
+                    all alone downstairs - as the others had gone - &amp; Aunt Lizzie supposedly in bed - when in she came saying that she knew 
+                    there were cows in the corn. Taking the lamp in one hand I went forth with her &amp; chased cows up &amp; down between the 
+                    rows of corn. Can you picture it?
+                </p>
+                <p>
+                    Must cease this long scribble - Do write me soon &amp; tell me all about everything. Write Jane <hi1 rend="underscore">often</hi1>
+                    so she wont get lonesome &amp; be sure to get her some little thing she will appreciate - so much -  
+                </p>
+                <p>
+                    Loads of love dear pa - 
+                </p>
+                <p>
+                    Ruth
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020007000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Sep. 04, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Young, Philip</name>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020007000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Sep. 04, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-09-04">Sep. 04, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>21p</extent>
+                    <note type="summary">The general store belonging to Charlie Ogle, County Institute in Sevierville, Visit at the Clabos, Miss Turner arrives for 10 day visit - she who suggested the school to honor our
+                        Founders.</note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020007000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Community</item>
+                        <item>Landscape</item>
+                        <item>People</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020007001" seq="01"/>
+                <p>
+                    <list>
+                        <item>The general store belonging to Charlie Ogle.</item>
+                        <item>County Institute in Sevierville.</item>
+                        <item>Visit at the Clabos.</item>
+                            <item>Miss Turner arrives for 10 day visit - she who suggested the school to honor our
+                                Founders.</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03020007002" seq="02"/>
+                <head>
+                    <date value="1919-09-04">  Sep. 4, 1919</date>
+                </head>
+                <p>
+                Dear Family - Its just a week ago tomorrow night since I wrote you and I&apos;m truly sorry and ashamed not to have 
+                gotten off a letter sooner - Your letters of Sunday &amp; Wednesday came Tuesday - a letter from Aunt Carrie <abbr expan="Saturday">Sat.</abbr> 
+                and from Uncle Art today - <unclear reason="illegible">Bonnie</unclear> yesterday (Wednesday.)
+                </p>
+                <p>
+                    The papers also came with the two booklets and am glad especially to have the latter. Then Monday my <hi1 rend="underscore">lovely</hi1> hat came 
+                    and a khaki colored niddy from New York ($2.75) ordered by Emily&apos;s cousin just the thing for down here. All the bundles usually have holes torn in the corners 
+                    - curiosity on somebody&apos;s part but it makes me rather cross and I&apos;m not the only one who has the same experience. Would you send a letter of 
+                    complaint to Washington D.C? Don&apos;t bother Mr. F. about my itinerary any more for I sent in my expense account a week or more ago but as yet have not heard 
+                    from it - came to $113. &amp; if I remember rightly - Have this exact amount itemized under my <unclear reason="illegible">blotting</unclear> pad or my table at the house - 
+                    Since at the present writing am up Pi Phi
+                                <pb ref="arm03020007003" seq="03"></pb>
+                lane under the trees can&apos;t give you the exact figures - Pa - your letter does not sound like a <hi1 rend="underscore">vacation</hi1> and do hope that by the time 
+                you run out of such jobs you will take a trip! Shall be anxious to know about <unclear reason="illegible">Sceine</unclear>! What did we do last Labor Day? Can&apos;t remember! No 
+                Labor Day holiday in Gatlinburg - they never do have one you know. Before I forget will you please rummage in the right end of my desk or in the pigeon holes &amp; see 
+                if the <hi1 rend="underscore">quarterly</hi1>  C.S. beginning with October isn&apos;t there?
+                </p>
+                <p>
+                    If you sell the house it sure will mean something doing &amp; what? Where will you go? Perhaps my next letter from you will say where &amp; that you have gone and 
+                    done it!
+                </p>
+                <p>
+                    Jane is really horrid about the kitty especially when she was the main attraction for the poor kitty. Now in answer to some
+                questions - Yes the pupils buy their own text books - Aunt Lizzie is a mountain
+                woman you know &amp; not a <hi1 rend="underscore">real good</hi1> housekeeper -
+                Evelyn is very southern in many ways too &amp; has lots of outside things to do
+                - so Emily &amp; I have rummaged around &amp; cleaned out <pb ref="arm03020007004"
+                    seq="04" n="02"/>several choice spots - Emily &amp; I both like to clean up
+                however - There is not girl working for her board after all. Have neither heard nor
+                seen anything about or of my salary. Evelyn said today that she had been expecting
+                to hear from some of the "high ones" all week as they have now finished up the
+                Council meeting - She is wondering what her salary is to be - I still have a $20
+                traveler&apos;s check &amp; about $10 from another so shall get along nicely for a
+                while - Most of my money has gone for films &amp; printing pictures since I got
+                here - it seems - Mary Ogle has my dress &amp; presume it will be done some time
+                this week - just love to wear that dress too - Wear those silk skirts at our parties
+                &amp; Sundays - sometimes. Think I shall dispose of a number of my old shoes &amp; garments here - 
+                    hope so - my white pumps are most pathetic after that <hi1 rend="underscore">still</hi1> hunt! 
+                    Have decided to finish up that green jersey instead of buying a sweater. Do you think that a wise idea or not? 
+                    My pheasant hat is simply a <hi1 rend="underscore">darling</hi1> and I&apos;m
+                <pb ref="arm03020007005" seq="05"/>
+                    crazy about it &apos; so are the girls - it sits up quite high on my head in the back &apos; low on my brow in front so my hair &apos; head are not all 
+                    covered up as most of my hats have done - Then the long tail feathers have the most bewitching bend in them and rear up high in the back 
+                    giving the height Jane that you are always talking about! They have put the dark green <add place="supralinear">&amp; white</add> breast feathers in 
+                    the middle of the front on the top <del>is</del> <add place="supralinear">are</add> some of lovely taupe shade &amp; in back tans 
+                    and browns - the taupe velvet <del>is</del> edges the turban with a twist of it across where the tail feathers &quot;<hi1 rend="underscore">rare</hi1> up&quot; 
+                    as Abbie says. Wrote to the milliner &amp; told her how pleased I was - My long letter to Aunt Carrie passed the one she wrote me - so I know about her visitors 
+                    &amp; she knows a little oh my doings - Sent a long letter to the Cavanagh&apos;s also with kodak pictures which I&apos;ve asked to be sent to Aunt Carrie &amp; asked 
+                    her to send them on to the St. Paul folks - Uncle Art&apos;s letter today said the downstairs of their house was finished but not the big upper hall nor
+                <pb ref="arm03020007006" seq="06" n="03"/>
+               the two bathrooms - One of the bedrooms is being remodeled into a bathroom. They have hopes of selling their house so may then get a car &amp; while motoring over 
+                    Uncle Art&apos;s territory may get down to see me. Would enjoy having them &amp; would especially enjoy Aunt <unclear reason="illegible">Lottie</unclear> in a mountain cabin! I told them in my letter that to come 
+                    down here &amp; see the <hi1 rend="underscore">real</hi1> <hi1 rend="underscore">thing</hi1> meant tramping around in the hills - in big boots &amp; divided skirt - 
+                    &amp; that I didn&apos;t know whether they&apos;d enjoy it or not but that I thought it great! Also told them the hotel was good - so mayhap they will be here - 
+                    who knows? He also said that Aunt <unclear reason="illegible">Lottie</unclear> fell down the cellar stairs <abbr expan="August">Aug.</abbr> 6th &amp; burst a bloodvessel on her instep 
+                    &amp; twisted a knee - in bed two days. As he said nothing more on that subject suppose she is all right by now.
+                </p>
+                <p>
+                    You asked about Charlie Ogle&apos;s
+                stores. My dears it&apos;s overflowing with everything - shoes - cabbages - hats
+                &amp; blueing - shoe polish - ink - fruit - flour in short<pb ref="arm03020007007"
+                    seq="07"/>it&apos;s a general store - copiously stocked - crowded - jammed - The
+                post-office occupies one small corner - Then Saturday p.m.s the men gather around
+                outside &amp; are <hi1 rend="underscore">barbered</hi1> - I think Charley does
+                that too! Our board is not so <hi1 rend="underscore">awfully</hi1> varied - but it&apos;s
+                very good &amp; I eat &amp; eat &amp; have a horrid fear that I&apos;m
+                gaining! The staple products are corn bread - corn - tomatoes - string beans - <hi1
+                    rend="underscore">hot biscuits</hi1> - ! These latter we always have at least <hi1
+                        rend="underscore">once</hi1> a day &amp; usually for breakfast and such
+                delicious ones as Aunt Lizzie makes. The wild blackberries here were as large as our
+                tame ones &amp; we have been eating the most delicious jam - There are so many
+                wild flowers - can&apos;t stop to tell about them now - pretty-by-night is one - jewel
+                weed - beggar weed - touch-me-not - cardinal flowers - swamp day wood - golden rod -
+                wild purple asters - yellow evening primrose - smooth false fox glove - jo pie weed
+                - yellow daisies - passion flower - They call zinnias <hi1 rend="underscore">old
+                    maids</hi1>! Petunias are very common here - also sunflowers. We have seen some
+                wonderful butterflies - great yellow<pb ref="arm03020007008" seq="08" n="04"/>and brown
+                ones - another large variety is a black &amp; blue &amp; green called spice
+                wood - as the caterpillar lives on spice wood tree. The maples are beginning to turn
+                a brilliant red. Emily says October is a wonderful month - &amp; there will be
+                loads of chestnuts - would you like some? Be sure and tell me. Frosts killed most of
+                the fruit so apples have been scarce &amp; hard to get. Aunt Lizzie has been
+                canning a lot of little green ones this week awfully good sauce they make too. One
+                of the girls brought me eight big red ones - Tennessee reds - she said they are
+                called. We four girls sat out on the porch a little bit this p.m. &amp; enjoyed
+                them for they are "plumb good"! <hi1 rend="underscore">Plumb</hi1> is one of the
+                expressions here. Dr. Bishop has sent water melons &amp; <hi1 rend="underscore"
+                    >cantaloupes</hi1> Oh my such cantaloupe I never imagined - huge &amp; yellow
+                &amp; rich &amp; sweet &amp; tender! Others have sent up melons so we
+                have had quite - a number. As to my spelling potato &amp; tomato - that is one
+                of my weak points - perhaps will remember better now after your gentle hint Jane! Am
+                glad Betty &amp; Mary are going to have a vacation together. Will try &amp;
+                write - Betty but<pb ref="arm03020007009" seq="09"/>
+                fear I won&apos;t for awhile. Will you please get all my kodak pictures to the Pi Phi meeting next week - if they have one &amp; be sure to get them to the Seattle &amp; home again 
+                    am keeping a duplicate set of my own to take to New Orleans at Christmas time to show the Pi Phis down there. (Am glad I have a pretty hat to wear any way!) Your hat 
+                    sounded very pretty Jane - send me a kodak of you in it - why not another of you all and the car? Would love to see Virginia May - and <unclear reason="illegible">weir</unclear> and Nellie Jane 
+                    besides the rest of the family - but am so glad not to be starting in school again in Tacoma - even high school - that I&apos;d rather be here without you all - That is I feel that 
+                    way now - I surely hope things won&apos;t pall before my eight months are up.
+                </p>
+                <p>
+                    Was sorry to hear of Bessie&apos;s loss - Was her mother&apos;s death unexpected? Will write her a few times - have wanted to get around to doing it before. Have 
+                    not as yet written Jo &amp; Charlotte isn&apos;t that awful of me? Have planned to do that this week with the Pi Phi chapter letter.
+                <pb ref="arm03020007010" seq="10" n="05"/>
+                    Who is putting up the house by <unclear reason="illegible">Edinundres</unclear>?
+                </p>
+                <p>No am not going to drink any more moonshine but just had to taste it to say I&apos;d
+                    had it you know - What will you think of my <hi1 rend="underscore">still</hi1>
+                    episode I wonder!</p>
+                <p>Will now turn back the leaves of time to last Friday the night of the party -
+                    which as I said was a great success. The next morning Emily &amp; I arose a
+                    little after five to prepare ourselves for the trip to Sevierville - County
+                    Institute you remember. We dressed up in our suits - the first time I&apos;d worn
+                    mine &amp; quite an appropriate garb as it had showered in the night
+                    &amp; was dark &amp; cloudy - I took my ex-school bag &amp; white
+                    silk gloves (which however I did not put on once) so you may know it was an
+                    occasion - Stuck the long letter I&apos;d written you in my bag along with gloves
+                    pencil &amp; diary &amp; purse. About 6:30 after a delicious breakfast
+                    of hot biscuits - jam - oat-meal &amp; coffee for Aunt Lizzie like an old
+                    dear got up early - Mr. Huff drove up for us - In we got &amp; later picked
+                    up Mr. Cresswell &amp; Mr. Prickett formerly of <pb ref="arm03020007011" seq="11"
+                    />our school you know - He is now way up in the Sugar Lands in some school - We
+                    are all going up there some Saturday for a visit! The road was awful beyond
+                    words &amp; moreover gets worse as fall &amp; winter approach - Half of
+                    the fourteen miles are on this narrow mountain road &amp; the other seven on
+                    the pike which are buzzed over in about twenty minutes. The trip takes at least
+                    an hour. When we arrived at Sevierville it was raining and about 7:45 - no
+                    institute till nine. Mr. C. kindly took us to his brother&apos;s home - (state
+                    senator) where we visited til about nine - His niece of about 13 &amp;
+                    brother (not the senator) entertained us - later the lady of the house &amp;
+                    her infant daughter arrived - you see we got there before breakfast. This
+                    brother is younger even than Mr. C. I imagine &amp; teaches in Murphy
+                    College - his first year. From here we went over towards the college but seeing
+                    no signs of life about crossed the street to Dr. Massey&apos;s. Their house is quite
+                    large &amp; pretty outside - huge veranda across the front &amp; side -
+                    <pb ref="arm03020007012" seq="12" n="06"/>But when you go in - it&apos;s so bare
+                    &amp; run down - just as most of these places seem to be. The youngest
+                    daughter Juanita (her name just suits her - she is fuzzy as to hair worn with
+                    bobs over the ears - tall &amp; thin &amp; about twenty I imagine) lead
+                    us right in to the living room where sat Blanche &amp; the baby &amp; in
+                    the big bed was Dr. Massey. This greeting people in bed is just the queerest
+                    thing to me &amp; the most matter-of-course performance down here - it&apos;s
+                    funny. We all sat &amp; visited - Mrs. Massey came in presently too. They
+                    said Institute probably began about ten. So at that hour we set forth again -
+                    and fell in with Dr. Bishop &amp; a maiden who proved to be a new music
+                    teacher with a lovely Southern accent from Alabama. We sat &amp; visited in
+                    the office a long time &amp; after while maidens &amp; youths (most of
+                    whom seemed to be in their early teens) began to amble in - two or three at a
+                    time. About a quarter of eleven we went to the assembly room &amp; found
+                    about 30 of these before seen children sitting around - Some of them chewing gum
+                    &amp;<pb ref="arm03020007013" seq="13"/>&amp; most of the girls clad in
+                    <unclear reason="illegible">airiest</unclear>of georgette waists - Well after while another
+                    youth <abbr expan="president">pres.</abbr> of the association took to the
+                    platform &amp; we sang &amp; had a few opening exercises - One of their
+                    speakers did not arrive so Dr. Bishop gave a very nice address &amp; then
+                    one of the teachers was called on - after which the county superintendent talked
+                    &amp; that was all! They have it the last Saturday in each month but not
+                    being compulsory it is not usually much better attended than we saw. However we
+                    had done our duty &amp; joyfully departed. It was not yet noon so we started
+                    down town &amp; meeting Mrs. Bishop talked with her a while discovering that
+                    she &amp; the doctor were going to have dinner with Miss Whittle too. Thus
+                    we strolled down the main street in the rain to the red brick courthouse -
+                    sprawly &amp; dirty - like the <unclear reason="illegible">town</unclear> - cobblestones in the
+                    middle of the street in lieu of a crossing. The one side of the street on which
+                    are the stores has an asphalt walk - We found Miss Whittle and in the course of
+                    time walked with her over to the home of the Trotter&apos;s where we had a very good
+                    dinner with the usual hot biscuits - corn <pb ref="arm03020007014" seq="14" n="07"
+                    />bread &amp; rolls besides jelly applesauce - tomatoes - corn and string
+                    beans - I don&apos;t know what all. After this we <hi1 rend="underscore">shopped</hi1>
+                    - going in six or seven stores - bought an umbrella - ink - elastic - picture
+                    for Aunt Lizzie - peanut butter for our mountain trip &amp; chocolate bars.
+                    We found one spot where we enjoyed maple nut ice cream - the second time only
+                    that I&apos;ve tasted such a delicacy since leaving Chicago. After this wild splurge
+                    we went back to Miss Whittle&apos;s office at the courthouse &amp; as she was
+                    busy with a committee meeting in a nearby room we perched our-selves comfortably
+                    on a table (the chairs were occupied by the committee) and proceeded to write in
+                    our diaries. About 3:30 we decided to start for the depot where we would find
+                    Mr. Huff &amp; the Ford to take us home. This is way at the end of town
+                    and during the jaunt Mr. C., his brother &amp; niece passed us in their
+                    Ford - stopped &amp; asked us to go with them in the care the rest of
+                    the way - which we did - Later got a picture <pb ref="arm03020007015" seq="15"/>of the
+                    depot - Murphy College &amp; the <hi1 rend="underscore">train</hi1>! Going
+                    back was as bumpy as coming down &amp; how glad we were to get here! Abbie
+                    &amp; Evelyn walked down the road to meet us &amp; told us what they had
+                    been doing while we were gone - for it had seemed like two days at least. We eat
+                    and go to bed early - Sunday was a busy day as usual - Got up early - finished
+                    fixing my room - (not quite - done since the still <hi1 rend="underscore"
+                        >hunt!</hi1>) worked &amp; went to Sunday School about nine - Here I wound up
+                    by teaching a class of youngsters - lesson Daniel - was busy the rest of the day
+                    - marking papers - working out grades &amp; report cards - getting films
+                    ready for Knoxville and so on - Evelyn &amp; Abbie went to the hotel
+                    &amp; out walking - Emily read and wrote letters - well the girls got home
+                    just as Aunt Lizzie Emily &amp; I were enjoying toast (baked in oven)
+                    &amp; chocolate - Next was B.Y.P. at which Mr. C. presided - but Emily
+                    Abbie &amp; I each had been given a topic on which we had to talk for a few
+                    minutes - <pb ref="arm03020007016" seq="16" n="08"/>Evelyn&apos;s was Social Service -
+                    Abbie&apos;s was Faith without Works &amp; mine - Duty to one&apos;s neighbor. About
+                    sixty or seventy were there mostly young people - We sat in the choir seats
+                    &amp; sang as usual! Monday after school - their girls&apos; club came over to
+                    the house - about eleven only - &amp; as they didn&apos;t bring stockings to darn
+                    Emily &amp; I got out ours &amp; passed them around. The very ones who
+                    did not know how to darn &amp; whom we had wanted especially to be there
+                    didn&apos;t come! Well after they left I darned on &amp; on myself &amp;
+                    after dinner took my white dress to Mary&apos;s &amp; stayed for a little visit.
+                    Tues. a.m. Evelyn goes to Sevierville &amp; after school Emily &amp; I
+                    walk nearly two miles up Roarin&apos; Fork with six or seven youngsters to call on
+                    the Partons three of whom form part of our escort. We sat on the porch - ate
+                    apples - &amp; visited with Mrs. Parton while she shelled beans - they are
+                    right in the wilderness - have a little patch of corn &amp; chickens as
+                    usual - Very nice people. Then on the way back along <pb ref="arm03020007017" seq="17"
+                    />the road we stopped at another home - a frame two story house this time - and
+                    the home of Mrs. Parton&apos;s mother. The Roarin&apos; Fork road is lovely winds along
+                    the creek which is very gurgling all the way &amp; also picturesque
+                    &amp; rocky - The sun is so hot in the p.m. but the early mornings and
+                    evenings are cool enough for wraps now. We got home about six &amp; found
+                    Evelyn had come back with Dr. Massey in his car. He is still not feeling well
+                    &amp; stayed over until this morning - After dinner we sat around the
+                    fireplace enjoying a little fire very much - He wants to get a pheasant hat like
+                    mine for Juanita!</p>
+                <p>Then yesterday (Wednesday) Emily &amp; I went home with one of my little
+                    girls Maud Clabo - She stands the last one in the school picture on the right -
+                    Her father and mother are not living so she stays with an aunt Ruth Clabo -
+                    Younger than I am I imagine - She has a little girl about a year old - her
+                    husband is <pb ref="arm03020007018" seq="18" n="09"/>still in France - She has taught
+                    four <hi1 rend="underscore">schools</hi1> around here (People never says the <abbr expan="number">no.</abbr> 
+                    of years one teaches but always the <abbr expan="number">no.</abbr> of schools)
+                    &amp; went to Murphy College for two years - worked her way. Her home is a
+                    real cabin though immaculately clean - one room and kitchen built on - Between
+                    kitchen &amp; <unclear reason="illegible">this</unclear> room are three steps! In the room are
+                    two double beds - two rockers - sewing machine bureau - cupboard - enlarged
+                    portraits on the walls &amp; pictures from magazines. The walls are all
+                    covered with past newspapers - the stone fireplace occupies one end and I think
+                    there is one window only but very clean with a curtain. There were some of the
+                    little <unclear reason="illegible">splint</unclear> bottomed chairs like the one in the picture I
+                    sent you - also a table. In the kitchen was a stove &amp; kitchen cabinet -
+                    Well we had promised to stay all night &amp; it was very pleasant - We ate
+                    in the kitchen at a table covered with a <pb ref="arm03020007019" seq="19"/>white cloth
+                    centerpiece &amp; asters in a vase - Had mashed potato rolls - beans -
+                    tomatoes - milk - canned blackberries and cake. We went with Maud up the hills
+                    after the cows and took a couple of pictures - A cousin of Ruth&apos;s was there
+                    visiting &amp; for dinner but he went to the grandfather&apos;s after supper - so
+                    all was peaceful as we sat around the fire in the evening - By 8:30 we were all
+                    in bed too. It is dark about seven so that the evenings already seem long - This
+                    morning after a filling breakfast of coffee hot biscuits and sausage - we left
+                    about seven for school - It&apos;s a walk of about two miles - hence the early start
+                    -</p>
+                <p>A new Pi Phi arrived in our midst day before yesterday from Washington D.C. -
+                    Miss Turner - elderly thin small and active but on verge of nervous breakdown
+                    from too much war work. Has been in the Treasury Department at <abbr
+                        expan="Washington">Wash.</abbr>
+                    <pb ref="arm03020007020" seq="20" n="10"/>for years and belongs to same chapter as Miss
+                    Abbott. She is going to be here about ten days &amp; is at the hotel for the
+                    present. We have given up our mountain trip that we had planned for the week end
+                    - because of her arrival - Mrs. Helmick wrote Evelyn to be especially nice to
+                    her. None of us knew anything about her beforehand but think we made a discovery
+                    tonight - (You see since beginning this dinner time came &amp; went
+                    &amp; after dinner Miss T arrived &amp; no letter writing) During the
+                    conversation something was said about a group of girls at Cornell who petitioned
+                    at one time for a chapter. Miss Turner said - "That was during <hi1
+                        rend="underscore">my administration</hi1> and I ought to remember about
+                    that!" Evelyn &amp; I have concluded that she is an ex-Grand president
+                    &amp; we&apos;re going to look her up <pb ref="arm03020007021" seq="21"/>in the
+                    fraternity listing!</p>
+                <p>Well it&apos;s getting late for we took Miss T. home &amp; had to sit on the hotel
+                    porch &amp; visit a little while longer before returning. Must stop and hie
+                    me to bed! We have no plans made for Saturday yet - waiting to see how much Miss
+                    T. is game for! We like her too.</p>
+                <p>Ask all the questions you wish. There is so much that is new down here it&apos;s hard
+                    to think of everything. Shall not stop to read this
+                    <unclear reason="illegible">lengthiness</unclear> over again for correction so if there are lots of
+                    mistakes just overlook them.</p>
+                <p>Hoping to hear from some of you soon - Tell Mabel these letters are for her too
+                    as so far I just can&apos;t write separately. Loads of love &amp; fond kisses to
+                    all - Ruth. </p>
+                <p>Thursday eve - Sept. 4th.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

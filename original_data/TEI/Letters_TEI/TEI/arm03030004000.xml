@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030004000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Oct. 20, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030004000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Oct. 20, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-10-20">Oct. 20, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>8p</extent>
+					<note type="summary">Letter to Pi Phi Alumnae Club in Tacoma. Chestnuts. How the mountain people live &amp; why we vist over night with only a few.</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030004000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living Conditions</item>
+						<item>People</item>
+						<item>Food</item>
+						<item>Social life</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030004001" seq="01"/>
+				<p>
+					<list>
+						<item>Letter to Pi Phi Alumnae Club in Tacoma</item>
+						<item>Chestnuts</item>
+						<item>How the mountain people live &amp; why we vist over night with only a few.</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030004002" seq="02"/>
+				<head>
+					<date value="1919-10-20">Oct. 20, 1919</date>
+				</head>
+				<p>
+                    Dearest Jane - Yesterday was the first Sunday that has gone by without my writing you - but as a long letter - two really - 
+                    arrived this noon am glad I didn&apos;t write. The chestnuts are finally mailed however and I sincerely hope the worms
+                    do not eat all before they arrive - examine each with care before chewing! They are powerful good too - I sorted them all
+                    over the day I bought them and then according to advice put salt over them but had to go through them a second time before
+                    wrapping them. I was struggling with the latter deed yesterday after Sunday School - had all the wrapping paper &amp; string
+                    of the establishment laid out on the seat by the fireplace &amp; joy be - Mr. Cresswell came in &amp; rescued the chestnuts
+                    for they were mean things to do up - Emily mailed some last week but had them returned to her in a couple of days marked
+                    &quot;Improperly wrapped&quot; &amp; am <pb ref="arm03030004003" seq="03"/> sure the same fate awaited mine if I had 
+                    continued. Had loads of mail today - letters from Harriet Baker - 
+                    Lida - Aunt Carrie besides your two - two newspapers and a box of patterns &amp; wooden animals from Nellie
+                    Kennedy &amp; Harriet that I had asked sent - as we are going 
+                    to try to make some here this Xmas. Know the youngsters will <hi1 rend="underscore">love</hi1> them. You remember 
+                    the elephant I brought home, don&apos;t you?
+                </p>
+				<p>
+                    Am sitting on the front porch in white - though my old jersey coat  is around my fair shoulders &amp; am also wearing my
+                    little green slip-on. Butterflies &amp; bees are still in our midst - It has been a lovely day - big puffy white clouds are in the
+                    blue sky over the green mountains hiding the sun - but giving them a golden frilly edge - a lumber wagon has just ambled down
+                    the road - our cows moo once in awhile - and insects are chirping as usual. The sound of distant hammering greets my ear - 
+                    Mr. Reagan is fixing the roof of the schoolhouse (our <hi1 rend="underscore">chorister</hi1> - Miss Turner called him - ) Harrison
+                    &amp; <abbr expan="Mr. Cresswell">Mr. C.</abbr> occasionally blow up the road under a table bureau or bed for Mrs. 
+                    <sic corr="Proffitt">Profit</sic> &amp; <abbr expan="Mr. Cresswell">Mr. C.</abbr> are 
+                    <pb ref="arm03030004004" seq="04"/> now going to live in Mary&apos;s house - the third one from here you remember - 
+                    so our happy family will all be together on the hill. Mary &amp; Marshall with the children finally left for Elkmont after reconciliation 
+                    &amp; moved this morning. Peace be unto them! Such a time as they caused for awhile. The Maples family will no doubt 
+                    move back into their house at the foot of the road - they have been wanting to ever since school began - Tonight the girls&apos; 
+                    club had a meeting - the first for several weeks for they have all been so busy at home I just let it drop for awhile. We planned 
+                    some for our Hallow-een Party of next week. It will be in the school house as such a mob usually turns out - the house would 
+                    not be large enough. The youngsters are awfully trying in many ways - so shiftless &amp; careless - so 
+                    <hi1 rend="underscore">unable</hi1> to really settle down to learning things. But I do like them in spite of it all &amp; 
+                    their dirt! The people make their living by farming - have corn <add place="supralinear">&amp;beans</add> - pigs &amp; chickens
+                    - a few vegetables &amp; do practically everything themselves - The more progressive like the McCarter family have sugar
+                    cane - water melons &amp; make molasses to sell. As for their ways of living they don&apos;t know any other - they don&apos;t
+                    have magazines with pictures showing the rest of the world&apos;s ways - and <unclear reason="illegible" resp="bds">June</unclear>
+                    here is the worst thing of all about their living - They do not have <hi1 rend="underscore">toilets</hi1> - not any of these houses
+                    <hi1 rend="underscore">not</hi1>
+					<hi1 rend="underscore">one</hi1>! They do not consider them healthy &amp; you imagine the odors
+                    round their houses especially on a damp day - no you can&apos;t either because its indescribable. This is one of the reasons why
+                    staying over night is not desirable. Then the washing outfit for the whole family is a little tin basin &amp; <hi1 rend="underscore">one</hi1>
+                    common towel. They have simply been shut away from all the rest of the world &amp; consequently are as they are &amp; 
+                    the<del>y</del> old people usually are fixed - <unclear reason="illegible" resp="bds">
+						<hi1 rend="underscore">sat</hi1>
+					</unclear>
+                    in their ways - They do not care for anything else than their corn bread - beans corn &amp; potatoes. Pie cake pudding salad etc.
+                    <pb ref="arm03030004005" seq="05" n="2"/> do not seem palatable to them.
+                </p>
+				<p>
+                    As for homesickness - well of course there are moments when I would just as soon be elsewhere - especially down at Sunday school
+                    &amp; <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.U.</abbr> It&apos;s awful at times - I go to Evelyn's Sunday School class of big
+                    girls - so does Abbie! Well! Then I wonder if I do enough here - if someone else wouldn&apos;t manage better than I am! There is so much 
+                    to do &amp; see that I feel sometimes I&apos;m not doing anything well!
+                </p>
+				<p>
+                    I scribbled off a note to you Wednesday when over at Abbie&apos;s didn&apos;t I? Well Thursday was a lovely day &amp; after school
+                    in our light dresses &amp; shoes Evelyn &amp; I went home with Mattie McCarter on Little Dudley <add place="supralinear">creek</add> 
+                    (not <hi1 rend="underscore">the</hi1> McCarter family but relations -) Mattie is about sixteen &amp; the prettiest girl in school - dark
+                    eyes &amp; hair &amp; the smoothest clearest skin imaginable - fine features. Their house is a frame structure about two miles from 
+                    here - Beds in the two front rooms &amp; fireplaces - kitchen. Don&apos;t know whether there is an upstairs or not. Evelyn &amp; I had one 
+                    of the front rooms to ourselves - slept on a straw mattress in a big double bed with a feather tick &amp; little quilts over us - It was so
+                    hot with the tick &amp; so chilly without that we compromised by sticking out <pb ref="arm03030004006" seq="06"/> our feet &amp; hoisting
+                    up the cover to cool off then tried shaking the feathers down. It was funny - but <hi1 rend="underscore">sleepless</hi1>. A thunder &amp;
+                    rainstorm settled down on us so that in the morning we plodded back in deep muck &amp; a heavy downpour. I held <del>the</del>
+                    a coat belonging to one of the girls over my head &amp; shoulders - but the rest was sopping. However it was fun &amp; I got into dry clothes
+                    as soon as I got to the house. Friday Emily &amp; I went over to the little house where the McCarter girls &amp; Tom are staying as Cora was sick - 
+                    cold &amp; general tired outness - from molasses making. We brought her back with us &amp; she stayed over Friday. Is such a nice capable girl.
+                    In the evening we sat around <abbr expan="Mr. Cresswell">Mr. C.</abbr> came up - read - helped Evelyn with her scarf - tan color with deep shade
+                    of brown for fringe belt &amp; frogs - you&apos;ve seen that effect haven&apos;t you? Oh yes that reminds me I like the sweater with the belt
+                    &amp; as you say probably the rolling collar would be preferable here - the girls <pb ref="arm03030004007" seq="07"/> think it will be awfully pretty - so 
+                    do I - and be sure to tell me how much the yarn &amp; work come to! Saturday was another rainy day - I swept - cleaned up my wash - sorted
+                    chestnuts - pressed - ripped my blue skirt for Mary to fix - &amp; in general fussed all day - you know how I <hi1 rend="underscore">do</hi1>! Oh yes
+                    washed my hair. Then towards dusk Cora started Abbie &amp; me <add place="supralinear">each</add> on a little basket of corn husks - She makes
+                    such cute ones. In the evening there was a <unclear reason="illegible" resp="bds">shelling</unclear> at the school house - followed by 
+                    much singing. Sunday after dinner I tried to write but gave up so sleepy &amp; stupid did I feel - Cora &amp; I went over to school to hunt up 
+                    a song she is going to sing in the play - then we sat around on the porch &amp; looked for birds - <unclear reason="illegible" resp="bds">junes</unclear>
+                    - warblers - wood peckers. Saw a king fisher Friday. Mrs. Hall came over from the hotel - <unclear reason="illegible" resp="bds">lest</unclear> her 
+                    &quot;Young Visitors&quot; then Evelyn &amp; I went for a stroll with her picking up <abbr expan="Mr. Hall">Mr. H.</abbr> on the way. He visited 
+					in New Orleans at the time of the Mardi Gras - &amp; thinks it a very interesting city. We got home about dark &amp; 
+                    I went to bed - not even going to <abbr expan="Baptist Young People&apos; Union">B.Y.P.</abbr> - 
+                </p>
+				<p>
+                    Shall try to get my baskets off to you this week - the big one is for you - and little ones for Mabel &amp; Nellie - If you&apos;d rather have the smaller kind
+                    all right - but for my part I&apos;m crazy about the big one.
+                </p>
+				<p>
+                    We are all going in this <sic corr="weekend">week end</sic> to Knoxville &amp; Sevierville. I thought I wouldn&apos;t do it, but think a glimpse of the
+                    city will be good for me - and soon the road will be so Sevierville will be practically out of the question.
+                </p>
+				<p><del>
+                        Aunt Carrie&apos;s letter did not contain any news - you probably know all about her anyway - Have not heard from Uncle Art again. Will have
+                        some more pictures to send soon - Just flashed into my mind - I&apos;ll send a basket for Jo to you. Couldn&apos;t get the October beans &amp;
+                        <unclear reason="illegible" resp="bds">lara</unclear> &amp; persimmons now - will try later when frost comes as they are then better 
+                        <add place="infralinear">to fix house</add> - Ever so much love as ever</del>
+                    </p>
+				<p>
+                    Ruth
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

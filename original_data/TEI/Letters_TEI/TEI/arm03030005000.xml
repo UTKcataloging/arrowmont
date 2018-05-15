@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030005000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Oct. 20, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030005000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Oct. 20, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-10-20">Oct. 20, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>5p</extent>
+					<note type="summary">Aunt Lydia Whaley. Her cabin.</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030005000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living Conditions</item>
+						<item>People</item>
+						<item>Social life</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030005001" seq="01"/>
+				<p>
+					<list>
+						<item>Aunt Lydia Whaley</item>
+						<item>Her cabin</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030005002" seq="02"/>
+				<head>
+				<date value="1919-10-20">Oct. 20, 1919</date>
+				</head>
+				<p><del>
+                        Dear papa - you surely have received the three letters sent you to Reedley by this time containing my doings - was very glad to get yours
+                        and hope you do not leave too soon for home - and pa be sure to go down to Los Angeles - For you do not really know California until
+                        you see the southern part - Hope that in your next you will tell me you are going. How was Berkeley? You did not tell me a thing about
+                        what you did at Katherine&apos;s.</del>
+                    </p>
+				<p><del>
+                        Jane seems to be getting along without you - but am glad Miss <unclear reason="illegible" resp="bds">Pancoat</unclear> will be with
+                        her until your return.</del>
+                    </p>
+				<p>
+                    There is no particular news I guess since last I scribbled to you. It has been pretty rainy this week &amp; such slippery mud as results - you
+                    can&apos;t imagine! Mr. Huff has put up <pb ref="arm03030005003" seq="03"/> his car for the winter &amp; will now depend on horse and buggy
+                    to get through. Our mail doesn&apos;t get in till noon while ordinarily it comes up about 10:30.
+                </p>
+				<p>
+                    Old Aunt Lydia Whaley a regular character around here and who has been away ever since my arrival visiting either children grandchildren 
+                    <unclear reason="illegible" resp="bds">or</unclear> great grandchildren. She lives about a mile up the river in a one room cabin so low that 
+                    I just get in without stooping &amp; the ceiling just an inch above my head - It was simply cluttered full except around the fireplace with boxes - 
+                    beds - tables bundles - firewood baskets of corn sacks of potatoes - while from the walls &amp; ceiling hang paper bags &amp; news papers of 
+                    various herbs - seeds - etc. She does all her cooking  in the fireplace even to baking her cornbread. She is eighty years old or thereabouts.
+                </p>
+				<p>
+                    I stayed all night at a house on Little Dudley Creek about <pb ref="arm03030005004" seq="04"/> a mile and a half from here. Evelyn went with me. Had a very 
+                    nice time. It&apos;s rather strenuous staying over night however and doubt <unclear reason="illegible" resp="tl">plan</unclear> to do it very often.
+                </p>
+				<p>
+                    Am sending some chestnuts to the family - if you were there you&apos;d get some too - but you won&apos;t now you see. They are good but pretty wormy.
+                </p>
+				<p>
+                    Last night there was a &quot;spelling&quot; at the schoolhouse - We spelled round &amp; round - our side won fortunately.
+                </p>
+				<p>
+                    Began this yesterday after Sunday School but did not finish it - am now sitting out on the front steps after school as it has been a lovely day - 
+                    still wearing white &amp; enjoying butterflies &amp; bees! We had company yesterday - the Halls - and went for a little walk with Evelyn &amp; 
+					them &amp; <pb ref="arm03030005005" seq="05"/>instead of going to <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> - went to bed &amp; slept like a log - Had a 
+                    meeting with the girls after school tonight which kept me in late - we are planning a <sic corr="Halloween">Hallow - een</sic> party for next week -
+                </p>
+				<p><del>
+                        Had a long letter from Jane this <abbr expan="morning">a.m.</abbr> - who seems busy and bustling as ever - you 
+                        and I will keep her more busy with letter writing too.</del>
+                    </p>
+				<p><del>
+                        Does California come up to your expectations? Now do write soon &amp; tell me how you pass your days.</del>
+                    </p>
+				<p>
+                    Have decided to spend the weekend at Knoxville - if the weather is so we can get out. It will soon be impossible even to get to 
+                    <del>a movie</del> Sevierville and a glimpse of street cars - paved streets &amp; bustling people will do me good.
+                </p>
+				<p>
+                    Loads of love
+                </p>
+				<p>
+                    Ruth.
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

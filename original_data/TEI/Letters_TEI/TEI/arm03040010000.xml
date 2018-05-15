@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03040010000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Feb. 25, 1920, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03040010000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Feb. 25, 1920, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1920-02-25">Feb. 25, 1920</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>6p</extent>
+                    <note type="summary">Keeping warm at school - Mr. Cresswell&apos;s chores when Harrison is ill - <del>Getting butter</del> I go after butter which is scarce - </note>
+                    <note type="box">3</note>
+                    <note type="folder">4</note>
+                    <note type="document">arm03040010000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>School activities</item>
+                        <item>Snow</item>
+                        <item>School plays</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03040010001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Keeping warm at school - </item>
+                        <item>Mr. Cresswell&apos;s chores when Harrison is ill - </item>
+                        <item><del>Getting butter</del> I go after butter which is scarce - </item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03040010002" seq="02"/>
+                <head>
+                    <date value="1920-02-25">Feb. 25, 1920</date>                
+                </head> <!-- Pages missing -->
+                <p>
+                     <del>will ease up a little. I am so glad pa&apos;s cold has left him and hope Virginia is as bright as ever by now. I haven&apos;t 
+                         answered Nellie&apos;s nice letter yet.</del>The sickness around here is not so bad &amp; no prospects of our having to close school - but Murphey is
+                    closed &amp; others nearby.
+                </p>
+                <p>
+                     Harrison and his family are up &amp; around - <abbr expan="Harrison">H.</abbr> started working again Monday - much to Mr. Creswell&apos;s 
+                    <sic corr="relief">releif</sic> I imagine for he had to attend <add place="supralinear">to</add> the pumping - the fires - the wood &amp; everything else that
+                    came up.
+                </p>
+                <p><del>
+                    Am not keen about your leaving for <abbr expan="California">Calif.</abbr> but if that is what you want to do </del><pb ref="arm03040010003" seq="03"></pb><del>
+                        <gap reason="illegible" resp="bds"></gap> to be made by a dress making firm in Philadelphia &amp; are to cost &#36;12.50! So tonight I sent
+                        the measurements &amp; check - &amp; wrote my acceptance so the die is cast! Also asked them to please tell me whether the skirt is to be
+                        <add place="supralinear">of</add> cotton or wool - &amp; whether the collar of the waist is to be high or rolling! Wonder what I&apos;ll do next? I feel
+                        it&apos;s rather a wild &amp; perhaps - (no <hi1 rend="underscore">probably</hi1> expensive trip. It is wonderful of course &amp; I just can&apos;t
+                        realize that I&apos;m going to see <hi1 rend="underscore">the</hi1> <hi1 rend="underscore">Capitol</hi1>!! I&apos;ve also written again about a 
+                        position in the census department - the Civil Service </del><pb ref="arm03040010004" seq="04"></pb><del> commission is the one to write it seems. Am also going
+                        to write Mrs. Helmick about a place to stay. Do hope Charlotte A. <!-- Unknown last name --> will come.</del>
+                    </p>
+                <p>
+                    No word came from Blanche so guess she didn&apos;t get the telegram or else couldn&apos;t make it or some such reason. Am sorry too.
+                </p>
+                <p>
+                    The weather turned cold last night &amp; in the <abbr expan="afternoon">p.m.</abbr> snow fell but it&apos;s been too cold today for more to flitter
+                    down. Monday the twelve girls in the drill with Japanese lanterns practiced after school - then in the evening some of the youngsters in the play came 
+                    over to get their parts &amp; hear the play - We sat around the dining <pb ref="arm03040010005" seq="05"></pb> room table &amp; worked away for nearly
+                    two hours - then toasted marshmallows a little while - and so ended that day.
+                </p>
+                <p>
+                    Tuesday after school we tried out the play &amp; I do hope it goes off all right - Then I spent the rest of the <abbr expan="afternoon">p.m.</abbr> &amp;
+                    evening getting clippings on the League of Nations &amp; <del>for</del> general information on things in school. It&apos;s 
+                    surprising what loads of stuff I find - some of the monitors are all cut up. You know I have them way back into July &amp; when I want information for the 
+                    debates I go through them. They are all stacked neatly according to months on my little book case The index of contents is a great help &amp; time 
+                    saver. <pb ref="arm03040010006" seq="06"></pb>
+                </p>
+                <p>
+                    Well tonight after school one thing &amp; another came up as I was late getting home as usual - The girls have an awful spell of embroidering &amp; sit
+                    around the fire doing it much of the time. Our wood has been low so that we have hugged the fireplace much of the time. I have four classes in the 
+                    morning around the big fireplace in the hall whenever it&apos;s cold. It seems quite natural now to do things that way.
+                </p>
+                <p><del>
+                        As to underwear Jane - I really do not need the union suits for awhile - now that I&apos;ve mended them they are quite respectable. As to chemises
+                        you have quite enough to do without thinking of them. I&apos;ll manage them</del>
+                    </p>
+                <p><del>
+                        Did I tell you that I had a very nice note from Mrs. Soule? Hope to write Mr. <unclear reason="illegible" resp="bds">Suell</unclear>
+                        again.</del>
+                    </p>
+                <p>
+                    Well I had a little walk tonight looking for butter. Went up to Mrs. Nan Ogle&apos;s - she often sells it - lives on <abbr expan="Baskins Creek">Baskin&apos;s</abbr>
+                    above the Huff<del>&apos;</del>s - you go up Pi Phi Lane then across a field &amp; past Harrison&apos;s &amp; so to the creek - such mud!
+                    All the rubber one sees worn around here - strap around the ankles. Mrs. Ogle didn&apos;t have any so I went on down the road to Charlie&apos;s where I paid for
+                    my telegram &amp; then over to the other store - Calvin Ogle&apos;s - where I got two pounds - each a pat - carried them home in big pasteboard box! Well - it&apos;s
+                    8:30 &amp; I&apos;m going to bid you all a fond goodnight &amp; go to bed - Aren&apos;t you surprised - 
+                </p>
+                <p>
+                    Ever so much of love
+                </p>
+                <p>
+                    Ruth
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020001000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Aug. 3, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Carter, Genny</name>
+                    <name>Young, Philip</name>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020001000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Aug. 3, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-08-03">Aug. 3, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>25p</extent>
+                    <note type="summary">Arrival at Knoxville- train to Sevierville &amp; eventually to Gatlinburg.  First experience calling on a mountain family</note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020001000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Social life</item>
+                        <item>People</item>
+                        <item>Home visits</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020001001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Arrival at Knoxville- train to Sevierville &amp; eventually to Gatlinburg.</item>
+                        <item> First experience calling on a mountain family</item>
+                        </list>
+                </p>
+             </div1>
+            <div1 type="letter">
+                <pb ref="arm03020001002" seq="02"/>
+                <head>
+                    <date value="1919-08-03">Aug. 3, 1919</date>
+                </head>
+                <p>
+                    Dearest family - Well I&apos;m arrived - unpacked and settled at the Settlement School
+                    and will proceed to unfold my life history from the time of mailing the last
+                    letter at Indianapolis - or rather giving it to a girl who got off there and
+                    offered to mail it in town for me - which no doubt she did. After passing for
+                    hours through almost continuous and constant cornfields we arrived at Cincinnati
+                    about 6:30 p.m. A red cap carried my luggage for me to the checking station and
+                    then I went to the dining room and got some food as I was exceedingly hungry. It
+                    was pretty good and better than I had anticipated. After that I strolled up town
+                    following the most respectable looking whites - all around the depot seems to be
+                    the colored section and lots of it too. The nice stores are quite a little
+                    distance from the depot &amp; though I saw only a small part - was satisfied
+                    <pb ref="arm03020001003" seq="03 "/>to get back to the depot about 8 p.m. The
+                    streets are quite narrow and were full of people - movies going full blast - I
+                    went as far as a large public square adorned with a huge fountain. The depot is
+                    a large old fashioned stone building overflowing with people also so my
+                    impression of Cincinnati was that is quite a large busy city - not as big as
+                    Seattle but larger than Tacoma. The Louisville &amp; Nashville was due to
+                    leave at 8:30 but since it was made up at Cincinnati I could get on at 8 which I
+                    did having previously fortified myself with the August Atlantic Monthly. It was
+                    an awfully long train and only two Pullmans - mine being the last car no diner
+                    or observation accompanying us along the route. There were about a dozen
+                    youngsters along - varying in age from two to twelve years. The porter said we
+                    were due <pb ref="arm03020001004" seq="04" n="02"/>in Knoxville at 6:04 a.m. and knew
+                    nothing about the Knoxville - Sevierville (accent 2nd syllable) &amp;
+                    Eastern line that I was supposed to take. Well - I and a good many others were
+                    up at 5:30 and ready to alight at schedule hour - the porter put our baggage up
+                    in front brushed us off and said we&apos;d be there in ten minutes and lo we stopped
+                    and remained that way a half hour or so - Finally I roamed out to the end of our
+                    car where it was all open. A brakeman put in his appearance - the porter and
+                    conductor - and I learned that there was a freight wreck ahead - 8 cars of coal
+                    having turned over and that we had to back up to Coal Creek 32 miles distant
+                    where we would switch to the Southern Railway&apos;s tracks &amp; pursue our way
+                    to Knoxville thusly. The porter got me a chair and it was lovely &amp; <pb ref="arm03020001005" seq="05"/>cool backing along - we went through two tunnels for
+                    we were right in the mountains - at least that&apos;s what they are called here - and
+                    they are just like the pictures - many pointed - perfect cones - and others
+                    rounding &amp; larger all densely wooded - and the air! It&apos;s an absolutely
+                    different woodsy smell from our forests - more medicinal - aromatic or something
+                    - I think it&apos;s the cedar which is quite different from our cedar - I like it and
+                    wish I could bottle up some &amp; send to you to sample - I asked the porter
+                    if there was anything on the train to eat - He laughed and said sandwiches -
+                    asked me if I wanted some and as I was quite panting for food said yes - He came
+                    back with a towel in which were two buns split &amp; ham between - They
+                    didn&apos;t look particularly good - but hunger <pb ref="arm03020001006" seq="06" n="03"/>is
+                    quite insistent you know - so asked him how much they were - He said &quot;nothing&quot;
+                    &amp; thought they were part of his lunch probably but as there seemed no
+                    way of getting out of it took them &amp; ate them. He ate two similar ones
+                    also. Finally we got to Coal Creek &amp; then everybody began piling off and
+                    going up the tracks to some little stores and getting food- pop - etc. Here we
+                    had to wait for another engineer as the signals differed from those on the L.
+                    &amp; N. road - so it was ten before we finally started up Southern&apos;s
+                    tracks. We ambled along for an hour perhaps going up grade &amp; finally
+                    stopped in the wilds - a long time - This was because the length of the train
+                    was too much for the engine &amp; <pb ref="arm03020001007" seq=" 07"/>half the
+                    train was pulled up the grade &amp; then our half - It was about noon when
+                    we got to the railroad yards where we again lingered. Meanwhile it had been
+                    getting cloudy - more cloudy - sultry and more sultry - The porter did not make
+                    up the berths and you can imagine how uncomfortable it was but all those
+                    youngsters behaved pretty well at that. While we lingered as I said above the
+                    storm broke - thunder &amp; lightning and torrents of rain a regular
+                    cloudburst - so much so that one could not see across the street. We gradually
+                    moved on again and about 12:30 arrived at the L. &amp; N. depot for which I
+                    was pleased as my trunk had to be checked again &amp; they <pb ref="arm03020001008" seq="08" n="04"/>told me the Southern depot was on the other side of town. I
+                    found out that the Sevierville train depot was four or five blocks from the L.
+                    &amp; N. so had my trunk taken right over for the 2:30 train and got some
+                    lunch. Had coffee two poached eggs on toast and ice cream &amp; cake - funny
+                    combination wasn&apos;t it - but so good - as the two sandwiches &amp; two <sic corr="bananas">banannas</sic> were all I had eaten since the night before.
+                    When I asked what kind of cake they had - the woman in charge said - chocolate
+                    cake - white cake and camel cake - I said &quot;Camel cake - what kind is that?&quot; <pb ref="arm03020001009" seq="09"/>Then when she said it was brown I grasped her
+                    meaning and laughed and said - &quot;Oh caramel cake!&quot; She said &quot;Why yes <hi1 rend="underscore">cahmel</hi1> cake!&quot; I ordered it &amp; it was &quot;right
+                    good.&quot; After this refreshment I hunted up the same red cap &amp; he carried
+                    my baggage over to the other depot. It was a funny little spot and there were
+                    two waiting rooms - one was labelled &quot;Colored waiting room&quot; - so I felt I was
+                    really in the South. The train reminded me of that one going to
+                    <unclear reason="illegible">Ilunco</unclear>- only the coaches are not quite so narrow &amp;
+                    there are only two - I rode just back of the engine - which squeaked &amp;
+                    heaved and grunted all the way - The other passengers were typical country
+                    people. <pb ref="arm03020001010" seq="10" n="05"/>The scenery was very pretty but the
+                    same funny little hills that I had seen all day with an occasional patch of corn
+                    and farmhouses - very crude - and some of logs with stone chimney at one end -
+                    just like the pictures in the Arrow - the women wearing sunbonnets &amp;
+                    dark colorless dresses - they themselves ditto. Finally I put my coats on my bag
+                    at the end of the seat &amp; curling up went to sleep. About 4:30 we got to
+                    Sevierville which is quite a town - big red brick building - school house and
+                    many houses spread out in a little valley shut in on every side by the <abbr expan="mountains">mts.</abbr> The train goes down the main street and way
+                    off at one end is the depot. <pb ref="arm03020001011" seq="11"/>Here was quite a crowd
+                    of people and half a dozen cars or more. A little dark eyed - thin faced - eye
+                    glassed woman came right up and I knew it was Miss Bishop. She is quite southern
+                    but very very nice &amp; I imagine about 35 - She lead me over to a car
+                    where were two other ladies - about her age and married - They do not live in S.
+                    now but were visiting their father &amp; mother Dr. &amp; Mrs. Massey -
+                    Mrs. Wood had her baby with her - a boy about five or six months old - awfully
+                    cute fat youngster too. The other drove the car &amp; we - Miss B. &amp;
+                    I sat in the back seat - We all went up to the Bishop&apos;s house - Dr. &amp;
+                    Mrs. B. were <pb ref="arm03020001012" seq="12" n="06"/>not there but came later. I
+                    cleaned up &amp; by that time Miss B. had supper ready &amp; the two
+                    Massey girls &amp; baby also had supper with us. Their house is on a hill
+                    overlooking the town - rather a rambling old fashioned structure. We had just
+                    begun the meal when Miss B.&apos;s father and mother arrived. He is tall &amp;
+                    thin &amp; she is dark &amp; rather plump - looks like the daughter.
+                    Murphy College of which Dr. B. is president is right in Sevierville - They are
+                    both very nice and hospitable and I enjoyed meeting them. The two girls had to
+                    leave almost as soon as we finished eating - then we did up the dishes &amp;
+                    Miss B. &amp; I sat on the porch <pb ref="arm03020001013" seq="13"/>and talked
+                    school. Right by their house is a hill that has been set out in corn - and I&apos;ve
+                    seen others similar - imagine a cone shaped hill covered with great stalks of
+                    corn - 6 or 7 <abbr expan="feet">ft.</abbr> high - or half a hill - way up to
+                    the summit. While we talked there was a perfect chorus of crickets and all kinds
+                    of insects that made the croaking of our frogs quite insignificant - also I saw
+                    oodles of fire flies - my first - and am quite crazy about them. I slept like a
+                    log &amp; got up about 8 - as they had been up for some time ate breakfast
+                    alone - But first I forgot to tell you that the night before Miss B. showed me
+                    some &quot;kivvers&quot; &amp; baskets - the latter are made of willow <pb ref="arm03020001014" seq="14" n="07"/>mostly - and I&apos;m sure Mr. Van Decar will like
+                    them. The only trouble is Miss B. has lots of orders that have not been filled
+                    so don&apos;t know when mine will get done - Then the &quot;kivers&quot; are wonderful - The
+                    pattern is quite small - &amp; of strands about half an inch wide blue and
+                    white - red and green brown &amp; yellow - the latter combination is very
+                    rare - imagine the blue &amp; white is the kind made oftenest. They are $25-
+                    and hard to get! I shall try to get one! About ten o&apos;clock Mr. Huff came to the
+                    foot of the hill in his Ford to take us to Gatlinburg so we hustled off - bag
+                    &amp; baggage - For seven miles we had a very nice gravel <pb ref="arm03020001015" seq="15"/>road similar to ours - only called a pike - and then we turned off
+                    into a <abbr expan="mountain">mt.</abbr> road - Such a road I&apos;ve never ridden
+                    over - rocks - ruts &amp; holes - then as it had rained quite hard the
+                    afternoon before it was also skiddy - much of the soil is red - red as can be
+                    like that around Colorado Springs - We went up &amp; down over this said
+                    road for nine more miles following Little Pigeon River - which was a very muddy
+                    stream from the bad rainstorm - Then we came to a little valley and the road
+                    took us past a hotel and farther on and back on a knoll from the road - are the
+                    school - the big cottage - the little cottage which may be a girl&apos;s dormitory
+                    and another cottage where the Ogles live who look after <pb ref="arm03020001016" seq="16" n="08"/>the farm in connection with the school - the horse and the
+                    cow - also some nice white chickens - We got out of the Ford &amp; said good
+                    bye to Mr. Huff - who is a tall thin spare man - shrewd face and quite advanced
+                    for a mountaineer I believe - in the ways of the rest of civilization - Arriving
+                    at the big cottage I met Aunt Lizzie Reagan - who is also thin and spare - gray
+                    hair - brown eyes - and almost as brown and wrinkled as our old squaws at home -
+                    So many of these women are that way - the sun &amp; hard work are
+                    responsible I presume. I won&apos;t stop to describe the house in this letter
+                    &amp; will in the next and will also send a picture as soon as <pb ref="arm03020001017" seq="17"/>possible - several of them - We three had lunch or
+                    dinner together - cold fried chicken rice &amp; chicken gravy - tomatoes -
+                    hot biscuits - jelly - and honey - very good too. Then one of the other teachers
+                    who had been to the revival meeting came - Emily Burton - She is from New York -
+                    is not a Pi Phi - but has been here two years and has primary grade - She is a
+                    little mite of a thing - like Mrs. Ward &amp; is very bright and interested
+                    in everything &amp; I like her very much - She arrived just the day before -
+                    Our trunks came next &amp; we proceeded to unpack - I had things nicely
+                    messed up - when Emily came in &amp; wanted to know if I&apos;d go up to call on
+                    <pb ref="arm03020001018" seq="18" n="09"/>the Bradley&apos;s - real mountaineers - I
+                    forgot to tell you about Miss Abbott - She - her father and mother drove in a
+                    Ford from Chicago to Gatlinburg &amp; have been visiting here two weeks -
+                    She is much older than I am and teaches English in one of the Chicago high
+                    schools - is very nice &amp; a Pi Phi - Well she took us about two miles up
+                    a road similar to that we came over in the <abbr expan="morning">a.m.</abbr> into the <abbr expan="mountains">mts.</abbr> - then we three left the car &amp; proceeded a long half
+                    mile on foot - it was a very steep climb &amp; exceedingly rocky - we
+                    stopped at a spring house on the way up - my first spring house! and got a nice
+                    drink - Then we arrived at a little clearing on the side of the hill &amp;
+                    there was a perfect <abbr expan="mountain">mt.</abbr> cabin - <pb ref="arm03020001019" seq="19"/>and inside ditto! Papered with newspapers - most of which had been
+                    torn off or scratched - a big cobblestone fireplace at one end - and a double
+                    bed on one side of fire place at other a cupboard with garments piled on it -
+                    &amp; at other end opposite fireplace were 3 more double beds! Mrs. Bradley
+                    was a colorless woman sitting in a rocker by the littered up fireplace &amp;
+                    excused herself for not getting up as she had been &quot;right puny for two or three
+                    weeks&quot; - Emily knew her &amp; introduced Miss A. &amp; myself to her -
+                    There was another woman also sitting there but we were not introduced to her -
+                    it was not etiquette I guess - Emily didn&apos;t <pb ref="arm03020001020" seq="20" n="10"/>know her &amp; Mrs. B. didn&apos;t make any effort. Then there was a younger
+                    woman - Mrs. B.&apos;s daughter or daughter-in-law - I imagine but she was not
+                    introduced either - She had a year old little girl lying asleep on one of the
+                    beds - Occasionally one or the other of the two older women spit into the
+                    fireplace - very neatly never missing so that it evidently was a customary act!
+                    They talked about various relatives that Emily knew and many were the h&apos;s added
+                    to various words - always &quot;haint&quot; and &quot;hit&quot; for &quot;it&quot;! Well I was just so
+                    interested I couldn&apos;t keep from staring a little but not half as much as I
+                    wanted to. We got back about 6:30 and as Miss B. &amp; Aunt Lizzie <pb ref="arm03020001021" seq="21"/>were through we scared up our lunch and ate at the
+                    table on the back porch - Then I rustled around &amp; cleaned up for revival
+                    meeting at 8 p.m. Oh my! the church was full - two hundred or more - the
+                    youngsters seem to be the ones who go to the mourner&apos;s bench - There were four
+                    little girls and three boys - they cry and cry - it&apos;s awfully pathetic. This
+                    morning Emily &amp; Miss B. went to the Sunday School while I finished
+                    unpacking - then by ten Aunt Lizzie &amp; I started for church which lasted
+                    until noon - It was worse than the night before - as they all got wound up
+                    towards the last &amp; wept &amp; shook hands all around! There is
+                    service again going on now - it began at 3:30 - and another one tonight - We
+                    have to go again to- <pb ref="arm03020001022" seq="22" n="11"/>night - The services
+                    have been all week - a man from Knoxville conducting them - The church is just
+                    beyond the school on the road - and is a white building with the usual noisy
+                    bell - plain ceiled walls &amp; ceiling inside - Miss B. played the organ
+                    this a.m.</p>
+                <p>Well I was glad to go to bed last night and am going to take a nap now - it&apos;s
+                    bright and sunny again but is lovely &amp; cool nights &amp; mornings -
+                    altitude about 2000 I believe - Hills or rather <abbr expan="mountains">mts.</abbr> all around us - and a great field of corn just back of the house -</p>
+                <p>School begins at 8 in the morning and closes for the morning revival service
+                    continuing in the <abbr expan="afternoon">p.m.</abbr> I believe we are ex - <pb ref="arm03020001023" seq="23"/> pected
+                    to take the youngsters down in the  <abbr expan="morning">a.m.</abbr> Shall have the upper grade - the third
+                    teacher is from Sevierville and will have domestic science - Miss B. has not yet
+                    found a man teacher and doesn&apos;t know how big the school will be - or what we are
+                    to do as yet - So shall tell you about that later.</p>
+                <p>It is now nearly eleven - had a long nap - then dressed - had supper - Abbie
+                    Runyan - the other teacher came from Sevierville tonight - She lives there and
+                    has been to a college at Maryville something like a Normal School - She seems
+                    very sweet &amp; is quite young - was here the last 2 mo. of school
+                    &amp; will stay until they find someone else to take the domestic science
+                    permanently - We went to revival again which lasted a good two hours - must
+                    finish this up &amp; get to bed - will you please see if you can get a book
+                    for me - <pb ref="arm03020001024" seq="24"/>and if you can&apos;t get it ask Pirrel&apos;s - (?)
+                    bookstore to send for it and have it forwarded to me or else get me the name of
+                    the publishing house &amp; price and I&apos;ll send direct - It&apos;s that book Miss
+                    Holroyd lent me - games - and is called &quot;Ice Breakers&quot; by Edna Geisler. Then
+                    Emily and I are talking about getting up a play &amp; I wondered if my fair
+                    cousin could &quot;root&quot; around &amp; find one or send me the name of a
+                    publishing house - We&apos;d like one for girls - from 10 yrs. old up to 15 or 16 -
+                    with or without music - She might see if she could find one that would do for
+                    both boys &amp; girls-</p>
+                <p>Did you ever ask about my bank balance Jane - it ought to be about $4. I forsee a
+                    busy year ahead but think in fact <gap reason="illegible" resp="gc"></gap> it&apos;s going
+                    to be very enjoyable - but lacking <pb ref="arm03020001025" seq="25"/>many of the
+                    comforts of home - Expect to wash out my little union suits myself - also my
+                    gingham as Miss B. says it&apos;s safer as they are apt to fade things. 50 cents for
+                    the wash. I&apos;m anxious to get another letter as the last arrived a week ago
+                    tomorrow (Monday) The revival has taken a lot of time - a long session last
+                    night &amp; two today but after that is over it will be less rushed and I
+                    hope to write again in a day or so &amp; describe the house - the school
+                    &amp; my room -</p>
+                <p>Have not stopped to peruse this hasty scribble so know not how it sounds - was
+                    very sleepy &amp; hot while writing it so there may be many mistakes - Wore
+                    my white voile &amp; yarn trimmed hat today &amp; my new gray tonight
+                    &amp; last night - With just lots &amp; lots of love to all and kisses
+                    too - Ruth. 
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

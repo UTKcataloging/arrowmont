@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020015000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Oct. 05, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020015000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Oct. 05, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-10-05">Oct. 05, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>17p</extent>
+                    <note type="summary">Fair at Sevierville, At the McCarters&apos; to see <hi1 rend="underscore">molasses</hi1> made - </note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020015000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Social life</item>
+                        <item>People</item>
+                        <item>Schools</item>
+                        <item>Fairs</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020015001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Fair at Sevierville</item>
+                        <item>At the McCarters&apos; to see <hi1 rend="underscore">molasses</hi1> made - </item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03020015002" seq="02"/>
+                <head>
+                    <date value="1919-10-05">Oct. 5, 1919</date>
+                </head>
+                <!-- Page 1 missing -->
+                <p><gap></gap>I did not go to <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.U.</abbr> that evening but settled down to papers and history while 
+                    Emily upheld the lemons at lunch - First interruption was two of the girls after lamps as the lights at church were on the blink 
+                    They informed me that Litha <pb ref="arm03020015003" seq="03"/>Carr one of 
+                    Abbie&apos;s girls was over at the house alone &amp; in bed sick. Well of course I went over and as Abbie had phoned up 
+                    from Sevierville that she could not get back here as no one seemed to be coming this way - I brought Litha 
+                    over here for the night - Her illness was just a headache as she had slipped &amp; bumped her head that <abbr expan="afternoon">p.m.</abbr> 
+                    Second interruption was Aunt Lizzie&apos;s appearance (she was sound asleep upstairs supposedly) and her announcement 
+                    that there were cows in the corn. That meant we had to go &amp; chase them forth. So picture me lamp in hand going along in the dark 
+                    hunting cows &amp; chasing them between the rows of dried stalks over to the schoolhouse where we let down the bars &amp; 
+                    so got them safely shut up - They were Huffs&apos; cows who had strolled up our land from the road &amp; belonged down at 
+                    the hotel     
+                </p>
+                <pb ref="arm03020015004" seq="04" n="03"/>
+                <p>
+                    We are still having many absences at school as making molasses from sorghum is the present occupation. No one can 
+                    hire help so the youngsters are kept out regardless of everything else. We make arrangements to get about ten youngsters 
+                    down to the Sevierville Fair the next day - Abbie gets back about ten with the mail - The evening is spent making out report cards 
+                    - next morning the two Fords arrive about seven to take nine or ten youngsters down - Mr. Cresswell puts them all in one car - 
+                    Lilland Maple&apos;s (you&apos;ll hear of him later on) &amp; sends them off. Estell Huff has the other Ford &amp; takes 
+                    Abbie Mr. C. - and myself back <add place="supralinear">to his</add> home &amp; after waiting around we start forth with Jim &amp; 
+                    Stella Huff &amp; Betty Rose who lives with them &amp; helps with the work - a cute girl of about sixteen. We have a lovely though 
+                    bumpy ride to town &amp; go right to the courthouse. Although it&apos;s only 8:30 there are loads of people gathered together in 
+                    the yard and in the <pb ref="arm03020015005" seq="05"/>rooms where were the exhibits. We had passed all sorts of conveyances 
+                    on the way in too - You see the Fair was only Monday &amp; Tuesday and this is the second year one has been held - so people 
+                    are beginning to wake up to it. Twelve little places had sent exhibits. Gatlinburg&apos;s ranked eight in the list - but our school 
+                    exhibit which was apart from the other stood first among the four that had been sent in - We are the only ones that have manual 
+                    training &amp; domestic science among the schools in the county I believe. The communities send in displays very much alike - 
+                    cornstalks &amp; sugar cane - vegetables apples principally for the first &amp; quantities of canned stuff - all kinds of seeds too. 
+                    Saw a pumpkin weighing 133<num type="fraction" value="one fourth">1/4</num> <!-- I have no idea if this is the correct way to insert fractions -->
+                    <abbr expan="pounds">lbs.</abbr> - <add place="supralinear">ears of</add> corn 14 <abbr expan="inches">in.</abbr> long - peanuts 
+                    attached to their plant - cotton ditto also peppers - (tiny red ones) ditto - and what <pb ref="arm03020015006" seq="06" n="04"/>else do you 
+                    suppose? a room <hi1 rend="underscore">full</hi1> of stills taken in the mountains - over twenty of them. You know the still itself was 
+                    the one thing lacking on our <hi1 rend="underscore">hunt</hi1> It is a huge copper vessel in which the ingredients are boiled &amp; 
+                    from which pipes carry off the steam which condensed is the moonshine. At least that&apos;s the way I understand it to be. I took 
+                    two pictu<add place="supralinear">r</add>es of them and hope they are successful. The fancy work was in a room by itself with a few 
+                    art attempts - Don't believe painting is as frequently tried here as at home. Miss Sharp the domestic science teacher at Murphy College 
+                    had exhibited a big cloth of solid talling (quite fine) except for six small pieces of linen 
+                    set is - Think these pieces were for the plates. She <del>was</del><add place="supralinear">is</add> going to send it to 
+                    Boston where someone lives who has bought it for &#36;500! I did not like it - not at all artistic in my eyes! One large room was 
+                    set aside for the colored people who had their things quite by themselves - very 
+                    <pb ref="arm03020015007" seq="07"/> nice they were too. After beholding everything even to the livestock outside in the yard - chickens - 
+                    hogs - mules - cows - oxen - horses - Evelyn and I went &quot;down town&quot; (across the street) where I deposited my &#36;60 
+                    check - just arrived - for my first month&apos;s teaching in the Sevierville bank &amp; got a little check book - Then we roamed around 
+                    in some of the stores - bought ice cream cones - and went up to Murphy College dormitory &amp; had lunch. This sounds as though 
+                    the chaperonage rested lightly on our shoulders - as it did. Evelyn seeming to think it perfectly <sic corr="alright">allright</sic> to let 
+                    the youngsters look after themselves. Abbie found her sister &amp; her friends - Mr. C. his mother brothers &amp; friends so all 
+                    were happy - After lunch we went over to the Massey&apos;s where I lay in the porch swing &amp; read while Evelyn hustled Mrs. 
+                    Massey around for the &quot;riding&quot; was to be at one - About one thirty or more we got to the <pb ref="arm03020015008" seq="08" n="05"/>
+                    street roped off for that purpose &amp; joined the throngs lined up either side - Finding Abbie seated on the doorsteps of the <add place="supralinear">home of the</add> 
+                    Sevierville weekly paper - &quot;The Vindicator.&quot; It was awfully hot but I was correctly garbed in my gray  winter hat &amp; suit. 
+                    We waited &amp; waited. Finally many mules - about twenty were lead forth kicking &amp; prancing in mulish fashion &amp; after a 
+                    vain attempt was made to line them up ribbons were awarded. Then three beautiful horses ridden by three women cantered and walked 
+                    up &amp; down many times - ribbons were awarded. These were followed by men on horseback twenty or more. They rode &amp; rode 
+                    &amp; rode - all sorts &amp; kinds were they - fat old doctor - farmer boys - squire - Methodist minister &amp; most comical <del>liet</del> 
+                    lieutenant in uniform. The minister was especially funny took him some time to get warmed up but he <pb ref="arm03020015009" seq="09"/>did 
+                    eventually clinging to his straw hat &amp; surging on his valiant steed which at first he had restrained with a firm hand muttering 
+                    &quot;Easy now! easy now!&quot; We finally left and went back to the courthouse where the crowd seemed thick as ever. There was 
+                    no selling of anything not even chances on a kewpie. The Epworth league had a booth outside of pie cake lemonade etc. but that was 
+                    absolutely all. Finally we started packing up our stuff and by five were headed for home a weary crowd - was so glad to get to bed that 
+                    night. Emily &amp; Aunt Lizzie had had a quiet peaceful day here by themselves - presented them each with a big stick of peppermint 
+                    candy - stupid! Next day after school write letters and spend all evening to <hi1 rend="underscore">midnight</hi1> scribbling to my Pi Phi     
+                    sisters in Tacoma as Saturday is their meeting again. Don't know whether they want a letter <hi1 rend="underscore">every</hi1> time or 
+                    not but <pb ref="arm03020015010" seq="10" n="06"/>as I said I&apos;d send them one each month will try to do so. Certainly have no lack 
+                    of material for writing - too much rather! Thursday morning Evelyn gets back &amp; after school that night we all pile into the hack &amp; 
+                    set forth for McCarter&apos;s - Mr. C. at the reins. They were making molasses and had sent special word for us all to come that day 
+                    after school. We like them so much - Tom and Cora are in the high school class - Polly is in the 8A (she uses snuff!) Birthana 
+                    (awful name) is in the 8B. They had been out all week helping boil sorghum. The three miles to their house made a pleasant ride 
+                    &amp; as it was a lovely evening we enjoyed it - in spite of the prospect of the hack&apos;s falling to pieces at every bump - The family 
+                    were all in a field by the house working away - a big oven had been built of stones - chinks filled in with clay and chimney at one end. 
+                    On it were three vats in which <pb ref="arm03020015011" seq="11"/> the molasses <hi1 rend="underscore">were</hi1> <hi1 rend="underscore">boiling</hi1>. 
+                    Molasses is always <hi1 rend="underscore">they</hi1> never it for people here think of it in the plural only - You must ask them not &quot;How much did you make?&quot; 
+                    but &quot;How many!&quot; All around on the <unclear reason="illegible" resp="tl">grain</unclear> lay the squeezed cornstalks while 
+                    nearby were the rollers &amp; big kettle for the squeezing - with long pole to turn and to which horse was fastened.  In the distance 
+                    were stalk stacks of <del>corn</del> <add place="supralinear">cane</add> cut &amp; ready for the next day&apos;s boiling. 
+                    We took pieces of the cane &amp; sticking them into the big tins of fresh molasses licked them off. I did not care much for &quot;them&quot; 
+                    nor for the cane - a little piece of which I chewed - it&apos;s insipid &amp; sweet. We stirred some which is hard work as ladles are heavy 
+                    &amp; one has to dip to keep it from boiling over. Great fun though &amp; we stayed as long as we could getting back just at <del>dark</del> 
+                    dark. Right <pb ref="arm03020015012" seq="12" n="07"/> at our lane we met a car which we waited to let pass but it also stopped and a voice 
+                    called out. &quot;Anyone want to go to Pigeon Forge?&quot; I thought it Mr. Huff and asked Abbie if she didn&apos;t want to go - We 
+                    were both messes and also very hungry but piled into the other vehicle &amp; disappeared in five minutes. Wasn&apos;t that crazy? - 
+                    and it wasn&apos;t Mr. Huff but Lillard Maples &amp; Loy Reagan two of the boys around here who should be in school or away 
+                    at school. It was a lovely night though and Lillard is a great driver so we just zipped along - The reason for going to Pigeon Forge - 
+                    seven miles down the river you know and half way to Sevierville - was because of <hi1 rend="underscore">Association</hi1>. This is
+                    like a conference - all the Baptists &amp; their ministers meet annually &amp; preach &amp; have business meetings for 
+                    several days - all day. <pb ref="arm03020015013" seq="13"/>So important is it that the school at <abbr expan="Pigeon Forge">P. F.</abbr> 
+                    was closed and some of our youngsters stayed out most of the week for it. When we arrived we <add place="supralinear">girls</add> 
+                    decided not to go in to the church as we were such sights &amp; the seats seemed all full anyway. The two boys roamed off and 
+                    some of Abbie&apos;s friends came up - We stayed in the car until it was over about 9:30 and then started home about eight altogether. 
+                    They dropped off until we were down to our original number two miles toward home. Then we stopped and all got into a big Ford truck 
+                    after getting a man out of bed &amp; fussing to get the engine started. The reason 
+                    for this change was that as Lillard had to do hauling in the <abbr expan="morning">a.m.</abbr> he thought he might as well take 
+                    the truck up then as make a special trip for it. It was really awfully jolty. <pb ref="arm03020015014" seq="14" n="08"/> We girls were on the 
+                    front seat too but even there comfort was quite lacking. Quite an evening wasn&apos;t it with only a pear for nourishment. It was 
+                    eleven when we finally arrived after a slow noisy &amp; laborious journey of five miles. Heaven knows what I&apos;ll do next! Found 
+                    cold scalloped tuna fish rolls - blackberry jam &amp; beans for the appeasing of my appetite. Tuna was fixed by my fair hand a la 
+                    Jane! Friday about noon the worst rainstorm descended &amp; we got soppng wet going home even under an umbrella - Abbie 
+                    &amp; Mr. C. both went home that <abbr expan="afternoon">p. m.</abbr> &amp; we girls here took a little walk after school - had 
+                    supper &amp; sat around in the living room in the light of the Rochester. Evelyn gave Emily a music lesson 
+                    - knitted - I read in the <pb ref="arm03020015015" seq="15"/>monitor and went to 
+                    bed rather early - about 8:30. Have not read all the back numbers of my papers etc. yet. The evenings are going to seem delightfully 
+                    long when winter sets in and hope to get lots done - Saturday we all worked so hard all morning - I made some of our cooked 
+                    dressing - washed - sorted out my winter garments from my trunk &amp; hung them up in the closet to get out the wrinkles - did 
+                    some ironing - washed some of the mirrors round about - cleaned out the washstands - changed <add place="supralinear">my bed &amp; turned</add> my mattress - so you know I had on one of my <hi1 rend="underscore">thorough</hi1> cleaning spells. By four o&apos;clock 
+                    I was in a clean dress and ready to make a call on the Huff&apos;s. Eventually stayed for dinner and as there was a &quot;sing&quot; 
+                    at the schoolhouse that evening we went over there. <pb ref="arm03020015016" seq="16" n="09"/>Only one of the musicians 
+                    arrived however - but he and his daughter Jillian - one of my 7th grade girls sang &amp; sang those tragic old ballads! 
+                    Evelyn also sang &amp; played &amp; then everyone sang - winding up with Star Spangled Banner after which the 
+                    party broke up and we were all soon in bed. This is the minister&apos;s weekend but <add place="supralinear">as</add> 
+                    none of us went to church yesterday we all went to Sunday School - I didn&apos;t stay for church as I knew 
+                    <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.U.</abbr> awaited in the evening &amp; chose the lesser 
+                    of two evils. Shortly after dinner about 12:30 (fried chicken again) Abbie arrived coming in a friend&apos;s car. He is 
+                    a man who has lived three years in New Orleans so Emily &amp; I were quite interested to meet him. He thinks it 
+                    a great city and a trip <pb ref="arm03020015017" seq="17"/>well worth taking. After he left I wrote to pa then 
+                    <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.</abbr> next. The lights would not work at the church so we 
+                    came up to the school house - Evelyn &amp; I getting the lamps &amp; keys - Then we spent most of the evening 
+                    singing as some new song books had arrived. The room was full of young people mostly. Now it&apos;s bedtime 
+                    and I must cease &amp; take to the covers. <gap reason="author edit" hand="rs" extent="8 lines" resp="tl"></gap>
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

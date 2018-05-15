@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030023000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Nov. 30, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030023000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Nov. 30, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-11-30">Nov. 30, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>4p</extent>
+					<note type="summary">All night at the Huffs - Plans for Christmas and usual routines</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030023000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Home visits</item>
+						<item>Living conditions</item>
+						<item>People</item>
+						<item>Holidays</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030023001" seq="01"/>
+				<p>
+					<list>
+						<item>All night at the Huffs</item>
+						<item>Plans for Christmas and usual routine</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030023002" seq="02"/>
+				<head>
+					<date value="1919-11-30">Nov. 30, 1919</date>
+				</head>
+				<p><del>
+                    Dearest family - I picture you as a <sic corr="reunited">re-united</sic> group tonight having tea at some fireside together listening to pa&apos;s tales of the sunny south!</del>
+                </p>
+				<p>
+                    As usual have been full of busy-ness since my last dashing scribble of Thanksgiving Day! We went to Huff&apos;s that night about dark in the light of Emily&apos;s big
+                    flash arriving just before their dinner was served &amp; <hi1 rend="underscore">we</hi1> had to sit down &amp; eat more chicken - potato - hot biscuits - jelly - coffee - etc.
+                    Three of the men who work at their sawmill down the river were there - too. Mrs. Huff - Stella &amp; Betty waited on the table. Estel &amp; Jim had gone possum hunting 
+                    having captured one the night before. We girls sat at the table while the feminine members ate &amp; then went into the other room by the fireplace where I did some darning
+                    in the light of the three lamps on the &quot;fire board&quot; - (can you guess what the <hi1 rend="underscore">fire</hi1>
+					<hi1 rend="underscore">board</hi1> is or have I told you 
+                    in another letter?) <pb ref="arm03030023003" seq="03"/> Next morning we were awakened about six by Mrs. Huff&apos;s coming in to light a fire in the little heater so that we rose 
+                    &amp; dressed luxuriously <del>in its heat</del>. After breakfast Mr. Huff asked us if we wanted to go to Emmert&apos;s Cove and of course we did &amp;
+                    away we went in the Ford in short order - Blanche &amp; Mattie with us. It&apos;s a drive of about an hour though I don&apos;t imagine it&apos;s more than six or 
+                    <del>seven</del> miles at the most. A cove corresponds to a <hi1 rend="underscore">large</hi1>
+					<hi1 rend="underscore">holler</hi1> as far as I can see - &amp;
+                    this one is more like a winding valley shut in by high mountains - There seemed to be no town just a house here &amp; there until finally we came to a sawmill where we stopped 
+                    for a half hour or more &amp; while Mr. Huff talked business we girls watched some big oak log cut up into lumber. The largest was about 3 1/2 <abbr expan="feet">ft</abbr>
+                    in diameter &amp; <pb ref="arm03030023004" seq="04"/> such hard solid oak too! We got home about 10:30 &amp; then I was busy the rest of the day - washing - shampooing my hair - 
+                    catching up in my reading &amp; eating my <hi1 rend="underscore">lovely</hi1>
+					<hi1 rend="underscore">candy</hi1>. You don&apos;t know how good it tasted! so much better than
+                    all chocolates! I mended &amp; darned all evening as nearly everything seemed to need a helping hand somewhere. Yesterday (Saturday) there was a very high wind so that 
+                    we gave up our hike though Cora Ogle came over before we were up to see if we would go - We spent most of the day working at school - Fixing up our rooms &amp; planning
+                    work - also our Christmas programs - Cora went over with us &amp; he<del>p</del>lped put up pictures writing papers, etc. You see every time the panels
+                    go up everything has to come down that has been put on them. My writing papers had been up since Halloween so put up new ones in a different way.
+                </p>
+				<p>
+                    Today was Sunday School - &amp; <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.</abbr> as usual - I spent the <abbr expan="afternoon">p.m.</abbr>
+                    reading &amp; tonight Mr. <abbr expan="Cresswell">C.</abbr> was over &amp; Emily &amp; I went over our <abbr expan="Christmas">Xmas</abbr> plans with
+                    him as he usually has to make something for such things! You&apos;d never guess what I did after <abbr expan="Sunday">S.</abbr> School this <abbr expan="morning">a.m.</abbr>
+                    Do you remember the little cards &amp; bookmarks I used to make &quot;when I was young&quot; adorned with sprigs of holly? Well I got out my paints &amp; made
+                    three vanities to get the girls started making some tomorrow at their club meeting.
+                </p>
+				<p><del>
+                     Have been wondering what to give the girls here - Emily Evelyn &amp; Abbie - What do you think of handkerchiefs? Guess you&apos;ll have to get them &amp;
+                     send them to me. Evelyn likes Ned&apos;s song &quot;Three Words&quot; so well I wonder if I could get it for her? Three weeks from today we expect to reach
+                     New Orleans (Emily &amp; I) You all can send me some writing paper for a present as mine is about gone - like the thin foreign paper. It&apos;s so late must
+                     cease &amp; <hi1 rend="underscore">withdraw</hi1> Had a grand long letter from Eliza Jane yesterday.</del>
+                 </p>
+				<p><del>
+                     With loads of love to you all as ever</del>
+                 </p>
+				<p><del>
+                     Ruth</del>
+                 </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

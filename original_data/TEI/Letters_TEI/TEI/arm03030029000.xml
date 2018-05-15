@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030029000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Dec. 20, 1920, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03030029000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Dec. 20, 1920, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-12-20">Dec. 20, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>9p</extent>
+                    <note type="summary">Christmas program at school and ourr leaving the <abbr expan="Gatlinburg">burg</abbr> for the two weeks&apos;
+                        Christmas vacation.</note>
+                    <note type="box">3</note>
+                    <note type="folder">3</note>
+                    <note type="document">arm03030029000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+        <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Holidays</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03030029001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Christmas program at school and our leaving the <abbr expan="Gatlinburg">burg</abbr> for the two weeks&apos;
+                        Christmas vacation.</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03030029002" seq="02"/>
+                <head>
+                    <date value="1919-12-20">Dec. 20, 1919</date>
+                    </head>
+                <p>
+                  Dearest family - Do you see where I am - and a sad &amp; orphaned feeling is about me too in spite of being in Knoxville&apos;s most elegant hotel! The 
+                    reason is this - not a line not a sign of love &amp; affection from the hands of my family has greeted me since Jane&apos;s letter of Monday &amp; a very 
+                    un-Christmas feeling I have! The first too that my loving parents have not shown their regard for me in a <hi1 rend="underscore">material</hi1> way!! However I&apos;m
+                    not really so <hi1 rend="underscore">sad</hi1> as this sounds - listen to my state! <pb ref="arm03030029003" seq="03"></pb>
+                </p>
+                <p>
+                    Yesterday the people began coming to the <sic corr="schoolhouse">school-house</sic> about 7:30 - though the time announced for the program &amp; tree
+                    was <hi1 rend="underscore">ten</hi1>! We got over there at nine &amp; seemed to find a few little <hi1 rend="underscore">last</hi1> things to do until the appointed
+                    hour too. The panel between Emily&apos;s room &amp; mine was up &amp; enough people came to fill all the seats nearly! Emily&apos;s little youngsters were grouped
+                    on the stage for the opening &amp; sang several songs - after which was her little <abbr expan="Christmas">Xmas</abbr> play - I had meanwhile gotten my
+                    girls into kimonos &amp; bathrobes - nightgowns for the angels so that there was not much of an intermission between hers &amp; my tableaux. The lodge fiddled
+                    around about giving a definite answer for over two weeks in regard to lending some old robes - Finally Thursday morning (the day before) they sent back the announcement
+                    that the robes were taken out of the hall in case of a <hi1 rend="underscore">burial</hi1> only. Fortu-<pb ref="arm03030029004" seq="04" n="02"></pb>nately I had 
+                    about given up expecting to use them &amp; had gotten together all the garments at the house including Abbie&apos;s &amp; one of Josie Trentham&apos;s at the hotel
+                    - which with two bathrobes furnished by Cora &amp; Emma made enough. Abbie took Mary&apos;s part the last minute wearing my lovely <hi1 rend="underscore">pink</hi1>
+                    nightgown given me by Nellie so long ago with a georgette scarf of Emily&apos;s for a <sic corr="headdress">head dress</sic>. After this came the tree. Tom made
+                    a good Santa &amp; with the help of some of the youngsters <del>then</del> we got everything distributed &amp; sacks of candy &amp; oranges passed
+                    too. Quite a number of the children brought things for each <pb ref="arm03030029005" seq="05"></pb> other. The spirit of Gatlinburg is mostly that of receiving rather
+                    than giving - we girls got two or three little things only - even Evelyn after all she has done for them! Miss Langmaid says it&apos;s really the fault
+                    of the girls who have been down here before us - their attitude being that of a Lady Bountiful! We all had dinner together - even <unclear reason="illegible" resp="bds">to</unclear>
+                    Mr. Creswell &amp; Mrs. <sic corr="Proffitt">Proffit</sic> - fried chicken &amp; biscuits - as usual - (none of either on our trip say we!)
+                </p>
+                <p>
+                    Then about fifteen minutes before we were ready to start Evelyn &amp; Miss Langmaid decided to go down with us - so there was a grand scurrying on their part &amp;
+		    a great array of baggage - <abbr expan="Evelyn">E.</abbr> &amp; I each have a suitcase &amp; bag - Mr. <abbr expan="Creswell">C.</abbr> package - suitcase 
+		    &amp; piano bench - (a <abbr expan="Christmas">Xmas</abbr> present he had made) Abbie suitcase - Evelyn suitcase - bag - two baskets &amp; a sack of
+		    holly - Miss Langmaid half dozen or so big brooms - <pb ref="arm03030029006" seq="06" n="3"></pb> a small steamer trunk &amp; huge suitcase. Tom drove up in a conveyance
+		    that used to be used as a stage - 3 seated - (the piano bench serving as the front seat) with a top on it - a very high affair too - Well everything was
+		    put in safely &amp; bidding Aunt Lizzie &amp; Mrs. <abbr expan="Proffitt">P.</abbr> a fond adieu off we started on foot - the two youths coming in the wagon - We walked  			    
+                    &amp; rode part of the seven miles to Pigeon Forge over the most awful road imaginable - Evelyn fell down once - your rubbers were pulled off every few steps at the 
+		    heels by the gluiness &amp; for three hours we traveled. <pb ref="arm03030029007" seq="07"></pb> At last we got the <abbr expan="Pigeon Forge">Forge</abbr> where we left the wagon &amp;
+		    found two autos to take us down - Emily &amp; I going to Abbie&apos;s. Before supper we went into <abbr expan="Sevierville">S.</abbr> as I thought there might possibly
+		    be mail from you on the 4 p.m. train - nothing doing! Then on to the Bishop&apos;s for my hat! It&apos;s cold again but had rained the night 			    
+                    before - hence the bad state of our roads - but in <abbr expan="Sevierville">S</abbr> itself the streets are actually dusty.
+                </p>
+		<p>
+		    But I must hasten this story. We slept most happily in Abbie&apos;s feather bed &amp; this <abbr expan="morning">a.m.</abbr> got down to the depot for the 8:10 train which was late
+		    &amp; after it finally came we were over <hi1 rend="underscore">three</hi1> <hi1 rend="underscore">hours</hi1> making the 30 <abbr expan="miles">mi.</abbr> to
+		    <abbr expan="Knoxville">K.</abbr> arriving about noon where we waited a half hour for a <sic corr="streetcar">street car</sic> to take us <sic corr="uptown">up town</sic>! We went               		    
+		    to the ticket office first giving up our original plan of getting <pb ref="arm03030029008" seq="08" n="4"></pb> traveler&apos;s checks at the bank - (it closed at noon) &amp;
+		    <add place="supralinear">after</add> buying our tickets we were informed that our train was <hi1 rend="underscore">3</hi1> <hi1 rend="underscore"><abbr expan="hours">hrs</abbr></hi1> late 			    
+		    - the regular time is 2:20 you know.
+		</p>
+		<p>
+		    Well we had a delicious lunch at the coffee house of this place - ordered a tenderloin between us - French fried potatoes <add place="supralinear">&amp; rolls</add> -
+		    French pastry &amp; 2 cups of coffee per - at how much apiece do you suppose - only <hi1 rend="underscore">80</hi1>. We have a common purse for our expenses
+		    <add place="supralinear">from</add> which we will pay <hi1 rend="underscore">common</hi1> <hi1 rend="underscore">bills</hi1> - it&apos;s very convenient. Then we each got a shine 			    
+		    - as our shoes were awfully muddy in spite of our having worn rubbers - Next <pb ref="arm03030029009" seq="09"></pb> we went to a movie - horrid thing &quot;Fair &amp; 	   	     	    
+		    Warmer&quot; - which we came here where we checked our baggage on arrival this noon. Now we set forth for a light lunch &amp; then to the train which the last reading seen at
+		    the ticket office is 4 <abbr expan="hours">hr</abbr> &amp; 10 <abbr expan="minutes">min</abbr> late. Streets crowded with people shopping!
+		</p>
+		<p>
+		    Emily waiting so will say adieu with loads of love and again Merry <abbr expan="Christmas">Xmas</abbr>!
+		</p>
+		<p>
+		    - Ruth
+		</p>
+		<p>
+		    Do not feel too sorry about my not hearing from you for it will seem so nice to go back to things from you all -
+		</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030012000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Nov. 4, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030012000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Nov. 4, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-11-04">Nov. 4, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>7p</extent>
+					<note type="summary">Community Halloween Party in the school - Visit over night at the Reagan&apos;s - Trip to Round Top</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030012000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living Conditions</item>
+						<item>Holiday</item>
+						<item>People</item>
+						<item>Hiking</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030012001" seq="01"/>
+				<p>
+					<list>
+						<item>Community Halloween Party in the school</item>
+						<item>Visit over night at the Reagan&apos;s</item>
+						<item>Trip to Round Top</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030012002" seq="02"/>
+				<head>
+					<date value="1919-11-04">Nov. 4, 1919</date>
+				</head>
+				<p><del>
+                    Dearest pa - It will be a week tomorrow <abbr expan="Wednesday">(Wed)</abbr> since last I wrote you and have not heard from you during
+                     that time unless you sent the Tacoma newspapers which came today - Thank you muchly for them - but I do think our paper a disgrace with it&apos;s
+                    glaring red headlines &amp; nothing but sensational news. A letter came from Jane also in which she spoke of your settling in California - 
+                    that she would hate to leave the children but otherwise did not care somehow! But if you do contemplate making the change be sure to stay 
+                    on the coast for inland it&apos;s insufferably hot &amp; remember too that there is <hi1 rend="underscore">no</hi1>
+						<hi1 rend="underscore">booster</hi1>
+                    like the Californian. To him his state is Paradise &amp; nothing else.</del>
+                </p>
+				<p>
+                    Since my last epistle have done a number of things which I&apos;ll <pb ref="arm03030012003" seq="03"/> proceed to relate. A Miss Freeman an Iowa
+                    Pi Phi from the same chapter as Miss Brenholtz whom she knew in college has been with us since <abbr expan="Thursday">Thurs.</abbr> and
+                    leaves in the morning for her home. Both Thursday and Friday were devoted to preparations for the Halloween Party for <abbr expan="Friday">Fri.</abbr>
+                    eve. It (the affair) began at 6:30 and everybody came so that the school was crowded with old &amp; young - The rooms (Abbie&apos;s &amp; mine)
+                    were made into one &amp; looked very pretty decorated with autumn leaves. The girls dressed in sheets &amp; pillowcases gave a witch song
+                    in the dark carrying jack-o-lanterns &amp; marching around the rooms. Then we divided the youngsters in two sets &amp; had a trackmeet on the 
+                    order of the one Jane&apos;s club once gave. Then they bobbed for apples etc. and lastly three girls told fortunes in the two cloak rooms. By nine the 
+                    doughnuts (our refreshments made <pb ref="arm03030012004" seq="04"/> by the girls&apos; cooking classes) were passed &amp; eaten &amp; all 
+                    started for home. We had made a lot of witches cats - bats moons &amp; jack-o-lanterns of paper &amp; colored them &amp; decorated 
+                    blackboards &amp; windows with them. All enjoyed it &amp; behaved pretty well - Strung up a couple of big jack-o-lanterns &amp; boughs of 
+                    autumn leaves on the flagpole - but that wasn&apos;t much for Halloween was it?
+                </p>
+				<p>
+                    Saturday was a <hi1 rend="underscore">big</hi1>
+					<hi1 rend="underscore">day</hi1> for we took a most strenuous trip - Miss Freeman - Mr. Cresswell - 
+                    Emily &amp; myself - We climbed Round Top - a perfect cone of a little mountain about seven miles away. On the way (we started at 8:15 from the 
+                    <abbr expan="Gatlinburg">burg</abbr>) we made a call about 5 miles up - at a house where a Reagan family lives and here we were joined by 
+                    three more - Charlie Clabo &amp; two of the Reagan youngsters - It was fortunate they went too for we would never have found the way without their
+                    guidance. At the foot of the mountain we stopped for lunch - building a campfire right by the creek - Roaring Fork - It was quite an elaborate meal too.
+                    The boys had found apples in a deserted orchard &amp; wild grapes - we fried the former - also sweet potatoes &amp; eggs &amp; made coffee - 
+                    All of this with bread - biscuits - jelly - and doughnuts proved most filling though originally planned for four &amp; we had nearly doubled! Just as 
+                    we had finished our last cookery - the rain which had threatened finally came in <pb ref="arm03030012005" seq="05"/> earnest &amp; we seized our
+					<unclear>viands</unclear> &amp; hastened a short distance to a huge rock big as a house which was hollowed out neatly along one side &amp; formed a perfect shelter
+                    for us all. We then started for the top striking right up the side - pulling ourselves along by catching at the laurel little pine trees &amp; other shrubs &amp;
+                    getting a wonderful view as we went higher &amp; higher - It took a good hour to get to the top &amp; how I panted en route. It is by far the hardest 
+                    climb I have ever attempted - the Smoky trip had nothing like it. By the time we reached the summit the storm &amp; gray mist had come upon us
+                    so that we could not get a view - and when we returned  the rain again came down <pb ref="arm03030012006" seq="06"/> this time in torrents. I was
+                    soaked to the skin literally - wore my tramping costume but on account of the warmness of the atmosphere was minus hat &amp; coat. However
+                    the continuous exercise of walking kept me comfortably warm in spite of my dampness. We all enjoyed the experience &amp; had a good time
+                    laughing at each other&apos;s apperance. However we were pleased to reach the <abbr expan="Gatlinburg">burg</abbr> in the darkness at 
+                    6:30 &amp; not have to pass the bunch of porch gazers usually congregated in front of the stores as long as daylight lasts!
+                </p>
+				<p>
+                    Sunday was Church Sunday which proved to be the usual three hour session! including <pb ref="arm03030012007" seq="07"/> including Sunday School.
+                    I didn&apos;t go last month but went this time. After that was dinner &amp; some of the the Saturday work to be done - cleaning my room etc.
+                    Next the weather having turned clear &amp; cold Abbie Miss Freeman &amp; I made a call at one of the houses up the river getting back just at
+                    dusk - and just as Harrison drove up with the long expected Miss Langmaid - She is the head of the school committee &amp; will be with us about
+                    two months - is very nice &amp; pleasant - quite short &amp; stout - wealthy too I imagine.
+                </p>
+				<p>
+                    Well Monday (last night) I was asked again to stay all night <del>with</del> at Lucrettie Reagan&apos;s about half a mile up 
+                    Little Pigeon &amp; where we made the call <unclear reason="illegible" resp="bds">Sunday</unclear>
+					<unclear reason="illegible" resp="bds">Fith</unclear>
+                    I had to go so Emily &amp; I both went. That mountain woman old Mrs.<abbr expan="Aunt Sophie Campbell">Camel</abbr> stayed there too - 
+                    Imagine me sitting in the family circle around the fireplace with Mrs. <abbr expan="Aunt Sophie Campbell">C.</abbr> beside me puffing away at
+                    her long stemmed pipe while Mr. Reagan puffed away opposite! Then sleeping on a mattress of corn shucks under a feather tick! Emily &amp;
+                    I slept together - Mrs. <abbr expan="Aunt Sophie Campbell">C.</abbr> Lucrettie &amp; her little sister all slept in the other bed in the same room - 
+                    <hi1 rend="underscore">in</hi1>
+					<hi1 rend="underscore">their</hi1>
+					<hi1 rend="underscore">clothes</hi1>! 
+                </p>
+				<p>
+                    Well it&apos;s late &amp; must get to bed - spent all day at school doing odds &amp; ends &amp; tonight we sat around the fireplace - I looked 
+                    over my newspapers. Miss <abbr expan="Freeman">F.</abbr> leaves in the morning - Hoping to hear from you tomorrow &amp; that you are
+                    soon to start for the <hi1 rend="underscore">best</hi1> part of <abbr expan="California">Calif.</abbr> &amp; with loads of love <hi1 rend="underscore">as</hi1>
+					<hi1 rend="underscore">ever</hi1>
+				</p>
+				<p>
+                    (no <unclear reason="illegible" resp="bds">voting</unclear> for us!) Ruth 
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

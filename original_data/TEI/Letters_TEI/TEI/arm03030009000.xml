@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030009000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Oct. 29, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030009000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Oct. 29, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-10-29">Oct. 29, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>4p</extent>
+					<note type="summary">In Knoxville. Trip to Wear's Valley for baskets. Home again at the burg.</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030009000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>People</item>
+						<item>Landscape</item>
+						<item>Baskets</item>
+						<item>Living conditions</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030009001" seq="01"/>
+				<p>
+					<list>
+						<item>In Knoxville</item>
+						<item>Trip to Wear's Valley for baskets</item>
+						<item>Home again at the burg</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030009002" seq="02"/>
+				<head>
+					<date value="1919-10-29">Oct. 29, 1919</date>
+					</head>
+				<!-- Page one missing -->
+				<p>
+					<del>it&apos;s</del>
+					<add place="supralinear">Knoxville</add> is a big town rather than a city - population 80 or 90,000 - 
+                    people all awfully ordinary looking - no culture or refinement - It&apos;s a university town too. We went down one street where all the 
+                    mountain people who drive in with produce line up their wagons while all the <del>Kn</del> city - people buy - 
+                    regular public market - chickens - fruit - vegetables - nuts molasses &amp; flowers for sale. We felt quite at home among them - so 
+                    many familiar types!
+                </p>
+				<p>
+                    Well we had to be at the depot by 7 - but as it was the Sunday we turned back our watches - it wasn&apos;t so bad. The car company 
+                    started their cars that morning using strike breakers - and <del>even</del> later in the day there was trouble &amp; 
+                    has been all week - state troops are there now as a general strike is set for Saturday - <abbr expan="November">Nov.</abbr> 1st -
+                </p>
+				<pb ref="arm03030009003" seq="03"/>
+				<p>
+                    The ride between  <abbr expan="Knoxville">K.</abbr> &amp; <abbr expan="Sevierville">S.</abbr> was lovely for it&apos;s in the mountains 
+                    where the foliage is becoming gorgeous - its farther along than up here - where there is much greenness yet - our field of rye is fresh &amp; green 
+                    just right for the cows now. When we reached <abbr expan="Sevierville">S.</abbr> again &amp; had gotten into a jitney ready for the ride up the hill to the 
+                    Bishop&apos;s Evelyn came climbing up with the information that if we so desired we would all leave for <unclear reason="illegible" resp="tal">Wears</unclear> 
+                    Valley where she wanted to find a basket woman. Of course we were all enthusiasm - so hastening home we had a hasty lunch &amp; then set forth in 
+                    the worst looking old Ford - we three girls &amp; Mrs. B. - but the top was down - the day was lovely - too warm for wraps so we were all gay 
+                    as larks - Wears Valley is in the mountains back of Pigeon Forge - It&apos;s a wild country - the people real mountaineers and the cabin where we 
+                    went was typical - 4 double beds <pb ref="arm03030009004" seq="04"/>in one little room with small built in kitchen - walls covered with news paper - baskets &amp; 
+                    dried stuff hanging around - rocker table &amp; straight chairs - Two half grown &amp; very pretty girls were home - It seemed miles aways from 
+                    civilization &amp; so it is in more than one sense.
+                </p>
+				<p>
+                    The people are so attractive &amp; well featured in spite of the dirt &amp; untidiness.
+                </p>
+				<p>
+                    Well we got to Pigeon Forge about two where our same rigs met us and by 4:30 we were home again - Aunt Lizzie &amp; Mrs. Profit waiting on 
+                    the front porch for us &amp; so pleased to see us as we had <hi1 rend="underscore">all</hi1> been gone over the week end.
+                </p>
+				<p>
+                    It took the rest of the day to clean up - put away cot &amp; go to <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.</abbr> where three of 
+                    us teachers had to talk impromptu.
+                </p>
+				<p>
+                    Monday I spent getting papers &amp; report cards ready - Tuesday (yesterday) was spent in getting a letter <add place="supralinear">ready</add> 
+                    for the Arrow about the school - Stopped a little while to go down to a corn husking in the Maples
+                    barn at the foot of our lane - weather uncertain so not a large crowd -
+                </p>
+				<p>
+                    Tonight was the debate - only two of us on a side &amp; the other side won - However it was fun after all &amp; no doubt I won&apos;t mind 
+                    next time <add place="supralinear">at all</add> really didn&apos;t mind it much tonight.
+                </p>
+				<p>
+					<del>Well it&apos;s bedtime and must bid you a fond goodnight <unclear reason="illegible" resp="tal">?</unclear> just lots of love and kisses -</del>
+				</p>
+				<p>
+                    Ruth.
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

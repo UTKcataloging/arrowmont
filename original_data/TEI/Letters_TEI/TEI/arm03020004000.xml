@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020004000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Aug. 20, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Young, Philip</name>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020004000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Aug. 20, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-08-20">Aug. 20, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>13p</extent>
+                    <note type="summary">Mrs. Helmick&apos;s visit. <abbr expan="Manual">Man</abbr> teacher Mr. Cresswell arrives -
+                        Picnic for schoolgirls -</note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020004000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Singing</item>
+                        <item>Education</item>
+                        <item>People</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020004001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Mrs. Helmick&apos;s visit.</item>
+                        <item><abbr expan="Manual">Man</abbr> teacher Mr. Cresswell arrives -</item>
+                        <item>Picnic for schoolgirls -</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03020004002" seq="02"/>
+                <head>
+                    <date value="1919-08-20">  Aug. 20, 1919</date>
+                </head>
+                <p>Dearest family - Nine p.m. Wednesday and am ready for bed but will scribble off a
+                    few hasty lines to &quot;you all&quot; first. Wonder what the news in your midst is by
+                    this time. Sent off two more film packs to Knoxville today for developing
+                    &amp; am so anxious to see them - for have had some fine subjects! As soon
+                    as they come will send them to you.</p>
+                <p>My last letter left off with the <hi1 rend="underscore">sing</hi1> I think did it
+                    not? Usually three musicians come who play violin guitar and banjo - one of them
+                    does most of the singing &amp; everyone sits around quietly and listens in
+                    the most serious way. They are all very mournful or gruesome tales but on the
+                    other hand perfectly ludicrous - One of recent origin is on the death of <abbr expan="William">Wm.</abbr> McKinley - who &quot;while 
+                    <pb ref="arm03020004003" seq="03"/>shaking hands one said &quot;I&apos;m shot&quot; in a quiet way &quot; They go on
+                    interminably - &quot;Charming Betsy&quot; is another - &quot;Cynthy&quot; - &quot;Sourwood Mt.&quot; &quot;Boston
+                    Girl&quot; - (a most bloody tale) The music sounds very much the same - &amp; has
+                    a decided rhythm to which they tap time with their feet while playing - It was
+                    held in Mrs. Helmick&apos;s honor you know - She is really a remarkable woman - her
+                    husband is Gen. H. as I probably told you! As Emily &amp; I were off all day
+                    Saturday. Sunday a.m. we scuttled around &amp; cleaned downstairs going to
+                    Sunday School at 9 - There is no minister here for all the time but 
+                    <abbr expan="Sunday School">S.S.</abbr> is held each week. Dr. Bishop was up for
+                    the week-end so he helped things along &amp; Mrs. Helmick also - We sang
+                    &amp; sang - then went to <pb ref="arm03020004004" seq="04" n="02"/> our classes.
+                    As there were revival meetings up to the <hi1 rend="underscore">&quot;Forks&quot;</hi1>
+                    (about 3 miles over I think) only 35 or so were present - There was a class of
+                    boys - little girls &amp; then the rest of us were taken care of by Dr. B. -
+                    He is a <abbr expan="Methodist Episcopal">M.E.</abbr> minister - but very
+                    broadminded - the lesson was on missions - After this session - flew home
+                    &amp; got out of my gray dress into dirty one &amp; continued work -
+                    cleaning my room &amp; doing a little washing - &amp; by noon was
+                    cleaned up once more &amp; on my way to the hotel with the rest of the crowd
+                    to have dinner with Mrs. Helmick - The hotel people sit at two long tables on
+                    the enclosed porch - &amp; our party occupied all of one end - After dinner
+                    which con- <pb ref="arm03020004005" seq="05"/> sisted of fried chicken - potatoes corn
+                    - beans - tomatoes - jelly - hot rolls - baked apples - lemon pie &amp;
+                    watermelon we sat on the porch - I went over my work with Dr. B. which was a
+                    great help - then the rest of them went back to the house &amp; I stayed
+                    &amp; visited with Mrs. Helmick &amp; Mrs. Huff. Finally Mrs. Helmick
+                    &amp; I strolled over to the little old school on the hill opposite us where
+                    there is such a wonderful view of the <abbr expan="mountains">mts.</abbr>
+                    &amp; talked Pi Phi. She told me a lot about the early beginnings of the
+                    school - all of which she knows as she was here &amp; superintended much of
+                    the building - even helped out with the teaching &amp; for five or six 
+                    <abbr expan="years">yrs.</abbr> was the chief one in the committee - Now she is
+                    not connected with it in any way - but takes <pb ref="arm03020004006" seq="06" n="03"/>a 
+                    very keen interest in it &amp; everyone around. We stayed there until
+                    the church bell rang about 9:30 for young peoples meeting - B.Y.P. it&apos;s called -
+                    so went down for that. More singing with a business meeting - electing officers
+                    etc. Evelyn had charge - &amp; was like pulling teeth to get anyone started.
+                    Finally the new manual training teacher Mr. Cresswell (who had arrived from
+                    Sevierville during the p.m.) was put in for president. It was way after nine
+                    when we finally started home - Mrs. H. &amp; the new man went up to the
+                    house - we had lunch &amp; talked about the school &amp; then bed time!
+                    Mr. C. is a very nice young fellow - grew up around here somewhere - has a farm
+                    - was in the army <pb ref="arm03020004007" seq="07"/> &amp; seems willing to do
+                    &amp; start anything - He &amp; two boys are now living in the house at
+                    the end of the road - a picture of which you have - They are at present having
+                    their meals here as the stove for that house has not yet arrived. He (Mr. C.)
+                    visited at school Monday &amp; got the shop ready - Tuesday he took over my
+                    four mathematics classes &amp; spelling - so now have four English classes -
+                    writing - U.S. History - geography - Latin &amp; ancient history - We begin
+                    at 8 a.m. &amp; have a 15 <abbr expan="minutes">min.</abbr> assembly of
+                    whole school - which we teachers take charge of a week at a time - 15 
+                    <abbr expan="minutes">min.</abbr> recess at 10 a.m. - 15 recess at 2 p.m.
+                    dismissing at 3 - with an <abbr expan="hour">hr.</abbr> at noon <pb ref="arm03020004008" 
+                        seq="08" n="04"/>of course- Mondays &amp; Wednesdays - my
+                    boys &amp; girls (24 in <abbr expan="number">no.</abbr> at present) are all
+                    gone to sewing &amp; <abbr expan="manual">m.</abbr> training from 2 to 3 -
+                    but I have all of Abbie&apos;s youngsters to keep in order - Today they studied hard
+                    for about 25 <abbr expan="minutes">min.</abbr> &amp; then I showed them some
+                    games until dismissal - Both Monday &amp; yesterday p.m. I put in writing
+                    &amp; took a few pictures also - Last evening as I was going down to feed
+                    the pig - yes I had a big bucket of <hi1 rend="underscore">slops</hi1> - Emma
+                    Maples one of my girls arrived with her brother &amp; two youngsters in
+                    their Ford - having brought us some gasoline - Emma walked down with me to the
+                    pig&apos;s dwelling which is down the walk past the cornfield &amp; <pb ref="arm03020004009" 
+                        seq="09"/>school house - way over at the end of our land - On
+                    our way back she said they were going up to the Forks (along Fightin&apos; Creek) to
+                    the other Maples family where her mother was visiting &amp; bring her back -
+                    She wondered if I&apos;d like to go - Of course I said yes &amp; getting Emily
+                    piled in &amp; off - We just flew up &amp; down &amp; over bumps -
+                    along a winding hilly road by Fightin&apos; Creek - It gets dark so early now -
+                    &amp; by the time we reached the house it was real dark - but lovely
+                    &amp; starlight no wrap necessary either - The two boys in this family -
+                    Rellie &amp; Ephraim are in my room - &amp; very nice - Their house is a
+                    large frame farmhouse - with a big porch all around - and here <pb ref="arm03020004010" 
+                        seq="10" n="05"/>were Mr. &amp; Mrs. Maples in bed - We sat down
+                    &amp; visited cheerfully as though they had been up &amp; dressed in
+                    chairs - Finally Mrs. Maples got up - the other (Emma&apos;s mother) was also in bed
+                    &amp; arose - The boys were up &amp; Emma&apos;s married sister - We wound up
+                    with a big watermelon - (am getting very fond of it - you don&apos;t know what a <hi1 
+                        rend="underscore">real melon</hi1> is back there) &amp; a pressing
+                    invitation to stay all night - In the front room was a bed - several big chairs
+                    &amp; a table - While there must have been about a dozen enlarged family
+                    portraits on the walls - They are very nice people &amp; we are going up
+                    again &amp; stay. Today the excitement was a picnic of girls in Abbie&apos;s room
+                    &amp; mine - Twenty seven of us in - <pb ref="arm03020004011" seq="11"/>cluding
+                    Evelyn - Abbie - &amp; myself climbed up the hill beyond the school and
+                    above the place in the road where I took a snap of Miss Abbott &amp; her car
+                    - Here on top of the hill was a great broad shady expanse of level ground - wild
+                    purple asters in blossom near by &amp; pennyroyal all over the steep sides
+                    of the hill! We played &quot;ship-comes-in&quot; while cooling off - a game they didn&apos;t
+                    know - also 3 deep another one new to them and then started our lunch - For our
+                    share we took &quot;light bread&quot; as white raised bread is called &amp; butter -
+                    also juice of blackberries &amp; lemons which made a fine cooling drink when
+                    we added water - They brought tomatoes (this is certainly tomato land- they eat
+                    them like apples) crackers - jelly - sausage <pb ref="arm03020004012" seq="12" n="06"/>two 
+                    pies - apples - cookies. This sounds like more than it was - for we came
+                    home &amp; ate as much supper as usual about 7 - an hour later! Then we ran
+                    races - girls ran according to their sizes - with some left over apple quarters
+                    for prizes - I ran &amp; lost my heel - also got quite dirty before getting
+                    home as we climbed several fences en route. Wore that one piece heavy white
+                    dress I got at McCormack&apos;s - It&apos;s so comfortable - am quite crazy about it I
+                    would like to wear it all the time. We are going to organize these girls into
+                    club tomorrow night something on the order of Girl Reserve&apos;ss perhaps - Anyway -
+                    they meet in my room &amp; elect officers <pb ref="arm03020004013" seq="13"/>choose
+                    names etc. Next week am going to have them work up a party for the boys - After
+                    supper - Emily - Cora Ogle one of my girls &amp; I took a jaunt up the road
+                    along Little Pigeon - &amp; since then have been scribbling away to you fast
+                    as my pencil will go - must now cease my prating &amp; hie me to bed - Am
+                    glad the little Dodge is not going over these awful roads - Hope all is well
+                    &amp; that I hear again soon - Oh yes - we have put off our Smoky <abbr 
+                        expan="Mountain">Mt.</abbr> trip another week for various reasons - Well
+                    once more dear one farewell &amp; adieu with very much love - Ruth</p>
+                <p>
+                    <date value="1919-08-20">Aug. 20 - </date>
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

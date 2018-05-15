@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03040005000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Feb. 7, 1920, [Gatlinburg, Tennessee to] Tacoma, Washington Pi Beta Phi Alumnae Club</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03040005000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Feb. 7, 1920, [Gatlinburg, Tennessee to] Alumnae Club</title>
+                    <date value="1920-02-07">Feb. 7, 1920</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>7p</extent>
+                    <note type="summary">Letter to the Tacoma alumnae (Inez Smith Soule Alumnae Club). Aunt Lydia Whaley and her home.</note>
+                    <note type="box">3</note>
+                    <note type="folder">4</note>
+                    <note type="document">arm03040005000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Home visits</item>
+                        <item>People</item>
+                        <item>Baskets</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03040005001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Letter to the Tacoma alumnae (Inez Smith Soule Alumnae Club)</item>
+                        <item>Aunt Lydia Whaley and her home</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03040005002" seq="02"/>
+                <head>
+                    <date value="1920-02-07">Feb. 7, 1920</date>
+                </head>
+                <p>
+                    Dear sisters in Pi Beta Phi:
+                </p>
+                <p>
+                     Greetings to one (all) and all in this letter for February and do you realize that only one more will come from the school for next month sees the finish. The time has
+                    surely flown by until this last month which has been dark and very rainy most of the time with a few cold snappy and bright days to break the sameness.
+                </p>
+                <p>
+                    This morning is dark gray and rainy exactly like the winter days you <pb ref="arm03040005003" seq="03"></pb> all have been enjoying no doubt.
+                </p>
+                <p>
+                     How do you like the baskets - The white oak splits were made near <sic corr="Wear&apos;s Valley">Ware&apos;s valley</sic> (Wear&apos;s I should spell it) which is 
+                    about six miles from here across the mountains but by road nearly fifteen as it&apos;s necessary to go to Pigeon Forge and turn off from there. We were there one 
+                    Sunday last fall - It&apos;s the regulation cabin - one room and a kitchen built on - newspaper covered walls - beds <pb ref="arm03040005004" seq="04"></pb> fireplace a few
+                    chairs - table and that&apos;s about all. A half grown girl and some boys make the baskets. The father &amp; mother do also - Their name is Watson and they are
+                    related to a pathetic family just a short distance from here on <sic corr="Baskin&apos;s Creek">Baskin&apos;s.</sic>
+                </p>
+                <p>
+                     The brown baskets are made of black willow and are the handiwork of Aunt Lydia whom I&apos;ve told you about surely! She is the one who lives in the tiniest house 
+                     imaginable - I just brush the ceiling with my cap - Abbie has to bend her head while inside. She has great great grandchildren &amp; is eighty years old - but in spite of
+                    both years &amp; her great-greatness is a mighty active old lady. Her cabin is literally stacked full of all sorts of things except <add place="supralinear">for</add> a small space
+                    around the stone fireplace - I don&apos;t know where she sleeps as the bed is out of one&apos;s range of vision under boxes - baskets herbs etc. Even the ticking
+                    <pb ref="arm03040005005" seq="05"></pb> is covered. Her willow trees from which she cuts the splints for the baskets are just outside the back door by the &quot;branch.&quot; She
+                    planted them herself. She loves to talk about her illnesses and those of her kin and neighbors <add place="supralinear">and</add> whom she has cured by means of herbs and 
+                    concoctions of various kinds. Then she can quote whole chapters from the Bible and is fond of <pb ref="arm03040005006" seq="06"></pb> a religious discussion. She tells 
+                    interesting incidents of her girlhood for her mind seems to dwell on the past more than the present.
+                </p>
+                <p>
+                     Our deputy sheriff and man about the place - Harrison in short is down with grippe or flu - as are also three of the children and his wife. We have sent up stuff for them to eat
+                    and Evelyn has called every day to do what she could. They are <pb ref="arm03040005007" seq="07"></pb> all in one room in bed &amp; in <hi1 rend="underscore">all</hi1>
+                    <hi1 rend="underscore">their</hi1> <hi1 rend="underscore">clothes.</hi1> Most of the people do sleep that way it seems - 
+                </p>
+                <p>
+                     You never make a call <del>but</del> without receiving an invitation to stay all night and no doubt they think us strange or &quot;quare&quot; when we refuse
+                    on such short notice.
+                </p>
+                <p>
+                     About half a dozen men here and in Sevierville including Mr. Cresswell our manual training teacher have bought our machinery and plan to put in a dam and build a coffin &amp;
+                    furniture factory this summer - This was Miss Langmaid&apos;s plan you remember until she investigated thoroughly &amp; came to the conclusion that it was too much for
+                    the school to attempt. If the railroad comes in next year too the <abbr expan="Gatlinburg">burg</abbr> will surely be a changed place.
+                </p>
+                <p>
+                     As it&apos;s nearly time to send down the mail will conclude this rambling letter by sending by love and best wishes for the usual happy meeting.
+                </p>
+                <p>
+                     Ruth Sturley.
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

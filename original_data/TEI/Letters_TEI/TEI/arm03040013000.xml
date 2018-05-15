@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03040013000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter] March 3, 1920, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03040013000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter] March 3, 1920, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1920-03-03">March 3, 1920</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>4p</extent>
+                    <note type="summary">Time for report cards - </note>
+                    <note type="box">3</note>
+                    <note type="folder">4</note>
+                    <note type="document">arm03040013000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Students</item>
+                        <item>Snow</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03040013001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Time for report cards - </item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03040013002" seq="02"/>
+                <head>
+                    <date value="1920-03-03">March 3, 1920</date>
+                </head>
+                <p>
+                    <del>Dearest family your letters came Monday and Tuesday respectively with a long one from Mabel - Nellie K. - Gail - and Mrs. Davis - 
+                        also cards from Lida telling me that the baskets had arrived. That reminds me - in my reply to her I did not tell her that the package she had sent has 
+                        <hi1 rend="underscore">not</hi1> come - she wanted to know about it - Will you please tell her?</del>
+                </p>
+                <p>
+                    <del>I am glad you are all well and that things are going along as usual. I am very anxious to see you - and also wonder what you think 
+                        about my staying here a</del><pb ref="arm03040013003" seq="03"></pb><del>nother year. Where is the money coming from for my going home &amp; return if I do teach here next 
+                            year? Katherine has been writing me again very enthusiastically about Oakland but I do not feel drawn toward it in spite of the large salary. It seems 
+                            hard to find out &amp; decide what is the best thing to do but I surely will know before long. Nellie Jane must be the cutest thing - am crazy to see all three 
+                            of the youngsters - suppose the two scoots Weir &amp; h. j. will have to get acquainted all over again with me. It doesn&apos;t seem as though it were 
+                        time to garden yet</del> - Our snowstorm was so like winter but the last three <pb ref="arm03040013004" seq="04"></pb>days have been sunny &amp; today was 
+                    warm like spring exactly - a tree toad was singing away somewhere when I was dressing for supper tonight. <del>Am glad our Dodge 
+                        is in trim again. Nellie K. says her is just fine &amp; looks very gay in the new green license plates! Am sorry that John has been sick - Did the U. shut 
+                        down because of the flu?</del> We surely have been fortunate in the burg - so far there has been little sickness except bad colds. Things have gone 
+                    on as usual this week - drill &amp; play take up lots of time - Went for a walk with Abbie up the road one evening - Tonight took a nap after school - &amp; 
+                    consequently have sat &amp; written letters all evening.
+                </p>
+                <p>
+                    Report cards should have been out today but I just couldn&apos;t get at them before &amp; didn&apos;t feel like it tonight &amp; <hi1 rend="underscore">may</hi1> 
+                    tomorrow. Isn&apos;t that a thrilling state of affairs? Imagine going back to the iron clad rules of the regular school system after the fine &amp; easy 
+                    way of management here! I really enjoy looking at those cards here on the table &amp; my register &amp; then turning my back on them so careless like!
+                </p>
+                <p>
+                    <del>Arthur is probably too busy &amp; taken up with his own affairs to say very much of anything. As for my talking - after teaching all day 
+                        my head is like an empty cistern! Am glad you liked the N. A. pictures. Thank <!-- Pages missing TAL --></del>
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

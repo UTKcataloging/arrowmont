@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03040003000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Feb. 1, 1920, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03040003000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Feb. 1, 1920, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1920-02-01">Feb. 1, 1920</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>6p</extent>
+                    <note type="summary">Aunt Lydia Whaley &amp; her willows for baskets - Men from Delco Light System visit us to make estimate</note>
+                    <note type="box">3</note>
+                    <note type="folder">4</note>
+                    <note type="document">arm03040003000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Electricity</item>
+                        <item>Social events</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03040003001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Aunt Lydia Whaley &amp; her willows for baskets</item>
+                        <item>Men from Delco Light System visit us to make estimate</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03040003002" seq="02"/>
+                <head>
+                    <date value="1920-02-01">Feb. 1, 1920</date>
+                </head> <!-- Page missing -->
+                <p><del>
+                    has been on the job a long time. Thank you for the papers.</del>
+                </p>
+                <p><del>
+                    It seems so funny to think of Jane working &amp; pa home - it&apos;s surely a change for you both!</del>
+                </p>
+                <p>
+                    My last was written Wednesday - started it in the <abbr expan="morning">a.m.</abbr> &amp; then finished it that night - Well - after school Thursday - we girls - 
+                    Abbey Emily &amp; I went to Aunt Lydia&apos;s after some baskets. It was a perfectly beautiful day warm &amp; bright (have been wearing my lovely sweater
+                    &amp; cap on walks lately as it&apos;s been so nice) and we had a very nice call &amp; came <pb ref="arm03040003003" seq="03"></pb> home loaded with baskets.
+                </p>
+                <p>
+                     I sent Lida &#36;18&apos;s worth Friday - and told her to bring to you what she couldn&apos;t sell among the girls - Jane - The money goes to Mrs. 
+                    Richardson whose name is on the bill. Aunt Lydia has a number of willows growing on the bank of the &quot;branch&quot; just outside her cabin door that
+                    she trims for making the baskets - &quot;golden willow&quot; she calls it &amp; just the color of gold too.
+                </p>
+                <p>
+                     Friday was the debate on suffrage - the whole community is against I guess - Several of those who were to take the part wouldn&apos;t the last minute - but
+                    managed to fill in their <pb ref="arm03040003004" seq="04"></pb> as we had discussed it quite thoroughly in school that afternoon. The negative side was given the 
+                    decision of course - 
+                </p>
+                <p>
+                     We were glad when the drill by my girls was over &amp; could come home - <del>S.</del> Two men representing the Delco - Light System 
+                    were <del>there</del> here whom Miss Langmaid had asked to come up way before <abbr expan="Christmas">Xmas</abbr>. They went over
+                    things that night - showed their illustrations etc. &amp; the next morning went over the place &amp; will send in an estimate soon - it will be nearly &#36;2000
+                    including everything but the fixtures - all the buildings &amp; the grounds lighted. However it&apos;s not definitely decided yet.
+                </p>
+                <p>
+                    Saturday morning was busy as usual &amp; in the <abbr expan="afternoon">p.m.</abbr> went up to the Forks of the River with Cora Ogle - Lucrettie Reagan &amp;
+                    her mother. The girls were going to stay for a sing that evening - but Martha Reagan &amp; I just called at Ollie Carr&apos;s (one of my girls) &amp; then came 
+                    back &amp; stopped &amp; made another call on <hi1 rend="underscore">Hattie</hi1> - Charlie Ogle&apos;s wife - who is a Maples - the oldest daughter of Squire
+                    Maples where we stayed for dinner last Sunday.
+                </p>
+                <p>
+                    Dr. Massy was here for dinner &amp; stayed all night making a pleasant break in things. He is dabbling in lumber and has made a good deal of 
+                    <del>lumber</del> money this <del>spring</del><add place="supralinear">fall</add> &amp; winter I guess - 
+                </p>
+                <p>
+                    As this was church Sunday we put in the three <add place="supralinear">hour</add> usual <pb ref="arm03040003005" seq="05"></pb> session - Poor Evelyn
+                    <del>went</del> <del>over</del><add place="supralinear">stayed</add> three hours yesterday afternoon. (Guess I&apos;m getting
+                    sleepy - have made so many mistakes!) After dinner I dashed off some letters and did some reading - Then three of the little girls - who dropped in - Evelyn &amp;
+                    I went <del>up</del><add place="supralinear">down</add> the road to meet the girls as they drove back - Next was supper followed by 
+                    <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> &amp; then we sat around the fire a little while before coming upstairs. The light  went out at
+                    church tonight &amp; finally the two lamps - so that we <pb ref="arm03040003006" seq="06"></pb> had to send for our two faithful Rochesters to finish things. So endeth this 
+                    day!
+                </p>
+                <p>
+                     With much love to you all as always - Ruth.
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

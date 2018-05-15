@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020013000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Sept. 28, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020013000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Sept. 28, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-09-28">Sept. 28, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>23p</extent>
+                    <note type="summary">The Sunday School arrangement of exhibits in school for the fair. The fair diagram of schoolhouse. Visit to two other schools. Trip up Baskins Creek.</note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020013000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>School buildings</item>
+                        <item>Fairs</item>
+                        <item>Mountains</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020013001" seq="01"/>
+                <p>
+                    <list>
+                        <item>The Sunday School arrangement of exhibits in school for the fair.</item>
+                        <item>The fair diagram of schoolhouse.</item>
+                        <item>Visit to two other schools.</item>
+                        <item>Trip up Baskins Creek.</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03020013002" seq="02"/>
+                <head>
+                    <date value="1919-09-28"> Sept. 28, 1919</date>
+                </head>
+                <p>
+                    Dearest family - Am going to get busy and write you the very first thing this Sunday. It is just noon by Gatlingburg time but 
+                    you know we are a good half hour slower than the real time as the people here go by the sun and later on we will be a half 
+                    hour ahead of everyone else. We have just finished dinner - Mrs. Bishop - Emily - Evelyn &amp; I with - Aunt Lizzie too of course 
+                    and are now scattered to various occupations. Sunday School began about nine and lasted nearly two hours as there was 
+                    business connected with it in regard <abbr expan="with">w</abbr> the teachers &amp; officers. They are so slow &amp; deliberate - 
+                    none of the youngsters will take part in things. I was in Evelyn&apos;s class for a change this morning - Mrs. Bishop took a class of 
+                    grown ups - there is a class of men under our <pb ref="arm03020013003" seq="03"/>&quot;chorister&quot; and superintendent Mr. 
+                    Lawson Reagan - and Evelyn&apos;s class of older girls - another of big boys - a class of girls &amp; boys from 8 to 14 &amp; another 
+                    of little tots. Think our attendance averages about 50. More turn out for B.Y.P.U. Sunday evenings. Wish I could give you a pen picture 
+                    of it all - Most of us sit in the choir seats before and after the lesson &amp; <hi1 rend="underscore">sing</hi1> &amp; <hi1 rend="underscore">sing</hi1> 
+                    &amp; <hi1 rend="underscore">sing</hi1>! Am developing considerable lung power &amp; guess my vocal lessons were not amiss 
+                    after all. During dinner today we got to talking about our New Orleans trip - Told you that Emily was going with me Christmas &amp; 
+                    Mrs. Bishop told Evelyn she aught to go too &amp; put off her northern trip till later. And Evelyn is persuaded &amp; we are going to 
+                    let the Pi Phis along the way know about our coming to let them &quot;be nice&quot; to us and tell them <pb ref="arm03020013004" seq="04" n="02"/>
+                    all about the school - take my pictures along too. Imagine the trip will cost about &#36;100 but have decided to take it unless the 
+                    unexpected happens as its the chance of a lifetime. Am getting more &amp; more interested in the work here and the thought of 
+                    teaching in Tacoma again according to rule &amp; method is more &amp; more repugnant. So don&apos;t know just which way things 
+                    will turn - as you say we are doing lots of good here and though going along from day to day one is apt to get discouraged at times and 
+                    wonder if it&apos;s worth the effort - for the youngsters do not study and are so irresponsible - most of them - the few who do try though 
+                    are worthwhile anyway. This community can only be changed through its young people and one can see results here when you go way 
+                    up the creeks &amp; see conditions where the people have not been touched by the school in any way. And the other schools - <pb ref="arm03020013005" seq="05"/>
+                    I saw two of them yesterday - one about three miles up Baskin Creek &amp; the other the same distance up the Roaring Fork. Log 
+                    buildings - benches and a little blackboard in the front end - One had four windows in all - the other six - one had a table for the teacher 
+                    - the other a split log on end with little short piece across formed the desk! Absolutely no equipment whatsoever - the youngsters have 
+                    readers &amp; learn reading but writing is not usually taught! Just picture it! Took kodaks of the buildings &amp; will send them as soon as 
+                    possible. We have been discussing night school lately and are quite enthusiastic about starting it. Mrs. Langmaid now head of 
+                    the school committee will be here about the middle of October and we are going to discuss it with her. We girls all get along so well 
+                    together. It is surely fortunate and Mr. Cresswell is always <pb ref="arm03020013006" seq="06" n="03"/>willing to help as much as possible.
+                </p>
+                <p>
+                    <del>My last letter was written rather hurriedly Tuesday <abbr expan="evening">eve.</abbr> pa&apos;s letter 
+                        came the next day and was very pleased to get. Hope the California trip is all mapped out &amp; ticket bought by this time. When you 
+                        go - pa - be sure to plan going south to Los Angeles - or does Mr. St. John live in that section - none of you have mentioned just where 
+                        he does live. What will Jane do meanwhile? Think I would not know the house if I were there with your newly painted floors and all. The 
+                        attic too!</del>
+                </p>
+                <p>
+                    Have fields here for my cleaning propensities all right - This attic is a perfect sight and some rainy day Emily &amp; I are going to 
+                    get busy - Then at school there is an attic where in an old book case is an awful jumble of books - another job for a dark day. The 
+                    fruit sounds good as it&apos;s scarce here - Have not seen any big pears - We had a few small <pb ref="arm03020013007" seq="07"/>ones 
+                    but they were not very good eating &amp; Aunt Lizzie canned most of them. No pa have not been in bathing once and am glad I did 
+                    not get a bathing suit. There is really no time for play when it comes to <hi1 rend="underscore">cleaning</hi1> <hi1 rend="underscore">up</hi1> 
+                    - prefer seeing the country to dabbing around in Little Pigeon. The weather is summer like and hot except in the mornings &amp; 
+                    evenings when a nap is comfortable - but am still wearing white shoes and thin dresses - That white dress Jane sent me is so suitable 
+                    for school and wear first one &amp; then the other most of the time with the gingham in between. At present am clad in my new white 
+                    georgette waist &amp; light blue skirt - wore my good straw hat to Sunday School too - though fall hats are in evidence even here! 
+                    The heat has not troubled me at all. Yes am very unusual summer color - red &amp; brown - but flatter myself that the <pb ref="arm03020013008" seq="08" n="04"/>
+                    freckles are not quite so numerous or else my mirror doesn&apos;t show them - it&apos;s not very good glass you know. I did not burn 
+                    much on the <abbr expan="outside">out.</abbr> trip last week - At least when I asked the girls about it they said my face was 
+                    <hi1 rend="underscore">so</hi1> <hi1 rend="underscore">red</hi1> all the time they couldn&apos;t see any difference. Guess I do look 
+                    quite healthy - certainly have more color than a year ago - and am still eager for food three times a day at least!
+                </p>
+                <p>
+                    Our fair was a great event though not many in the community turned out for it <unclear reason="illegible" resp="tl">nor</unclear> were many things exhibited. 
+                    It was the first and no doubt next year there will be more interest &amp; it will be more successful. Wednesday morning we went through 
+                    our program - which was as follows -<pb ref="arm03020013009" seq="09"/>
+                </p>
+                <p>
+                    <list>
+                        <item n="1">1. Salute to the flag - School</item>
+                        <item n="2">2. Star Spangled Banner - <abbr expan="school">&quot;</abbr></item>
+                        <item n="3">3. Farm Life - Cora McCarter
+                            <p>(A long winded thing on agriculture &amp; the educated farmer written by some <abbr expan="professor">prof</abbr> 
+                                at Knoxville &amp; which Miss Whittle was anxious to have read - Cora is my best pupil - is in high school - plans 
+                                to be a teacher.)
+                            </p></item>
+                        <item n="4">4. <unclear reason="illegible" resp="tl">Motion</unclear> Song - Come Little Leaves. <del>by</del> - Primary Class.</item>
+                        <item n="5">5. Drill - Shoo Fly Shoo - Intermediate Class.</item>
+                        <item n="6">6. America the Beautiful - School.</item>
+                        <item n="7">7. Handkerchief Drill - 8 Boys</item>
+                        <item n="8">8. Our School Flag Song - School</item>
+                        <item n="9">9. Dramatizations - Primary Class
+                            <item>a. The Larks</item>
+                            <item>b. King Midas</item></item>
+                        </list>
+                        <pb ref="arm03020013010" seq="10" n="05"/>
+                    <list>
+                        <item n="10">10. Sunbonnet Drill - 12 girls.</item>
+                        <item n="11">11. <del>Cannin</del> Songs - Canning Club Girls</item>
+                        <item n="12">12. Songs - Primary Class</item>
+                        <item n="13">13. Closing Song - We Thank Thee Oh Father - School.</item>
+                    </list>
+                </p>
+                <p>
+                    The drill by the intermediate class was also given at Miss Whittles request and illustrated the use of the fly swatter 
+                    etc. Emily&apos;s little tots were cute. Especially funny were they in the Larks - half a dozen of them represented little 
+                    birds whom the Mother Bird had to feed - flying off for a worm to give each. The handkerchief drill was just a lot of motions 
+                    with kerchiefs all ridiculous - My sunbonnet drill went off without a hitch for which I was pleased - We <pb ref="arm03020013011" seq="11"/>
+                    did not think much of the program - especially on Wednesday when everything was done miserably but it was all right the next day 
+                    when our company were present. Well after drilling &amp; drilling <abbr expan="Wednesday">Wed.</abbr> a.m. we worked 
+                    in the building all day &amp; had the youngsters help us instead of recite. We put up the panels making one big room - By the way 
+                    will you let the girls (Pi Phis) borrow the sketch of the school - it&apos;s not well drawn but gives an idea of how things look anyway. 
+                    We on one side of the hall - the manual training exhibit and on the other baskets. The fireplace was banked with autumn leaves &amp; 
+                    on mantel were the same and a big fern. Back of the radiators were golden rod &amp; asters. The wild asters here are lovely little 
+                    things - pale lavender and white - are in bloom now - the <pb ref="arm03020013012" seq="12" n="06"/>little purple ones are practically gone. 
+                    Such qualities of golden rod you never saw - there are several varieties here - some much finer &amp; daintier than ours. You know 
+                    how fond I&apos;ve always been of it - I get all I want of it now! In the sewing room were two tables of apples - three of the cases 
+                    filled with preserves of various kinds &amp; canned fruits &amp; vegetables - crocheted work - two coverlids - (not perfect enough 
+                    to buy) some embroidery - bags made by the little girls &amp; a table of their cookery - peanut bread - cookies &amp; biscuits. In the 
+                    shop were the vegetables - a huge pumpkin - sage - sugar cane - corn - peppers - onions - beets - Emily had paper chains of various 
+                    colors in her room - butterflies &amp; little paper things they had made on little tables - autumn leaves - On her desk her waste basket 
+                    filled with golden rod - I had two corners in the back of my <pb ref="arm03020013013" seq="13"/>room filled with writing papers - Japanese 
+                    lanterns they drew (&amp; good ones too single &amp; in clusters of three) pasted on the blackboard as a border &amp; in the corner by 
+                    the windows - while in the other corners were their maps - Golden rod &amp; asters stick in the radiators - and on the desk - which was moved 
+                    back toward the windows as was the piano. Abbie&apos;s room was similar &amp; had boughs of autumn leaves for trimming. The 
+                    building did look pretty &amp; we went home <abbr expan="Wednesday">Wed.</abbr> evening about five weary but pleased - Mrs. 
+                    Cresswell &amp; Mrs. Bishop both arrive during the day so there was quite a party of us for dinner. Evelyn was busy too everywhere &amp; 
+                    besides had to bake cakes &amp; pies for the picnic dinner the <pb ref="arm03020013014" seq="14" n="07"/>next day - Her mother &amp; 
+                    Aunt Lizzie both helped - Emily and I studied the stars a little &amp; we were early in bed. Did I tell you Emily had a star book? We have 
+                    found a number of the constellations - take the flashlight turn it on the diagram in the book &amp; then gaze fixedly upward till we 
+                    begin to see the ones we&apos;re looking for - Exclaim &amp; point excitedly study the book again &amp; repeat the noise &amp; 
+                    gesticulating.
+                </p>
+                <p>
+                    Thursday morning was &quot;<sic corr="bright">brite</sic> and fair&quot; and I donned spotless  
+                    white &amp; my green tie in honor of the occasion. The livestock we had 
+                    expected dwindled down to a small puppy and a coop of white chickens! However we were kept busy until eleven label<del>l</del>ing 
+                    more canned stuff apples etc. that came in the last thing. At eleven the <pb ref="arm03020013015" seq="15"/>school bell was rung - the 
+                    children assembled for the program in Abbie&apos;s room and the audience filled only my room - about fifty. After that we went outside 
+                    to the back of the schoolhouse when the lunch was set forth on tables - chickens pies cakes - biscuits - bread jelly etc. loads of it 
+                    everyone helped themselves &amp; sat around &amp; ate. I took a number of pictures during the day &amp; do hope they prove good. 
+                    The next excitement was the arrival of the baseball team from Sevierville with some of the teachers &amp; girls - they came to the house 
+                    &amp; had to be shown the exhibit etc. Then about 2:30 the game began - a good close game too - We beat 6 to 4 however. Our team 
+                    was not a strictly school team but was filled out <pb ref="arm03020013016" seq="16" n="08"/>with fellows from Sheep Pen - the Glades - 
+                    Green Brier. The Murphy people yelled vigorously &amp; ours were soon inspired to do the same - In fact the two crowds of girls got 
+                    pretty personal at times &amp; we had to calm ours a little. The day finally came to a close - the Sevierville crowd departed - Miss 
+                    Whittle &amp; her two judges also &amp; we turned our thoughts to supper. As everything was taken over to the picnic our prospects 
+                    appeared <hi1 rend="underscore">nil</hi1> but Aunt Lizzie found a whole batch of biscuits in the warming oven that had been overlooked 
+                    - we made chocolate - got out some canned peas - and bethinking ourselves of the girl&apos;s display of cookery - Abbie &amp; I 
+                    rushed over to the schoolhouse for it - However part of it had already found resting places wasn't that the <unclear reason="illegible" resp="tl">limit</unclear>? 
+                    But we packed up what <pb ref="arm03020013017" seq="17"/>remained and had a beautiful repast after all. Friday recitations were 
+                    pretty slim - people were around packing up a good part of the morning so instead of having my recitations in the sewing room as 
+                    usual I went out on the porch &amp; as it was rather cool early in the <abbr expan="morning">a.m.</abbr> we sat on the edge of the 
+                    walk in the sunshine. The youngsters thought it great fun! After school Emily &amp; I finished cleaning up while Mr. <abbr expan="Cresswell">C.</abbr> 
+                    helped load up the wagon with the exhibits for the Sevierville fair which is Monday &amp; Tuesday - Abbie had gone home &amp; 
+                    Evelyn was busy at the house - then I came home &amp; after sitting on the porch a little with Mrs. Bishop eating apples &amp; cookies - 
+                    swept downstairs &amp; part of the upstairs. Then cleaned up &amp; proceeded to darn! After dinner we sat around <pb ref="arm03020013018" seq="18" n="09"/>
+                    in the living room - Evelyn played &amp; sang for us - Emily read - Mrs. Bishop crocheted &amp; I finished my darning. So ended another big day.
+                </p>                
+                <p>
+                    Yesterday Emily &amp; I bustled around until about eleven and then set forth with lunch &amp; kodak up Baskins Creek - 
+                    It is not very pretty &amp; is up hill most of the way - the creek is rather dirty &amp; the people all seem so untouched by 
+                    civilization. We took a steep trail which lead us to the top of a ridge overlooking Roaring Fork and very near the foot of Round Top - We 
+                    sat here for over an hour - writing in my diary &amp; talking with Emily who wrote a letter - Such a grove of chestnut trees as we were 
+                    in. These trees are enormous and are beautiful too - loaded with nuts. When we started down to Roaring Fork we came to a field where 
+                    was a huge apple tree loaded with red fruit - Over <pb ref="arm03020013019" seq="19"/>the fence we went and helped ourselves - An 
+                    abandoned cabin stood in the middle of the field so we were not <hi1 rend="underscore">stealing</hi1>! The road back was simply 
+                    beautiful - In one place the side of the mountain was a rocky cliff - several of them in fact and always we followed the creek - many times 
+                    &amp; oft crossing it on narrow little bridges consisting of two planks - The wild grape vines flourish all along the creek - tree after tree 
+                    being covered to the very top. As we took our time &amp; made one call along the way &amp; chatted with others it was dark when 
+                    we reached home though only 6:45. We had tramped about eight of these <hi1 rend="underscore">long</hi1> miles but frisked around 
+                    - made hot chocolate - scrambled some eggs and hunted up fresh biscuits - (&quot;light bread&quot; as <del>(</del> 
+                    white <del>br</del> raised bread is called here - Aunt <pb ref="arm03020013020" seq="20" n="10"/>Lizzie never made 
+                    bread until last winter - everyone makes biscuits &amp; corn bread) Evelyn &amp; her mother were at the Huff&apos;s and as Aunt Lizzie 
+                    had had a spell with her heart that morning we would not let her do anything - After this we went back to the living room - &amp; I 
+                    copied a couple of poems from the Outlook about the Kentucky <abbr expan="mountain">mt.</abbr> people - Then the Bishops 
+                    got back &amp; in the course of time we were all safe &amp; sound in bed again.
+                </p>
+                <p>
+                    Evelyn &amp; her mother are now on their way to Sevierville as the fair exhibits have to be put in place - Tuesday there will be 
+                    no school so that the youngsters may have an opportunity to go - Will probably chaperone some of them down -
+                </p>
+                <p>
+                    Have not worn my pleasant hat yet and think I'll not wear it <abbr expan="Tuesday">Tues.</abbr> as it&apos;s still dusty &amp; 
+                    the girls say the crowd is awful - So shall wear my <pb ref="arm03020013021" seq="21"/>old gray with my blue suit maybe will wear gray 
+                    silk gloves &amp; gray shoes -
+                </p>
+                <p>
+                    Am going to have Mary fix my two old georgette waists take out fullness in waist part &amp; sleeves - get ready for New Orleans!
+                </p>
+                <p>
+                    A busy week is ahead of us and as I must plan something for my club girls for tomorrow <abbr expan="afternoon">p.m.</abbr> find something 
+                    for B. Y. P. tonight (the subject <hi1 rend="underscore">Divorce</hi1> was given me but do not care <del>ta</del> 
+                    to take it <hi1 rend="underscore">somehow</hi1>!) write a few letters - study a little - guess I must finish this lengthy epistle by bidding 
+                    you all a fond farewell - I do miss you so much - but we are just too busy for repining! and wouldn't be in Tacoma teaching for 
+                    <hi1 rend="underscore">anything</hi1>!! Loads of love - Ruth.
+                </p>
+                <p>
+                    Sept. 28th. Sunday.
+                </p>
+                <pb ref="arm03020013022" seq="22"/>
+                <figure>
+                    <head>Hasty Sketch of School</head>
+                    <figDesc>Hand drawn blueprint of settlement school by Ruth Sterling.</figDesc>
+                </figure>
+                <pb ref="arm03020013023" seq="23"/>
+                <p>
+                    On top of the book cases in hall are baskets filled with ferns - over the fireplaces is a large sepia print in brown wood frame of 
+                    Corat's morning. Above book case at right of hall as you enter is a service flag - filling a large part of the wall space - while at the 
+                    left on opposite wall is a <hi1 rend="underscore">big</hi1> American flag - formerly used on flagpole - but torn so abandoned to 
+                    the closet. We found it &amp; mended it the best we could &amp; had the boys put it up - looks fine too! Back of my desk hangs 
+                    a big U.S. map &amp; my little silk flag - two or three pictures are on the panel back of the piano - prints and on wall above panel 
+                    high up hangs a Pi Phi banner - Behind each of my doors is blackboard &amp; between doors - Above are five prints. Between 
+                    the windows are some colored drawings of Japanese lanterns - Had writing papers along panels of back of room - At present 
+                    they are all at the at the fair - Under the flag usually sits a flower stand on which is basket with fern - ditto on piano - The two cases 
+                    in the hall are for the youngster&apos;s baskets &amp; pails of lunch. In the sewing room are three tables - benches - blackboard 
+                    &amp; (I <hi1 rend="underscore">think</hi1>) <hi1 rend="underscore">three</hi1> sewing machines &amp; case in corner for their 
+                    work - In kitchen are oil stoves for the cooking - The shop is very well equipped - the only school in the county that teaches manual 
+                    training. The water <unclear reason="illegible" resp="tl">tank</unclear> is very nice - water pumped from the house - regulation 
+                    drinking fountain!
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

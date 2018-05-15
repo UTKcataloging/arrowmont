@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030019000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Nov. 20, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030019000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Nov. 20, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-11-20">Nov. 20, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>7p</extent>
+					<note type="summary">A busy life for us all</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030019000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+			<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>People</item>
+						<item>Home visits</item>
+						<item>Living conditions</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030019001" seq="01"/>
+				<p>
+					<list>
+						<item>A busy life for us all</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030019002" seq="02"/>
+				<head>
+					<date value="1919-11-20">Nov. 20, 1919</date>
+				</head>
+				<p>
+                    Dearest Jane - It&apos;s about 8 p.m. this Thursday evening &amp; hope to soon be in bed - would have written you last night but just didn&apos;t 
+                    have the pep - Things have been buzzing so lately - Monday after school - the girls practiced their song - then I dashed over to Huffs&apos; to see 
+                    about Estel&apos;s costume for the play &amp; of course couldn&apos;t get away till almost dark - Then was supper &amp; before it was 
+                    devoured - Cara &amp; Tom McCarter arrived about getting help for their Latin &amp; stayed all evening - They are such nice youngsters &amp; 
+                    so worth while helping in every way - Tom is perfectly killing - one never knows what he will say next.
+                </p>
+				<p>
+                    Tuesday we <sic corr="practiced">practised</sic> on the play &amp; <add place="supralinear">I</add> was over at the school house till dark &amp; spent 
+                    evening remodeling the sun bonnets in my Fair drill into Puritan bonnets &amp; visiting <pb ref="arm03030019003" seq="03"/>with Evelyn &amp; 
+                    Miss Langmaid - Last night when I got back here Dr. Massey was just going up the road in his Ford to the Ogles - (Ephraines) about a mile up the river 
+                    - I decided to go along &amp; make a call at Lucretties as she was not in school that <abbr expan="afternoon">p.m.</abbr> We had quite a time getting the car 
+                    started - Harrison &amp; I both helped Dan (the horse) even came up back of us to see what was doing. Finally a man on horseback came up &amp; 
+                    solved the trouble &amp; away we went. Lucrettie was all huddled over the fire - a big silk handkerchief on her brow. After visiting a little I persuaded her to go 
+                    for a walk &amp; gather some of the pine &amp; hemlock boughs covered with cones - perfectly beautiful. We got a big armful <pb ref="arm03030019004" seq="04"/> 
+                    which I left at the school to be fixed this morning - (four baskets!)
+                </p>
+				<p>
+                    Evelyn &amp; Miss Langmaid I discovered on my return had gone down the road toward Sevierville with the doctor on his way back so walked down 
+                    that way to meet them as they returned on foot. We all enjoy these little snatches of rides so much! But it began to get dark - really dark &amp; no sign of
+                    them so returned home. 
+                </p>
+				<p>
+                    We ate supper &amp; still they didn&apos;t come - I finally concluded they went all the way into Sevierville which surmise proved correct. Abbie has had a 
+                    bad cold all week as so many are afflicted at present &amp; came home at recess sick enough to go to bed - The doctor prescribed calomel so Emily 
+                    &amp; I fussed around with her some &amp; then I went over to the cottage to stay all night with the Carr girls in her place. It sure is cold these days - am
+                    wearing my big old coat &amp; wool dresses.
+                </p>
+				<p>
+                    Tonight after school - Cora practiced the 23rd Psalm which she sings while spinning. She just suits the part of Priscilla too. About 4:30 Emily &amp; I
+                    started off &amp; called at the Andrew Ogles&apos; just below our bungalow the ones who caused so much trouble between  Marshall - (their son) &amp;
+                    Mary &amp; who said so much about us! The father is a regular patriarch in appearance &amp; <del>can&apos;t</del>
+					<add place="supralinear">won&apos;t</add> do a bit of work sits around at the stores &amp; <pb ref="arm03030019005" seq="05"/> on his porch - gossips most 
+                    of the time - but no wonder - he can neither read nor write and has absolutely nothing to take his mind off his neighbors&apos; affairs! Cora the 
+                    daughter whom I have in school is lovely a regular little beauty - big black eyes - dark hair &amp; pretty features. We (Emily &amp; I) are planning to take
+                    an all day hike with her &amp; Lucrettie during Thanksgiving vacation! Well - as we left their house we met Mrs. Huff &amp; little Blanche looking for 
+                    Mr. <abbr expan="Huff">H.</abbr> &amp; the Ford as Evelyn had phoned from Pigeon Forge for someone to 
+                    meet them. Poor Harrison had to go with Dan as no trace could be found of Mr. <abbr expan="Huff">H.</abbr> We walked part way home with her getting
+                    back at dark - Aunt Lizzie was <pb ref="arm03030019006" seq="06"/> making cocoa - &amp; had put some bread in the oven to toast - I had the bright idea
+                    of sprin<del>n</del>kling grated cheese over it - &amp; by the time it was ready &amp; some remnants of chicken &amp; gravy
+                    warmed over - the two ladies arrived - Said they decided to go on to Sevierville as the doctor said he&apos;d take them up to Wears Valley to see about 
+                    baskets (had to <del>see</del>
+					<add place="supralinear">visit</add> a patient).
+                </p>
+				<p>
+                    We had our supper all together after all - &amp; then tried Ned&apos;s songs which came from Uncle Art today - I like them very much - &amp; Evelyn
+                    thinks them <hi1 rend="underscore">very</hi1>
+					<hi1 rend="underscore">good</hi1>. She has not yet given me a lesson - but eventually she <hi1 rend="underscore">may</hi1>
+                    get around to it - We had a helter skelter life <pb ref="arm03030019007" seq="07"/> you see - 
+                </p>
+				<p>
+                    By the way please find out as soon as possible where we may get the powdered paint for our toys - We must get at them <hi1 rend="underscore">next</hi1>.
+                </p>
+				<p><del>
+                    Do you like this kind of a letter? Have not made one comment on yours have I?</del>
+                </p>
+				<p><del>
+                     Shall be so glad to have the kodaks of the children - should think Nellie would be weary at times! Miss Langmaid wanted some of my kodaks &amp; just
+                    sold them to her &amp; will get duplicates to send you - The one of <hi1 rend="underscore">my</hi1>
+						<hi1 rend="underscore">hat</hi1> did not come out - 
+                    &amp; the other of my gray dress is only <hi1 rend="underscore">so</hi1>
+						<hi1 rend="underscore">so</hi1>! It will be fine for <hi1 rend="underscore">them</hi1>
+                    (Arthur &amp; Nell) to have a real house &amp; yard - I never felt that the other house suited them somehow - Is the office moved? Wouldn&apos;t it be fine
+                    <hi1 rend="strikethrough">th</hi1> for that land to bring <hi1 rend="underscore">something</hi1>
+						<hi1 rend="underscore">in</hi1>! </del>
+                </p>
+				<p><del>
+                    Yes I do take care of myself <hi1 rend="underscore">sensibly</hi1> and do not court colds, wet feet, etc. What took Bessie to Chicago? Wonder what she
+                    will think of our relations?</del>
+                </p>
+				<p><del>
+                     I don&apos;t know what I want for <abbr expan="Christmas">Xmas</abbr> - Honestly - unless it&apos;s my silver mirror &amp; that is very 
+                     unnecessary &amp; expensive - </del>
+                 </p>
+				<p><del>
+                     Would like a lot more of those <unclear reason="illegible" resp="bds">photogravures</unclear> - if you want to say <sic corr="goodbye">good by</sic>
+                     to them as those I have are awfully flyspecked - </del>
+                 </p>
+				<p><del>
+                     Guess you all will have to have some more baskets from me - Thought  I might have time to make some things but sure <hi1 rend="underscore">won&apos;t</hi1>.
+                     Hope you got the others &amp; liked them. Must say goodnight dearest Jane &amp; with so much of love to you all - Ruth</del>
+                 </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030006000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Oct. 22, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030006000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Oct. 22, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-10-22">Oct. 22, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>4p</extent>
+					<note type="summary">Lunch time at the school.</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030006000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living conditions</item>
+						<item>People</item>
+						<item>Students</item>
+						<item>Home visits</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030006001" seq="01"/>
+				<p>
+					<list>
+						<item>Lunch time at the school.</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030006002" seq="02"/>
+				<head>
+					<date value="1919-10-22">Oct. 22, 1919</date>
+				</head>
+				<p>
+                        Dearest Jane - Your letter came this rainy noon with one from Uncle Art and as I&apos;m in the mood for scribbling will dart off a few 
+                        lines here on some cushions in front of the fireplace - Emily upstairs in bed reading Shakespeare - Evelyn down at Sevierville &amp; 
+                        coming back to this room - Aunt Lizzie knitting away on her stocking - and two of the school girls playing &quot;Authors&quot; in the corner. 
+                        They are <hi1 rend="underscore">V</hi1>eatrice Parton &amp; <hi1 rend="underscore">Birth</hi1>ana McCarcter caught by the rain - Birthana 
+                        is one of my special McCarters and a dear girl - She could have been home but some of the youngsters had been teasing her so that after 
+                        school I found her crying &amp; brought her home. We have our troubles in school of course - Abbie&apos;s girls are usually at the bottom too. 
+                        The McCarter girls are so hard working &amp; have such good stuff in them they will amount to something some day I know - Cora was here 
+                        last week and you remember. This noon they all boys &amp; girls too were playing &quot;Farmer in the Dell&quot; in the hall &amp; having 
+                        the best time. Two of the older girls practice at noon time - Most of them bring their lunches you know so that it&apos;s a lively place from 
+                        <pb ref="arm03030006003" seq="03"/>12 to 1 - Lucrettie Reagan gave me instructions when I left for lunch to hurry back so I could help her with 
+                        U.S. History as she couldn&apos;t answer &quot;nary a question&quot;. The little ones always are asking - &quot;Is it time for 
+                        <hi1 rend="underscore">books</hi1>? (meaning <hi1 rend="underscore">school</hi1>) When I ask a question in class many a time they will 
+                        put up their hands &amp; shake them violently saying under their breath - &quot;Let me - let me!&quot; I love my writing class of Abbie&apos;s 
+                        youngsters - I told you didn&apos;t I? That mondays &amp; wednesdays they are in my room from 2:15 to 3:00 - while mine are in domestic 
+                        science &amp; manual training. They work so hard with the arm movements - some of them stick out their tongues so far! Then Tuesdays 
+                        &amp; Thursdays at the same hour I have drawing with mine. They have been printing a <unclear reason="illegible" resp="tl">motto</unclear> 
+                        which looks pretty well. 
+                    </p>
+				<p>
+                        Yesterday was an uncertain sort of a day - after school just as I got to the house Evelyn came down the steps bag in hand - hat &amp; coat. 
+                        &quot;Sevierville?&quot; I asked. &quot;Yes&quot; - she said - &quot;Dr. Massey came up this way so am going in &amp; back tomorrow - 
+                        come on <del>as</del> ways.&quot; Dawn at the foot of <pb ref="arm03030006004" seq="04"/>our road was the old Ford run 
+                        about &amp; Dr. Massey - Emily went along too. He is such a big man - but we all piled in. I sat on the floor with the door swinging open so that 
+                        my fair feet could rest on the running board. We went up the Roaring Fork road to the ford - (where I took the picture of the youngsters) - as he was 
+                        going back via <hi1 rend="underscore">Booger</hi1> Town!
+                    </p>
+				<p>
+                        Lulu May McCarter&apos;s family live near the ford so we alighted after a delightfully muddy jolty ride of a mile or more &amp; made a short call - 
+                        I had a letter from Lulu May who is away at school in Ohio &amp; wanted to tell them about it. We stopped at the hotel on the way back to see 
+                        Josie Trentham a girl who works there &amp; ask her to tell fortunes at our Halloween party. Mr. Huff arrived just as we were leaving so he 
+                        brought us back in his Ford to the foot of the lane again. Oh yes - we met a soldier lad just back from a year in France on his way home up Roaring 
+                        Fork about six miles. He stopped &amp; talked with us quite a spell - so pleased to see <abbr expan="the United States of America">U.S.A.</abbr> 
+                        again. Imagine he is some changed mountain boy all right. Today I haven&apos;t done much besides teach - got home late &amp; found Emily 
+                        making fudge &amp; Aunt Lizzie starting supper - Dashed off a letter to the Glasier&apos;s &amp; had supper about <hi1 rend="underscore">five</hi1>! 
+                        Abbie came in to get some candy &amp; visit - There is so much coming &amp; going &amp; <hi1 rend="underscore">talking</hi1> (Evelyn is 
+                        an inveterate talker) that the time sometimes is <hi1 rend="underscore">frittered</hi1> away. She didn&apos;t get back from Sevierville after all. 
+                        Have had to play for assembly several times lately and do not particularly enjoy it. <del>We wish you could come for a visit! 
+                            Couldn&apos;t <hi1 rend="underscore">we</hi1> manage it? Was interested in the <hi1 rend="underscore">clippings</hi1> - and hope to hear 
+                            about Aurora Club &amp; University - Club doings soon. It&apos;s all right about the Arrow as you very well know! Send it to me some time soon. 
+                            Know the youngsters must be darling - Had such a nice letter from Nellie yesterday - the coats are lovely. To try swimming! I had to laugh when 
+                            I read it - it goes to prove what a <hi1 rend="underscore">modern</hi1> grandmother you are doesn&apos;t it? Give my fond regards to Miss 
+                            Paucost! Am glad you have started to fix the house - Hope pa has finally received my letters - said none had come the last I heard from him - 
+                            one should have been there the time he first arrived -</del>
+				</p>
+				<p>
+                        Lots &amp; lots of love to you
+                    </p>
+				<p>
+                        Ruth
+                    </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

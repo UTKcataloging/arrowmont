@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030002000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Oct. 12, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03030002000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Oct. 12, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-10-12">Oct. 12, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>7p</extent>
+                    <note type="summary">Milking Jersey cow. Horseback trip. Chestnut ripe</note>
+                    <note type="box">3</note>
+                    <note type="folder">3</note>
+                    <note type="document">arm03030002000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+         <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>People</item>
+                        <item>Landscape</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03030002001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Milking Jersey cow</item>
+                        <item>Horseback trip</item>
+                        <item>Chestnut ripe</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03030002002" seq="02"/>
+                <head>
+                   <date value="1919-10-12">Oct. 12, 1919</date>
+                </head>
+                <p>
+                    <del>Dearest pa - your note from the hotel in Frisco was gladly received yesterday - and found 
+                        you right away in the big bus - you took the same trip I did and I thought it all very wonderful and interesting too. 
+                        Like a true tourie I love the big sight seeing cars - The ferries to <sic corr="Berkeley">Berkiley</sic> are huge 
+                        affairs are they not? And isn&apos;t Berkeley pretty? You should go to our other 
+                        cousins there and in Palo Alto before you return. Haven&apos;t the vaguest idea what Rudley is like - hope it 
+                        will prove attractive and that the St. John&apos;s have a car.</del>
+                </p>
+                <p>
+                    What do you suppose my latest adventures are? Imagine you haven&apos;t the slightest idea 
+                    <pb ref="arm03030002003" seq="03"/>what I&apos;ll do next have you? Well no more have I - and that&apos;s 
+                    one of the great charms of life here in the burg - Well I&apos;ve tried my hand at <hi1 rend="underscore">milking</hi1> 
+                    our Jersey and went horseback riding about ten miles both deeds accomplished last night (Saturday). We gave 
+                    up our trips planned for the weekend after all for first one reason &amp; then another as I guess I told you in my 
+                    last epistle - Evelyn broke <del>her</del> 
+                    <add place="supralinear">a</add> <del>teeth</del> <add place="supralinear">tooth</add> &amp; had to 
+                    go at once to Knoxville to have it fixed &amp; that knocked out Elkmont - Then Mr. Cresswell had friends &amp; 
+                    a brother from home visit him Saturday that spoiled our going to Round Top (a mountain about six miles off ) 
+                    So we girls <pb ref="arm03030002004" seq="04"/>bustled around all morning &amp; then in the 
+                    <abbr expan="afternoon">p.m.</abbr> sat luxuriously in <hi1 rend="underscore">thin</hi1> dresses &amp; white 
+                    shoes on the front porch. Sitting on our lovely porch in a rocker is something I don&apos;t have time for more 
+                    than a few minutes at a sitting usually - Harrison&apos;s wife &amp; some of the youngsters came over then 
+                    later When Harrison came along Abbie &amp; I told him we wanted some excitement like going after a still or 
+                    such - The result was that he scared up some horses &amp; he Mr. Cresswell Abbie &amp; I set forth at dark 
+                    up the Roaring Fork road to Bally <del>Left</del> Lethicoe&apos;s (a man) where some fence 
+                    posts were supposed to be ready for us - So picture us walking or rather ambling along over the rugged stony 
+                    road up &amp; down &amp; through half a dozen fords - single file most of the way. It was starlight when we 
+                    started but soon clouded over but as it&apos;s full moon the sky was quite light anyway. It sprinkled a few drops 
+                    only however and we got back about ten thrilled &amp; pleased with the trip &amp; quite dry except poor 
+                    Mr. <abbr expan="Cresswell">C.</abbr> whose gallant steed stumbled in one deep ford so he was wet over 
+                    his knees - Abbie had never been on a horse before so we made a good pair. We girls hope that this will prove 
+                    the beginning of many rides - I do want to get so I can really <hi1 rend="underscore">sit</hi1> 
+                    <hi1 rend="underscore">a</hi1> <hi1 rend="underscore">horse</hi1>!
+                </p>
+                <p>
+                    The rain which threatened to descend last evening has come down with a vengeance 
+                    all day and is the first continuous rain we&apos;ve had as previ-<pb ref="arm03030002005" seq="05" n="02"/>ously 
+                    it has cleared before night fell. We went to Sunday School as usual and then for a change all of us had 
+                    dinner at the hotel. An elderly couple are there much of the time a Mr. &amp; Mrs. Hall. He is manager 
+                    of the little stub train running between Knoxvile &amp; Sevierville. They are pleasant to meet and have 
+                    been nice to us - Our dinner was unusually good as Mr. Hall had shot half a dozen wild ducks. Did you ever 
+                    eat any? We visited with them some time on the porch &amp; then Emily &amp; I trotted back home in between
+                    the worst showers &amp; got to letter writing.
+                </p>
+                <p>
+                    <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.U.</abbr> was over at the school tonight so about six we girls 
+                    paddled over with <pb ref="arm03030002006" seq="06"/>the lamps &amp; started things. Not many came - fifteen 
+                    or so - but it was quite a nice meeting sang &amp; read the lesson.
+                </p>
+                
+                <p><del>
+                        Well - I shall no doubt hear more of your adventures soon - Imagine Katherine was tickled to death to see 
+                        you wasn&apos;t she? Is she living at her Aunt&apos;s?</del>
+                    </p>
+                <p><del>
+                        Isn&apos;t it exciting about Arthur&apos;s new car? Had a long letter from Mandie the other day - containing 
+                        no special news - except that the teahcers&apos; salaries have been raised &amp; Art D. had a new car - an 
+                        Olympian. Never heard of it before did you?</del>
+                    </p>
+                <p>
+                    Everyone here is eating chesnuts now as there is a big crop this year - They were 
+                    sold at the store for 3&#162; - but in <pb ref="arm03030002007" seq="07"/>town guess the 
+                    price is quite scandalous. You see people just go out and pick them off the ground in the woods 
+                    so practically no one in the burg buys them. Persimmons are getting ripe. Did you ever eat any? They 
+                    are quite good - I think - had just one which I found on a walk up Baskins the other day. Are not really ripe 
+                    until frost and so far we have had none of that.
+                </p>
+                <p><del>
+                        Am getting sleepy and about ready for bed - another busy week is ahead of me - no doubt. When do you suppose 
+                        we will all be together again &amp; <hi1 rend="underscore">where</hi1>? What if Jane sells the house? Won&apos;t 
+                        that be thrilling?</del>
+                    </p>
+                <p><del>
+                        Will tell you good night - it&apos;s only 9:30 but everyone else is in bed &amp; has been for some time - the 
+                        evenings seem so long.</del>
+                    </p>
+                <p><del>
+                        With lots of love as ever -</del>
+                    </p>
+                <p><del>
+                        Ruth.</del>
+                    </p>  
+                    <pb ref="arm03030002008" seq="08"></pb>
+                    <p>
+                        <del>but we did not go over</del> - I helped Aunt Lizzie chase the cows over to their pasture
+                        in the school yard once too. Finally after while Harrison came ambling along &amp; I told him we wanted something
+                        exciting to do - like a still hunt or such - He thought &amp; thought - and suggested our walking about four miles
+                        up Roaring Fork to <hi1 rend="underscore">Bally</hi1> <hi1 rend="underscore">Lethaco&apos;s</hi1> (a man) to see
+                        if some fence posts promised us were ready - We said - no -  no walking for us - get some horses &amp; we&apos;d go!
+                        All right he would. I didn&apos;t think he could &amp; so went off with Mrs. <sic corr="Proffitt">Profit</sic> &amp;
+                        Aunt Lizzie to the barn (way over in the school yard past the school house) to do what do you guess? 
+                        <hi1 rend="underscore">Milk</hi1> the cows - Yea verily I milked our little <pb ref="arm03030002009" seq="09"></pb> Jersey - <hi1 
+                            rend="underscore">some</hi1> - not much but am going to keep on till I really can. When we got back - Mr. Cresswell
+                        blew over - after a strenuous day with his guests. We started supper hot chocolate - peanut bread - (made by Abbie&apos;s
+                        class in cooking) canned pears &amp; ginger cookies - &amp; I had just gotten the chocolate mixed together when lo
+                        Harrison arrived with good news - horses! Abbie &amp; I simply fell over we were so tickled! So off we rushed upstairs
+                        into our riding skirts - big boots &amp; niddies - Then dashed down a little cocoa &amp; bread. Mr. <abbr 
+                            expan="Cresswell">C.</abbr> by this time was quite enthused &amp; so went along with us - Abbie rode Dan - I had
+                         a little peaceful joggy stead who behaved very well - The two men had horses that stumbled a good bit.
+                        <pb ref="arm03030002010" seq="10"></pb> 
+                    </p>
+                    <p>
+                        It was a warm eve - no wraps needed - &amp; the moon due to rise full &amp; bright - We jogged along up that rocky road
+                        through fords - on &amp; on. It was loads of fun - and the walking just suited me as I did not feel equal to trotting - Abbie
+                        had never been on a horse before so we made a good pair. We went only four miles but did not get back till ten. It was
+                        weird - the clouds soon blotted out the stars but <del>although</del> in spite of that - it was light
+                        enough to see the road - We got to Bally&apos;s finally but the fence posts were not ready - It was a typical
+                        <abbr expan="mountain">mt.</abbr> cabin - we rode right up to the door through the corn field - got off the horses to rest
+                        a bit - They all stood in the dark on the steps - half a dozen children or more &amp; several grown people - Did not ask
+                        us in. Then we went on for another mile up the creek to a dark cabin where <abbr expan="Harrison">H.</abbr> roused the owner
+                        &amp; got a lot of apples - After this we turned our gallant steeds homeward &amp; in the course of time arrived - It was great
+                        fun any way. Evelyn arrived during our absence &amp; had to be roused from slumber &amp; told all - 
+                    </p>
+                    <p>
+                        The dinner at the hotel was awfully good - an elderly couple the Halls are there and Mr. <abbr expan="Huff">H.</abbr> had shot
+                        half a dozen wild ducks which we all enjoyed.
+                    </p>
+                    <p>
+                        Several hours have passed since writing the above - I got so sleepy I just had to <hi1 rend="underscore">&quot;strip&quot;</hi1> and
+                        curl up in the bed a short space - then arose &amp; began reading in a book &quot;The Southern Highlanders&quot; by
+                        <pb ref="arm03030002011" seq="11"></pb> Horace Kephart - Do get it in the library for it is just about perfect they say in its
+                        description of these mountaineers of Kentucky Tennessee and North Carolina - and has some good illustrations in it too. I would really
+                        like very much to write about them myself but don&apos;t know exactly how to go about it - my style is rather flippant you
+                        know - What would you suggest? Had a nice long letter from Mandie who urged me to write about them too. Aunt Fannie also sent me
+                        a card. No particular news except that the salaries of school teachers has been raised &amp; Art has a new car - Olympian - Did
+                        you ever hear <pb ref="arm03030002012" seq="12"></pb> of it?
+                    </p>
+                    <p>
+                        When it rains here its perfectly lovely - We went over to the hotel ploughing through the slippery mud - about noon but had to wait
+                        nearly an hour before the welcome bell for food greated our ears. - We whiled away the interim sitting on the porch - it was warm
+                        enough - Ahead were the distant ranges toward Elkmont - all gray like mist - outline perfectly distinct but this massed gray effect
+                        blotting out the green - Then those nearby had little streams of white here and there on their sides - It seems to be characteristic
+                        of them to don these little touches like puffs of white steam or smoke - when its rainy &amp; it is <pb ref="arm03030002013" seq="13"></pb>
+                        very lovely. We enjoyed looking over some copies of <hi1 rend="underscore">&quot;Life&quot;</hi1>.
+                    </p>
+                    <p>
+                        Did you read the article on &quot;Touries&quot; in the <abbr expan="September">Sept.</abbr> 27th number of the Saturday Evening
+                        Post? Dr. Bishop sent it up especially for Evelyn to read - I just happened to see it on the table as I was ready to come up after
+                        <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> tonight preparatory to finishing this &amp; sat down &amp; giggled
+                        over it. It has been so wet all day that we did not expect to have the meeting tonight. However someone rang the bell about 5:30
+                        just as we were finishing our chocolate blackberry jam &amp; toast (baked in the oven after being buttered. awfully good - try it) so
+                        over we went in the rain bearing lamps in our hands a la the Virgins - There were about fifteen only present - but had a nice 
+                        meeting - sang many hymns - read the lesson - for about an hour. 
+                    </p>
+                <p><del>
+                            Well I must cease now &amp; write pa and Aunt Carrie.</del>
+                        </p>
+                <p><del>
+                            Hope I&apos;ll get a letter tomorrow one usually comes Monday - How about that new house going up next to Mulins&apos;? You
+                            have never said anything more since you first mentioned the starting of it - </del>
+                        </p>
+                <p><del>
+                            With lots &amp; lots of love &amp; kisses too - <hi1 rend="underscore">Pinkie</hi1>.</del>
+                        </p>
+                    <p>
+                        Ruth.
+                    </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

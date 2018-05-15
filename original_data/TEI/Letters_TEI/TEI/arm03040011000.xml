@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03040011000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter] March 7, 1920, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03040011000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter] March 7, 1920, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1920-03-07">March 7, 1920</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>4p</extent>
+                    <note type="summary">Boys&apos; dormitory comes to an end</note>
+                    <note type="box">3</note>
+                    <note type="folder">4</note>
+                    <note type="document">arm03040011000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>People</item>
+                        <item>Social life</item>
+                        <item>Church</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03040011001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Boys&apos; dormitory comes to an end</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03040011002" seq="02"/>
+                <head>
+                    <date value="1920-03-07">March 7, 1920</date>
+                </head>
+                <p> <!-- This is a random page from the middle of a letter. TAL -->
+                    <gap reason="page missing" resp="tal"></gap> <del>in Washington too - but it will be different. I am anxious to know what you think of 
+                        my staying here another year too. Perhaps I ought not - but on the other hand there seem to be about as many reasons for as against. Things do get so 
+                        muddled up sometimes it seems hard to know just what is the thing to do. Well to return to a recital of events -</del>
+                </p>
+                <p>
+                    Lapse of several hours and now 6:50 p.m.  The last bell for <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> has rung &amp; we are 
+                    <hi1 rend="underscore">all</hi1> easily seated around the fire &amp; not B.Y. - ing thank goodness - It is <pb ref="arm03040011003" seq="03"></pb>nice not to 
+                    have to go out again tonight - and <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> does get tiresome to us all - The little boys are gone 
+                    now that stayed with Mrs. Profitt &amp; Mr. <abbr expan="Cresswell">C.</abbr> - One got mad &amp; left - another had to go home &amp; help get 
+                    things ready for the planting and the third got a job on Little River - &#36;2.50 a day &amp; about ten years old at that. Their house is cold so Evelyn had 
+                    them bath here (Mr. <abbr expan="Cresswell">C.</abbr> &amp; Mrs. <abbr expan="Profitt">P.</abbr>) for supper &amp; to stay all night - and for 
+                    dinner again - Tom usually spends his birthday with Mr. <abbr expan="Cresswell">C.</abbr> so of course he was here too - Then at Sunday School 
+                    this morning Evelyn asked them all to come up here and sing in the <abbr expan="afternoon">p.m.</abbr> - They often do <pb ref="arm03040011004" seq="04"></pb>
+                    that at the church - but it was too cold today - So about 1:30 they began arriving &amp; I think there must have been fifteen or twenty here altogether - 
+                    stayed until four - Sang hymns &amp; had some phonograph records - They all behaved very quietly &amp; nicely too.
+                </p>
+                <p>
+                    After they left Evelyn &amp; I went down the road with Josie Trentham (from the hotel) about a mile or so &amp; met the girls who had walked about half 
+                    way up here over the worst part &amp; were met by Mr. <abbr expan="Cresswell">C.</abbr> with Dan &amp; the buggy -
+                </p>
+                <p>
+                    It was a gorgeous afternoon though this morning was snowy &amp; threatening &amp; the ground all white again. The mountains in the distance 
+                    which are higher are white - &amp; glistening in the sunlight - each tree seems to stand out <add place="supralinear">by itself</add> a white specter as 
+                    it were - The ground was frozen hard &amp; full of ruts &amp; uneven places which made the walking very difficult in spots. The air so cold that it made 
+                    your face tingle - but walking is warm work so we enjoyed it. Every little while we spoke of how cold the girls - Abbie &amp; Evelyn - must be but we found 
+                    out later that our sympathy was quite wasted for their seven mile tramp had warmed them up so thoroughly that the ride of the remaining seven did 
+                    not affect their temprature!
+                </p>
+                <p>
+                    <del>We were all so hungry again tonight &amp; had another</del> <gap reason="page missing" resp="tal"></gap>
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

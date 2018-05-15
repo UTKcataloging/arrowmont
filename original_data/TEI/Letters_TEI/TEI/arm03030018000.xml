@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030018000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Nov. 18, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030018000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Nov. 18, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-11-18">Nov. 18, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>4p</extent>
+					<note type="summary">Armistice Day - Call on the Prickets, former teachers at our school - Debates - Plans for factory set up by the school
+                    made by Miss Langmaid</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030018000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living conditions</item>
+						<item>War</item>
+						<item>People</item>
+						<item>Social life</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030018001" seq="01"/>
+				<p>
+					<list>
+						<item>Armistice Day</item>
+						<item>Call on the Prickets, former teachers at our school</item>
+						<item>Debates</item>
+						<item>Plans for factory set up by the school made by Miss Langmaid</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030018002" seq="02"/>
+				<head>
+					<date value="1919-11-18">Nov. 18, 1919</date>
+					</head>
+				<p>
+					<del>Dearest Pa - Your letter came this noon (Tuesday) and suppose by the time this reaches you - 
+                            Los Angeles will be entertaining you - As to your plans for going into business I do not know what to think - don&apos;t 
+                            believe I&apos;d hurry about it too much for you have not had a real vacation for such a long time! It&apos;s nice you can 
+                            fix their yard and that so many auto rides are coming your way -</del>
+				</p>
+				<p>
+                    We celebrated Armistice Day with just a little program of patriotic songs and dismissal of half an hour earlier than usual.
+                </p>
+				<p>
+                    Since last writing you have done practically nothing but school work it seems like. The weather is beautiful &amp; bright but cold 
+                    &amp; frosty - so much so that our <pb ref="arm03030018003" seq="03"/>milk for breakfast is usually frozen. Have shed my thin dresses 
+                    except for house wear as our furnace keeps us exceedingly warm.
+                </p>
+				<p>
+                    Friday night was the debate and very interesting it was - the youngsters got quite warmed up over it &amp; one of the boys kept us 
+                    convulsed all the time he had the floor - Another one comes off this Friday about capital punishment.
+                </p>
+				<p>
+                    Saturday I worked around the house all day &amp; then Emily &amp; I went over to Huff&apos;s for dinner &amp; the night. We had 
+                    a very nice time. They live in a <hi1 rend="underscore">real</hi1> house - two stories - the front room (where we slept) has piano - bed 
+                    bureau etc. - all the rooms have beds in these houses -
+                </p>
+				<p>
+                    Well Sunday after the morning <pb ref="arm03030018004" seq="04"/>session was over we got Lillard Maples to take us in his Ford into 
+                    the Sugar Lands - about six miles away - where we called on the Prickett&apos;s who used to teach here last year &amp; before. 
+                    They live in a two room cabin and as they have two small youngsters seem rather crowded - We had a nice dinner consisting of the 
+                    usual fried chicken hot biscuits &amp; sweet potatoes.
+                </p>
+				<p>
+                    Then the next excitement was <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> for which we got home just in time. 
+                    Yesterday was club meeting with my girls who took most of the time learning a song for Thanksgiving - Spent the evening helping two 
+                    of the youngsters with Latin &amp; today the play has taken all the extra time. There are a number of things to get ready - have been 
+                    fixing some Puritan caps for the girls - suppose eventually everything will be done. We stay here for Thanksgiving &amp; if it&apos;s 
+                    nice will probably plan a hike somewhere.
+                </p>
+				<p>
+                    Two men were up from Sevierville to discuss the proposed dam &amp; site for factory which  the school wants to put in. The dam alone 
+                    would cost 5000 - Miss Langmaid doesn&apos;t know how soon the money can be raised - it&apos;s more than was first planned.
+                </p>
+				<p>
+                    This is a stupid letter but must stop &amp; send it anyway for it&apos;s bedtime &amp; I&apos;ve been up late the past week.
+                </p>
+				<p>
+                    Give my love to the <unclear reason="illegible" resp="tal">Witten&apos;</unclear> &amp; with much for yourself -
+                </p>
+				<p>
+                    Ruth.
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

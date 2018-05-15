@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020003000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Aug. 18, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Young, Philip</name>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020003000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Aug. 18, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-08-18">Aug. 18, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>22p</extent>
+                    <note type="summary">Call on Aunt Lydia and the Tom <sic corr="Campbells">Camels -</sic> All day hike with the <sic corr="Campbells">Camels</sic>and their hounds -</note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020003000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Families</item>
+                        <item>Landscape</item>
+                        <item>Food</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020003001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Call on Aunt Lydia and the Tom <sic corr="Campbells">Camels -</sic></item>
+                        <item>All day hike with the <sic corr="Campbells">Camels</sic>and their hounds -</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03020003002" seq="02"/>
+                <head>
+                    <date value="1919-08-18">Aug. 18, 1919</date>
+                </head>
+                    <p>Dearest family - It&apos;s 7:20 p.m. Saturday and I&apos;m sitting out on the front porch
+                        trying to scribble a few lines before people come for the <hi1 rend="underscore"
+                            >sing</hi1>! Said <hi1 rend="underscore">sing</hi1> is quite an affair &amp; very
+                        interesting they say. It seems that some of the old timers here sing ballads -
+                        ballads of days gone by &amp; that used to be sung in the time of Queen
+                        Elizabeth &amp; before -</p>
+                    <p>Monday - 4:15 p.m. - You see I did not get very far with this epistle &amp; now
+                        the scene &amp; hour are quite different - I have strolled about a block up a
+                        lovely path back of our house that meanders through pine oak - maple &amp; beech
+                        trees - finding a nice broad trunked oak by the side of the path - deposited my
+                        cushion &amp; am more comfortable than in a chair &amp; better yet where I
+                        can&apos;t be interrupted unless the unexpected happens - nothing is to be heard but the
+                        faint tinkle of a cowbell &amp; the usual chirp of insects - there are always
+                        some of these latter singing - but at evening it swells in to a great chorus. The
+                        sun is lovely &amp; bright as usual though last night was a thunder &amp;
+                        rainstorm for which I did not stay awake however - Our land consists of 35 acres
+                        &amp; goes up to the top of the <abbr expan="mountain">mt.</abbr> at the back -
+                        along whose foot Pi Phi lane winds. There is a clearing just at my back &amp; at
+                        one end is the usual <abbr expan="mountain">mt.</abbr>
+                        <pb ref="arm03020003003" seq="03"/>cabin while at the other spreads out &amp; up the
+                        usual cornfield - But I must not say cabin - house is the preferred name - the <abbr
+                            expan="mountain">mt.</abbr> people resenting the former. This noon was delighted
+                        to get three letters - Pa&apos;s - Mabel&apos;s &amp; one from Mrs. Hawkins berating me
+                        for never having written her. Am so glad pa is going to have a change &amp; hope
+                        he makes up his mind to take a trip east via California - Mabel is sure living in a
+                        state of chaos &amp; changing winds but suppose by now something has been
+                        settled. Just think a week ago yesterday since you wrote me &amp; I wrote you
+                        last a week ago Saturday &amp; sent the pictures with note the middle of the
+                        week - Haven&apos;t written anyone yet but you people - but hope to get into a settled
+                        routine soon. Suppose Jane&apos;s glasses are now proudly sitting on her nose &amp;
+                        that she has an eagle like glance again - It&apos;s a great relief to me to have that
+                        knock gone - don&apos;t forget about the weak spindles on the front wheels - It seems as
+                        though Mr. <unclear reason="illegible">hinty</unclear> is getting quite superfluous now that pa is
+                        growing so expert! Any more tire trouble? It&apos;s nice you all miss me - &amp; it&apos;s
+                        mutual I assure you - but am <pb ref="arm03020003004" seq="04" n="02"/>more than glad I
+                        came - for these hills are so lovely &amp; so interesting just like the people -
+                        My youngsters at school are awfully dear too. It&apos;s not a bed of roses by any means -
+                        &amp; I&apos;ve washed dishes - cooked - swept etc. quite some! Shall be glad to have
+                        the book of games - hope you observed my message on the back of the envelope of my
+                        last epistle - not to get a bathing suit! Don&apos;t imagine I would use it more than
+                        half a dozen times at the most anyway - but I do think I&apos;ll want a sweater &amp;
+                        wonder if I better write to a New York store for a catalog or Marshal Field&apos;s - I
+                        want a very serviceable one - for tramps through underbrush etc. - in the rain
+                        &amp; school - could use one in 2 weeks if our plans go through. We all want to
+                        go across the Smoky <abbr expan="Mountains">Mts.</abbr> into North Carolina starting
+                        early on a <abbr expan="Saturday">Sat.</abbr> <abbr expan="morning">a.m.</abbr> &amp; getting home Monday night - Monday being Labor Day
+                        &amp; no school. We will have a guide &amp; horses for part of the way at
+                        least. Mary Ogle shortened my old divided skirt which with my big boots makes a
+                        dandy outfit - skirt comes just a little below my shoe tops now - Now I&apos;m going back
+                        to the trip Emily &amp; I were just about to take a <pb ref="arm03020003005" seq="05"/>
+                        week ago <abbr expan="Saturday">Sat.</abbr> when I last really wrote you - my
+                        birthday &amp; a perfect day too - just wait till you hear about it - If you
+                        have seen Victoria lately you may perhaps have already learned some of the juicy
+                        details as I did write her about it the next day. We followed Little Pigeon up
+                        beyond Gatlinburg &amp; then crossing a bridge (of which I took a picture)
+                        leading to the house of Lucretta Reagan - one of my girls- we stopped in for a
+                        little call - &amp; I snapped Lucretta &amp; her little brother with his
+                        Jersey calf &amp; some neighbor children. Mrs. Reagan is quite superior
+                        &amp; a good housekeeper - Lucretta is the one of the rouge &amp; ear bobs -
+                        &amp; is &quot;sparkin&apos; &quot;! From there we climbed some fences into a big cornfield on
+                        the side of the hill where we walked down between stalks towering over our heads
+                        like young trees &amp; right onto a little bit of a cabin - the house of Aunt
+                        Lydia (Aunt Lydie as she is usually designated) She is a great character around here
+                        - basket maker- herb doctor &amp; nurse &amp; always sent for in time of
+                        sickness. Mrs. Bradley whom you remembered we called on that 1st <abbr
+                            expan="Saturday">Sat.</abbr> of my arrival is her granddaughter &amp; her
+                        youngsters are in school! Well the corn grows right up &amp; <pb ref="arm03020003006"
+                            seq="06" n="03"/> against her house - which is &quot;low little &amp; old&quot; The
+                        story is that this present abode is the second cabin on the site - for she burned up
+                        the first. Originally it was the birthplace of a now quite prominent man in
+                        Knoxville who very proud of his rise from such a humble beginning often took his
+                        friends up to Gatlinburg to show them where he began life - Aunt Lydia was living in
+                        the house &amp; getting tired of having these strangers brought to inspect her
+                        home - informed the man that if he came again she&apos;d destroy the house - Well he did
+                        &amp; she did! Unfortunately she was not home &amp; is still away so don&apos;t
+                        know when I&apos;ll meet her. As everything was locked up - &amp; the two tiny
+                        windows about 8 x 5 were so dirty I couldn&apos;t see in. I took a snap of it &amp;
+                        also of her mill just back of the house &amp; hidden from sight among the trees
+                        &amp; corn - It&apos;s a little bit of a place - but she grinds all her corn in it.
+                        After this we struck right up the <abbr expan="mountain">mt.</abbr> side to the
+                        trail leading to Tom <sic corr="Campbell's">Camel&apos;s.</sic> It was very steep all the
+                        way &amp; in a puffing &amp; panting condition I got to the fence over which
+                        we climbed into the little clearing between the <abbr expan="mountains">mts.</abbr>
+                        which <pb ref="arm03020003007" seq="07"/>come right down back &amp; at the sides of the
+                        cabin - The trail is over a mile &amp; Mrs. <sic corr="Campbell">Camel</sic>
+                        brought on her back all the lumber used in their cabin - Imagine! Mr. C. said he&apos;d
+                        build the house if she brought the siding - I was very much interested in my first
+                        view of her on the porch - barefooted in the dark wrapper like dress characteristic
+                        of them &amp; mending a gourd! As Emily knew her we were cordially welcomed
+                        &amp; given chairs on the porch also - They always sit on their porch - chickens
+                        &amp; pigs dogs &amp; cats running around promiscuously - In this case it
+                        was chickens - as the dogs were shut up for it&apos;s <hi1 rend="underscore">mad dog</hi1>
+                        days now you know - If Mrs. C. met one she&apos;d &quot;clumb&quot; a fence at once! They used to
+                        keep <hi1 rend="underscore">belled hogs</hi1> (do you get that?) but don&apos;t anymore so
+                        we were spared the pigs also. She soon finished sewing up the <hi1 rend="underscore"
+                            >gourd</hi1> - having fastened in a little triangular piece with needle &amp;
+                        thread so it was good as ever - Then she took it down to the spring where it hung on
+                        a stick serving for a dipper - On her return, she went into the kitchen &amp;
+                        coming back thrust something <pb ref="arm03020003008" seq="08" n="04"/>at me saying &quot;Have a
+                        tater!&quot; And sure enough it was a cold baked sweet potato - Emily was then presented
+                        with the same edible vegetable. We were looking at them &amp; each other rather
+                        helplessly when out she came with another for herself. And sitting down proceeded to
+                        skin it casting the pieces of skin to the expectant chickens &amp; then she ate
+                        it - So we did as our hostess did. It was all I could do to preserve my equilibrium
+                        whenever my eye rested on Emily - for it was all she could do to swallow the crumbs
+                        - it was so dry &amp; rather queer tasting. Then imagine the picture we must
+                        have made! Finally I said something about our going on &amp; saving our potato
+                        for lunch &amp; we both gladly tucked what was left into our bag. Really though
+                        it showed a very generous warm hearted hospitality on her part. For these potatoes
+                        were some a neighbor had brought in &amp; which she had been thoroughly enjoying
+                        all morning. She told us she had eaten one every time she sat down - I snapped her
+                        &amp; the house &amp; the big kettle by <pb ref="arm03020003009" seq="09"/> the
+                        spring - These kettles are very common &amp; are used for washing - After this
+                        we said we must go on up the hill &amp; get our lunch started. Picking up a
+                        man&apos;s old hat - her pipe &amp; shoes she said she&apos;d go along with us - I was
+                        seized with a wild desire to get her picture again with the <hi1 rend="underscore"
+                            >pipe</hi1> &amp; also a view of the other side of the house - so she
+                        proceeded to light up &amp; pose with Emily &amp; by calling her attention
+                        to a <hi1 rend="underscore">jar fly</hi1> which began to loudly sing nearby I got her
+                        in <hi1 rend="underscore">profile</hi1>. Do hope it proves a good one! Then we went on
+                        to the top of the <abbr expan="mountain">mt.</abbr> where is a wonderful view
+                        looking up Mill Creek Valley with all the foothills around &amp; back of it
+                        rising higher &amp; higher one above the other into the Smokies themselves. Am
+                        just wild over these <hi1 rend="underscore">hills</hi1>! Then we went on till we came
+                        to a nice clear space all needles under the pines &amp; the hill sloping away at
+                        our feet but rising again abruptly. Here was a huge cornfield planted right up to
+                        the top - the <sic corr="Campbell"> Camel </sic> corn - We spread out our lunch
+                        &amp; started a little fire for our coffee Mrs. C. meanwhile squatted on <pb
+                            ref="arm03020003010" seq="10" n="05"/> the ground at one side smoking spitting
+                        conversing &amp; watching our preparations. She talked about various people -
+                        snakes - <hi1 rend="underscore">thunder struck</hi1> trees &amp; religion. She
+                        refused our offers of sandwiches - fried eggs - &amp; coffee - &amp; finally
+                        went off after asking us to take a trip with them to the abandoned cabin of a former
+                        hunter &amp; herder - Charley Walker&apos;s cabin - it&apos;s called &amp; which is
+                        about 3 miles beyond their place - Of course we were charmed &amp; the day was
+                        set for the following <abbr expan="Saturday">Sat.</abbr> (last Sat.) We ate with
+                        much glee- but couldn&apos;t finish up our sweet potatoes after all as frying did not
+                        seem to remedy the flavor - Then Emily read &amp; I proceeded to write &amp;
+                        write in my diary until about 4 or thereabouts. Reluctantly picking up our
+                        possessions we were about ready to start down again when lo Mrs. C. loomed before us
+                        on her way to the cornfield - We refused a pressing invitation to go with her -
+                        &amp; parting on our separate ways stopped to see Mr. <sic corr="Campbell"
+                            >Camel</sic> - Tom who had returned. He knows all the places <pb ref="arm03020003011"
+                                seq="11"/> for miles around here since he is a trapper &amp; as Emily says
+                        is &quot;rich &amp; rare&quot;! They have lived in that cabin for twenty years &amp;
+                        their children grown &amp; married are away so company is a great joy I imagine.
+                        When he met me he said - &quot;Well you are feeling pretty <hi1 rend="underscore"
+                            >stout</hi1> I reckon?&quot; He meant <hi1 rend="underscore">well</hi1> not <hi1
+                                rend="underscore">fat</hi1>. Stout is used that way quite frequently. The trail
+                        was much shorter going back or so it seemed &amp; we decided to call on the
+                        Whaley family. There are a great many of these Whaley&apos;s - some in my room but not of
+                        this particular branch - There are four boys - of whom I&apos;m to make a picture some
+                        day soon. They are awfully cute roguish looking little scamps - too young for my
+                        room - but the mischief sticks out so I had noticed them right at the beginning of
+                        school. Here we were loaded up with apples &amp; finally reached home about
+                        dinner time - pleased as Punch over our adventures. Now I&apos;m going to skip the week
+                        for the time being &amp; tell about our expedition to Charley Walker&apos;s Cabin day
+                        be- <pb ref="arm03020003012" seq="12" n="06"/>fore yesterday which came off according to
+                        schedule. There were loads of reasons why we might better have stayed home all day
+                        but I just didn&apos;t want to spoil a grand chance even though Mrs. Helmick was here -
+                        the house dirty - Evelyn busy getting the house ready for the boy&apos;s dorm - letters
+                        to write - washing to do - books to study etc!! So by 7:40 we were off - in our
+                        boots - khakhi skirts - white waists- Panama hats &amp; Emily&apos;s little bag in
+                        which was first my kodak - extra films - diary - pencil - two hard boiled eggs
+                        &amp; half a dozen meat &amp; blackberry jam sandwiches - As it looked
+                        &amp; felt like rain we had our coats &amp; sweaters - In 40 minutes we
+                        were being welcomed at the <sic corr="Campbell">Camel</sic> porch - by nine we were
+                        climbing the hill - single file - Mr. C. <add place="supralinear">1st</add> pickaxe over his shoulder - little
+                        knapsack &amp; hunting horn (oxen) for his dogs over his shoulder &amp; the
+                        two hounds at his feet - let out for the occasion &amp; tickled to death too!
+                        Next came little <pb ref="arm03020003013" seq="13"/> Emily - followed by Mrs. C. with her
+                        same old hat - dingy dress &amp; apron - tennis shoes on her feet - &amp;
+                        basket over arm - bewailing the fact that she hadn&apos;t put on a <hi1 rend="underscore"
+                            >clean apron</hi1> &amp; hoping we wouldn&apos;t see any rattlers &amp; that a
+                        storm wouldn&apos;t blow up! Next was I! We climbed the fence &amp; started on the
+                        longest 3 miles tramp up &amp; down &amp; along the tops of ridges with
+                        wonderful glimpses of the <abbr expan="mountains">mts.</abbr> - finally left the
+                        trail &amp; struck right into the undergrowth going down a ridge &amp;
+                        through a grove of their <hi1 rend="underscore">big trees</hi1> - the largest east of
+                        the Rockies they tell me - huge poplars &amp; chestnuts - about 5 <abbr
+                            expan="feet">ft.</abbr> in diameter &amp; 60 to 70 <abbr expan="feet"
+                                >ft.</abbr> high Mr. C. estimated. They are so straight &amp; the branches high
+                        - high above - It had showered occasionally but the trees were thick so we didn&apos;t
+                        get really wet. Moreover we were thankful to have left our wraps at the <sic
+                            corr="Campbell's">Camel&apos;s</sic> as it was quite warm walking - About 11 we
+                        arrived at a little <pb ref="arm03020003014" seq="14" n="07"/> &quot;holler&quot; where was a spring
+                        &amp; a lean to all that&apos;s left of the original cabin - At one side was an
+                        immense chestnut log where we girls immediately climbed up while Mrs. C. sat on a
+                        board in front of the lean - to &amp; Mr. C. taking some pine splinters started a
+                        grand big fire as there were some partly burned logs all ready to light up again -
+                        After a good hot blaze was started our companions produced pipes &amp; tobacco
+                        &amp; lighted them at the fire - Mrs. C. carries her &quot;baccy&quot; in the pocket of
+                        her apron - and by the way its their own production too. Some tobacco plants are
+                        blossoming in front of their house now - &amp; leaves bound together are drying
+                        in a little open shed by the dog&apos;s home - The two hounds are named Sing &amp;
+                        Lead &amp; en route strayed off into the woods where we could hear them barking
+                        at ground hogs- possums &amp; foxes - Picture it! I may be eating ground hog
+                        some time as it&apos;s quite a common beast &quot;I <hi1 rend="underscore">reckon</hi1>&quot;!
+                        Occasionally Mr. C. blew his ox horn to call them back - They are very well be- <pb
+                            ref="arm03020003015" seq="15"/>haved animals too. To return to the group around the
+                        fire as it got light and the sun came out I snapped several pictures - of them
+                        &amp; the place. Next Mrs. C. put on a pail of water into which were cast
+                        several handfuls of coffee - and as it began boiling very soon we brought forth our
+                        food supplies - Fortunately she had in her basket great cakes of corn meal - bacon
+                        &amp; <hi1 rend="underscore">sweet bread</hi1>. The corn bread was the genuine
+                        thing - corn meal mixed with water (no salt -soda -milk -nothing else) &amp; you
+                        can&apos;t imagine how delicious it tasted with hot crisp pieces of bacon on top of it -
+                        which Mr. C. had toasted on sticks - The coffee was almost black it was so strong
+                        but I enjoyed 3 large cupfuls of it minus cream &amp; sugar - The sweetbread is
+                        like the plain cookies some people make - thick &amp; rather soft - no cinnamon
+                        however - you can&apos;t imagine what fun it was sitting near that crackling fire on a
+                        board with another for the table - the lean to over our heads &amp; those two
+                        quaint old people for company <pb ref="arm03020003016" seq="16" n="08"/>beings from another
+                        world they certainly are - Shortly after our good lunch &amp; it was more than
+                        good though maybe it doesn&apos;t sound so - the rain came down but we were under cover
+                        &amp; very comfortable. I got out my diary &amp; wrote &amp; talked
+                        &amp; listened to them for they got started on days gone by - Mr. C. came from a
+                        place up in the <abbr expan="mountains">mts.</abbr> called Sheep-Pen while Mrs. C.
+                        who was one of the many Ogles - is a real pioneer &amp; belonged to the first
+                        family of O&apos;s  to arrive &amp; I think about the first in Gatlinburg -
+                        They spun &amp; wove all their own clothes &amp; wore homemade shoes - Mrs.
+                        C. had her first &quot;store shoes&quot; after she was married &amp; Mr. C. his first
+                        &quot;store pants&quot; at that time - Salt was practically the only thing they had to buy -
+                        It must have been nearly 3 or 3:30 before we started back. We got to their cabin in
+                        an hour &amp; a half with no stops to rest - &amp; were soaked by that time.
+                        It rained some but the wet undergrowth caused the greater part of our dampness - for
+                        in places we pushed right through dripping bushes &amp; trees - They insisted
+                        <pb ref="arm03020003017" seq="17"/>on our coming in &amp; at least drying ourselves
+                        before continuing our journey. We did go in a few minutes just to get our wraps
+                        &amp; say goodbye - &amp; now listen with both ears to the next items - Mrs.
+                        C. had <hi1 rend="underscore">stripped</hi1> (they never say <hi1 rend="underscore"
+                            >change</hi1> clothes but always <hi1 rend="underscore">strip</hi1>) &amp; was
+                        taking off her shoes &amp; stockings when Mr. C. suddenly from somewhere
+                        produced a flask full of what appeared to me <hi1 rend="underscore">water</hi1>. He
+                        held it out to me &amp; sort of laughed &amp; said it was something to
+                        prevent a cold - <hi1 rend="underscore">moonshine</hi1>! Honest to goodness <hi1
+                            rend="underscore">moonshine</hi1>! Well of course I <hi1 rend="underscore"
+                                >couldn&apos;t refuse</hi1> &amp; took a small sip - it really is the strongest
+                        stuff! Emily said Aunt Lizzie&apos;s was quite mild in comparison - Mrs. C. remarked that
+                        she didn&apos;t know where it came from but just took it without question when it was
+                        around. Said that she didn&apos;t want us to say anything about it - to anyone for it
+                        might get them into trouble. It was very hard to get away from them for they just
+                        insisted on our having more moonshine - staying all night or at least sitting down
+                        until the rain stopped &amp; drying out a little. <pb ref="arm03020003018" seq="18"
+                            n="09"/>We went on though &amp; got home about 5 in the sunshine! Pleased!
+                        <hi1 rend="underscore">yes</hi1> charmed with the whole day - Now to return to a
+                        week ago Sunday - Evelyn was in Sevierville &amp; Emily &amp; I scuttled
+                        around the house all day alone - Aunt Lizzie being with her son&apos;s family at the
+                        Glades in Sugar Land! It was a real day of labor - a little washing - pressing of
+                        wrinkled garments - mending - cleaning my room - cleaning my silver - studying -
+                        letters to Betty &amp; Victoria etc. until 5 p.m. Then we sat on the porch
+                        &amp; watched a thunder storm come up - Mary Ogle &amp; her two youngsters
+                        were here off &amp; on - I went to bed early - Monday after a busy day at school
+                        - Emily &amp; I go up the Roarin&apos; Fork road &amp; call on two Reagan
+                        families - two of whose girls are in my room &amp; very sweet girls they are -
+                        These houses were better than some of the others too. Evelyn is home that night
+                        &amp; we 3 girls get dinner &amp; clean up afterwards sitting on the porch -
+                        A Ford arrives in which are 2 Sevierville people - Do you remember my speaking of a
+                        Mrs. Blanche Wood who had the cute baby at Evelyn&apos;s? Dr. <pb ref="arm03020003019" seq="19"
+                            />Massey - her father &amp; her husband were the guests &amp; stayed all
+                        night going off fishing after breakfast. Four of the girls get settled in the
+                        cottage with Abbie that day also - Tues. it was hustle at school as usual &amp;
+                        in the <abbr expan="afternoon">p.m.</abbr> after dismissal we make calls again. This day we went up the road back
+                        of the house - Pi Phi lane - &amp; branching off from it struck Baskin Creek
+                        road &amp; came to a real <abbr expan="mountain">mt.</abbr> cabin in front of
+                        which sat a regular old witch of a grandmother chewing a snuff stick - toothless
+                        thin as a skeleton - brown &amp; wrinkled - Inside were the usual dirty looking
+                        beds - they are always made up though - &amp; on one lay an old man asleep with
+                        his hat over his face. A chicken was scratching around on the floor under this same
+                        bed - Some dogs - &amp; kittens were at the doorstep &amp; youngsters who go
+                        to school - the mother wasn&apos;t home. From here we went a little ways farther to
+                        another cabin where the family &amp; neighbors were all clustered <pb
+                            ref="arm03020003020" seq="20" n="10"/> on the porch doing nothing just <hi1
+                                rend="underscore">settin&apos;</hi1>. This was the home of Martha Whaley who washes -
+                        Her old mother is partly paralyzed &amp; feeble minded but she wants us to <hi1
+                            rend="underscore">make</hi1> a picture of her - as the only one she has was taken
+                        when the mother was a little girl &amp; Martha says (quite truly) that it
+                        doesn&apos;t look much like her now! Then I stopped at the Huff&apos;s a minute as one of the
+                        boys had been absent &amp; after that we came back into town &amp; went to a
+                        little frame cottage near here where lives the Andy Ogle family - Andy is an old
+                        white-bearded picturesque looking man &amp; is the brother of our Mrs. <sic
+                            corr="Campbell">Camel-</sic> his daughter Cora is in my room &amp; the son
+                        Bill who has since dropped out - no fault of mine however - just &quot;isn&apos;t interested
+                        in school -&quot;! Then Wednesday it&apos;s school again with Evelyn gone to Sevierville till
+                        next day - Emily &amp; I call on Harrison&apos;s family - up Roarin&apos; Fork - Harrison
+                        is the man about the place you know - must get his picture taken too. She &amp;
+                        the youngsters with a neighbor &amp; family were as usual all sitting idly on
+                        the front porch while down below scratched the chickens &amp; <pb ref="arm03020003021"
+                            seq="21"/>gamboled the little pigs while the mother pig snorted over some
+                        delicacy under the porch - Really this sounds awful I expect but their houses are so
+                        picturesque &amp; the green setting everywhere so beautiful that you don&apos;t mind
+                        the dirt &amp; smells - The people are interesting too &amp; I thoroughly
+                        enjoyed these <hi1 rend="underscore">calls</hi1>! We stop at another house on the
+                        Roarin&apos; Fork &amp; get home very hungry - We root around &amp; proceed to
+                        get our repast ready on the oil stove - hot chocolate &amp; creamed salmon. We
+                        both planned to go to bed early when Mary came with the news that Mrs. Helmick was
+                        at the hotel. Of course that meant clean up &amp; go over to see her. During
+                        this process she arrived with Mrs. Huff - so we cut short our dolling up &amp;
+                        went downstairs as soon as possible - You know Mrs. Helmick is a grand Pi Phi -
+                        The wife of Gen. Helmick &amp; has been stationed all over the world I guess -
+                        the school has been her great work &amp; for the first five or six <abbr
+                            expan="years">yrs.</abbr> of its existence she was its main spring - She lived
+                        here among the people &amp; greatly endeared herself to all of them. She is
+                        wonderfully fine &amp; was not in the least dis- <pb ref="arm03020003022" seq="22"
+                            n="11"/>appointed in her - At present is living in <abbr expan="Washington"
+                                >Wash.</abbr> where she has done war work &amp; came down just for a
+                        fleeting visit for her husband will return from France any time now. We went to the
+                        hotel with them for a little while so it was not early to bed after all - <abbr
+                            expan="Thursday">Thurs.</abbr> she talks to the youngsters at assembly - after
+                        school we all visit on the porch and the day just goes like the others - talking
+                        eating &amp; working- no time for reading or writing - <abbr expan="Friday"
+                            >Fri.</abbr> noon I go home to find Dr. Bishop &amp; Mr. Wood again on their way
+                        to fish &amp; Harrison&apos;s little boy is stretched out on the couch with a broken
+                        leg. He had either fallen or been pushed off the school porch - is about 6 <abbr
+                            expan="years">yrs.</abbr> old - Dr. Massey came up &amp; set it &amp; he
+                        is doing as well as can be expected - it was a clean break so will mend all right -
+                        This was the day for our open house for Mrs. Helmick - too. She was there of course
+                        all <abbr expan="afternoon">p.m.</abbr> - for supper &amp; the evening - The young people came in the <abbr
+                            expan="evening">eve.</abbr> - singing &amp; the usual games were <pb
+                                ref="arm03020003023" seq="23"/>played - spin the platter - bird beast or fish
+                        - etc. All home by 10 - Saturday you know about up to the beginning of my telling
+                        you about the <hi1 rend="underscore">sing</hi1> - And as it&apos;s just so late &amp; I
+                        must get up early am going to stop for now &amp; if I don&apos;t get to finish this
+                        in the <abbr expan="morning">a.m.</abbr> will just send it along &amp; begin my next from where I leave off -
+                        It seems to take a long time for our letters to get across - shall try to write the
+                        relatives this week some time - Please don&apos;t mind my lumping you all in one letter -
+                        Arthur &amp; Nell &amp; the youngsters too - After while hope to write
+                        individually but not yet. Good night dear people one &amp; all &quot;consider
+                        yourselves kissed many times&quot; - with lots &amp; lots of love Ruth</p>
+                    <p>
+                        <date value="1919-08-18">Monday Aug. 18</date>
+                    </p>
+                    <p>P.S. You see this didn&apos;t get finished up Pi Phi lane after all -
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

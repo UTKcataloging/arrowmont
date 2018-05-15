@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03040018000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter] March 28, 1920, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03040018000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter] March 28, 1920, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1920-03-28">March 28, 1920</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>7p</extent>
+                    <note type="summary">School closed unexpectedly <abbr expan="March">Mar.</abbr> 24 because of smallpox scare - Everyone
+                    scatters. I stay <add place="supralinear">till April 6th</add> on because of <abbr expan="Daughters of the American Revolution">DAR</abbr> Congress in Washington which I am to attend
+                    as delegate &amp; page</note>
+                    <note type="box">3</note>
+                    <note type="folder">4</note>
+                    <note type="document">arm03040018000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Disease</item>
+                        <item>People</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03040018001" seq="01"/>
+                <p>
+                    <list>
+                        <item>School closed unexpectedly <abbr expan="March">Mar.</abbr> 24 because of smallpox scare - Everyone scatters</item>
+                        <item>I stay <add place="supralinear">till April 6th</add> on because of <abbr expan="Daughters of the American Revolution">DAR</abbr> Congress in Washington which I am to attend as
+                        delegate &amp; page</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03040018002" seq="02"/>
+                <head>
+                    <date value="1920-03-28">March 28, 1920</date>
+                </head>
+                <p>
+                    Dearest family:
+                </p>
+                <p>
+                    Sunday night again - I wonder how many more before I see you all again? Will be so glad to get out of the mountains
+                    and into a city again &amp; not see another mountain-<unclear reason="illegible" resp="bds">ci<del>t</del>y</unclear>
+                    of any sort for awhile!
+                </p>
+                <p>
+                    The days have passed off very quietly since I wrote the rest of my letter to you last Friday morning. Evelyn
+                    left after lunch - goes to Knoxville tomorrow &amp; then on through Ohio - back to New York and around at
+                    all the chapters &amp; clubs - will be gone nearly two months. I made out the attendance report of the whole
+                    <pb ref="arm03040018003" seq="03"></pb> school - my grades - took a nap - then cleaned up my room &amp; sorted over 
+                    my possessions prepatory to packing. Spent the evening reading to Aunt <abbr expan="Lizzie">L</abbr>. from Little
+                    Lord Fauntleroy &amp; to myself as she &amp; Mrs. <abbr expan="Proffitt">P</abbr>. went off to bed a little 
+                    after eight. Yesterday (Saturday) I hemmed on the machine all morning - you remember Jane we didn&apos;t finish
+                    some that should have been done. The next excitement was going after the mail - which at present is sorted &amp; 
+                    distributed in the old schoolhouse at the corner of our grounds &amp; which Charlie has used for a storehouse. A 
+                    little card announcing the arrival of Mary Leanor Shinvers <pb ref="arm03040018004" seq="04"></pb> and my papers were
+                    all I got - Saturday is an off day with me. Aunt <abbr expan="Lizzie">L</abbr>. &amp; Mrs. <abbr expan="Proffitt">P</abbr>.
+                    are so funny together. They walked part way down the school walk &amp; then waited for me - they were not fixed 
+                    up so wouldn&apos;t go all the way - were very anxious to get the Sevierville weekly - the Vindicator and always 
+                    read everything - the <add place="supralinear">notices of</add> deaths &amp; marriage licenses <hi1 rend="underscore">first</hi1>!
+                    We sat on the porch &amp; read them. It was a perfect day - then friend Tom came over to tell me about his plans
+                    for next year - is finally about decided to go to Georgia again - to school - Expects to haul lumber for Mr. Huff 
+                    this summer &amp; stay with them - the girls &amp; his father will do the farming. You ought to see the way the 
+                    youngsters have to get out &amp; hoe these stoney fields - They and the women work as hard if not harder than the 
+                    men. After Tom left I mended - we had supper &amp; read in the evening - This morning I was awakened by thunder &amp; 
+                    rain - such a surprise as last evening was perfect &amp; not a sign of a change of weather was to be seen. Had 
+                    planned all week to walk down to Banner with Maud Clabo &amp; spend the day with her aunt - Ruth - but of course the
+                    bad weather put an end to all that. 
+                </p>
+                <p>
+                    So I put in a busy morning &amp; part of the afternoon with more mending - let out all <pb ref="arm03040018005" seq="05"></pb>
+                    my white petticoats for one thing. They rang the first bell for Sunday School but guess no one went - that is of the
+                    older ones for the second bell didn&apos;t ring &amp; I saw some of the youngsters leaving early. We planned to go over
+                    to Huff&apos;s this <abbr expan="afternoon">p.m.</abbr> - but guess they all went to the hotel for could not get them 
+                    over the phone &amp; Aunt <abbr expan="Lizzie">L.</abbr> said there was <hi1 rend="underscore">no</hi1> <hi1 rend="underscore">smoke</hi1>
+                    - Anyway it was pretty stormy most of the <abbr expan="afternoon">p.m.</abbr> so doubt if we would have gone anyway.
+                </p>
+                <p>
+                    Aunt <abbr expan="Lizzie">L.</abbr> made bread today - She usually does on Sunday - <pb ref="arm03040018006" seq="06"></pb>
+                    so for supper we had hot rolls - chocolate &amp; jelly.
+                </p>
+                <p>
+                    Tomorrow am going to make some calls in the <abbr expan="afternoon">p.m.</abbr> - don&apos;t know just where yet - 
+                    that depends on the weather - but shall get out &amp; go somewhere regardless!
+                </p>
+                <p>
+                    Mrs. <abbr expan="Proffitt">P.</abbr> &amp; Aunt <abbr expan="Lizzie">L.</abbr>  are so restless - sit around the 
+                    fire - nothing to do - they can&apos;t read much or sew either because of their poor eyesight - I feel sorry for them.
+                </p>
+                <p>
+                    The frogs are &quot;hollering&quot; as loud as can be. Such <pb ref="arm03040018007" seq="07"></pb> lovely bluebirds as I&apos;ve
+                    seen - and the redbirds - Oh, my - the reddest things imaginable all over - like a flash of fire - I&apos;ve written 
+                    for a room at the Farragut Hotel in Knoxville - but no doubt by the time you get this &amp; a letter in reply gets 
+                    across the U.S. I&apos;ll be on my way to Washington D.C. a letter from you at Mrs. Helmick&apos;s would be very nice. 
+                    <del>Ther</del> She is trying to sell their house so it may be when I get there they will be gone - but
+                    in that case she was going to find a boarding house for me. <del>Last summer when I visited Hazel 
+                    &amp; Rodney at the lake a friend was with them - a Dorothy Rogers who works in one of the gov. bureaus in Wash. D.C.
+                    I looked up her address the other day &amp; found she was at the Cochran Hotel - so know of one reliable place to fall 
+                    back on if necessary.</del>
+                </p>
+                <p>
+                    Will bring this scribbling to a close for this time. Hope all is well with you and that my letter of last Sunday is 
+                    rousing you to think of Washington D.C. - <hi1 rend="underscore">Please</hi1> <hi1 rend="underscore">do</hi1>!
+                </p>
+                <p>
+                    Loads of love to you all as ever
+                </p>
+                <p>
+                    Ruth
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030016000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Nov. 12, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03030016000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Nov. 12, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-11-12">Nov. 12, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>10p</extent>
+                    <note type="summary">Autumn coloring everywhere - School subjects - Plans for Thanksgiving program</note>
+                    <note type="box">3</note>
+                    <note type="folder">3</note>
+                    <note type="document">arm03030016000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+        <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Holidays</item>
+                        <item>People</item>
+                        <item>Social life</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03030016001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Autumn coloring everywhere</item>
+                        <item>School subjects</item>
+                        <item>Plans for Thanksgiving program</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03030016002" seq="02"/>
+                <head>
+                   <date value="1919-11-12">Nov. 12, 1919</date>
+                   </head>
+                <p><del>
+                  Dearest Jane - Your nice letter came this Wednesday just as you predicted after I had expected it Monday &amp; then was sure it would come
+                    Tuesday - However Monday brought a great long one from Mabel <add place="supralinear">Abbot</add> Cousin Viva &amp; <abbr expan="Tuesday">Tues.</abbr>
+                    one from Brennie ditto in length so you see I fared well anyway although your fair handwriting is more welcome &amp; pleasing to the eye
+                    than any other! It&apos;s 9:30 this <abbr expan="evening">eve.</abbr> &amp; everyone has been in bed for over an hour but myself - I do not 
+                    want to get the <hi1 rend="underscore">sleep</hi1> <hi1 rend="underscore">habit</hi1> though it&apos;s sort of a temptation when all the others
+                    leave so ear<add place="supralinear">l</add>y - but the newspapers - Literary Digest &amp; such have much news in them &amp; try to look them over
+                    even if only hastily.</del>
+                </p>
+                <p><del>
+                    The youngsters must be too cute &amp; dear for words &amp; would give anything to see them. Can picture you &amp; Miss <hi1 rend="underscore">Pancos</hi1>
+                    in front of the heater peacefully passing away the evenings - am glad she is quick for you have been in a storm center for so long! Mabel&apos;s letter
+                    was very very nice and interesting &amp; am glad she feels that my letters are for her too </del><pb ref="arm03030016003" seq="03"></pb><del> and is so nice as 
+                    to write me. I try &amp; write pa about twice a week too so you see between the two of you there isn&apos;t much left for others - Sunday I 
+                    dashed off letters to Mr. Snell - Miss Hobroyd - Uncle Art &amp; Charlotte am pleased to say - </del>
+                </p>
+                <p><del>
+                    As <gap reason="illegible" resp="bds"></gap> going into business with Mr. St. <gap reason="illegible" resp="bds"></gap> what sort does he mean?
+                    Am not <unclear reason="illegible" resp="bds">keen</unclear> for <unclear reason="illegible" resp="bds">Reedley</unclear> or any part of the 
+                    <unclear reason="illegible" resp="bds">intenar</unclear> for it&apos;s <unclear reason="illegible" resp="bds">insufficiently</unclear> 
+                    <gap reason="illegible" resp="bds"></gap> am sure - part of the year - <gap reason="illegible" resp="bds"></gap> are no doubt all right but
+                    <gap reason="illegible" resp="bds"></gap> know <gap reason="illegible" resp="bds"></gap> first before <gap reason="illegible" resp="bds"></gap>
+                    anything <gap reason="illegible" resp="bds"></gap> Californians <gap reason="illegible" resp="bds"></gap> It <unclear reason="illegible" resp="bds">will</unclear>
+                    <gap reason="illegible" resp="bds"></gap> friends <gap reason="illegible" resp="bds"></gap> Don&apos;t <gap reason="illegible" resp="bds"></gap> thing
+                    <gap reason="illegible" resp="bds"></gap> hand <gap reason="illegible" resp="bds"></gap> work in <gap reason="illegible" resp="bds"></gap> for that
+                    <unclear reason="illegible" resp="bds">mostly</unclear> <gap reason="illegible" resp="bds"></gap> you </del><pb ref="arm03030016004" seq="04"></pb> <del>make up your
+                    mind to that. Why can&apos;t he find something else to do in Tacoma. I should think Arthur might be of assistance in that respect. You are quite right
+                    when you speak of an upheaval in the midst of the family! But things will eventually work out as we&apos;ll know which way to turn.</del>
+                </p>     
+                <p>
+                    Let me move on now for a minute about the wonderful coloring. Monday was very windy (a regular <abbr expan="mountain">mt.</abbr> wind people call it)
+                    <del>&amp;</del> <add place="supralinear">which</add> seemed to turn the trees druing the day so that at noon it was really starting to 
+                    see the change. All had been touched except the evergreens which seem to grow in long fingerlike clusters down the ridges in quite regular stripes like - 
+                    their dark green contrasts wonderfully with the solid golden color of all the other trees occasionally brightened by a maple - gum tree - sumach or
+                    sourwood - a solid mass of f<del>a</del>lame color from top to bottom &amp; then the copper colored oaks tone that down. Well it&apos;s
+                    just about the most wonderful thing I&apos;ve seen here - these golden - green - &amp; red hills in every direction!
+                </p>
+                <p>
+                    Emily Aunt Lizzie &amp; I sat out on the porch steps after lunch today admiring it while waiting for Mr. Creswell to bring up the mail - Evelyn &amp;
+                    Miss Langmaid went to Sevierville Sunday afternoon &amp; will be back tomorrow - at least Evelyn phoned tonight to that effect.
+                    <abbr expan="Baptist Young Person&apos; Union">B.Y.</abbr> is rather lonesome without her playing &amp; singing as Emily isn&apos;t much at the 
+                    piano - but better than I am anyway. Mr. <abbr expan="Cresswell">C.</abbr> got back from his <sic corr="weekend">week-end</sic> in time to take
+                    charge though Abbie didn&apos;t make it until last the next morning. We got through about 7:30 &amp; then Tom McCarter &amp; Mr. <abbr expan="Cresswell">C.</abbr>
+                    brought the <pb ref="arm03030016005" seq="05" n="2"></pb> lamps over &amp; chatted awhile - Tom is the most amusing &amp; original youngster you can imagine
+                    but thoroughly good &amp; dependable. He has been out nearly all month plowing getting in corn etc. &amp; has been learning his part 
+                    <del>in</del> as Miles Standish while doing the <hi1 rend="underscore">former</hi1>! 
+                </p>
+                <p>
+                    There was a boy shot up in the Sugarlands Sunday noon - by a Mr. Bracken - an elderly man of about sixty - trouble over a still &amp; about which
+                    there are conflicting stories - Anyway <hi1 rend="underscore">our</hi1> Harrison went up after Mr. <abbr expan="Bracken">B.</abbr> Sunday night - 
+                    started right after <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> on old Dan. It was an awfully windy night way up in the 
+                    <abbr expan="mountains">mts.</abbr> &amp; Harrison looked so excited while telling Mr. <abbr expan="Cresswell">C.</abbr> about fixing the furnace at 
+                    school etc. for Monday morning. We <pb ref="arm03030016006" seq="06"></pb> can just imagine how <hi1 rend="underscore">Sherlock</hi1> <hi1 rend="underscore">Holmesy</hi1>
+                    &amp; funny he was. Anyway he got his man &amp; there was a trial by Squire Maples at his house at the foot of our lane to which men for miles around 
+                    came Monday noon - He was let out on bail until <hi1 rend="underscore">court</hi1> (circuit every 3 <abbr expan="months">mon.</abbr>) in February or 
+                    about then. We were right at the house where <add place="supralinear">was</add> the scene of the shooting on our <abbr expan="Smoky Mountains">Smoky</abbr> trip - 
+                    stopped to get a horseshoe for Dan.
+                </p>
+                <p>
+                    Well I must on with my tales of my doings such as they are. Monday Abbie stayed with us as the Carr girls did not come to the cottage - Rose being sick &amp;
+                    Litha not willing to stay without her I suppose - they get mad about things every so often as do the others. Aunt Lizzie isn&apos;t much of a cook you know
+                    &amp; wondered what we could have for supper - so I made some <pb ref="arm03030016007" seq="07"></pb> muffins &amp; Jane they were about the best I ever baked - 
+                    so light - these with our old standby chocolate &amp; some war cake were quite filling - Then great excitement a man come up in a wagon with our dishes
+                    a big barrel<del>l</del> so after the repast was over down we went with hatchet &amp; lamp &amp; the three of us managed to get the top
+                    off &amp; the dishes out of the excelsior - Such a relief as it is to have cups - saucers - bowls etc sufficient for the food &amp; partakers thereof!
+                    They are a very pretty pattern neat &amp; cha<del>t</del>ste! Something like Bavarian dishes - pink roses with a tiny blue flower and 
+                    a little gold band.
+                </p>
+                <p>
+                    We have sugar bowl - cream pitcher - three sizes of plates - sauce dishes - oatmeal &amp; soup dishes - vegetable dishes &amp; platters besides the cups &amp;
+                    saucers - Some of the dinner plates were broken - also vegetable dishes &amp; two platters but we are content with the rest. We washed up enough for breakfast
+                    &amp; I arranged the table even to the bread &amp; butter plates. Abbie had brought some little pink chrysanthemums from home so our table looked very pretty.
+                    Did I tell you that Evelyn had a large window box in the dining room? <del>in front of the <sic corr="window">wind</sic></del> It is about
+                    a foot wide &amp; three long - wandering Jew - colis - begonia &amp; geraniums make it very pretty.
+                </p>
+                <p>
+                    I stayed till late at school reading about Daniel Boone for my geography class (we have been studying <abbr expan="Tennessee">Tenn.</abbr>) &amp; looking up
+                    information about the Constitution for my <abbr expan="United States">U.S.</abbr> class Incidentally I&apos;m learning quite a little myself. We finished the
+                    history having be-<pb ref="arm03030016008" seq="08" n="3"></pb>gun with the close of the Civil War - The Spanish-American War had been almost entirely erased from 
+                    my mind &amp; so feel that I&apos;m quite a little more intelligent in regard to my country than before.
+                </p>
+                <p>
+                    Yesterday we didn't close school but had our assembly from 2 till about 2:20 &amp; then dismissed - Liberty Day - you know - It&apos;s my week to have assembly
+                    but don't mind it any more - We had the flag salute - Star Spangled etc Columbia the gem etc America the beautiful - Mr. <abbr expan="Cresswell">C.</abbr> told
+                    about the doings in Liverpool where he was at the time &amp; so ended that part. Then I drilled on my play for a long time &amp; had much fun with them. They are
+                    <pb ref="arm03030016009" seq="09"></pb> awfully nice about it &amp; quite interested for them! You know I have Priscilla&apos;s part divided between Rose Carr &amp;
+                    Cora McCarter thus taking in the four in the 9th grade. Cora has the two spinning scenes as she can spin &amp; we are using our &quot;stage properties&quot;
+                    now  which makes it more interesting. Have planned to work in the whole class into the last scene
+                    closing with a Thanksgiving song. Maybe I&apos;ve told you all this before - for as you are situated in regard to me &amp; pa so am I towards you both. (No your
+                    items in today&apos;s letter had not been written me before &amp; was much interested to know of your manifold activities in the bazaar as member of <pb ref="arm03030016010" seq="10"></pb>
+                    Aurora P.E.U. &amp; <abbr expan="Daughters of the American Revolution">D.A.R.</abbr> - also was glad to look over year books of first &amp; latter.) After this rehearsing I did
+                    a little studying &amp; then went with Emily for a stroll up the river into all the gorgeousness. After supper for which we had some of Aunt Lizzie&apos;s good 
+                    tomato soup we sat around the fireplace &amp; read &amp; talked. Mr. <abbr expan="Cresswell">C.</abbr> came over and joined us - He is alone at the 
+                    bungalow with Mrs. <sic corr="Proffitt">Proffit</sic> &amp; imagine he gets rather lonesome.
+                </p>
+                <p>
+                    Oh yes - he &amp; Tom - Rose &amp; I have been slated for a quartette for the <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> Sunday
+                    <abbr expan="evening">eve</abbr>! So that&apos;s my next feat - unless the boys don&apos;t get over their colds before then. What we shall sing is as 
+                    yet unknown. A hymn no doubt. Rose &amp; I will sing soprano - the other two can sing whatever they wish! Today was a repetition largely of 
+                    yesterday - more rehearsing after school - Then Emily &amp; I went to the store - Charlie&apos;s - for candy - (Is there a sugar famine home as here - ?)
+                    He produced a box of chocolates perfectly grand fresh ones - &amp; as <del>he</del> we have not bought any candy since being here we
+                    purchased it between us &amp; have had a gay time eating them.
+                </p>
+                <p><del>
+                    Well it&apos;s getting so late I hate to look at the clock - and must wend my way to bed - Weather is rather warm &amp; damp again so wear my gingham
+                    with green slip on &amp; white shoes! Oh yes - this is Brennie&apos;s news &amp; a <hi1 rend="underscore">secret</hi1> - she is engaged! Someone I never
+                    heard of &amp; know nothing about - widower named Fred Marsh &amp; Herbert&apos;s Sunday School teacher - <hi1 rend="underscore">perfect</hi1> &amp; she is
+                    <hi1 rend="underscore">so</hi1> <hi1 rend="underscore">happy</hi1>! Isn&apos;t that nice? She is such a dear -</del>
+                </p>
+                <p><del>
+                    Goodnight dearest Jane with so much love - Ruth</del>
+                </p>    
+            </div1>
+        </body>
+    </text>
+</TEI.2>

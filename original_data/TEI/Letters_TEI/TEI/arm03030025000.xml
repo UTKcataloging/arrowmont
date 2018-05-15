@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030025000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Dec. 7, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030025000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Dec. 7, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-12-07">Dec. 7, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>7p</extent>
+					<note type="summary">The &quot;Box Supper&quot;</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030025000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living conditions</item>
+						<item>School children</item>
+						<item>People</item>
+						<item>Social life</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030025001" seq="01"/>
+				<p>
+					<list>
+						<item>The &quot;Box Supper&quot;</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030025002" seq="02"/>
+				<head>
+					<date value="1919-12-07">Dec. 7, 1919</date>
+				</head>
+				<p><del>
+                    Dearest family - You were all so wonderfully good to me Thanksgiving time - Jane wrote so much &amp; sent such good &quot;eats&quot; and pa&apos;s letters came
+                    too and then to have that wonderful &quot;round robin&quot; on top of all the other - I was quite overwhelmed &amp; you can&apos;t imagine how pleased! It came at noon
+                    just as lunch was over - (Abbie or Mr. Cresswell usually get the mail during the noon hour - ) I of course opened it quickly to see what the thickness meant - thinking it might
+                    be kodak pictures and when I discovered the place cards &amp; then the beautifully printed page of greeting I &quot;chortled&quot; aloud in glee but had to wait till after
+                    school before I could read it! If you are so <unclear reason="illegible" resp="bds">&quot;sot&quot;</unclear> on leaving Tacoma - California seems to me to be as desirable
+					as any spot in which to locate and if you both want to go there I think it would be fine </del><pb ref="arm03030025003" seq="03"/> <del>for you but I just don&apos;t know. It  seems too
+                    bad to leave the children and all Jane&apos;s good friends - Time alone can tell though how things will work out! It&apos;s still too soon for me to know just what I will do when
+                    school closes - the year is only <hi1 rend="underscore">half</hi1>
+						<hi1 rend="underscore">gone</hi1>! I want to do whatever seems nearest right whatever that may prove to be!</del>
+                </p>
+				<p>
+                     Such a busy time since writing you last Wednesday! Thursday after recess I sen<del>d</del>t my <del>girls</del>
+					<add place="supralinear">boys</add> into the shop &amp; put the girls through the <abbr expan="Christmas">Xmas</abbr> tableaux &amp; I do believe we will get the robes from 
+                    the lodge. Mr. <abbr expan="Cresswell">C.</abbr> joined last night (Odd Fellows) so it looks propitious doesn&apos;t it? After school it was the Miles Standish play again. They
+                    went through it beautifully and also cut up a good deal - My John Alden (Estel Huff) wore his cuffs &amp; collar &amp; the Indian headdress through the whole rehearsal &amp;
+                    looked perfectly <unclear reason="illegible" resp="bds">killing</unclear> - Tom is quite fetching in an old uniform given him by Mr. <abbr expan="Cresswell">C.</abbr> &amp; 
+                    which he wears <pb ref="arm03030025004" seq="04"/> to school now - even to the trench hat in spite of our warning him that he&apos;ll be taken up for it. After this long spasm - 
+                    Emily &amp; I took a walk up the river &amp; I read my &quot;round robin&quot; en route. I spent the <abbr expan="evening">eve</abbr> looking over papers - but it&apos;s rather
+                    difficult to get much done in the living room when everyone else is around - Miss <abbr expan="Langmaid">L.</abbr> or Evelyn usually are talking - The poor family about three
+                    miles from here <add place="supralinear">to</add> whom Emily&apos;s mother sent a lot of old clothes &amp; which <abbr expan="Evelyn">E.</abbr> took to them last Sunday were so
+                    pleased and Thursday morning three of the youngsters came to school - two little girls whom we put in Emily&apos;s &amp; Abbie&apos;s rooms &amp; the boy Elmer came to me - He
+                    wears overalls made <del>out</del>
+					<del>of</del>
+					<add place="supralinear">from</add> an old pair of trousers &amp; over his <hi1 rend="underscore">outside</hi1>
+                    shirt he wears one of the heavy <add place="supralinear">knitted</add> undershirts Emily took out! They wanted us to come &amp; see them all again &amp; we must too somehow or other
+                    before very long!
+                </p>
+				<p>
+                    Friday the long anticipated day of the box supper arrived. Do you know what it&apos;s like? Well each girl is supposed to take an elaborately <sic corr="bedecked">be-decked</sic> box
+                    containing lunch for two and <hi1 rend="underscore">her</hi1>
+					<hi1 rend="underscore">name</hi1> inside - These are then auctioned off - the boys buying them &amp; eating with the girl
+                    whose name he has found inside! Quite a lottery isn&apos;t it? But they are exciting events here and at the morning recess two of the girls begged to be excused so as to go home &amp;
+                    get their boxes ready - We compromised finally - but that was the beginning of the end - so that in the afternoon practically all my girls were gone - I couldn&apos;t do otherwise
+                    than let them off - for they stayed out anyway. The supper is no <hi1 rend="underscore">light</hi1> fluffy affair but must consist of fried chicken - pie - cake etc. Poor Evelyn
+                    baked &amp; fried all <pb ref="arm03030025005" seq="05" n="2"/> morning too for we all had to go with boxes - except Aunt Lizzie &amp; she positively balked. Abbie &amp; I said we were
+                    going to put <add place="supralinear">in</add> her name &amp; Mrs. <sic corr="Proffitt">Proffit&apos;s</sic> instead of our own! Emily sputtered around beforehand too as she doesn&apos;t like
+                    them at all. After school I finished making out  the month&apos;s attendance - Emily &amp; Abbie put up <abbr expan="Christmas">Xmas</abbr> bells while the boys fixed the stage &amp;
+                    put up the panels for the play. Then we girls came home &amp; packed our five boxes - fried chicken - bread &amp; butter sandwiches - mince pie - chocolate cookies &amp; apples! We went
+                    up the lane &amp; plucked sprays of holly to adorn the outside - We did them up in white paper &amp; found some <abbr expan="Christmas">Xmas</abbr> seals &amp; ribbon - I had some of the 
+                    Pi Phi colors which I shared with Abbie - Then we cleaned up &amp; hustled over with our lamps &amp; quite a crowd was there al-<pb ref="arm03030025006" seq="06"/>ready. Finally everything
+                    was ready for the play &amp; it began &amp; ended - much to my relief &amp; that of the players. Then came the auction. Two men were <del>activ</del> auctioneers
+                    turn about - the boxes sold from fifty cents to a dollar and half - &amp; <del>I</del> we took in about twenty dollars and a few cents. Tom had found out which boxes
+                    came from the house - so we were quite pleased to have our own little crowd - he bought Evelyn&apos;s &amp; Emily&apos;s - Mr. <abbr expan="Cresswell">C</abbr> - mine &amp; Charlie Clabo
+                    (our Round Top guide) Abbie&apos;s &amp; Miss Langmaid&apos;s - Little Blanche Huff wanted a box all her own so Evelyn had Tom sell hers to them &amp; ate with them. The rest of us got
+                    around a table by ourselves &amp; partook of nourishment.
+                </p>
+				<p>
+                    We left the awful mess that <abbr expan="evening">eve</abbr> &amp; came home - weary but having <pb ref="arm03030025007" seq="07"/> done our duty. Saturday - we cleaned &amp; then all 
+                    went over to school &amp; got busy - Such a wreck! After this I hustled off my Pi Phi letter on the mail so they&apos;d have it for the meeting. A paper cutter came from them Friday
+                    which will be a great help. Aren&apos;t they nice to send it?
+                </p>
+				<p>
+                    I spent a luxurious afternoon in the house <hi1 rend="underscore">alone</hi1> by the fireside - Aunt Lizzie went to church &amp; <del>I</del>the others went up one 
+                    of the &quot;hollers&quot; to call &amp; didn&apos;t get home till dark - I had been there &amp; besides it seemed good to be <hi1 rend="underscore">alone</hi1> for awhile!
+                </p>
+				<p>
+                    Today had just sort of gone &amp; really haven&apos;t done anything. Sunday School &amp; church ke<del><unclear reason="illegible" resp="bds">fl</unclear></del>pt
+                    us busy till noon - Tom blew in &amp; stayed for dinner &amp; on till the middle of the <abbr expan="afternoon">p.m.</abbr> - wanted some help on an account he wrote of a day&apos;s hunting
+                    to send to Miss Abbott for <add place="supralinear">a boy in</add> her class sent one of his productions. She is the <!-- &#03A0; &#03A6; Will not validate TAL -->who visited in the summer with her father &amp; mother. Have
+                    read the Merchant of Venice - some ancient history - had supper &amp; been to <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> since 3:30 besides writing this awful epistle. Can
+                    you read it? Such a lot of talking as goes on all the time! but had to stay downstairs as we had no heat on today it&apos;s been so warm we were out on the porch without wraps. However the 
+                    fireplace was very comfortable tonight.
+                </p>
+				<p>
+                    I must stop for now &amp; get to bed - with <hi1 rend="underscore">loads</hi1> &amp; <hi1 rend="underscore">bushels</hi1> of love to you all as ever
+                </p>
+				<p>
+                    Ruth
+                </p>
+				<p>
+                    P.S. Had another idea as to <abbr expan="Christmas">Xmas</abbr> presents a little kodak book for my Gatlinburg pictures - shall take them to New Orleans!
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

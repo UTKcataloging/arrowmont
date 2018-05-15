@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030020000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Nov. 23, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030020000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Nov. 23, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-11-23">Nov. 23, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>4p</extent>
+					<note type="summary">Gatlinburg to raise &#36;700 as her share in church campaign - No observance of Thanksgiving or 
+                    Christmas made by the mountain people - </note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030020000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living conditions</item>
+						<item>Religion</item>
+						<item>Churches</item>
+						<item>Community outreach</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030020001" seq="01"/>
+				<p>
+					<list>
+						<item>Gatlinburg to raise &#36;700 as her share in church campaign</item>
+						<item>No observance of Thanksgiving or Christmas made by the mountain people - </item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030020002" seq="02"/>
+				<head>
+					<date value="1919-11-23">Nov. 23, 1919</date>
+				</head>
+				<p><del>
+                    Dearest pa - </del>
+                </p>
+				<p><del>
+                    Your card from Los Angeles came the other day &amp; am so glad you are there for am sure you&apos;ll like it and everything around there. Give 
+                    my best regards to the Wittens &amp; ask them where Alice is - </del>
+                </p>
+				<p><del>
+                    What do you think of our Thanksgiving this year and Christmas too? Wonder if you&apos;ll be home by then. Emily &amp; I get <hi1 rend="underscore">real</hi1>
+                    excited when we think how fast our New Orleans trip is approaching.</del>
+                </p>
+				<p><del>
+					Since my letter of last Tuesday have really not done much of interest to write about </del></p>
+				<pb ref="arm03030020003" seq="03"/>
+				<p>
+                    Practiced on my play after school - made Puritan hats for it - gone walking &amp; made a number of calls - Friday night we all went over to Steve Whaley&apos;s
+                    for dinner &amp; from there to the debate on capital punishment.
+                </p>
+				<p>
+                    A Mr. Conner talked in church this morning - He used to be the minister here and a very broad minded man he seems to be - He was at the Whaley&apos;s for
+                    dinner when we were and is going through the county stirring up enthusiasm for the Southern Baptist campaign to raise 75 million. Gatlinburg is down for &#36;700
+                    of which &#36; was pledged this <abbr expan="morning">a.m.</abbr> Have put in over <hi1 rend="underscore">4</hi1> hours today <pb ref="arm03030020004" seq="04"/>
+                    at church &amp; <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> - What do you think of that?      
+                </p>
+				<p>
+                    Thanksgiving Day is not kept in any way here - the stores are open &amp; people go about their work the same as usual - Our school program Wednesday &amp;
+                    the closing of school for the rest of the week are the only things that break the ordinary routine of living - Christmas is the same!
+                </p>
+				<p>
+                     Mr. &amp; Mrs. Huff have been asked over for Thanksgiving dinner which we plan to have as nice as possible - Miss Langmaid has written to the steward of the best
+                    hotel in Knoxville for a box of things. Sound good? Evelyn&apos;s pig was killed yesterday so we celebrated by eating liver twice &amp; a pork roast today - the most delicious
+                    imaginable - After the men did the killing poor Aunt Lizzie &amp; Mrs. <sic corr="Proffitt">Profitt</sic> worked with it the rest of the day - cutting it up - making lard etc.
+                </p>
+				<p>
+                    The wind is blowing a gale tonight getting ready for rain no doubt - and it&apos;s getting late too. Everyone has been in bed a long time.
+                </p>
+				<p>
+                    Goodnight dear papa - am so glad you are having a trip and good time - 
+                </p>
+				<p>
+                    Hoping to hear from you tomorrow &amp; with much love -
+                </p>
+				<p>
+                    Ruth.
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

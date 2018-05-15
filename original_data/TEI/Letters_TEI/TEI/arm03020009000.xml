@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020009000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Sept. 7, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Young, Phillip</name>
+                    <name>Lepczyk, Tim</name>
+                    <name>Bridger Dyson-Smith</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020009000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Sept. 7, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-09-07">Sept. 7, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>15p</extent>
+                    <note type="summary">Description of my room in the Teachers&apos; Cottage with diagram - Trouble over Mary &amp; Marshall Ogle - 
+                    Miss Turner at the hotel - How Sunday is spent - </note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020009000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Social life</item>
+                        <item>Feuds</item>
+                        <item>Church</item>
+                        <item>People</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020009001" seq="01"/>
+                <list>
+                    <item>Description of my room in the Teachers&apos; Cottage with diagram - </item>
+                    <item>Trouble over Mary &amp; Marshall Ogle -</item>
+                    <item>Miss Turner at the hotel -</item>
+                    <item>How Sunday is spent - </item>
+                </list>
+             </div1>
+            <div1 type="letter">
+                <pb ref="arm03020009002" seq="02"/>
+                <head>
+                    <date value="1919-09-07"> Sept. 7, 1919</date>
+                </head>
+                    <p>
+                        <del>
+                       Dearest family - It&apos;s four o&apos;clock this warm Sunday afternoon and I wonder what all you many be doing and whether fair Mabel
+                       is still in you midst - Have decided that the best name for her is Mabel - the maiden of mystery!
+                            </del>
+                    </p>
+                    <p>
+                        <del>
+                        My writing looks worse than usual doesn&apos;t it - but have been writing a lot these last two days and guess that&apos;s the reason - 
+                        Finally got my Pi Phi letter off to Lida yesterday - Emily went to Sevierville and mailed it there - wrote Charlotte a long one &amp;
+                        am in the middle of one to Jo - a note to Bessie - Ruth D. - a letter to the Cavanagh&apos;s - note to Emily&apos;s cousin who selected
+                        the khakhi middy for me - and another to the company in Knoxville who have done my developing &amp; <pb ref="arm03020009003" seq="03"></pb>
+                        printing with which will have to go a money order - then am sending some more films to another company with order for film packs - It
+                        seems to me some of my pictures are printed too dark when I ask them to be duplicated. So thought I&apos;d try a new place.
+                        </del>
+                    </p>
+                <p>
+                    It&apos;s getting dark &amp; sultry - every indication of a storm - downstairs the Junior <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.</abbr>
+                    is gathering with Emily - Evelyn is reading in her room - Aunt Lizzie &amp; Mrs. <sic corr="Proffitt">Profit</sic> are hobnobbing
+                    together somewhere - Mrs. <sic corr="Proffitt">Profit</sic> spends the <sic corr="weekends">week ends</sic> here as her boys &amp;
+                    Mr. <abbr expan="Cresswell">C.</abbr> go Friday night - Abbie is usually with us as her girls also depart but she departed herself
+                    for Sevierville after school Friday.<pb ref="arm03020009004" seq="04" n="2"></pb>
+                </p>
+                <p>
+                    <del>Have not had a letter since the beginning of the week a longer lapse of time than usual but know that you all
+                        have been busy - even pa was roped into the party no doubt. Saw the notice of it in the paper!</del> Truly I <sic corr="won&apos;t">wont</sic>
+                    know how to act in the city after while! Before I forget in my rambling along - let me tell you that the <hi1 rend="underscore">paper</hi1>
+                    <hi1 rend="underscore">bag</hi1> is a great boon and has already made over night trips with me - Emily &amp; I took it for the trip to Maud
+                    Clabo&apos;s house and then I took it Friday night when I went over &amp; stayed with Mary Ogle. It&apos;s so convenient to carry and holds so
+                    much. We will enjoy it for picnics I&apos;m sure - for can fold it up after we <pb ref="arm03020009005" seq="05"></pb>get through eating. The bundle
+                    of papers came &amp; was pleased to find my quarterly and the booklets. Aunt Lizzie enjoyed them so much the afternoon they came - that the same
+                    evening when Emily &amp; I were at Maud&apos;s she got them out to show them to Dr. Massey &amp; Evelyn. Thank you very much for your sweet
+                    thoughtfulness. <figure><figDesc>Line drawing of Ruth Sturley&apos;s room in the Teachers&apos; Cottage.</figDesc></figure> How do you like my
+                    room? On the table is a green blotting pad - books - writing paper etc. and here I spend most of my time when in this place (except when I sleep).
+                    The dressing table is just a plain table like the study table but with my bureau scarf silver things - pa&apos;s &amp; Jane&apos;s pictures
+                    <pb ref="arm03020009006" seq="06" n="3"></pb> and a mirror above its not so bad as it might be. On the left of the mirror is <unclear 
+                        reason="illegible" resp="bds">Weirs</unclear> smiling face &amp; on the other side Arthur &amp; Nell - with the little California picture
+                    Victoria gave me. On the <del>be</del> Chiffonier is the picture of the two youngsters and Charlotte&apos;s - 
+                    <hi1 rend="underscore">my</hi1> <hi1 rend="underscore">lamb</hi1> work basket etc. On the window seat is a growing collection of papers
+                    etc. The walls are plain wood like the floor - pine I believe - no rugs as yet. Am clad in my pongee old white shoes - my hair is somewhat fuzzy
+                    having been washed yesterday &amp; I&apos;m brown also <hi1 rend="underscore">fatter</hi1> than when we parted! Truly I eat something
+                    fierce! This morning had two cups of coffee - <hi1 rend="underscore">4</hi1> hot baking powder biscuits &amp; much apple jelly. For
+                    dinner we had fried chicken - boiled rice which took <pb ref="arm03020009007" seq="07"></pb>the place of <hi1 rend="underscore">potatoes</hi1>
+                    (<abbr expan="singular">sing.</abbr> potato!) and is exceedingly good with the chicken gravy - baked apples - more hot biscuits - 
+                    cake and orange &amp; banan<del>n</del>a sliced together. Aunt Lizzie has been making apple jelly &amp; apple butter
+                    all week and yesterday they got a bushel and a half of pears - which she is going to can - They are not particularly good - rather small 
+                    and green.
+                </p>
+                <p>
+                    As usual it&apos;s been a busy time since I wrote you Thursday night. Stayed at school till about 4:30 putting up some pictures in my room - 
+                    cleaning out my desk - getting down some cobwebs - supervising the cleaning of the three little girls. We also cleaned out the fireplace. All
+                    the garbage &amp; waste paper is burned there so <pb ref="arm03020009008" seq="08" n="8"></pb>that it was full to overflowing. They ought to have some
+                    garbage cans it seems to me. A Mr. Lawson Reagan came over to fix the clock in my room which had been out of commission most of the week - my little
+                    alarm clock sat on the piano over there all day Friday - Mabel will be pleased to hear this she was so fond of that singing instrument! Mr. Reagan
+                    is the father of Flora in my 8th B Class and a typical mountaineer - am hoping to get his picture some time! He is one of the pillars in the church
+                    (though a very short one) and leads the singing - Stands by the organ &amp; beats time while we all sit in the choir seats facing him &amp; 
+                    <hi1 rend="underscore">sing</hi1> <hi1 rend="underscore">sing</hi1> <hi1 rend="underscore">sing</hi1> - Rescue the <unclear reason="illegible"
+                        resp="bds">penshing</unclear> etc. Some of the hymns aren&apos;t bad though. - There are not books enough for every-<pb ref="arm03020009009" seq="09"></pb>
+                    one - so the audience never sings - just &quot;we uns!&quot;
+                </p>
+                <p>
+                    Well to return to after school Friday - I also had Mr. Reagan fix the front door which has a spring for holding one side open which also had
+                    been out of commission most of the week - Just as I was ready to leave Miss Turner (our Pi Phi) and a Mrs. Hall arrived from the hotel. Miss
+                    Turner wished to get a book and by that time Mr. <abbr expan="Reagan">R.</abbr> was through and decided to take two - He wanted Pilgrim&apos;s
+                    Progress which he said he&apos;d read a long time ago and took &quot;The Blue Bird&quot; along with it. Miss <abbr expan="Turner">T.</abbr>
+                    selected one of Mrs. Burnett&apos;s books - She is very nice but a typical old maid in many ways - is enraptured with everything here however.
+                    They went off and I got home &amp; comfortably settled on the porch with <pb ref="arm03020009010" seq="10" n="5"></pb> something to read &amp; an apple - 
+                    Emily &amp; Evelyn were both gone to Sevierville &amp; Pigeon Forge - when Mrs. Huff appeared with her sister-in-law and stayed the rest of the 
+                    afternoon winding up with a visit at the school - Her sister lives in a small town near Knoxville and hadn&apos;t been in our school before. Soon
+                    the girls came home and during supper - Mary Ogle blew in begging one of us to go and stay all night with her. You know her husband is getting a
+                    divorce from her - through the evil influence of a Mrs. Brown in the <abbr expan="mountains">mts.</abbr> nearby <del>who</del>
+                    It&apos;s a long &amp; involved story and I do not know all the details fortunately but know enough about it to feel rather wrathy when the Pi Phis
+                    and school are blackened! You see Evelyn discharged Marshall <del>her</del> Mary&apos;s husband &amp; his <pb ref="arm03020009011" seq="11"></pb>
+                    people and he are trying to revenge themselves on the school by attacking reputations of some of the Pi Phis who taught here several years ago - 
+                    and Evelyn&apos;s - I&apos;ve discussed it with her and she thinks now about it as I do that the thing to do is give them a good scare &amp; settle
+                    this gossip for good and all by going to a lawyer. The Ogle family live just below Mary&apos;s and when Marshall is in town &amp; then she is afraid.
+                    There really is nothing to be afraid of - and I was there Friday night - we found out later that the minister was at the Ogles&apos; that night and
+                    that they told these things to him - He comes up once a month for services Saturday <abbr expan="afternoon">p.m.</abbr> &amp; Sunday - So yesterday
+                    (<abbr expan="Saturday">Sat.</abbr>) about 2:30 was church. It was rumored around that several people were going to be turned out of church too.
+                    I had had a busy morning (my first <abbr expan="Saturday">Sat.</abbr> here <pb ref="arm03020009012" seq="12" n="6"></pb> all day too - ) writing but
+                    bustled around with my both hairwashing manicuring etc. &amp; was clothed in my gray garb &amp; best hat by the time the last church bell rang &amp;
+                    on my way to church with Evelyn - It was a very peaceful meetin&apos; as far as any dismissals were concerned - though the minister talked very
+                    plainly about &quot;the capers the devil had been cuttin up&quot; &amp; &quot;haw people had been rarin&apos; around&quot; saying things behind the
+                    back &amp; not &quot;square to the teeth&quot; etc. His expressions were so funny but he was very much in earnest. 
+                </p>
+                <p>
+                    Evelyn went right to him after church &amp; had it out with him - He was very much - and as two or three pillars <hi1 rend="underscore">were</hi1> 
+                    there it was quite a clearing of the atmosphere. You see like all small places there seems to be one family who <pb ref="arm03020009013" seq="13"></pb> try
+                    to stir up trouble &amp; this particular Ogle family is <hi1 rend="underscore">the</hi1> <hi1 rend="underscore">one</hi1> here. Evelyn goes to a 
+                    lawyer in Sevierville this week - Judge Paine a personal friend of hers - and as it happens Marshall&apos;s lawyer - isn&apos;t that rich?
+                </p>
+                <p>
+                    Well to continue after church I came home &amp; planned to go up Pi Phi lane &amp; make another attempt to read having been failed the previous
+                    afternoon - But failed again was the word for Miss Turner appeared and so we went for a walk up Pi Phi lane on to Baskin&apos;s Creek returning
+                    about six. Then while supper was being prepared we called on Mary Ogle as Miss <abbr expan="Turner">T.</abbr> wanted to see the house - She stayed
+                    the rest of the evening &amp; we took her back to the hotel about nine. It was a perfect night <pb ref="arm03020009014" seq="14" n="7"></pb> balmy and the 
+                    moon nearly full - I know the moon is much brighter than ours at home - the last Geographic has an interesting article on stars which I read after we
+                    finally tore ourselves away from the porch - Emily went to bed and Evelyn sat down &amp; played &amp; sang at the piano - She has a lovely contralto
+                    voice. Was up at six this lovely morning &amp; donned my walking costume as Miss Turner wanted to go up Tom <sic corr="Campbell">Camel</sic>&apos;s
+                    trail and we planned to start about <del>se</del>eight getting out of sight before the gathering for Sunday School. I had a feeling
+                    she wouldn&apos;t go somehow &amp; was not surprised when a small boy arrived about 8:30 with a note saying she couldn&apos;t &amp; would
+                    <pb ref="arm03020009015" seq="15"></pb> explain later - She was on the verge of a nervous breakdown when she came so do not think hard walks are her line 
+                    exactly. I was in the midst of various activities &amp; decided to keep right on and not go to any church function till tonight. Emily &amp; Evelyn went
+                    and were gone <hi1 rend="underscore">three</hi1> <hi1 rend="underscore">long</hi1> <hi1 rend="underscore">hours</hi1>!! I cleaned my shoes changed my
+                    bed - straightened out my top drawer - scoured the stationary wash stands with Dutch cleanser - changed my dress - wrote letters - fixed my tan dress that
+                    Bessie made and of course did some washing!! So now you know just about all that has been doing up to the present moment! Will close for now &amp; will
+                    try to get off another letter the middle of the week - Hoping to hear from some of you tomorrow &amp; with much of love as always - Ruth.
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

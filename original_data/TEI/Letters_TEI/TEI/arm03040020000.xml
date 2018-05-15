@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03040020000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  April 5, 1920, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03040020000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  April 5, 1920, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1920-04-05">April 5, 1920</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>13p</extent>
+                    <note type="summary">Floods! - Getting ready to leave - Last calls on Maples, Huffs, McCarters</note>
+                    <note type="box">3</note>
+                    <note type="folder">4</note>
+                    <note type="document">arm03040020000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Rivers</item>
+                        <item>People</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03040020001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Floods</item>
+                        <item>Getting ready to leave</item>
+                        <item>Last calls on Maples, Huffs, McCarters</item>
+                    </list>   
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03040020002" seq="02"/>
+                <head>
+                    <date value="1920-04-05">April 5, 1920</date>
+                </head>
+                <p>
+                    Dearest family: Monday morning &amp; just 10:30 - have been up since six &amp; busy every minute - There is so much to write about though nothing important 
+                    except our <hi1 rend="underscore">flood</hi1>! Isn&apos;t this a great burg - First small pox then flood - next a <hi1 rend="underscore">snowstorm</hi1> the 
+                    latter taking place this morning. Whether I get out of here tomorrow morning or not remains to be seen. My trunk was taken down to the store <del>Sat</del> 
+                    Friday so there has been time enough for it to be taken if the roads are passable for a train - Perhaps I&apos;d better go back to Wednesday - you remember I 
+                    dashed off a letter just before setting out for my four mile tramp to Maple&apos;s. It took me <pb ref="arm03040020003" seq="03"></pb>just an hour and a quarter to get there as 
+                    the road follows the river &amp; is quite smooth for this part of the world - It is a very pretty walk &amp; I enjoyed it greatly - in spite of a little mist that began falling the last mile 
+                    or so - When I arrived we sat around the fire - had my embroidery - There are three boys - Ephraim about sixteen &amp; the oldest &amp; Rellie next in age were
+                    both in my room - Bruce the youngest in Abby&apos;s - Mr. Maples as I think I told you has a mail route twenty six miles up Baskins - Sugar Lands - &amp; 
+                    Elkmont - It takes about eight hours on horseback so you can judge of the condition of the roads - We had the usual supper - biscuit <pb ref="arm03040020004" seq="04"></pb>
+                    cornbread - pork - beans - eggs - potatoes - honey - pickles and &quot;stack pie&quot; - This pie is  peculiar to the mountain people I guess -  It looks like 
+                    a layer cake - one of four or five &amp; round - It is like cookie dough baked in the round layers with apple sauce or some kind of fruit spread between. 
+                    The Crocket Maples are very nice people - have a big farm house - a carpet in their best room - bed davenport - folding bed - bureau - library table etc. But 
+                    they are peculiar to the locality. Arose at 4:10 next morning - after getting to bed about nine - spent evening playing games - As Ephraim was going into the 
+                    burg after shoes - in the buggy I came along with him. We met Harrison with <del>the</del> <add place="supralinear">our</add> buggy 
+                    &amp; Dan - Aunt <abbr expan="Lizzie">L.</abbr> having seat him after we as the roads were bad again on account of the heavy rain during the night. 
+                    I spent the rest of the morning - <hi1 rend="underscore">packing</hi1> - then cleaned up for dinner - After which Miss Wheeler arrived with her mother 
+                    &amp; I showed them the school - They went on up Baskins for a hike but as I had had enough of visiting declined their invitation to go - Dr. Massy blew in 
+                    for half an hour or so &amp; then as Mrs. Proffitt &amp; Aunt Lizzie both were here - rocking &amp; roaming around in their restless way I trotted over to Huff&apos;s 
+                    where we sat around the fire &amp; talked &amp; played such games <pb ref="arm03040020005" seq="05" n="2"></pb> as little Blanche wanted - Stella &amp; Mattie 
+                    were both there also Betty so we had a great time. They had been working outside all <abbr expan="morning">a.m.</abbr> &amp; were rather tired. Well 
+                    about 3:30 it began to pour &amp; kept it up without ceasing until the next  morning - I came home about 5:30 &amp; helped with supper - Mr. 
+                    <abbr expan="Creswell">C.</abbr> is here all the time - that is for meals &amp; the night - is working at the mill setting up the machinery etc. - Read to Aunt 
+                    Lizzie in the evening a while - Next morning when I awakened - such a roaring as the river was causing - sounded like the ocean &amp; when I looked out - 
+                    here it was a raging torrent twice its size &amp; more - spread out all over a flat field just <pb ref="arm03040020006" seq="06"></pb> at the bend beyond Maples - &amp; 
+                    such a current! After breakfast Mrs. Huff arrived - the mill up the river belonging to Luther Reagan - Lucrettie&apos;s father had been washed down &amp; the
+                    lumber with it &amp; scattered at the bend referred to above - in different places - All the footlogs were washed away - and the roads were torrents too - Mrs. 
+                    Huff said their house was surrounded by water - a little knoll on which it stands prevented it&apos;s being flooded. Well I can&apos;t tell you what a lot of 
+                    damage has been done because the mails have not gotten through - but hope they will today. Sevierville is in a valley &amp; has been flooded they say - 
+                    the road <pb ref="arm03040020007" seq="07"></pb> at Pigeon Forge where it meets the pike has been washed out ten feet lower - a steel bridge just above has been 
+                    washed out - Only one footlog is left between here &amp; Elkmont - &amp; in several places - just around here all the soil has been washed out of the roads 
+                    &amp; great stones only left - also places dug out of the road along the river so that teams cannot get by - though a buggy can get through - A flood like this has 
+                    not happened for fifty years they say - That high bridge (footlog they call it) in front of Lucrettie&apos;s was even taken out - so that all the people on that side have 
+                    had to walk up to the Forks of the River to get across - People are raining money to help Mr. Reagan put up another mill - he needs just two or three hundred 
+                    dollars to do it - You can imagine how everyone congregated - that is - the men - in groups all day &amp; hung around the store - they will talk about this for 
+                    years! Even the footlog in front of Charlie&apos;s &amp; by the church was broken up &amp; the creek so big you couldn&apos;t cross without wading. Mrs. 
+                    Huff &amp; I went down to the hotel where we picked up Mrs. Wheeler &amp; Miss <abbr expan="Wheeler">W.</abbr> &amp; persuaded Josie too &amp; 
+                    went <del>up</del><add place="supralinear">down</add> the river to see the damage - The old mill that I sent the picture of &amp; where Mr. 
+                    <abbr expan="Creswell">C.</abbr> has an interest was not damaged - though the bridge there over Roaring Fork where it empties into Little Pigeon 
+                    <pb ref="arm03040020008" seq="08" n="3"></pb> was broken up some &amp; further on we had to go into a field to get by as the road itself was under water. We walked 
+                    about two miles &amp; then on our return I stopped at the hotel visited with Mrs. Huff &amp; the Wheelers &amp; wound up by staying there for dinner as Mrs. 
+                    <abbr expan="Huff">H.</abbr> was - we had lemon pie - a great treat for me - hence my mentioning it specially - I forgot to say that the day was bright &amp; 
+                    sunny &amp; quite windy so that the river &amp; creeks when down fast. After dinner Mrs. Huff &amp; I in the course of time came back to the house where I 
+                    combed my hair &amp; made my bed - Aunt Lizzie was nowhere to be found. Then I went over to Mrs. <pb ref="arm03040020009" seq="09"></pb> Huff&apos;s where her 
+                    family had vanished also - she combed her hair &amp; then we went up the ridge &amp; down to Mrs. Russell Ogle&apos;s instead of going the long way by 
+                    the river road - We had a nice call - &amp; then walked up the river road to see the damage &amp; destruction &amp; on our way back stopped to see the 
+                    sick girl Annie Trentham - Dr. <abbr expan="Massy">M.</abbr> had come up to see her <del>She</del> the day before - Thinks she is tubercular 
+                    &amp; a <hi1 rend="underscore">very</hi1> sick girl.
+                </p>
+                <p>
+                    When we finally parted after our long day of &quot;knocking about&quot; it was nigh six o&apos;clock - Saturday <abbr expan="morning">a.m.</abbr> I washed - 
+                    swept &amp; fussed around - The Wheelers left early that morning - at five - <del>t</del> with our rig &amp; Harrison though they were not 
+                    certain of getting through. 
+                </p>
+                <p>
+                    However a crowd from the <abbr expan="University of Tennessee">U. of T.</abbr> (Knoxville) had arrived Friday eve <pb ref="arm03040020010" seq="10"></pb> who 
+                    walked up from Pigeon Forge &amp; who said that a buggy could get through - Well - some of them &amp; their chaperone arrived while I was cleaning the rugs 
+                    on the front porch so had to cease my labors - show them the house &amp; the school - They were young &amp; exceedingly enthusiastic over everything so 
+                    didn&apos;t mind.
+                </p>
+                <p>
+                    The weather looked uncertain after dinner &amp; there was no information to be had about the road to McCarter&apos;s so didn&apos;t know whether I could get 
+                    through on foot or not - Mr. <abbr expan="Creswell">C.</abbr> had offered to drive me over but his driving is not good &amp; though he is very nice &amp; we get 
+                    along I was not keen about going with him - Have much more fun with Tom - so when he arrived about three having walked up from Mr. Huff&apos;s mill where he 
+                    has been working all week about six or seven miles down the river I was quite pleased - 
+                </p>
+                <p>
+                    He got Dan ready &amp; we started - the road was exceedingly rough &amp; in two places just wide enough by driving up on the bank to get through - They were all 
+                    home &amp; expecting me - they said - Wonder what you would have thought of them all - The girls have gotten <hi1 rend="underscore">mad</hi1> at me at various 
+                    times - but Tom never has - he has been away at school &amp; so knows what <hi1 rend="underscore">real</hi1> <hi1 rend="underscore">teachers</hi1> expect of their 
+                    students - the others are all right until I find fault with their lessons &amp; then the cross looks!! 
+                </p>
+                <p>
+                    Well it was early to bed &amp; early to rise - about 5:30 or 6:00 <pb ref="arm03040020011" seq="11" n="4"></pb> it rained hard again in the night but the next morning was bright 
+                    but windy - We sat out on the porch awhile after doing up the dishes &amp; then we all went for a climb up a high ridge by their house where you get a wonderful view of 
+                    the mountains in every direction &amp; can see Pigeon Forge &amp; Sevierville - After dinner we played tricks - games - Mr. <abbr expan="Creswell">C.</abbr> arrived 
+                    &amp; about four - I started back in the buggy with him &amp; Tom. Aunt Lizzie had been at Huff&apos;s &amp; brought Mattie &amp; Blanche back with her to stay all 
+                    night - They are such dear little girls - Tom stayed all night with Mr. <abbr expan="Creswell">C.</abbr> as he is working for him at the <pb ref="arm03040020012" seq="12"></pb> 
+                    mill this week - so we had quite a houseful - Blanche stayed with Aunt Lizzie &amp; Mattie with me. Arose about six &amp; have simply buzzed all 
+                    <abbr expan="morning">a.m.</abbr> It&apos;s cold as can be &amp; as I said at the first - <hi1 rend="underscore">snowing</hi1>
+                </p>
+                <p>
+                    The little girls amused themselves with the Victrola &amp; piano - I swept some - the house gets <hi1 rend="underscore">so</hi1> <hi1 rend="underscore">dirty</hi1> - 
+                    cleaned the bathrooms - washed again &amp; ironed - started this letter to you never dreaming that they would get off with the mail until <hi1 rend="underscore">one</hi1>
+                    or later the usual time - but Mr. <abbr expan="Creswell">C.</abbr> arrived at noon with it &amp; the information that it had been gone for a half hour or more. Your 
+                    letter Jane &amp; the kodaks came &amp; thank you very much for them. Am so thrilled at the possi<pb ref="arm03040020013" seq="13"></pb>bility of your coming east &amp; 
+                    think it possible for Pa to come too if he only would - Well we will just have to let things go along &amp; see how they work out - You are so busy all the time! Am leaving 
+                    only my old red dress of the wool variety - and it will not be given away unless I do not return - I told you what other things I was going to part with - am so glad to say 
+                    goodbye to some of my old truck - &amp; Martha was very glad to get the two washdresses - the old sleeveless sweater - you can&apos;t imagine what a sick looking 
+                    thing it was - the old <add place="supralinear">pink</add> kimono too. Yes I saw some hepaticas &amp; the wintergreen is here - it&apos;s called &quot;mountain tea.&quot;
+                    I think I&apos;ll probably spend the night at Huff&apos;s - my last in the <hi1 rend="underscore">burg</hi1>! maybe! Oh yes - am sending such a beautiful basket which I 
+                    had intended to keep for a mending basket but found it too large for my trunk after all - It cost me only <del>&#36;</del>80 <!-- I don't know the "cent" Unicode -->
+                    &amp; is made of white oak splits. Evelyn just got in some like these this last month &amp; now they are all gone - Well I must cease &amp; fly around again - ought to 
+                    wash my hair &amp; now that the pictures are here ought to <hi1 rend="underscore">fix</hi1> them. Margaret (Martha&apos;s sister) has been here all day - sitting around 
+                    talking with Aunt Lizzie - such gossip one might glean if they tried - you can&apos;t imagine - am glad I hear so little. But then they have nothing else to think of - Just 
+                    loads of love to you both as ever
+                </p>
+                <p>
+                    Ruth.
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

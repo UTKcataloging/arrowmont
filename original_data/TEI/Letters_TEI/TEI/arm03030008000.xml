@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030008000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Oct. 28, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030008000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Oct. 28, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-10-28">Oct. 28, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>7p</extent>
+					<note type="summary">Trip to Knoxville. Trip to Wear's Valley. Debating Club</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030008000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living Conditions</item>
+						<item>Knoxville, Tennessee</item>
+						<item>School programs</item>
+						<item>People</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030008001" seq="01"/>
+				<p>
+					<list>
+						<item>Trip to Knoxville</item>
+						<item>Trip to Wear's Valley</item>
+						<item>Debating Club</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030008002" seq="02"/>
+				<head>
+					<date value="1919-10-28">Oct. 28, 1919</date>
+				</head>
+				<!-- Page 1 is MISSING -->
+				<p>
+                    my last epistle was written on Wed. As usual it rained Thursday &amp; Evelyn still was in Sevierville. In the evening we organized
+                    a debating club - Steve Whaley - one of our prominent citizens is president &amp; Mr. Cresswell secretary - name - Gatlinburg
+                    Literary Society. We hope it is going to work into a club just for the boys and men - For they leave everything to us girls to do as
+                    long as we&apos;re around. We debate tomorrow night - Mr. <abbr expan="Cresswell">C.</abbr> made out the list &amp; put
+                    himself in and me just to get things started - So picture me on the negative side with one of the girls Emma Maples and Lawson
+                    Reagan (our chorister) 
+                </p>
+				<p>
+                    The affirmative - Mr. <abbr expan="Cresswell">C.</abbr> Tom McCarter and Rose Carr one of the school girls also - Our subject
+                    Resolved - that a <del>public</del>
+					<add place="supralinear">state</add> highway <pb ref="arm03030008003" seq="03"/>
+                    will be of greater benefit to <abbr expan="Gatlinburg">G.</abbr> than railroad. Well such is life!
+                </p>
+				<p>
+                    Had to talk at <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> Sunday night too - poor Tom <abbr expan="McCarter">McC.</abbr> was all
+                    distressed over topic given him so helped him out. Evelyn &amp; Mr. <abbr expan="Cresswell">C.</abbr> also talked impromptu like
+                    myself - Emily is on for next Sunday!
+                </p>
+				<p>
+                    Well to return to my adventures. Emily &amp; I gave up all thought of Knoxville for Friday <abbr expan="morning">a.m.</abbr> was a steady
+                    downpour but lo at noon the brilliant sunshine so cheered us that we gaily packed our bag &amp; got Mr. <abbr expan="Cresswell">C.</abbr>
+                    to hustle around about transportation down to Sevierville - He &amp; Abbie both decided to go in too so about three we started off in two
+                    buggies - Emily &amp; I in one with <unclear reason="illegible" resp="bds">Otha</unclear> Reagan one of the boys and the other two in
+                    the second. It proved to be a perfectly beautiful afternoon balmy and too warm really for <pb ref="arm03030008004" seq="04"/> our jackets - I 
+                    wore my lovely hat &amp; felt quite dressy! It took us 2 hours to drive the <hi1 rend="underscore">seven</hi1> miles to <del>
+						<abbr expan="Sevierville">S.</abbr>
+					</del>
+					<add place="supralinear">Pigeon Forge</add> - such roads you never saw - impossible for a car even a Ford to get through - horse walked most of the
+                    way. At <abbr expan="Pigeon Forge">P.F.</abbr> we were reunited in a Ford however for here the pike takes us to <abbr expan="Sevierville">S.</abbr>
+                    &amp; we were soon at the Bishops&apos; Emily &amp; I - where they expected us. <del>and</del> After dinner we sallied
+                    forth to Murphy College to an amateur minstrel show - not half bad either. Then bed &amp; off on the train by 8:30. It cleared again and was 
+                    lovely all the rest of the weekend - Miss Whittle went down on the train with us. The street car strike made walking necessary &amp; we
+                    gaily trod the pavement from the station about half a mile or so up town. There is one main business street - Gay Street where everything is
+                    located. The new Farragut Hotel - very nice proved to be full and we finally wound up at the St. James - nice enough but not as nice as we would have liked.
+                    Well we put in a busy day shopping - eating - walking - the movie etc. It was lots of fun and did us both good - For when we left Sunday 
+                    <abbr expan="morning">a.m.</abbr> at 9:30 we were perfectly satisfied with our trip and at the same time pleased at the thought of returning
+                    to our green mountains again. Evelyn met us at the depot with the information  that we were to hustle up to the house and then on a trip up Wears Valley - 
+                    Charmed at the prospect we hustled in our <unclear reason="illegible" resp="bds">jitney</unclear> up the hill bag &amp; baggage - Didn&apos;t buy much
+                    but seemed to take lots of space - comb &amp; brush for Aunt Lizzie&apos;s birthday - some bulbs - hairpins - &quot;Young Visitors&quot; for Mrs.
+                    Bishop - (Emily got her flowers) candles <pb ref="arm03030008005" seq="05" n="03"/> for our jack-o-lanterns - cookie cutters for Abbie. Later the Ford
+                    came after us and we three girls &amp; Mrs. <abbr expan="Bishop">B.</abbr> set forth. We went nearly up the pike to Pigeon Forge but turned off
+                    there right up into the ruts. Where we climbed in the trusty Ford to the top of one thereby having the finest view I&apos;ve had yet - and then down and 
+                    part way up another. There were a number of the usual cabins &amp; people en route - our destination was Jim Watson&apos;s house. We found it up 
+                    a holler off the road and across a creek - not very far. Mrs. Watson is going to make baskets - hence our pursuit of her. She <del>is</del>
+                    wasn&apos;t home but two half grown girls showed what she had done - such pretty girls. But such a place - four double beds in that one room and a 
+                    little kitchen! Smells and dirt galore.
+                </p>
+				<p>
+                    We had a delightful trip &amp; <pb ref="arm03030008006" seq="06"/> about two got to the Forge where eventually the same boy &amp; buggies brought  us 
+                    home - arriving about 4:30. It took the rest of the day to clean up - put away - have supper and <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.</abbr>
+                    - start the wheels going again. Spent about &#36;10 on the expedition - all told including expense there and back - but am glad I went for don&apos;t expect
+                    to go out again until <abbr expan="Christmas">Xmas.</abbr> We figured up our New Orleans trip will cost nearly &#36;125 apiece - unless we can
+                    stay at the Pi Phi House or <abbr expan="Young Women&apos;s Christian Association">Y.W.</abbr> as we hope to be able to do.
+                </p>
+				<p>
+                    Monday after school was a meeting  with the girls about the party - then corrected papers &amp; worked my report cards till bed time - and planned Halloween
+                    <unclear reason="illegible" resp="bds">stunts</unclear> with Evelyn.
+                </p>
+				<p>
+                    Today as I said before was struggling with my Arrow letter <pb ref="arm03030008007" seq="07"/> getting home late from school - Sat out on the porch
+                    in white minus wrap &amp; wrote &amp; watched a storm blow up &amp; pass away again. Such huge black clouds but not a drop of rain
+                    after all.
+                </p>
+				<p>
+                    Stopped about half an hour or so tonight to go down with Emily to a corn husking held in the Maples barn at the foot of our lane - where our boy&apos;s
+                    dormitory was you remember. The Maples expect to move back there this week. It was such an uncertain night that only a dozen or so were
+                    there - Sit on the ground and husk - tossing ears up into big bin - might be fun with a big crowd - but we soon wended our way upward again. Finished 
+                    my letter - while the rest of them sat on the porch - even Aunt Lizzie - &amp; then we all went to bed - but <hi1 rend="underscore">me</hi1>!
+                </p>
+				<p>
+                    Must cease for now - will measure my head in the <abbr expan="morning">a.m.</abbr> as the tape is downstairs just now.
+                </p>
+				<p>
+                    Goodnight dearest Jane - with ever so much love
+                </p>
+				<p>
+                    Ruth
+                </p>
+				<p>
+                    P.S. On reading this over it sounds very airy like and also <hi1 rend="underscore">jerky</hi1> and erratic - but have written so fast and am also
+                    sleepy that you will excuse and know that there is much love with it too - won&apos;t you?
+                </p>
+				<p>
+                    Head <unclear reason="illegible" resp="bds">23</unclear>
+					<abbr expan="inch">in.</abbr> low down where cap would come - Which kind are 
+                    you going to make - shall enjoy either?
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

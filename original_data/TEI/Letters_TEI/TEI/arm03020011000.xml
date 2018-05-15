@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020011000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Sept. 17, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Carter, Genny</name>
+					<name>Lepcyzk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+			 </addrLine>
+					<addrLine>556 Parkway
+		  	</addrLine>
+					<addrLine>PO Box 567
+		  	</addrLine>
+					<addrLine>Gatlinburg, TN 37738
+		  	</addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03020011000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+						For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+						Libraries, Knoxville, TN</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Sep. 17, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-09-17">Sep. 17, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>9p</extent>
+					<note type="summary">Sunbonnet drill for the fair. Plans for a week end trip over the Smokies into <abbr expan="North">No.</abbr> Carolina. Troubles of our <hi1 rend="underscore">handy</hi1>
+						<hi1 rend="underscore"> man</hi1> and his wife</note>
+					<note type="box">3</note>
+					<note type="folder">2</note>
+					<note type="document">arm03020011000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+			<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>People</item>
+						<item>Girls</item>
+						<item>Activities</item>
+						<item>Social life</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03020011001" seq="01"/>
+				<list>
+					<item>Sunbonnet drill for the fair.</item>
+					<item>Plans for a week end trip over the Smokies into <abbr expan="North">No.</abbr> Carolina. </item>
+					<item>Troubles of our <hi1 rend="underscore">handy</hi1> <hi1 rend="underscore"> man</hi1> and his wife</item>
+				</list>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03020011002" seq="02"/>
+				<head>
+					<date value="1919-09-17"> Sept. 17, 1919</date>
+				</head>
+				<p>Dearest family <del>It&apos;s 8:30 p.m. and I&apos;m <hi1 rend="underscore">all</hi1> ready for 
+                    bed except to bid you a fond good night in a few scribbling lines.</del> Jane&apos;s long letter
+                    came yesterday (Tuesday) mailed just a week ago today - Just think six days to get
+                    here.
+					<del>Am glad Mabel and Jo are finally settled and hope that they soon get into 
+                    permanent quarters together. Give my love to Victoria &amp; her mother when you meet them. 
+                    Hope <abbr expan="Victoria">V.</abbr> get along in school without any more sicknesses. 
+                    The babies must be awfully sweet but <unclear reason="illegible" resp="tl">Wein</unclear> is
+                    too big for that <unclear reason="illegible" resp="tl">appellation</unclear>. Is he going to kindergarten?
+                    Hope so. Perhaps now you can rest on your oars a little both of you - you &amp; Jane - for your 
+                        letters have been exceedingly full of activity.</del>
+				</p>
+				<pb ref="arm03020011003" seq="03 "/>
+				<p>Though I wrote you Sunday night it seems as though there is so much 
+                to write again - not anything exciting as yet however - Monday I put in part of the day on my two drills for the 
+                coming fair but as so many youngsters are out again have almost decided to give up one of the older 
+                boys and girls having just the sunbonnet drill of twelve girls. They are dressed <hi1 rend="underscore">backwards</hi1> 
+                - bonnets - shawls - aprons &amp; skirts - but the top of the bonnet being thin they see perfectly - march how 
+					to go through maneuvers so that it will all look as <add place="supralinear">tho</add> <abbr expan="though">tho</abbr>
+                they were doing it <hi1 rend="underscore">backwards.</hi1> Then one of the girls in the neighborhood Lulu May 
+                McCarter who has been teaching &amp; is getting ready to go away to school came over to 
+						<del>school </del> have me help her get a tele -<pb ref="arm03020011004" seq="04" n="02"/> gram 
+                through to Knoxville. We fooled around here at the house unsuccessfully an hour or more &amp; finally strolled with Emily 
+                up to the Huff&apos;s where we found some of them including Mrs. <abbr expan="Huff">H.</abbr> picking beans 
+                (Beans are planted in the corn fields you know &amp; its now time to get them in since the corn fodder is pulled &amp; 
+                also the season for making sorghum) we went over to their house where Mrs. Huff got the message through &amp; 
+                then we sat in the big swing on the porch picked beans &amp; ate apples until about six. It was dark before 
+                we finished supper and spent the evening quietly in the lamplight with my lessons &amp; papers to correct. The 
+					weather is hot again &amp; am glad to have thin dresses to wear. Tuesday was another busy <pb ref="arm03020011005" seq="05"/>day. 
+                We girls decided to have a picnic up on the top of Pi Phi hill that night with Mr. Cresswell so after school Emily got the lunch ready 
+                as the rest of us were busy. Abbie &amp; I with most of the girls in drill made sunbonnets from paper &amp; thin white 
+                material. Aunt Lizzie, Mrs. Proffitt &amp; Harrison came over to the sewing room also &amp; got busy setting up 
+                the old loom which had been lying in its seperate parts ever since its return from the fair at Columbus this summer. 
+                Then as the little girl Arlena Maples who sweeps my room was absent I got the other two sweepers Maud Clabo and 
+					Ethel Carr to help me clean it up and then by that time left for the <pb ref="arm03020011006" seq="06" n="03"/>house where we 
+                were soon assembled with 2 baskets - pail of water - frying pan - flashlight &amp; headed up Pi Phi lane We turned 
+                directly off from it &amp; went right up till we got to the top in about ten minutes. Here was a comparitively open space 
+                we spread out the couch cover which I insisted on bringing &amp; Mr. C. made up a big bonfire. Pine branches burn so 
+                beautifully. In the course of time we started the coffee &amp; spread out our frugal lunch - fried eggs - biscuit - weimis 
+                peanut butter - pimento cheese - chocolate bars &amp; coffee. Our new Jersey cow provides us with lovely cream so the 
+					coffee is delicious &amp; the butter too. In our conversation we <pb ref="arm03020011007" seq="07"/>got to talking about our much
+                postponed mountain trip and finally made up our minds to go this Friday! Start right after school with Dan &amp; the hack 
+                drive as far as possible &amp; then leave them. We will have just blankets &amp; provisions with us so bad weather will 
+                put an end to our festivities. Mr. C. went up to Tom Camel&apos;s after school to find out if he&apos;d take us &amp; sure enough he 
+                will he and his <hi1 rend="underscore">two</hi1> hounds! Then Emily &amp; I went up to Lucrettie Reagan&apos;s after supper tonight 
+                and asked her mother to go with us as <hi1 rend="underscore">chaperone</hi1>! If she doesn&apos;t go for she is not certain as 
+					Mr. Reagan thinks he needs her although she&apos;s wild to go with us we may go regardless we three <pb ref="arm03020011008" seq="08" n="04"/>
+                maidens &amp; Mr. Cresswell with Tom Camel. Evelyn isn&apos;t back &amp; probably wouldn&apos;t go any way Besides I warned her we&apos;d 
+                celebrate in her absence!</p>
+				<p>Then besides all this excitement there has been more about Mary &amp; Marshall.  Monday night every thing was supposedly 
+                    lovely he had withdrawn his suit for divorce &amp; wanted her to go to Washington D.C. with him after withdrawing her cross suit. 
+                    Well she went to Seveirville Tuesday to have her lawyer withdraw it &amp; on her return here learned that Marshall had skipped 
+					out &amp; left orders at the stores not to credit her with anything so <pb ref="arm03020011009" seq="09"/>here she is deserted! I wrote 
+                    a letter for her today to send her lawyer asking him about it Poor woman wonder what the next turn will be.</p>
+				<p>Must cease this scribble One more joyful item we will have to have our party for the school youngsters tomorrow night since 
+                    we won&apos;t be here Friday also pack!</p>
+				<p>Will write again in a few days</p>
+				<p>With loads of love to each &amp; all</p>
+				<p>Ruth.</p>
+				<p>Wednesday Sept. 17.</p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

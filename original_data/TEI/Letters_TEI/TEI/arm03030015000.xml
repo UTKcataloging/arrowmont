@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030015000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Nov. 10, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030015000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Nov. 10, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-11-10">Nov. 10, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>7p</extent>
+					<note type="summary">Shooting in the Sugarlands - Squire Maples makes an examination</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030015000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living conditions</item>
+						<item>Crime</item>
+						<item>People</item>
+						<item>Social life</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030015001" seq="01"/>
+				<p>
+					<list>
+						<item>Shooting in the Sugarlands</item>
+						<item>Squire Maples makes an examination</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030015002" seq="02"/>
+				<head>
+					<date value="1919-11-10">Nov. 10, 1919</date>
+				</head>
+				<p>
+                    Dearest pa - It&apos;s Sunday night about 9:30 and more than bedtime. Emily &amp; I have done our duty &amp; gone to 
+                    <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> and then visited with Mr. Cresswell &amp; Tom McCarter - one of the 
+                    boys in school and very nice too - he is quite discouraged as he has to stay out so much to help with the farming at home &amp; in 
+                    fact they all peg away for dear life &amp; no more than make a living I guess. You see the land here in the <abbr expan="mountains">mts.</abbr> 
+                    is productive enough but the soil is very thin and washes away in the hard rains too.
+                </p>
+				<pb ref="arm03030015003" seq="03"/>
+				<p>
+					<del>Your letter came the next day just as I had hoped - I mean the day after yours came
+						<add place="supralinear">I wrote you.</add> Didn&apos;t finish last night after all - same interruption came along. A long letter came from 
+                        Mabel this morning &amp; also from Cousin Viva Glasier. She was quite surprised to learn of all the happenings in our family I guess. </del>
+				</p>
+				<p>
+                    You aught to hear the wind tonight it is tearing up everything for miles around. And the trees have turned so much today - the coloring is simply 
+                    wonderful now - great masses of yellow with long lines of green from the evergreens <pb ref="arm03030015004" seq="04"/>which seem to grow in 
+                    clumps together rather than scattered. Then every so often is a tree one mass of fiery red from top to bottom or copper color - you can&apos;t imagine 
+                    how beautiful it is. Even the youngsters are stirred by it!
+                </p>
+				<p>
+                    There has been great excitement here now today for yesterday noon a shooting occurred up in the Sugar lands. An old man Mr. Bracken shot down 
+                    a young boy. It seems that <del>the</del> Mr. <abbr expan="Bracken">B.</abbr> reported this boy to be implicated in running 
+                    a still the boy came down to his house to talk to him about it and was shot - killed instantly no witnesses &amp; conflicting stories - so today 
+                    Squire Maples had a trial or examination down here at his house at the foot of our lane - The upshot is that he is out on bail &amp; the trial to be 
+                    next month I believe. They say men are drunk up in the Sugar lands every Saturday night &amp; I imagine it&apos;s not very safe - the very heart 
+                    of the &quot;still country.&quot; Some of the youngsters played truant from school to go <add place="supralinear">to trial</add> and guess I&apos;ll just 
+                    have to keep them in tomorrow to make up their lessons - you can&apos;t blame them for being interested though - we wanted to go ourselves. 
+                    I went down to the store about four p.m. to mail the baskets I&apos;m sending home - just before the trial was over - There were a number of 
+                    saddle horses <pb ref="arm03030015005" seq="05" n="02"/>and the big picturesque wagons outside. The mountain men are all so much alike - tall 
+                    lean &amp; shrewd looking - think I&apos;ll always be able to pick one out hereafter.
+                </p>
+				<p>
+                    All the past week I&apos;ve been pretty busy working at school till late over one thing and another. My room does look pretty though - and try to keep it 
+                    orderly which is not easy for the boys &amp; girls are not like those at home about helping &amp; act as though they were doing a great favor thereby. 
+                    However they are improving in that respect.
+                </p>
+				<p>
+                    The red Cross meeting Friday night was poorly attended being made up of the school youngsters &amp; the <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> 
+                    crowd. <pb ref="arm03030015006" seq="06"/>Don&apos;t know whether we got in our quota or not - nor how much it was. Evelyn talked <del>as</del> 
+                    also Miss Langmaid as the expected speaker from Sevierville failed to arrive.
+                </p>
+				<p>
+                    Sunday after the usual session of Sunday School Emily &amp; I walked up Baskin&apos;s Creek with the Ogle girls to their home - about a mile 
+                    or so - crossing the creek exactly twelve times on the way - via footlogs. We didn&apos;t stay for dinner though urgently pressed to do so - There was 
+                    a possibility of our going in the Ford up to the forks of the river &amp; besides that we didn&apos;t feel like corn bread pork &amp; potatoes. At home 
+                    was a ground beef roast &amp; fruit. <pb ref="arm03030015007" seq="07"/>Mrs. Ogle however brought forth a dish of baked sweet potatoes just out of 
+                    the oven &amp; insisted on our taking some - So we walked home peeling our &quot;tater&quot; &amp; thoroughly enjoying it. But how funny to go away 
+                    from the house where you call heaving a hot potato in your hand - yet it seemed quite natural &amp; not a bit surprising. See how accustomed to things 
+                    I&apos;m becoming.
+                </p>
+				<p>
+                    I must tell you about the names of two youngsters arrived here - at least they were when Miss Langmaid taught here about four years ago. One little 
+                    girl &amp; the niece of our Aunt Lizzie was Exy. short for <hi1 rend="underscore">Ex&apos;</hi1>
+					<hi1 rend="underscore">a</hi1>
+					<hi1 rend="underscore">mine</hi1> 
+                    and another Lar ce ny - Do you get that? examine &amp; larceny!
+                </p>
+				<p>
+					<del>The folio you sent from Berkeley has not arrived and hope all your other letters have - Am so glad you are going south 
+                    &amp; having such a good time everywhere. While in Los Angeles you better hunt up the girl I taught with in <unclear reason="illegible">Ilwaco</unclear> 
+                    - Mrs. J. R. Hawkins 1250 West 48th St. I visited her a couple of weeks when there - they were very nice to me. Call her up anyway over the phone - 
+                    Was glad to get the kodaks &amp; think them pretty good - Have just sent in another set to be developed &amp; will send you some if good - Goodnight 
+                    dear papa - &amp; with much love</del>
+				</p>
+				<p>
+                    Ruth.
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03040009000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Feb. 29, 1920, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03040009000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Feb. 29, 1920, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1920-02-29">Feb. 29, 1920</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>7p</extent>
+                    <note type="summary">Account of the school papers. References to work of the four high school students</note>
+                    <note type="box">3</note>
+                    <note type="folder">4</note>
+                    <note type="document">arm03040009000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>People</item>
+                        <item>Students</item>
+                        <item>Plays</item>
+                        <item>Social life</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03040009001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Account of the school papers</item>
+                        <item>References to work of the four high school students</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03040009002" seq="02"/>
+                <head>
+                    <date value="1920-02-29">Feb. 29, 1920</date>
+                </head>    
+                <p>
+                    Dearest family - It seems a long time since last Wednesday evening when I wrote you and yet only three days &amp; part of another have passed. Gatlinburg
+                    tonight as they say is wrapped in a blanket of snow. It was snowing when I woke up this <abbr expan="morning">a.m.</abbr> &amp; has continued without
+                    ceasing all day so that there are several inches over Mother Earth. None of us have gone forth except Aunt Lizzie to milk &amp; Emily to tramp. She didn&apos;t
+                    go far however as the ground underneath is not frozen &amp; the mud consequently a little worse than usual being concealed by a fa<del>r</del><add place="supralinear">ir</add>
+                    white covering &amp; deceitful.
+                </p>
+                <p>
+                    Things have gone along in the usual routine the last few days - It has been my week of assembly - we finished the &quot;Merchant of Venice&quot; for which I
+                    gave the class of four the exam Friday - Estel Huff failed - but the others did <pb ref="arm03040009003" seq="03"></pb> fairly well considering. We <sic corr="practiced">practised</sic> our 
+                    Japanese drill Friday after school &amp; cleaned up things fairly well - neatness &amp; order <del>is</del><add place="supralinear">are</add> not
+                    taught here in these homes you know &amp; one has to almost stand over the girls every so often to make them do the sweeping as they should.
+                </p>
+                <p>
+                    We had the reading of the &quot;Applachian News&quot; the last half hour &amp; the last looking over of speeches before the debate. The cover of the magazine
+                    this time was made of course gray paper in the center of which was a large shield of red &amp; white stripes with the blue field across the top - the printing
+                    was in blue &amp; the binding of red string - quite patriotic.
+                </p>
+                <p>
+                    One contribution was by Elmer Oakley who told how he earned his first dollar - thusly: A man gave him eight dollars with instructions
+                    <pb ref="arm03040009004" seq="04"></pb> to go after two gallons of corn whiskey about 3 1/2 miles away &amp; permission to keep a dollar if he could get the 
+                    moonshine for seven dollars - He wound up his story with the words &quot;And it was so!&quot; Other articles were - &quot;If I had Aladdin&apos;s Lamp&quot; - 
+                    &quot;A Dog&apos;s Opinion of a Cat&quot; - &quot;Why I go to School&quot; - &quot;A Poem&quot; -(spring &amp; flowers) &quot;Adventure of a Penny&quot;
+                    &quot;Amusement for a Rainy Day&quot; - &quot;My First Day in School - &quot; Current Events - Jokes - Questions &amp; Answers - continuation of the 
+                    <hi1 rend="underscore">Romance</hi1> which is to be finished in the next number.
+                </p>
+                <p>
+                    The debate regarding the League of Nations was very long - there were seven or eight on a side - The affirmative got the decision I&apos;m glad to say - Tom
+                    was first speaker on that side &amp; had worked awfully hard. Some wild things were said - The general sentiment here is against it - After this long
+                    argument were several recitations &amp; then the reading of the magazine - each contributor reading his own part. So ended that day. I wrote Charlotte A.
+                    <!-- Unsure of last name abbr here --> yesterday urging her to come here for the closing of school &amp; then visiting &amp; seeing the sights of the
+                    <abbr expan="Gatlinburg">burg</abbr> for a week afterwards or as long as she wished. I do not think or rather expect to be ready to leave the day school 
+                    closes - would rather wind up things &amp; my packing the next week instead of being so awfully rushed. I may change my mind but doubt it - anyway if Charlotte
+                    would come I&apos;d be willing to wait a few days for her so we could go on to Washington together. Have written Mrs. Helmich about a place to stay. Well - 
+                    Mrs. Huff <pb ref="arm03040009005" seq="05"></pb> came in just after we had gotten through with lunch so we sat around the fireplace &amp; visited. Then she Evelyn &amp;
+                    Emily went for a walk - Abbie went upstairs for a nap &amp; after reading a little I followed &amp; had one till supper time. Haven&apos;t napped before for weeks
+                    &amp; weeks!! In the evening we sat around read &amp; embroidered - I wrote letters - <del>got one off to Beatrice Butler 
+                    <unclear reason="illegible" resp="bds">Beebe</unclear> finally - Her letter was forwarded to me from home way last December. Her husband is a Captain &amp;
+                    she wrote me from Brest France where she had gone very unexpectedly with the little boy from Oregon - Was living in officer&apos;s quarters - a maid did all
+                        the work - ate at mess - had a Cadillac sedan at their disposal </del><pb ref="arm03040009006" seq="06"></pb> <del>&amp; expected to be sent to Belgium or Germany. She doesn&apos;t
+                        know I&apos;m here so wrote quite a lengthy epistle - also wrote Nellie &amp; Katherine</del> - Aunt Lizzie has been embroidering a baby dress for a grandson - 
+                    her first attempt at embroidering - She just loves to do it too &amp; does remarkably well considering her age &amp; poor eyesight - 
+                </p>
+                <p>
+                    It has been so nice today not to have Sunday School or <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> - a real holiday! No one has
+                    been here except two of the small boys from Maples at the foot of the lane to get some games - and Mr. Creswell who came over a little while but didn&apos;t
+                    stay long - I have done a lot of school work today - corrected my English papers - looked over ancient history &amp; read Ivanhoe, which is the next book
+                    I&apos;m going to take up - <pb ref="arm03040009007" seq="07"></pb> with the high school class. I had absolutely forgotten it - and had to read it carefully. The
+                    girls have read most of the day &amp; went to bed about seven p.m. We played a game for awhile just before supper - very
+                    instructive &amp; interesting about insects birds &amp; animals - questions given which you try to answer - 
+                </p>
+                <p><del>
+                        What do you think of my coming back here next year? Shall I plan to come home from Washington D.C. or borrow some money &amp; go north to New York &amp;
+                        then home? Couldn&apos;t one of you or both come east &amp; visit me in Gatlinburg? Am crazy to see you all - everyone of you - but as to Tacoma - somehow
+                        don&apos;t seem to care much about seeing it <hi1 rend="underscore">yet</hi1> nor going around &amp; visiting everyone &amp; talking about the school &amp;
+                        <abbr expan="Great Smoky Mountains">mts.</abbr> &amp; people as no doubt I&apos;d do &amp; have to do. Do not feel like asking the fraternity to pay my
+                        expenses home &amp; back &amp; in fact do not think they <add place="supralinear">would</add> do it - nor <add place="supralinear">
+                            can they</add> afford it - Please write &amp; tell me just what you think about things.</del>
+                    </p>
+                <p><del>
+                        Must cease &amp; think of bed as the hands of Aunt Lizzie&apos;s old clock on the fireboard are approaching ten. </del>
+                    </p>
+                <p><del>
+                        Don&apos;t imagine there will be many at school tomorrow - probably just enough to keep us there.</del>
+                    </p>
+                <p><del>
+                        Hope the mail gets up <hi1 rend="underscore">all</hi1> <hi1 rend="underscore">right</hi1> Just oceans of love as ever</del>
+                    </p>
+                <p><del>
+                        Ruth</del>
+                    </p>
+                <p>
+                    P.S. no word from Blanche all week - 
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

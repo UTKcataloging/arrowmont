@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030028000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Dec. 18, 1920, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030028000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Dec. 18, 1920, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-12-18">Dec. 18, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>10p</extent>
+					<note type="summary">Preparations for Christmas and Christmas Program at School</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030028000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living conditions</item>
+						<item>Holidays</item>
+						<item>People</item>
+						<item>Home visits</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030028001" seq="01"/>
+				<p>
+					<list>
+						<item>Preparations for Christmas and the Christmas Program at School</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030028002" seq="02"/>
+				<head>
+					<date value="1919-12-18">Dec. 18, 1919</date>
+				</head>
+				<p>
+                    Dearest family - Thursday night &amp; I&apos;m <hi1 rend="underscore">all</hi1>
+					<hi1 rend="underscore">ready</hi1> to start for New Orleans at 1 p.m.
+                    tomorrow - and now feel that we are really going - but I&apos;d rather be <hi1 rend="underscore">coming</hi1>
+					<hi1 rend="underscore">home</hi1> for 
+                    <abbr expan="Christmas">Xmas</abbr> than anything else! But since it&apos;s impossible there&apos;s no use thinking of it. <del>Wonder if
+                    you have all your <abbr expan="Christmas">Xmas</abbr> work done &amp; where you will spend the day &amp; how. Imagine my package is almost in your 
+                    midst - It&apos;s so huge it will be quite exciting to have around unopened for a week or so won&apos;t it? All of our preparations have gone off very smoothly &amp;
+                    easily with</del> everything done for tomorrow. It seemed last week as though we never could do it all in the short time left but here it is all accomplished.
+                </p>
+				<p><del>
+                    The sweater is <hi1 rend="underscore">perfectly</hi1>
+						<hi1 rend="underscore">grand</hi1></del>
+					<pb ref="arm03030028003" seq="03"/> <del>a perfect fit and just all right - and am &quot;plum&quot;
+                    tickled over it - It&apos;s locked up in my trunk until my return though I would take it if there were room - &quot;sure enough,&quot; Papa - I did not find any almonds so 
+                    suppose you concluded not to send any - People don&apos;t get them here - We would have enjoyed the fruit <hi1 rend="underscore">so</hi1>
+						<hi1 rend="underscore">much</hi1>
+                    if you had sent it for there has been a great scarcity all fall &amp; winter - even of the apples. At present we are reveling in Florida oranges - little brown things full of seeds &amp;
+                    tough skin but the juice is delicious!</del>
+                </p>
+				<p><del>
+                    Is Arthur moved yet - at home &amp; in his office? Why did he give up the Chalmers? Is the <hi1 rend="underscore">Lizzie</hi1> the same old girl or another?</del>
+                </p>
+				<p>
+                    Yes I think Miss Langmaid <pb ref="arm03030028004" seq="04"/> approves of me - they talk about my <del>
+						<unclear reason="illegible" resp="bds">co</unclear></del>being
+                    here next year! However shall wait awhile before anything definite is settled. If I do stay - don&apos;t suppose I&apos;ll get home do you? But am not going to think
+                    about that for awhile! <del>How are the prospects for California now? Hope I get a letter tomorrow before I leave &amp; my <abbr expan="Christmas">Xmas</abbr>
+                    box whatever it may be for I do expect <hi1 rend="underscore">something</hi1>! A lovely pair of black silk stockings arrived from sweet &quot;<unclear reason="illegible" resp="bds">Caz</unclear>&quot; for which I&apos;m duly grateful &amp; shall wear them on the most gala occasio day of my visit
+                    in <abbr expan="New Orleans">N.O</abbr> whatever it may prove to be! Then Cousin Viva sent me a very pretty box of candy which shall save for
+                    <abbr expan="Christmas">Xmas</abbr> day as it&apos;s labeled not to be opened until then. Today a grand long letter came from Charlotte - the first I&apos;ve had
+                    since I was there - George is sick again but is recovering and she devotes all her time to him - the rest of the family seem well. Why not a ranch in Yakima - 
+                    <hi1 rend="underscore">turkey</hi1>
+						<hi1 rend="underscore">farm</hi1>! George is planning to raise even more next year he has been so successful with them. She sent
+                    me a couple of kodaks of Viretta&apos;s  two youngsters - boy &amp; girl - said they were darling - <add place="supralinear">latter</add> about the age of Nellie Jane &amp;
+                    the boy not quite so old as Weir I imagine.</del>
+				</p>
+				<p><del>
+                    The <sic corr="pastels">pastals</sic> &amp; toys are very <hi1 rend="underscore">very</hi1> pretty - Jane &amp; are most welcome - am taking them south as I 
+                    shall mail all my cards from there - am sending a little hearth broom to Aunt Carrie - basket to Maudie and if Fannie C. </del>
+					<pb ref="arm03030028005" seq="05" n="2"/> <del>Anderson ever writes to me have a little one for her - Shall get some little thing for each of the girls here - Emily - Abbie &amp;
+                    Evelyn also Mrs. Bishop - and that I think with Aunt Lizzie&apos;s &amp; Mrs. <sic corr="Proffitt">Proffit</sic>&apos;s will prove the extent of my shopping.</del>
+                </p>
+				<p>
+                    Monday I got home about 4 p.m. from school - washed - &amp; shampooed - had supper &amp; spent the <abbr expan="evening">eve</abbr>
+                    doing up presents for youngsters in my class - Some of the clubs had sent things some were left over from last year &amp; some bought by Evelyn for the school - games  - 
+                    <del>dolls</del> - handkerchiefs neckties &amp; writing paper for mine - Abbie&apos;s &amp; Emily&apos;s have more toys of course - something for
+                    each child - in school - besides little bag of candy &amp; oranges - We got everything spread out &amp; sorted over in the <pb ref="arm03030028006" seq="06"/> living room - 
+                    Abbie &amp; Mr. <abbr expan="Creswell">C.</abbr> were here to help too - &amp; checked off our lists &amp; tied &amp; labelled - Tuesday was more practicing again
+                    &amp; then Miss <abbr expan="Langmaid">L.</abbr> Evelyn Emily &amp; I went over to Lawson Reagan&apos;s (our chorister) on <abbr expan="Roaring Fork Creek">Roaring Fork</abbr>
+                    for supper - We had a very nice time - Allie the married daughter whom I helped chivarari - is home - she &amp; Flora one 
+                    of my girls served - we four ate with Mrs. Reagan - It was very nicely done for <hi1 rend="underscore">here</hi1> but rightly poor cooking at that. Then we sat around the 
+                    fireplace &amp; ate popcorn - perfectly delicious stuff - some of their own produce which they peeled right off the ears then &amp; there. We got home after eight &amp; with
+                    Emily&apos;s help I made three trumpets - two helmets - three <pb ref="arm03030028007" seq="07"/> bands for <hi1 rend="underscore">angels</hi1> - all for my tableaux. My 
+                    millinery lessons have proved most useful - for they give my a foundation for these other <hi1 rend="underscore">frills</hi1>! I made the helmets <!-- THERE IS A SHAPE HERE -->
+                    this shape - of stiff paper covered with gold - trumpets ditto. Wednesday - (yesterday) Evelyn came over at 11:15 &amp; we went through the tableaux - so that I left school early
+                    &amp; commenced getting things ready for packing &amp; kept busy at it till supper - Mr. &amp; Mrs. Steve Whaley arrived to call so we sat around &amp; visited in the 
+                    evening with them. I got out <hi1 rend="underscore">my</hi1>
+					<hi1 rend="underscore">darning</hi1>! This morning we had regular classes until recess at 10 - when Evelyn came over
+                    &amp; we went through the program having a dress rehearsal - It lasted until noon. This <abbr expan="afternoon">p.m.</abbr> some of the boys helped get greens etc. but 
+                    we had no school whatsoever - finished our list of <abbr expan="Christmas">Xmas</abbr> presents  - decorated the school - got the tree ready too. It&apos;s
+                    <add place="supralinear">decorated</add> about the same as usual - hemlock &amp; holly everywhere - and hemlock for the tree. The stage is arranged as it was Thanksgiving - 
+                    After the program (which begins at 10 tomorrow) we will put up the other panel &amp; display the tree which is set up in Abbie&apos;s room - Tom is to be Santa Claus - said
+                    tonight that he &quot;took Fourth of July &amp; Easter fairly well&quot; but that <abbr expan="Christmas">Xmas</abbr> didn&apos;t mean much  to him - also fussed over
+                    wearing the Santa Claus suit remarking that he didn&apos;t feel <del>much</del> like wearing anything much! He <pb ref="arm03030028008" seq="08" n="3"/>
+                    didn&apos;t think how it sounded so I overlooked it entirely!
+                </p>
+				<p>
+                    By 4:20 everything was done as far as we girls could see so we came home &amp; I made out our month&apos;s attendance - my sweet little job for the whole school you know - 
+                    Then it was supper time &amp; after that finished my packing and at 8:30 came down to the living room to write you all.
+                </p>
+				<p>
+                    We four teachers go down to <abbr expan="Sevierville">S.</abbr> tomorrow - Evelyn &amp; Miss <abbr expan="Langmaid">L.</abbr> plan to leave Saturday morning. Miss
+                    <abbr expan="Langmaid">L.</abbr> bound for home &amp; Evelyn expects to be home vacation too - her brother &amp; sister with their families are coming a 
+                    <sic corr="reunion">re-union</sic> which she is looking <pb ref="arm03030028009" seq="09"/> forward to as they have not all been together for a number of years.
+                </p>
+				<p>
+                     The county schools all close this week - so that no doubt we will have more pupils next month - as ours is the only one except <del>an</del> other 
+                    private schools - the nearest is at <sic corr="Sheep Pen">Sheep-Pen</sic>!
+                </p>
+				<p>
+                    Am just so sleepy I can&apos;t make the pen journey any farther.
+                </p>
+				<p><del>
+                    Give Mabel my fond love &amp; tell her I greatly enjoyed her long letter &amp; Marie&apos;s too which has been forwarded as requested.</del>
+                </p>
+				<pb ref="arm03030028010" seq="10"/>
+				<p><del>
+                    All the rest of the this page is covered with love for each of you - am sorry I could not put anything in for Virginia May but hope to find something suitable for such
+                    a little darling while in the South!!</del>
+                </p>
+				<p><del>
+                    Once more a <hi1 rend="underscore">Merry</hi1>
+						<hi1 rend="underscore">Merry</hi1> Christmas to you all with loads of love </del>
+                </p>
+				<p>
+                     Ruth.
+                </p>
+				<p><del>
+                    P.S.</del>
+                </p>
+				<p><del>
+                     School begins <abbr expan="January">Jan.</abbr> 5 - &amp; we will probably be back here by Saturday before leaving <abbr expan="New Orleans">N.O.</abbr>
+                    about Thursday - I would get mail from you <hi1 rend="underscore">once</hi1> I imagine if you write promptly on receipt of this - As I do not yet know where we shall
+                    dwell address me in care of one of the Pi Phis - </del>
+                </p>
+				<p><del>
+                    Miss Celeste Janvier</del>
+                </p>
+				<p><del>
+                    4528 Prytorna <abbr expan="Street">St.</abbr></del>
+					</p>
+				<p><del>
+                    New Orleans</del>
+                </p>
+				<p><del>
+						<abbr expan="Lousiana">La.</abbr></del>
+					</p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

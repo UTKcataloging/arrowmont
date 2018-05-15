@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030021000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Nov. 23, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030021000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Nov. 23, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-11-23">Nov. 23, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>4p</extent>
+					<note type="summary">Description of <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.U.</abbr> services and those of the church - Pledges by 
+                    members - Pig killed - Routine affairs</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030021000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living conditions</item>
+						<item>Livestock</item>
+						<item>People</item>
+						<item>Religion</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030021001" seq="01"/>
+				<p>
+					<list>
+						<item>Description of <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.U.</abbr> services and those of the church - </item>
+						<item>Pledges by members</item>
+						<item>Pig killed</item>
+						<item>Routine affairs</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030021002" seq="02"/>
+				<head>
+					<date value="1919-11-23">Nov. 23, 1919</date>
+					</head>
+				<p>
+                    Dearest Jane - As usual this is Sunday night &amp; after <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.</abbr> - Mabel said in 
+                    her letter that I was always coming <add place="supralinear">from</add> or going to <abbr expan="Baptist Young Person&apos;s Union">B.Y.P.</abbr>
+                    This has been a long day of <hi1 rend="underscore">Christian</hi1>
+					<hi1 rend="underscore">duty</hi1> as you will see - when I tell you that I spent
+                    three solid hours at the &quot;church-house&quot; this <abbr expan="morning">a.m.</abbr> &amp; went to <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr>
+                    for over an hour tonight. Poor Emily did the same - only had her own particular <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> in the
+                    <abbr expan="afternoon">p.m.</abbr> besides - I really enjoyed the sermon this morning - it was by a Mr. Conner a man who used to preach here at
+                    one time and a real character but <del>about</del> the most broad minded individual any of us know who is connected with the 
+                    Baptist Church. The Southern Baptists are trying to raise 75 million by the 7th of next month &amp; Gatlinburg&apos;s quota is <hi1 rend="underscore">&#36;700</hi1>!
+                    &#36; 249 was pledged this morning <pb ref="arm03030021003" seq="03"/> and the church was not more than a third full at that! It is rather hard work getting
+                    them started but imagine that they will come through with the full amount eventually.
+                </p>
+				<p>
+                    It&apos;s awfully windy this dark night but not very cold - Can you picture us all trailing over to the school single file each with an unlighted lamp in her
+                    hand &amp; back again - The schoolroom (mine) filled up before it was over &amp; imagine about sixty were there as many sat two together. Betty Russell
+                    one of the girls was leader - about half a dozen topics from the Quarterly were briefly discussed by different boys &amp; girls - most of them in school - 
+                    We sang several hymns - I read the Thanksgiving Proclamation &amp; made a few remarks - quite the thing for us to get up &amp; talk - you know - 
+                    about every so often. <pb ref="arm03030021004" seq="04"/>
+				</p>
+				<p>
+                    After this we came home and had our lunch around the library table in front of the fireplace just as we do home - Emily &amp; I got it for fun - cold biscuits - 
+                    <del>jelly</del> - roast pork - blackberry jam &amp; tea - Evelyn&apos;s pig was killed yesterday - 273 <abbr expan="pounds">lbs</abbr>,
+                    &amp; perfectly wonderful pork as it makes - Aunt Lizzie &amp; Mrs. <sic corr="Proffitt">Profitt</sic> worked over it all day after the men killed it.
+                </p>
+				<p>
+                    We were busy as usual doing the Saturday tasks &amp; in the <abbr expan="afternoon">p.m.</abbr> made some calls - really looking for a rattlesnake skin
+                    to use in the play - which we didn&apos;t get but found out where one can be - We also explored a perfect little &quot;holler&quot; with a deserted cabin in
+                    the middle of it. Spent the evening making three Puritan hats of paper for the boys - 
+                </p>
+				<p>
+                    Friday was a full day as I guess I told you it would be - dinner party &amp; debate in the evening. 
+                </p>
+				<p>
+                    It&apos;s over an hour since I started this epistle as Miss Langmaid who was writing also at the other end of the table has been telling me of some of the 
+                    difficulties of the early days of the school - so have been rather incoherent in spots haven&apos;t I?
+                </p>
+				<p><del>
+                    What are <gap reason="illegible" resp="bds"/> for Christmas &amp; can&apos;t realize it is so close at hand - Have not heard from you since last 
+                    Monday &amp; hope all has been well with you - I know you are busy as you always find something to do!</del>
+                </p>
+				<p><del>
+                    Will cease for now &amp; dash off a scribble to pa - </del>
+                </p>
+				<p><del>
+                    With just lots &amp; lots of love to you and all - </del>
+                </p>
+				<p><del>
+                    Ruth - </del>
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

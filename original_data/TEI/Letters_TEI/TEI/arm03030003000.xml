@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030003000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Oct. 15, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030003000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Oct. 15, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-10-15">Oct. 15, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>4p</extent>
+					<note type="summary">Description of Aunt Lydia Whaley and her home.</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030003000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		 <editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living conditions</item>
+						<item>People</item>
+						<item>Home visits</item>
+						<item>Social life</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030003001" seq="01"/>
+				<p>
+					<list>
+						<item>Description of Aunt Lydia Whaley and her home.</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030003002" seq="02"/>
+				<head>
+					<date value="1919-10-15">Oct. 15, 1919</date>
+				</head>
+				<p>
+                    Dearest Jane - Wednesday evening &amp; I&apos;m over here in Abbie&apos;s room as chaperone for the two 
+                    Carr girls tonight as Abbie is spending the night up <del>the</del> one of the creeks at Josie 
+                    Ogle&apos;s - <del>Your letter came today &amp; am very glad Miss Paucost will be with you 
+                        - It will be nice for her &amp; am sure she will be quite a spoiled darling like Mabel &amp; Jo - before long! 
+                        Your descriptions of dinners sound awfully good - but do you know I&apos;m getting quite attached to corn bread 
+                        &amp; hot biscuits &amp; eat them in preference to &quot;light bread&quot; every time!</del>
+				</p>
+				<p>
+                    To chronicle my doings - Monday was a day of rain - wore my gingham dress &amp; little green sweater - (it&apos;s 
+                    first appearance at school) &amp; quite like the combination. After school I studied quite late - while Emily &amp; some 
+                    of the girls cleaned the attic which was full of old magazines - Abbie &amp; I came in on the tail end of the cleaning so five o&apos;clock 
+                    was upon us before we knew it. Evelyn who had gone to Huff&apos;s called up to say she was <pb ref="arm03030003003" seq="03"/>going 
+                    to stay all night &amp; as the rain was quite torrential Maud Clabo &amp; another little girl stayed for supper &amp; the night 
+                    here - They live about three miles away.
+                </p>
+				<p>
+                    I made apple &amp; <del>cl</del> celery salad - the first celery we&apos;ve had - for our evening repast. 
+                    We spent the evening with literature around the fireplace where a brisk fire of chestnut &amp; oak crackled. Aunt Lizzie knitted 
+                    away on some socks. What do think of my picture of her &amp; Mrs. Profit? Tuesday it cleared some - so after school 
+                    we four girls tramped up the road to see the famous Aunt Lydia - and a quaint old woman she is. Her cabin is one room - 
+                    the ceiling about one inch above my head - Abbie had to stoop to enter the door &amp; inside. She has a fireplace at which 
+                    all her cooking is done including baking - there are two doors and two tiny dirty windows about the size of this sheet of paper 
+                    when spread out. She is eighty years old - and thinks she is getting old &amp; feeble but told us that she had been picking 
+                    apples while on one of her visits climbing to the very top of the tree to get them! She is little &amp; quite <pb ref="arm03030003004" seq="04"/>
+                    bent - brown eyes &amp; white scraggly hair - is of Scotch descent - her &quot;grand pap&quot; having come to North Carolina when a young 
+                    fellow where he married a Welsh girl who had come over about the same time. She sat there picking over tobacco leaves &amp;
+                    recited part of the Book of Revelations till her voice got tired &amp; then said the names of all the books of the Bible in about one
+                    minute - rattling them off fast as she could speak - Her memory is not good - for the present &amp; recent past - but says she
+                    can recall everything that happened long ago - Couldn't remember Miss Evelyn at all! But let me tell you more about her house - 
+                    Around the fireplace is room for settin&apos; but all the rest is full &amp; even from the ceiling are hanging many bags of herbs
+                    &amp; all sorts of things done up - some little tables fill up one space between fireplace &amp; door where I imagine she keeps
+                    her dishes &amp; eats - the opposite side was <del>where</del>
+					<add place="supralinear">for</add> her wood pile - 
+                    corn &amp; tobacco. A clay pipe lay on an iron kettle by the fire which she soon tucked out of sight! The rest of the room was filled up
+                    by two beds covered with boxes &amp; bundles - innumerable hat boxes were stacked together - a spinning wheel - some more tables - 
+                    well I just can&apos;t tell you more definitely now - but am going again &amp; will get more impressions. In a tree outside - up high
+                    <unclear reason="illegible" resp="bds">ther</unclear> were ears of corn fastened in rows on a stick drying - said she didn&apos;t know where
+                    else to put them. When we left she picked a bunch of chrysanthemums exactly like our pink ones only white. Oh yes we found some 
+                    persimmons - Do you like them? Spent a quick evening with books and papers - Tonight went for chestnuts with the Huff girls - Litha Carr &amp; 
+                    Birthana McCarter - got just a few - then Litha &amp; I went over to Birthana&apos;s &amp; called. The four McCarters are living just a little ways up 
+                    the Roaring Fork road so they can go to school. Such nice people as they all are. Emily &amp; Evelyn blew down to Sevierville right after 
+                    school - so had supper with Aunt Lizzie - Litha &amp; I have been studying the stars this evening - am beginning to learn a few constellations. 
+                    This is about the shortest letter I&apos;ve sent home isn&apos;t it? But it comes with loads of love as ever.
+                </p>
+				<p>
+                    Ruth.
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

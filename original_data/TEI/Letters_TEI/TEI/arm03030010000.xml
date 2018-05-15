@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030010000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Oct. 30, 1919, [Gatlinburg, Tennessee to] Tacoma Alumnae Club</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030010000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Oct. 30, 1919, [Gatlinburg, Tennessee to] Tacoma Alumnae Club</title>
+					<date value="1919-10-30">Oct. 30, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>10p</extent>
+					<note type="summary">Letter to Tacoma alumnae (Inez Smith Soule Alumnae Club - Mr. Cresswell &amp; Mrs. Proffitt move from Maple Cottage 
+                    to the Stewart Cottage Boys&apos; dormitory</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030010000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living Conditions</item>
+						<item>Social life</item>
+						<item>School programs</item>
+						<item>Baskets</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030010001" seq="01"/>
+				<p>
+					<list>
+						<item>Letter to Tacoma alumnae (Inez Smith Soule Alumnae Club).</item>
+						<item>Mr. Cresswell &amp; Mrs. Proffit move from Maple Cottage to the Stewart Cottage Boys&apos; dormitory</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030010002" seq="02"/>
+				<head>
+					<date value="1919-10-30">Oct. 30, 1919</date>
+				</head>
+				<p>
+                    Dear Sister Pi Phis -
+                </p>
+				<p>
+                    What time do you suppose it is and what are we all doing this Thursday evening? It&apos;s 7:45 and all have <hi1 rend="underscore">gone</hi1>
+					<hi1 rend="underscore">to</hi1>
+					<hi1 rend="underscore">bed</hi1> - not only in this house but all over the <abbr expan="Gatlinburg">burg</abbr>.
+                    But when you consider the fact that nearly everyone is up before daylight these early hours are not quite so surprising.
+                </p>
+				<p>
+                    This has been a most strenuous week and fear I may not be very clear and lucid at intervals while composing this epistle! Emily Burton and I 
+                    spent the weekend in Knoxville - Monday had to make out grades for papers and report cards - Tuesday get off a letter for the Arrow (an awful
+                    ment-<pb ref="arm03030010003" seq="03"/>al strain) Wednesday prepare for a debate in the evening and today wind up things for our <hi1 rend="underscore">
+                        Halloween</hi1>
+					<hi1 rend="underscore">Party</hi1> tomorrow night. A Miss Freeman (Iowa Alpha) arrived for short visit today. In between had to
+                    have a club meeting with the girls - go to a corn husking and make a call up Baskin&apos;s Creek - 
+                </p>
+				<p>
+                    So you see if I don&apos;t write individually and thank you for your letters - books for <abbr expan="Christmas">Xmas</abbr> programs - wooden
+                    toys etc. it&apos;s because of the short days up here. I did so enjoy the letters from Lida, Nellie May, Harrich and Charlotte - and in the course of
+                    time shall answer each with appropriate observations. <pb ref="arm03030010004" seq="04"/>
+				</p>
+				<p>
+                    The principal reason for my not having said anything about baskets is because they are so scarce - The chief basket maker died last summer and
+                    others do not take much interest as it&apos;s hard work and little pay. Evelyn has so many many orders now that she can&apos;t fill - much as she 
+                    would like to. Perhaps things will work out later on. We have talked about putting it (basket making) into the school but there seem to be about as
+                    many reasons <hi1 rend="underscore">for</hi1>
+					<hi1 rend="underscore">not</hi1> doing it as <hi1 rend="underscore">for</hi1> - Miss Langmaid the head
+                    of the committee in charge of the school as you no doubt observed in the last Arrow arrives here Saturday for a visit of two months and as her visit
+                    has long been anticipated many things have been consequently &quot;hanging five.&quot; It does take so long to get things done up here - for the 
+                    atmosphere is so peaceful - like that the spirit of progress sort of dies out and one grows content with things as they are. For instance one of the 
+                    chapters sent us dishes months and months ago and they are ambling around somewhere in Tennessee yet for notice came after they had been 
+                    given up for lost - Meanwhile our cupboard is growing emptier day by day <hi1 rend="underscore">almost</hi1> - company causes a great planning so
+                    <pb ref="arm03030010005" seq="05" n="02"/> that the meal will suit the scanty supply of dishes - Soup and cereals have to be eaten in cups and tumblers - 
+                    dinner plates are served three times a day - and every so often you draw a <sic corr="handleless">handlesless</sic> and saucerless cup - the latter 
+                    being remedied by an odd small sized plate - the only one of it&apos;s kind. Isn&apos;t this pathetic sounding? It is too. This house reminds me in so
+                    many ways of the frat house in Seattle!
+                </p>
+				<p>
+                    We are all living up here on the hill now for the very day that Mary &amp; Marshall Ogle moved from the little bungalow Mrs. <sic corr="Proffitt">Profit</sic>
+                    and Mr. Cresswell moved up from the Maples house at the foot of the lane. Ever since <pb ref="arm03030010006" seq="06"/> my arrival the domestic
+                    troubles of these particular Ogles have been the chief topic of conversation <add place="supralinear">in the <abbr expan="Gatlinburg">burg.</abbr>
+					</add>
+                    For they involved many people and even the school. It has been very unpleasant at times for us and especially for the two principal actors in the tangle
+                    but things all calmed down of a sudden &amp; complete reconciliation followed. Marshall got work at a lumber camp up in the mountains and off they
+                    went bag and baggage. He had been very satisfactory on the place till this &quot;other woman&quot; interfered with his home life and Evelyn had to 
+                    discharge him.
+                </p>
+				<p>
+                    The attendance has been very poor at school this month - molasses <pb ref="arm03030010007" seq="07"/> making, digging potates, picking corn and beans
+                    seem to be the pricipal reasons. Then too it has been pretty rainy until this week and that has kept some at home. Most of them splash to school 
+                    barefooted through the mud and real sure enough mud it is! Not even the Fords can get through now to Pigeon Forge - It <del>
+                        takes</del> took us two hours to make the seven miles in a buggy down there last week so you can judge of the ruts - <unclear reason="illegible" resp="bds">
+                            chuq</unclear> holes and depth of mud from that. Several of the girls have stayed here all night rather than go home so far when it is so wet.
+                    They like to do it and try to use their napkins knives and forks etc. just right at the table - keeping one eye on <hi1 rend="underscore">us!</hi1>
+				</p>
+				<p>
+                    Lately all the boys and girls have been playing ring games together at noon and recess and very nicely too. &quot;Farmer in the Dell&quot; is the favorite.
+                    They are so funny! I wish you could hear my Lucrettie pour forth excuses for not knowing her history. Today she and one of the others came rushing in
+                    just before time for &quot;books&quot; at one - simply dripping with perspiration and demanded that I explain the &quot;census&quot; to them - &quot;
+                    <unclear reason="illegible" resp="bds">O</unclear> hits so hard Miss Sturley - I can&apos;t get <hi1 rend="underscore">nary</hi1> a thing - not nary a 
+                    thing!&quot; They are very enthusiastic over the party for tomorrow. The cooking class made doughnuts today and will finish up that part
+                    <pb ref="arm03030010008" seq="08" n="03"/> of it tomorrow. Yesterday noon they all made their jack-o-lanterns - boys and girls together &amp; produced
+                    fifteen nice big ones. Then we have made a lot from paper - also black cats - owls - witches and moons which adorn our rooms and the windows for
+                    it&apos;s to be at the schoolhouse. The girls <add place="supralinear">in the</add> club are going to give a witch song marching around the rooms holding
+                    jack-o-lanterns &amp; dressed in sheets and pillow cases. This excitement will be followed by a &quot;track meet&quot; - bobbing for apples and
+                    fortune telling. 
+                </p>
+				<p>
+                    We have had a spellin&apos; - a &quot;sing&quot; - corn husking and lastly the debate of last night given by the newly organized <pb ref="arm03030010009" seq="09"/>
+                    Gatlinburg Literary Society - The subject was purely local and good for the community - &quot;Resolved that a public highway is of greater benefit to 
+                    <abbr expan="Gatlinburg">G.</abbr> than <add place="supralinear">a</add> railroad.&quot; Steve Whaley one of the substantial citizens is president
+                    and Mr. Cresswell secretary - So far both boys and girls belong but we rather hope it will work out just for the boys and men.
+                </p>
+				<p>
+                    We are working hard on our Thanksgiving play - &quot;The Courtship of Miles Standish&quot; which will be staged with scenery and costumes complete. 
+                    We have the spinning wheel at any rate.
+                </p>
+				<p>
+                    Do you know I&apos;m getting quite spoiled for the city ways - We did enjoy our trip <pb ref="arm03030010010" seq="10"/> to Knoxville - <unclear reason="illegible" resp="bds">
+                        paning</unclear> - electric lights - stores etc. looked very good to us - but we were simply delighted with our own green mountains and peaceful 
+                    <abbr expan="Gatlinburg">burg</abbr> Sunday night when we made the turn in the road which gives the first glimpse of it all. The foliage is growing
+                    quite gorgeous though the bees and butterflies are still with us - and we&apos;ve been wearing thin clothes all week doors and windows stretched 
+                    wide open.
+                </p>
+				<p>
+                    If any of you have copies of &quot;Current Events&quot; the &quot;Outlook&quot; &quot;Literary Digest&quot; or similar magazines and papers - we
+                    would like to have them for the history classes - in both of which there is need for a certain amount of time <del>for</del>
+					<add place="supralinear">on</add> topics of the day as they never see a newspaper or magazine at home.
+                </p>
+				<p>
+                    Near the close of this letter I discovered a huge blot on <del>the</del>
+					<add place="supralinear">a</add> page of the first part and if
+                    you will excuse it am not going to stop and copy but send if as it is - with regret!
+                </p>
+				<p>
+                    With love to each and all of the Inez Smith Soule Alumnae and best wishes for another good meeting next Saturday - the second in the month
+                </p>
+				<p>
+                    Ruth E. Sturley.
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

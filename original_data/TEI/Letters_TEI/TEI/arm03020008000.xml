@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020008000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Sept. 6, 1919, [Gatlinburg, Tennessee to] Pi Phi Alumnae Club, Tacoma, WA</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Young, Phillip</name>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020008000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Sept. 6, 1919, [Gatlinburg, Tennessee to] Pi Phi Alumnae Club, Tacoma, WA</title>
+                    <date value="1919-09-06">Sept. 6, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>10p</extent>
+                    <note type="summary">More about the school - Boys&apos; dormitory - Plans for first fair at the school - Trip after a still.</note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020008000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Social life</item>
+                        <item>School activities</item>
+                        <item>Enrollment</item>
+                        <item>Moonshine</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020008001" seq="01"/>
+                <list>
+                    <item>More about the school - </item>
+                    <item>Boys&apos; dormitory - </item>
+                    <item>Plans for first fair at the school - </item>
+                    <item>Trip after a still.</item>
+                </list>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03020008002" seq="02"/>
+                <head>
+                    <date value="1919-09-06"> Sept. 6, 1919</date>
+                </head>
+                <p>
+                    Dear Pi Phi Sisters - 
+                </p>
+                <p>
+                    One week from today will be &quot;the second Saturday&quot; and will no doubt see you gathered together for a meeting. Lida told me in her note
+                    that no August meeting was held as so many were away - I hope the summer has been a happy and restful one for you all and that the coming year will 
+                    strengthen the bond of Pi Phi and see much accomplished. The fraternity means so much to the community here and has done so much good that it makes 
+                    one feel that the <pb ref="arm03020008003" seq="03"></pb> school is a great trust for which we can all work whether near or far away. These mountain people 
+                    are very reserved and conservative and as one of there revival songs expresses it - &quot;What was good enough for my father is good enough for me!&quot; 
+                    So that the coming generations whom we reach through the school are the ones who will really better conditions. But do not think that we teachers give without 
+                    <hi1 rend="underscore">getting</hi1> - for sometimes one wonders if there is not more of <hi1 rend="underscore">getting</hi1> on our part after all. 
+                    They are so hospitable and kind hearted - so pleased with simple things - so like big children in many ways - that you realize that there are some things
+                    they have that the busy outside <pb ref="arm03020008004" seq="04" n="2"></pb> world has unfortunately grown away from. I&apos;m getting quite philosphopical am
+                    I not and will now proceed to statements of what all we&apos;ve been doing for the past month.
+                </p>
+                <p>
+                    First as to the school itself - we have enrolled exactly ninety-two of which the girls have a little higher enrollment that the boys. They are not up to
+                    <add place="supralinear">the standard of</add> our schools in the West by any means - nor do they know how to settle down and study. On the other hand
+                    when you remember that many of them come from homes <pb ref="arm03020008005" seq="05"></pb> where the parents are <del>uneducated</del><add 
+                        place="supralinear">illiterate</add>, that they see no books or magazines except at school - that they do not come in contact with the outside world - not 
+                    even as <del>far</del><add place="supralinear">near</add> as Sevierville fourteen miles away - that they have to stay out of school part
+                    of the time to help with the washing and ironing and field work - you wonder that they do as well as they <hi1 rend="underscore">do</hi1> <hi1 rend="underscore">do</hi1>!!
+                    (If my sentences get involved &amp; full of repetition please overlook for I cannot take the time to send you a polished and elegantly written epistle.) I attended
+                    County Institute at Sevierville last Saturday - held in the assembly room of Murphy College. About thirty-five teachers were there - a small percent
+                    <pb ref="arm03020008006" seq="06" n="3"></pb> I&apos;m told of all the number in the county. When I gazed upon their youthful childlike faces (for most of them were in
+                    their teens or very early twenties) I did not wonder that wild stories circulated about the poor teaching and discipline and that the schools were in bad
+                    condition. The salaries are very very low also and it seems that politics play<del>s</del> a large part in school management. Our school
+                    is the best equipped in the county - so far.
+                </p>
+                <p>
+                    We have at last a manual training <pb ref="arm03020008007" seq="07"></pb> teacher - Mr. Cresswell from Jefferson County. He is very young but seems to be just the
+                    right man for the place. Since his arrival the boys&apos; dormitory has been started and for the past two weeks he with three boys from Pigeon Forge and 
+                    Mrs. <sic corr="Proffitt">Profit</sic> cook and housekeeper - have  lived in the Maple house at the foot of our road. Wouldn&apos;t you like an outline of a 
+                    day at school. Harrison the man about the place unlocks the building <add place="supralinear">&amp; starts the fires about 6 - </add> and at 7:45 either 
+                    Emily or I ring the first bell - we take turns - a week at a time - The boys play ball - the girls play a little but seem to prefer to sit around and talk - until
+                    eight o&apos;clock when the last bell rings for <hi1 rend="underscore">&quot;books&quot;</hi1> as they say. The whole <pb ref="arm03020008008" seq="08" n="4"></pb>
+                    school gathers in my room - which is the largest and has the piano - for assembly or opening exercises presided over by one teacher for a week. Evelyn Bishop 
+                    is usually present to play the piano &amp; help with the singing. We have the flag salute at least once a week - several songs - Scripture reading - and the
+                    Lord&apos;s prayer. Miss Burton&apos;s primary class has acted a little play a couple of times - a quartet of boys sang once - another of girls - short talks
+                    by a visitor or something of that sort adds variety occasionally.<pb ref="arm03020008009" seq="09"></pb>
+                </p>
+                <p>
+                    Then the little ones march to their room followed by Miss Runyan&apos;s fourth fifth and sixth graders and Mr. Cresswell takes his four mathematics classes
+                    and I my English &amp; grammar. These latter are held in the sewing room which serves the purpose nicely with its tables benches and blackboard. By this time
+                    it is ten and a fifteen minute recess follows. One of the youngsters always takes our mail down to the postoffice at Charley Ogle&apos;s store during this interim.
+                    Next is spelling conducted by Mr. Cresswell and I have fifteen minutes breathing spell until 10:30 when my beginning Latin class consisting of four arrives - Mr. 
+                    <abbr expan="Cresswell">C.</abbr> meanwhile conducting a <pb ref="arm03020008010" seq="10" n="5"></pb> class in agriculture. After these he is through until 11:25 when 
+                    he takes a geography class in Abbie Runyan&apos;s room so she can go home and help her two girls get dinner ready. I finish up the morning with geography and
+                    writing. From 1 to 2 I have U.S. History and ancient history - recess from 2:00 to 2:15. Then Mr. Cresswell and Abbie each have their manual training and domestic
+                    science every day (except Friday) until 3 <del>dismal</del> dismissal <pb ref="arm03020008011" seq="11"></pb> time and I have the leftovers in my 
+                    room to study. Usually I take the last fifteen minutes for games or reading of some kind.
+                </p>
+                <p>
+                    A girls&apos; club is organized now - consisting of girls from ten years up - and has a membership of about twenty-five - object good times and deeds of service. We
+                    have had a picnic - a darning party - a party for the boys here at the house - and this next week there is to be a marshmallow roast. The darning party was here
+                    after school last Monday and of course the very ones who couldn&apos;t darn failed to arrive. They are not keen about such things but all turned out for the party 
+                    for the boys which was here last Friday evening. <pb ref="arm03020008012" seq="12" n="6"></pb>
+                </p>
+                <p>
+                    It seems to take so much push to get things started here - and to rouse enthusiasm. We try to make the girls feel that <sic corr="its">it&apos;s</sic> their club 
+                    and that they are the ones to plan and work with our help of course but that we are not the club.  
+                </p>
+                <p>
+                    Mr. Cresswell is planning to organize a debating club among the boys which will be a fine thing for them. So much for the school - If you have any questions please
+                    ask them there are so many new things that I can only touch briefly on them and no doubt leave out some that you&apos;d like to know. <pb ref="arm03020008013" seq="13"></pb>
+                </p>
+                <p>
+                    We all enjoyed a visit of several days from Mrs. Helmick this past month. The mountain people think the world of her you know and she is in turn devoted
+                    to them and loves all Gatlinburg and the school. She always inspires people to higher and better things. At present a Miss Turner is visiting
+                    <add place="supralinear">who is</add> also a Pi Phi from Washington D.C. and Evelyn and I think she at one time has been a grand president for the other 
+                    evening she mentioned something as having happened &quot;during my administration&quot; - It seems that she was the real originator of a school here in the
+                    mountains but as she has never been here is greatly interested and charmed with everything.
+                </p>
+                <p>
+                    In two weeks Gatlinburg and our school is to have a fair (the first one) on the school <pb ref="arm03020008014" seq="14" n="7"></pb> grounds - They are being
+                    held all over the county this month and will be a fine way to bring the people together and give them some new ideas. The school itself will have 
+                    exhibits (at least we hope to) of school work from manual training &amp; domestic science departments as well as maps writing papers etc. - also livestock
+                    farm products &amp; fancy work. My next months letter will tell you about it all. We hope to work in various little things that at present are up in the air.
+                </p>
+                <p>
+                    Now to lighter things! My dears you will <pb ref="arm03020008015" seq="15"></pb> never guess my latest wild escapade for in my wildest flights of fancy
+                    about the mountains I never pictured myself going after a <hi1 rend="underscore">still</hi1>! But that is just precisely what we four teachers did one 
+                    night in company with the deputy sheriff - our Harrison! It was last week and just before supper of a lovely evening - Busy as bees had we been since 
+                    school - cleaning our rooms and the rest of the house - so Evelyn suggested that we have a little ride with Harrison in the &quot;back&quot; (two 
+                    seated buggy) while she and Aunt Lizzie got supper ready - Off we started bareheaded - in light dresses &amp; thin shoes - little dreaming of what was 
+                    to come! Before we had any more than gotten on the road the conversation had turned to <hi1 rend="underscore">stills</hi1> and their capture. Harrison
+                    <pb ref="arm03020008016" seq="16" n="8"></pb> mysteriously confided to us that he was going after one the next night - Of course we girls wanted to go - but
+                    that was the night of the club party so we said - why not then and there and the three of us soon had the poor man completely at our mercy and saying
+                    we&apos;d stop and get &quot;Prof. Cresswell&quot; he meekly yielded. Of course there was no time for us to stop and dress for the part and anyway
+                    we didn&apos;t quite realize the wild scramble that was awaiting us. To cut a long story short Mr. <abbr expan="Cresswell">C.</abbr> was charmed &amp;
+                    bought a big watermelon while Harrison bought a flashlight &amp; <pb ref="arm03020008017" seq="17"></pb> some gay candy &amp; made several mysterious 
+                    disappearances. He was perfect in his part the whole evening - so cautious - always whispered - stopped &amp; peered hither and &quot;yonder&quot;! At 
+                    last we were off down the road towards Sevierville which we followed for about two miles. Then we left the hack Dan &amp; the watermelon and scrambled 
+                    down to the river. Emily &amp; I in French heels &amp; white pumps had an awful time leaping gracefully from rock to rock as we had to cross the river
+                    thusly. I landed at one spot with both feet in the water. That was a small item however &amp; arriving at the other side we plunged through the 
+                    unbroken wilderness where <abbr expan="Harrison">H.</abbr> did the Sherlock Holmes act to perfection as stated above. Eventually we struck a faint
+                    trail which lead right up a little &quot;branch&quot; in the wildest &quot;holler&quot;. For nearly a <pb ref="arm03020008018" seq="18" n="9"></pb> mile we
+                    jumped scrambled &amp; almost crawled occasionally <abbr expan="Harrison">H.</abbr> went ahead &amp; then would come back &amp; we&apos;d whisper &amp; 
+                    proceed silently as before. At last we had whiffs of moonshine - &quot;plumb&quot; strong ones too - &amp; then we came to the spot where was the furnace
+                    and several barrels - the <del>furn</del> still itself was gone - <abbr expan="Harrison">H.</abbr> thought it probably concealed
+                    in the laurels nearby while &quot;they&quot; were at work &quot;pulling fodder&quot;. Everyone is stripping their corn at present &amp; as soon as 
+                    that is done the still will be active no doubt &amp; <abbr expan="Harrison">H.</abbr> will visit them again. It was almost dark when we started back
+                    along our wild &amp; <pb ref="arm03020008019" seq="19"></pb> romantic trail. Going across the river was even more disastrous than before &amp; we were all 
+                    wet to the knees except Abbie. After hitching up Dan we stood around in the dusty dark road in our dripping sodden shoes &amp; garments eating that
+                    toothsome melon and how we giggled over the whole thing! Well it was about 9 or 9:30 when we finally got home after binding ourselves to secrecy as to 
+                    our adventure. Evelyn thought it a wonderful &amp; unusual experience but rather risky as shooting <del>in</del> is no uncommon
+                    thing at a raid - and also not <add place="supralinear">a</add> very wise thing for us as teachers to do. She is right of course and we won&apos;t go
+                    again but we would not have missed it either - not any of it! <pb ref="arm03020008020" seq="20" n="10"></pb>
+                </p>
+                <p>
+                    I have called at a number of homes and stayed all night Wednesday at a typical cabin - and thoroughly enjoyed it. Have also had some more long tramps
+                    and tasted my first (and last) moonshine!
+                </p>
+                <p>
+                    As it is almost time for the mail to go out I must say goodbye and hasten to the store with this letter which I&apos;d love to make twice as long. I have 
+                    asked my mother to give you the kodak pictures for your meeting and if <pb ref="arm03020008021" seq="21"></pb> the Seattle Pi Phis will forgive me I&apos;m going
+                    to ask them to share my letters with you as so far there has not been time for me to write them separately. Perhaps later there will be more opportunities
+                    for writing.
+                </p>
+                <p>
+                    Hoping that all is well with each one of you and that the inspiration to write me may come to some of you I am
+                </p>
+                <p>
+                    Lovingly yours in Pi Phi
+                </p>
+                <p>
+                    Ruth E. Sturley.
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

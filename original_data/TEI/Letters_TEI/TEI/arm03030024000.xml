@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030024000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Dec. 3, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030024000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Dec. 3, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-12-03">Dec. 3, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>4p</extent>
+					<note type="summary">Christmas Tableaux rehearsal</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030024000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Social events</item>
+						<item>Plays</item>
+						<item>Holidays</item>
+						<item>People</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030024001" seq="01"/>
+				<p>
+					<list>
+						<item>Christmas Tableaux rehearsal</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030024002" seq="02"/>
+				<head>
+					<date value="1919-12-03">Dec. 3, 1919</date>
+					</head>
+				<p>
+                    Dearest family - 
+                </p>
+				<p>
+                    Wednesday night again though it seems no time at all since I wrote you Sunday <abbr expan="evening">eve</abbr>. Pa&apos;s letter came today with Jane&apos;s
+                    note enclosed &amp; was pleased as usual to see the familiar handwriting again. The paints came yesterday for which I will send remittance and was charmed to get
+                    them. We are going to begin painting next week - Think of that! Emily &amp; I also wrote tonight about <del>the</del> our reservations for New Orleans
+                    trip to the Christian Woman&apos;s Exchange (corresponding to <abbr expan="Young Women&apos;s Christian Association">Y.W.</abbr>) &amp; which a Pi Phi there
+                    recommended to us in a letter to Evelyn as <hi1 rend="underscore">nice</hi1> &amp; reasonable! It&apos;s hard to realize Christmas is so near. 
+                </p>
+				<p><del>
+                    Isn&apos;t it nice to have pa home again - his jaunting in California always startled me when I got a letter from him &amp; am glad he liked the southern part so well - He
+					should have gone on down to Mexico - <sic corr="Tijuana">Tia Juana</sic> - &amp; over to </del><pb ref="arm03030024003" seq="03"/> <del>Catalina Island first however. Wonder where
+                    you will wind up - California or elsewhere? I do not believe you would like Reedley or Fresno as a permanent home - but it&apos;s not for me to decide.</del>
+                </p>
+				<p><del>
+                    I can just imagine what a grand dinner you had all together Thanksgiving day &amp; how sweet the youngsters must be - and would love to be with you <abbr expan="Christmas">Xmas</abbr>
+                    - but am still glad I came here. Prices simply startle me when I hear them given. When my clothes are worn out wonder what I&apos;ll wear - So far they are lasting well &amp;
+                    I feel quite <hi1 rend="underscore">dressy</hi1> even in the old red gown - challis ditto.</del>
+                </p>
+				<p>
+                    Monday the girls began making Christmas cards with great enthusiasm - something never done before - you can&apos;t buy postals of any description here 
+                    <abbr expan="Christmas">Xmas</abbr> seals nor any of those things. After this long session with them I took a walk up Pi Phi Lane &amp; on up to the top of the hill
+                    where one can now get a view as the foliage is gone from most of the trees. It <pb ref="arm03030024004" seq="04"/> was lovely &amp; the moon was very bright by the 
+                    time I got back - We had an early supper with Aunt Lizzie after which I sat down at the piano &amp; played Pi Phi &amp; <abbr expan="Christmas">Xmas</abbr> songs - 
+                    something I hadn&apos;t done for months! Tom <abbr expan="McCarter">McC.</abbr> dropped in on his way home - having been up at Mr. Cresswell&apos;s where he
+                    stays half the time anyway - He is a great character - likes to object to everything first &amp; then goes ahead &amp; meekly does as told!
+                </p>
+				<p>
+                    Tuesday after school I went through the twelve tableaux for the <abbr expan="Christmas">Xmas</abbr> program giving the story of the Christ child - my girls only will be in 
+                    it - as the boys did the Thanksgiving program mostly. They are quite enthusiastic over it - Think they will be better than boys - as shepherds wise men - King Herod - etc. for 
+                    their long hair will be quite appropriate &amp; the costumes will be robes - (kimonos - nightgowns for the angels - &amp; if possible some of the <hi1 rend="underscore">lodge</hi1>
+                    gowns!) One of the older girls reads the story &amp; at appropriate places old <abbr expan="Christmas">Xmas</abbr> hymns will be sung by Abbie&apos;s class - Maybe
+                    I told you all this before! Well - Emily &amp; I took a walk after this rehearsing - going up Mill Creek then down a long winding <hi1 rend="underscore">holler</hi1> named
+                    Turkey&apos;s Nest &amp; so home - Grand night again - we scuffled through some dead leaves nearly to our knees in places. Another early supper after which I looked 
+                    over the papers a little while &amp; then started  my monthly letter to the Pi Phis - retiring quite early! This noon Evelyn &amp; Miss Langmaid returned after a very nice trip 
+                    but were delighted to see the <abbr expan="Gatlinburg">burg</abbr> &amp; our <abbr expan="mountains">mts.</abbr> which are not so high &amp; rugged as 
+                    <abbr expan="North">N</abbr> Carolina&apos;s. Another rehearsal after school - Emily &amp; I stroll down the river  - I look over a lot of clippings for school tonight &amp; talk
+                    over <abbr expan="Christmas">Xmas</abbr> program with Evelyn &amp; Miss <abbr expan="Langmaid">L</abbr> - a very nice evening too. Had a nice long letter from 
+                    Mr. Snell today. He is surely an old dear. The clock tells me it&apos;s bedtime again - wish it wouldn&apos;t go around quite so fast as I would like to write more in detail - 
+                    This is such a short letter but loads of love comes with it for you all - 
+                </p>
+				<p>
+                    Ruth.
+                </p>
+				<p>
+                    Thanks for stamps
+                </p>
+				<p>
+                    How much exchange on my check?
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

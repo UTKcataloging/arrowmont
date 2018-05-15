@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030011000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Nov. 2, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030011000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Nov. 2, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-11-02">Nov. 2, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>10p</extent>
+					<note type="summary">Halloween affair at school for community - Visit to Round Top - Miss Langmaid (Chairman of the Settlement
+                    School Committee) arrives for visit</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030011000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living Conditions</item>
+						<item>Community programs</item>
+						<item>Extracurricular activities</item>
+						<item>Holidays</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030011001" seq="01"/>
+				<p>
+					<list>
+						<item>Halloween affair at school for community</item>
+						<item>Visit to Round Top</item>
+						<item>Miss Langmaid (Chairman of the Settlement School Committee) arrives for visit</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030011002" seq="02"/>
+				<head>
+					<date value="1919-11-02">Nov. 2, 1919</date>
+									</head>
+				<p>
+                    Dearest Jane - Sunday night again &amp; 8:30 by our time but the correct time is 45 <abbr expan="minutes">min.</abbr> slower for we go 
+                    by the sun up here. In fact not much attention is paid to the calendar Evelyn says - Thanksgiving &amp; Christmas receive no recognition 
+                    except through the school.
+                </p>
+				<p>
+					<del>You have been awfully good about writing so often and I much appreciate the letters and the pictures with 
+                        Halloween tokens. Thank you kindly!</del>
+				</p>
+				<p>
+					<del>The house must look very nice with all the fresh paint without &amp; within.</del>
+				</p>
+				<p>
+                    My last was written <del>We</del> Tuesday night wasn&apos;t it? After school Wednesday Emily &amp; I went up to the 
+                    Connor&apos;s on Baskin Creek where I took the kodaks some time ago of the molasses making. They were finishing the last of them and were 
+                    more than pleased with the pictures. <pb ref="arm03030011003" seq="03"/>Will get more printed &amp; send you some. I seem pretty slow about 
+                    getting things send - guess I&apos;m getting like the rest of the natives!
+                </p>
+				<p>
+                    Right after supper (we have dinner at noon) had to see about the debate - Mr. Reagan on my side &amp; Tom McC. on the other didn&apos;t 
+                    come so it was between Mr. Cresswell &amp; Rose - Emma &amp; myself. They won for which I was glad - though we put up a good fight. 
+                    The general sentiment is in favor of the highway rather than a railroad anyway. When I got back here wrote pa -
+                </p>
+				<p>
+                    Thursday noon Miss Eva Freeman arrived from Alabama where she has been helping a friend who teaches in a school somewhere down there. 
+                    She is from Iowa &amp; from the same chapter as Brennie whom she knows - also knew Mr. Grimbling &amp; has met Mrs. G. is <pb ref="arm03030011004" seq="04"/>
+                    acquainted with Sadie. She is very pleasant and nice &amp; seems to have travelled all over the <abbr expan="United States">U.S.</abbr> &amp; in 
+                    Europe - but you&apos;d never guess it judging by appearances. Celebrated the evening by planning more details in regard to the Halloween party 
+                    &amp; writing a letter to the Tacoma Pi Phis. Am enclosing a letter sent me by Mrs. Helmick - really copy of a letter written by a girl who as you see was a 
+                    real pioneer in Gatlinburg for the school. Will you give it to them for the meeting Saturday or else next month - and ask them to return it to you.
+                </p>
+				<p>
+                    Most of Friday was spent in preparation for the Halloween function. The cooking classes made doughnuts that <abbr expan="afternoon">p.m.</abbr> 
+                    &amp; the previous day - The youngsters got quantities of autumn leaves of gorgeous coloring. We filled the baskets &amp; waste baskets - put them 
+                    in the fireplace &amp; behind the radiators - pasted our paper jack-o-lanterns in a border at top of blackboards - with witches cats moons etc. on the 
+                    windows - &amp; opened the two rooms Abbie&apos;s &amp; mine into one.
+                </p>
+				<p>
+                    The schoolhouse was full of company before we had finished our supper so that by 6:30 we were all over with lamps &amp; calming the 
+                    youngsters by our mere presence. Outside were many boys &amp; young fellows from places miles away - Inside the seats were full &amp; 
+                    overflowing (in the big room) with the older people - The girls hustled into their sheets &amp; pillowcases in the sewing room &amp; 
+                    after much confusion as each wanted to be pinned <pb ref="arm03030011005" seq="05" n="02"/>immediately &amp; there were only 4 of us 
+                    to do about twenty. Then the jack-o-lanterns were lighted &amp; brooms found for some of us there were not quite enough pumpkins to go around. 
+                    Arlena also in sheet &amp; pillowcase played the piano for the witch song &amp; they all filed in one by one - marching round &amp; round singing. 
+                    It was quite effective as the other<del>s</del> lights were darkened. Then Rose Carr &amp; Estel Huff were leaders for the next 
+                    event the track meet - Had 15 youngsters on a side &amp; the leaders chose the ones they wanted to do the various stunts. All the others looked 
+                    on - First was the suitcase race - cracker eating &amp; potato races - etc. I found most of them in &quot;Ice - Breakers&quot;. They all seemed 
+                    to enjoy it. Next was apple bobbing and stringing apples &amp; doughnuts! Lastly the fortune <pb ref="arm03030011006" seq="06"/>telling. Emma 
+                    &amp; Rose told them in the boys cloak room - dressed in sheets &amp; pillowcases - two big jack-o-lanterns for light. In the other Josie Trentham 
+                    from the hotel did the same. She was just like a witch - Had on a good mask - pillow case - kimono apron &amp; lots of jewelry. The crowd really 
+                    behaved pretty well - couple of jack-o-lanters &amp; boughs were strung up the flagpole &amp; that&apos;s all. Well along toward 8:30 the doughnuts were 
+                    passed to the children &amp; what were left to the older ones. By nine we looked up the school - house &amp; came home with our lamps - 
+                    tired &amp; pleased to have it over.
+                </p>
+				<p>
+                    The next morning by 8:15 Mrs Freeman Mr. <abbr expan="Cresswell">C.</abbr> Emily &amp; I were started for Round Top - the mountain we
+                    have so long <pb ref="arm03030011007" seq="07"/> wanted to climb. My two big paper sacks &amp; kodak constituted our luggage - We had the 
+                    frying pan pail for coffee - eggs - bread - biscuits doughnuts &amp; oh yes - cold sweet potatoes <add place="supralinear">&amp; glass of jelly</add>.
+                    The weather was uncertain like - Aunt Lizzie &amp; Mrs. <sic corr="Proffitt">Proffit</sic> both predicting rain &amp; that we&apos;d never make 
+                    the trip in a day. We went up the Roaring Fork road about five miles where we stopped at the Reagan&apos;s cabin. Here was Charlie
+                    <unclear reason="illegible" resp="bds">Clabo</unclear> the soldier lad we met some time ago who wanted us to be sure to stop &amp; have him
+                    go along when we took the climb. Well they all predicted rain &amp; Charlie didn&apos;t enthuse about going. Just as we started off however
+                    he decided to join us - also two of the Reagan children came to the same conclusion - Alfred about 14 &amp; Julia 16 - she is coming to school
+                    later &amp; stay at <hi1 rend="underscore">Abbie&apos;s</hi1> (our dormitory)
+                </p>
+				<p>
+                    The boys got a lot of apples in a deserted orchard &amp; found some wild grapes. At the foot of the <abbr expan="mountain">mt.</abbr> we 
+                    stopped &amp; started lunch - frying apples - eggs - &amp; the potatoes &amp; making coffee - Then at this <del>crt</del>
+                    critical point it begain raining - We seized everything &amp; climbed up a little ways to where <add place="supralinear">was</add> a huge rock
+                    nicely hollowed out in a long crevice making a perfect shelter for our party of seven. Here we sat &amp; ate &amp; ate in absolute comfort &amp;
+                    dryness. Seems strange that a lunch planned for 4 should so completely satisfy nearly twice that number. But it did. The rain had practically 
+                    ceased by one when we started for the climb which Charlie said would take an hour. Such a climb I&apos;ve never made! Smoky
+                    <abbr expan="Mountains">Mts.</abbr>
+					<pb ref="arm03030011008" seq="08" n="3"/>were nothing to it. We did not follow the trail as that was too
+                    long but went right up the - pulling ourselves along by the little bushes &amp; pines. The mountain has been burned over by forest fire several times
+                    &amp; logged so at present the trees are not very large &amp; there is much undergrowth - mountain laurel - (ivy they call it) especially. The view
+                    going up was lovely - At one point we could see the <abbr expan="Gatlinburg">bu<add place="supralinear">r</add>g</abbr> way off - seven miles away - 
+                    Seven miles doesn&apos;t sound like much does it - but the rough stony road we had followed made walking slow &amp; hard - Before we got to the 
+                    top it began sprinkling so we were dampish on our arrival. It was a very satisfactory peak <pb ref="arm03030011009" seq="09"/> to climb - For one 
+                    really felt <del>they were</del>
+					<add place="supralinear">he was</add> on a peak - the land dropped away so steeply in every direction
+                    &amp; the extent of the peak being rather small - not as large as our dining room. We stopped about 15 <abbr expan="minutes">min.</abbr> &amp;
+                    then began the descent. The storm which we had seen way off down the valley &amp; on distant hills now enveloped us &amp; we simply dripped
+                    moisture - Had on my tramping outfit - no hat or coat - nor did I need them - For it was a warm day &amp; the walking kept one comfortable even 
+                    though soaked to the skin. None of us minded  it - Miss Freeman is a good sport &amp; liked everything! Well it was dark when we got home - 
+                    and though am a little stiff in my knees &amp; hips am very glad I went &amp; thoroughly enjoyed it. <pb ref="arm03030011010" seq="10"/>
+				</p>
+				<p>
+                    This morning we didn&apos;t get to breakfast until quite late for us - 8 o&apos;clock - By 9:30 we were all at Sunday School &amp; 
+                    <unclear reason="illegible" resp="bds">as</unclear> it was church Sunday - we were there for <hi1 rend="underscore">three</hi1> hours.
+                </p>
+				<p>
+                    When I got home had to get busy doing my Saturday work which was interrupted by dinner - But in the course of time got my shoes cleaned - 
+                    washing sorted - room swept &amp; dusted - summer hats put away - bathroom &amp; upper hall cleaned - bulbs planted.
+                </p>
+				<p>
+                    Next Abbie - Miss Freeman &amp; I went to make call on Aunt Lydia who unfortunately was also calling - We asked about her at several places - 
+                    but she had just left each &amp; none knew where she might be - so we examined her mill gazed at the little cabin &amp; then called at
+                    Mrs. Reagan&apos;s (Lucrettie&apos;s mother &amp; the chaperone on our Smoky trip) We had a nice call - sitting in front of the fireplace
+                    &amp; eating chestnuts. (The weather had cleared &amp; turned cold this <abbr expan="morning">a.m.</abbr> so wore my old challie &amp; 
+got out my big coat for church but green coat warm enough for <del>a</del><abbr expan="evening">p.m.)</abbr> We got home
+                    at dusk just as Harrison arrived in a buggy with Miss Langmaid from Pigeon Forge. She is rather pretty - short &amp; stout - very sweet - We
+                    had supper &amp; wound up with <abbr expan="Baptist Young Person&apos;s Union">B.Y.</abbr> - &amp; so ends this day - As it&apos;s
+                    now getting late will bid you a loving good night with much of love for the whole family as ever. Hoping to find another letter tomorrow from you - 
+                </p>
+				<p>
+                    Ruth
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

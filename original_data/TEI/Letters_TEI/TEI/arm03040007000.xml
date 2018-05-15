@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03040007000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Feb. 15, 1920, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03040007000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Feb. 15, 1920, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1920-02-15">Feb. 15, 1920</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>7p</extent>
+                    <note type="summary">Snowstorm - Valentine&apos;s Day - School Magazine</note>
+                    <note type="box">3</note>
+                    <note type="folder">4</note>
+                    <note type="document">arm03040007000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Social events</item>
+                        <item>Snow</item>
+                        <item>Holidays</item>
+                        <item>People</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03040007001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Snowstorm</item>
+                        <item>Valentine&apos;s Day</item>
+                        <item>School magazine</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03040007002" seq="02"/>
+                <head>
+                    <date value="1920-02-15">Feb. 15, 1920</date>
+                </head>    
+                <p>
+                    Dearest family, nine - fifteen and all in bed this cold Sunday night - but your child. Winter seems to have struck us at last - A little of the New York storm 
+                    drifted over our peaceful mountain tops yesterday afternoon. It was a perfectly gorgeous sunny cloudless morning - Emily &amp; I half planned a long 
+                    tramp over the hills &amp; far away for the <abbr expan="afternoon">p.m.</abbr> but by noon clouds rolled in &amp; by 2:30 it was dark &amp; in half an 
+                    hour we had to light the lamp - Then it began to rain &amp; finally settled down to a real snowstorm - so <pb ref="arm03040007003" seq="03"></pb>earnestly did 
+                    this continue that by five o&apos;clock it was a white world and a very lovely one too. Evelyn &amp; I walked up through Pi Phi lane to Harrison&apos;s 
+                    with some milk and enjoyed the snow woods immensely.
+                </p>
+                <p>
+                    All day it has been &quot;right smart&quot; cold but sunny. Everyone stayed home I guess - for hardly a soul has stirred on the &quot;big road&quot; all 
+                    day. Evelyn decided to go home this morning and had to walk to Pigeon Forge where a buggy met her. Emily walked about four miles down the road with her 
+                    and got back about 1 - mud even <pb ref="arm03040007004" seq="04"></pb>splashed on her shoulders as they footed it down the <abbr expan="mountain">mt.</abbr> 
+                    The roads are worse than they have ever been partly because of so much hauling of lumber. Evelyn will be gone also this week.
+                </p>
+                <p>
+                    Friday night was the debate - Resolved, that the works of nature are more attractive than the arts of man. All who took part were girls and they certainly 
+                    entered into it with more pep than has been displayed yet - the negative side got the decision. After this display of fireworks we were treated to an embryo 
+                    minstrel show gotten up by Mr. Cresswell &amp; aided &amp; abetted by Tom &amp; Harve Reagan - who played the guitar - all three blacked up - 
+                    The youngsters liked it immensely but some of it was sacreligous and certainly might better have been left unsaid. Mr. <abbr expan="Cresswell">C.</abbr> 
+                    is to blame &amp; we are quite surprised at him. Evelyn is especially.
+                </p>
+                <p>
+                    That afternoon we had our school magazine &amp; a valentine box. The magazine was quite good and has a very pretty &amp; appropriately decorated 
+                    cover - white with red hearts &amp; printing. In it were a number of paragraphs telling what each wanted to be - Most of them want to go on to <pb ref="arm03040007005" seq="05"></pb>
+                    school &amp; then teach - also travel - one wishes to be a foreign missionary - another a nurse &amp; look after Belgian orphans - Only one of the boys wants 
+                    to be a farmer - Some were absent however &amp; there&apos;s no telling what they would have written.
+                </p>
+                <p>
+                    We made valentines Thursday afternoon - red &amp; white strips of card board given to each youngsters with patterns for hearts of different sizes - arrows - 
+                    cupids etc. They just loved making them.
+                </p>
+                <pb ref="arm03040007006" seq="06"></pb>
+                <p>
+                    All day I&apos;ve been working on a letter Miss Langmaid asked me to write - a copy of which is to be sent to each province vice - <abbr expan="president">pres.</abbr> 
+                    for chapters. Emily wrote one last month, I have described the reading of the school magazine quoting <gap reason="illegible" resp="tal"></gap> of the articles 
+                    to show the influence of the school on the lives &amp; thoughts of the pupils - Found it rather slow work &amp; am glad it&apos;s done.
+                </p>
+                <p>
+                    <del>Had a letter from Katherine with application blank for position in Oakland schools </del><pb ref="arm03040007007" seq="07"></pb><del>thinks I&apos;m 
+                        sure of getting a position in a junior high school - Have not filled it out yet but think I will - though I just don&apos;t want to teach in a regular routine again. 
+                        Guess I&apos;m a shirk or something but that&apos;s the way I feel about it. <gap reason="illegible" resp="tal"></gap> I guess that&apos;s the reason. 
+                        Was glad to get June&apos;s little valentine card yesterday &amp; hope mine reached you in time. </del>
+                </p>
+                <p>
+                   <del>Saw something in the paper - (Tacoma &amp; Monitor) about irrigation in the Columbia River Basin. Will that not make our land 
+                       valuable?</del>
+                </p>
+                <p>
+                    <del>Here is another picture that I overlooked. It was taken in the Meta<add place="supralinear">ir</add>ie 
+                        Cementary (pronounced Met&apos;a rie) the expensive &#36;5000 minimum cemetery that used to be a race course.</del>
+                </p>
+                <p>
+                    <del>Hoping to hear from you all Monday (tomorrow) &amp; that all is well wtih my dearest family -</del>
+                </p>
+                <p>
+                    Loads of love as ever
+                </p>
+                <p>
+                    Ruth
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

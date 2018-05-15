@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03020005000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Aug. 26, 1919, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Young, Philip</name>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03020005000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Aug. 26, 1919, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1919-08-26">Aug. 26, 1919</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>13p</extent>
+                    <note type="summary">Miss Whittle&apos;s visit, Our trip to the Glades, Call on mountain families including Aunt Lizzie&apos;s son&apos;s, Plan for the girls Evergreen Club, Mrs. Proffit (Profit) cooks for boys&apos; dormitory</note>
+                    <note type="box">3</note>
+                    <note type="folder">2</note>
+                    <note type="document">arm03020005000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living Conditions</item>
+                        <item>Food</item>
+                        <item>Landscape</item>
+                        <item>Extracurricular activities</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03020005001" seq="01"/>
+                <p>
+                    <list>
+                        <item>Miss Whittle&apos;s visit</item>
+                        <item>Our trip to the Glades</item>
+                        <item>Call on mountain families including Aunt Lizzie&apos;s son&apos;s</item>
+                        <item>Plan for the girls Evergreen Club</item>
+                        <item>Mrs. Proffit (Profit) cooks for boys&apos; dormitory</item>
+                    </list>
+                </p>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03020005002" seq="02"/>
+                <head>
+                    <date value="1919-08-26">  Aug. 26, 1919</date>
+                </head>
+                <p>Dearest family - was glad to get a letter from Jane yesterday (Monday) and it
+                    sounded as though you all were <unclear reason="illegible">having</unclear>a very very busy existence. Pa
+                    <gap></gap> must take a trip now to <abbr expan="California">Cal.</abbr> &amp;
+                    St. Paul without fail. This would be just the time to go east for the worst of
+                    the hot weather will be over. </p>
+                <p>She&apos;ll be interested in hearing about Mabel&apos;s final settlement of her future and
+                    the Aurora party! No do not get a bathing suit - as I wouldn&apos;t use it enough to
+                    pay for the investment! Shall be glad to have the other dress - Mary Ogle will
+                    no doubt fix it for me. Thanks Mabel for the list of plays - and <abbr
+                        expan="government">gov.</abbr> bulletin - &amp; pa &amp; Jane for
+                    the papers - In the course of time I&apos;ll get them read no doubt. Have sent the
+                    notice of my change of address so you will not have to forward any more to me.</p>
+                <p>Jane will you send the recipe for your <hi1 rend="underscore">war</hi1> <hi1 rend="underscore">cake</hi1>! Think some <pb ref="arm03020005003"
+                    seq="03"/>day I&apos;ll make soon.</p>
+                <p>The things in my trunk were packed so tight that they did not a <unclear reason="illegible">arrived</unclear> but in quite <unclear reason="illegible">bundled</unclear> am leaving them 
+                    in <gap></gap> as Evelyn thought it wiser than <unclear reason="illegible">letting</unclear> them <unclear reason="illegible">hang while the straps</unclear> in <gap></gap> etc. <gap></gap> 
+                    enjoy them. Have spread them out so some wrinkles will <unclear reason="illegible">leave</unclear> away. 
+                </p>
+                <p>
+                    Had the <unclear reason="illegible">anniversary</unclear> of Miss <unclear reason="illegible">Sillix</unclear> wedding yesterday - but that is the only news I&apos;ve had of the people at school - 
+                    am so glad not to be in Tacoma this fall for <unclear reason="illegible">institute &amp;</unclear> all the <unclear reason="illegible">rest</unclear> of it! Wish I could go <gap></gap> for the week <unclear reason="illegible">end</unclear> 
+                    <gap></gap> in awhile but since <unclear reason="illegible">I</unclear> can&apos;t then is <unclear reason="illegible">not worth</unclear> thinking of it!
+                </p>
+                <p>Wednesday last I told you of the girls&apos; picnic &amp; our organizing a club
+                    the next night -</p>
+                <p>Friday was a most busy day - as <pb ref="arm03020005004" seq="04"/> soon as school was
+                    out &amp; had started various girls to cleaning up - Emily &amp; I
+                    hustled over here &amp; cleaned downstairs &amp; our rooms - hall
+                    &amp; bathroom upstairs - washing our heads as a grand finale. After supper
+                    Miss Whittle &amp; a friend arrived - Miss Whittle goes through the county
+                    teaching the girls how to can &amp; had come to give those in the canning
+                    club a lesson in the a.m. She is also working up fairs in all the communities -
+                    (Ours is to be in the school &amp; on the grounds Sept. 25th) Abbie went
+                    home (a farm near Sevierville) and I went to bed early for me. Next a.m. we were
+                    up bright &amp; early in our tramping garb &amp; finally got started at
+                    9 (Emily &amp; I).</p>
+                <p>We followed the Roarin&apos; Fork road a ways &amp; then branched off to another
+                    road which wound around between the <abbr expan="mountains">mts.</abbr> past
+                    occasional clearings &amp; cabins- After 3 miles we reached the McCarter
+                    farm where we stopped to call. I have four of the youngsters - Cora - Polly -
+                    Tom - (18 yrs. old &amp; the biggest boy) and Birthana. Their house is a
+                    frame structure &amp; has an upstairs but beds as usual occupy the front
+                    room. Mrs. Mc had been working &amp; was very dirty so proceeded to &quot;strip&quot;
+                    &amp; comb her hair the first thing on our arrival - They wanted us to stay
+                    for dinner &amp; when we said we had brought our lunch &amp; were on our
+                    way to the Glades - Mrs. hustled to the tomato patch &amp; Mr. to the melon
+                    - Such wonderful watermelon as I&apos;ve eaten here! Well we started off quite loaded
+                    down &amp; the two little girls with us. We climbed to Red Top - a hill back
+                    of their house where we stopped at one side of the road &amp; prepared to
+                    eat. Building a <pb ref="arm03020005005" seq="05" n="02"/>nice hot fire we soon had our
+                    coffee &amp; scrambled eggs ready - which with sandwiches - cake - &amp;
+                    the grand melon made a great feast for the four of us. Then we bade adieu to the
+                    youngsters &amp; picking up our lightened bag &amp; basket trudged on
+                    for about four miles through a series of little clearings &amp; an
+                    occasional cabin where on the porch clustered the whole family just <hi1
+                        rend="underscore">settin&apos;</hi1> and staring <hi1 rend="underscore">too</hi1>!
+                    Finally we came to the Glades - our destination. This place of picturesque name
+                    consists visibly of one store on the front porch of which were idly
+                    balancing the male population - while across the road were the women &amp;
+                    children clustered on the porch of a rather large frame house - Beyond was the
+                    church and up on the hill - <pb ref="arm03020005006" seq="06"/> side a school built up
+                    on piles of stone several feet - a slim pile at that - one at each corner - It
+                    was &quot;church day&quot; - &amp; later on services were in evidence as we left - our
+                    passing down the road occupied the attention of the congregation more than the
+                    minister - Mr. Watson - the same man who comes here <abbr expan="Saturday"
+                        >Sat.</abbr> p.m. &amp; Sunday once a month. Back on a hill from the road
+                    with a field of tall corn between stood a small frame house - the home of Aunt
+                    Lizzie&apos;s son - She has been with them for about two weeks you know - so we went
+                    in &amp; made a call for about an hour.</p>
+                <p>They have a new son about a week old - two other small boys in the family also -
+                    They seemed like quite progressive people for this part of the world - only one
+                    bed in the front room - a range in the kitchen &amp; an upstairs to <pb
+                        ref="arm03020005007" seq="07"/>the dwelling. Aunt Lizzie was awfully glad to see us
+                    &amp; said maybe she&apos;d be home Sunday (the next day) It showered some while
+                    we visited but by 3:30 it was quite clear so off we set at a brisk pace taking
+                    the main road back to Gatlinburg which eventually lead us back to Roarin&apos; Fork.
+                    In all your walks you cross creeks so many times - by means of planks - logs -
+                    &amp; little bridges - in some places are regular hanging bridges but as yet
+                    have not had to cross one - but know it&apos;s only a question of time until I do.</p>
+                <p>Pen&apos;s getting dry &amp; as I have not been able to get ink of my own
+                    &amp; the other is downstairs will have to take to pencil again - For two
+                    hours we walked steadily homeward reaching our welcome porch with rockers at
+                    exactly 5:30 - so we think it was surely more than 4 miles - and all in all
+                    walked at least 11 or 12 - It&apos;s loads of fun &amp; we both just love to do
+                    it. Mrs. Profit the woman who has helped out during Aunt L&apos;s absence had our
+                    supper just about ready &amp; wanted us to make the cocoa - So I did - not
+                    stopping to change my garb - Mr. Cresswell came in from a ride up Mill Creek
+                    &amp; during supper wanted to know if we were going to the ice cream party
+                    at the Huff&apos;s - This was the first we had heard of it &amp; felt pleased
+                    that we didn&apos;t have to go - Well after supper we thought we&apos;d enjoy the cool of
+                    the twilight before tubbing &amp; going to bed. During this the phone rang
+                    &amp; it was Stella Huff inviting Emily &amp; me over - We thought it
+                    the wisest plan in the end to go - so the two of us still in walking trim went -
+                    some of <pb ref="arm03020005008" seq="08" n="03"/>the girls meeting us on the road - So
+                    on top of all our <unclear reason="illegible">muchness</unclear> of supper we had ice cream caramel
+                    cake &amp; lemonade - We stayed just a little while however &amp; left
+                    the festive scene about 8:45 - Then I felt inspired &amp; wrote in my diary
+                    for several hours! Saturday seems to be the one day for that &amp; try to
+                    write up the whole week - The little Daylogue from Bessie is such a convenience
+                    &amp; write in it faithfully every day -</p>
+                <p>Sunday was one <hi1 rend="underscore">giddy</hi1> round! Oh yes- Evelyn went to
+                    Sevierville Sat. p.m. as the next day was her father&apos;s birthday! Emily &amp;
+                    I went to Sunday School which lasted till 10:30 &amp; then we took our
+                    kodaks &amp; went to Martha Clabo&apos;s cabin up Baskin Creek to take her old
+                    mother&apos;s picture &amp; one of the house besides - It was dinner time when we
+                    returned &amp; after that Emily &amp; I went to our respective rooms to
+                    write letters - I finished one to Aunt <pb ref="arm03020005009" seq="09"/> Carrie
+                    &amp; then took a grand nap -</p>
+                <p>The next excitement was the arrival of a Miss Cochran &amp; a friend - Miss
+                    C. has charge of the Juniper School somewhere around here - her friend teaches
+                    sewing in the Ashville Normal - both are <hi1 rend="underscore">real
+                        teachers</hi1>! Evelyn &amp; Abbie next came from Sevierville with Dr. Massey
+                    in his little Ford roadster - He had a very bad cold &amp; was about sick so
+                    E. &amp; his wife persuaded him to take a vacation here. We were all gaily
+                    eating supper when a man <hi1 rend="underscore">Isaiah</hi1>
+                    <sic corr="Trentham">Trenam</sic> arrived from about a mile and a half up the
+                    <abbr expan="mountains">mts.</abbr> with the news that his small boy (in
+                    Emily&apos;s room) had fallen out of the barn &amp; broken his wrist &amp;
+                    wanted the doctor to come &amp; set it - Of course Dr. M. said he&apos;d go
+                    &amp; asked if one of us girls would go along &amp; help &amp; I
+                    jumped at the chance thereby escaping the <abbr expan="Baptist Young Person&apos; Union">B.Y.P.</abbr> meeting at church in the
+                    evening - The three of us went down to the garage - <pb ref="arm03020005010" seq="10"
+                        />The little <hi1 rend="underscore">grandstand</hi1> in the school yard &amp;
+                    got in the car &amp; buzzed up the road - around - down &amp; up again
+                    till we came near a creek where we had to leave the car &amp; walk a little
+                    ways - of course crossing the creek - It was rather a neat place &amp; the
+                    mother was very nice - the youngster had broken one little bone - &amp; I
+                    helped hold the arm while the splint was fixed! Quite necessary wasn&apos;t I? Well
+                    we left in an hour or so - &amp; walked back to the little car starting down
+                    the hill &amp; then coming to an incline stopped &amp; remained stopped.
+                    On examination found the exhaust pipe red-hot - got water - still wouldn&apos;t make
+                    it - fooled around &amp; tried again - &amp; I pushing behind we finally
+                    got to the top &amp; managed to get home. Here we found that Miss Cochran
+                    wanted assistance - Her horse had stepped on one of her toes - so Dr. M. got
+                    busy with her - Emily &amp; I running around getting lights - iodine etc. By
+                    that time B.Y.P. was over &amp; Evelyn came home - so we adjourned to the
+                    porch where Miss C. proceeded to talk school from a to izzard till finally I
+                    said I&apos;d have to leave the festive gathering &amp; go to bed. Which I did - </p>
+                <p>Monday was the usual poor day - nobody knows a thing on Monday &amp; of
+                    course Miss C. &amp; friend visited all a.m. but were with me just a little
+                    while during a geography class.</p>
+                <p>After school the girl&apos;s club met &amp; did some more organizing - have chosen
+                    the name Evergreen Club - colors - red &amp; green - meet once a week - This
+                    coming Friday evening they will give a party for the boys - here at the house -
+                    Emily &amp; I <pb ref="arm03020005011" seq="11" n="04"/>with the social committee
+                    are going to work up that old game <hi1 rend="underscore">Five Senses</hi1> that
+                    Mabel &amp; I had once several years ago - We are not telling the others
+                    what it will be &amp; guess it will prove a success as the girls who do know
+                    about it seem quite taken with it. These youngsters are not at all demonstrative
+                    you know - so it&apos;s hard to tell what they do think at times.</p>
+                <p>Think I shall turn their next meeting in to a <hi1 rend="underscore">darning
+                    party</hi1> - get them to bring old stockings &amp; mend them as a number
+                    don&apos;t know a thing about it - Darning is not common here you know. We have plans
+                    (Emily &amp; I) for a <hi1 rend="underscore">hair</hi1> washing &amp;
+                    manicuring party - and perhaps if we can get shapes - millinery later on - But
+                    that remains to be seen - There is lots to do but one <pb ref="arm03020005012"
+                        seq="12"/>has to go about it sort of easy like &amp; gradually so
+                    they won&apos;t take offence! After this I took a cushion &amp; book &amp;
+                    went up Pi Phi lane - where I stayed till 6:30 - Took &quot;The Squire&apos;s Daughter&quot; by
+                    Archibald Marshall - the writer who Emily says is very much admired in the east
+                    just now - He is a good writer but felt that I had wasted my time &amp;
+                    wished I had finished my letter to you people instead - but just felt like doing
+                    nothing so strenuous as pushing a pencil. When I returned Dr. M. &amp;
+                    Evelyn had returned to Sevierville - as Evelyn had to go on to Knoxville to see
+                    about some things - She is there today &amp; no doubt will be home tomorrow.</p>
+                <p>Today as soon as school was out Emily &amp; I started forth &amp; went up
+                    the road- past the church &amp; store past Lucrettie&apos;s where we stopped <pb
+                        ref="arm03020005013" seq="13"/>first &amp; visited a little as some of
+                    them were on the porch &amp; then on down &amp; up through &amp;
+                    around cornfields to another house where we were directed to the home of a
+                    Whaley family - One of the seven children is in my room &amp; one in Emily&apos;s
+                    has a sore foot &amp; as they are new people we wanted to look them up -
+                    Clambering over a couple of fences (creeks - cornfields &amp; fences are the
+                    usual obstacles here) &amp; through a barn we got onto the trail up Aunt
+                    Lydie&apos;s Creek which we followed for over a mile going up the mt. side all the
+                    way - There were a number of cornfields right in this steep wooded &amp;
+                    exceedingly rocky hill - Look queer set in the midst of a virgin forest. Finally
+                    in a clearing was the cabin &amp; the home of the seven children - a
+                    pathetic place but they seem happy enough. We got home about six &amp; Emily
+                    Aunt Lizzie &amp; I had a peaceful meal on the back porch Mrs. Profit
+                    &amp; the boys now being settled in their own residence with meals down
+                    there. Mrs. Huff came over after supper - so we took her home part way &amp;
+                    I came right upstairs &amp; got at this letter again which I started about
+                    6:30 this a.m. So you see how the days go - They just fly by - We have postponed
+                    our <abbr expan="mountain">mt.</abbr> trip &amp; go to Institute at
+                    Sevierville <abbr expan="Saturday">Sat.</abbr> a.m. returning the same day Think
+                    it will be quite interesting &amp; novel - A note came from Miss Whittle
+                    today inviting us all to have dinner with her that day. Must cease &amp; go
+                    to bed - with just lots of love to each &amp; all &amp; don&apos;t forget
+                    Virginia has same - Ruth. </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030001000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Oct. 08, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030001000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from whi1ch the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Oct. 08, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-10-08">Oct. 08, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>5p</extent>
+					<note type="summary">Plans to visit Elkmont. Estel Huff takes us to Pigeon <sic corr="Forge">Ford</sic> and back in the Huff Ford. The four high school students plan their share of the Thanksgiving program</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030001000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living Conditions</item>
+						<item>People</item>
+						<item>School programs</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030001001" seq="01"/>
+				<p>
+					<list>
+						<item>Plans to visit Elkmont</item>
+						<item>Estel Huff takes us to Pigeon <sic corr="Forge">Ford</sic> and back in the Huff Ford.</item>
+						<item>The four high school students plan their share of the Thanksgiving program</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030001002" seq="02"/>
+				<head>
+					<date value="1919-10-08">Oct. 08, 1919</date>
+				</head>
+				<p>
+                    Dearest pa - your note or rather card came today &amp; was very glad to know that you are en route - 
+                    Hope it is Pullman - If not <hi1 rend="underscore">you</hi1>
+					<hi1 rend="underscore">see</hi1> - that 
+                    it is next time. Shall be interested in hearing your impressions of the Golden State and hope you 
+                    like it as well as I did for California more than fulfilled my expectations. Tonight - Wednesday - am 
+                    sitting in front of a happy blaze in the fireplace as tis cold &amp; rainy outside. Emily is taking a piano 
+                    lesson from Evelyn. I am going to start vocal with her as soon as my music books come from home. 
+                    Think that will be loads of fun - Aunt Lizzie left for her daughter&apos;s yesterday. She lives about 
+                    seven or eight miles from here up in the Sugar Fords. We girls are planning to go Friday to a place 
+                    up in the mountains called Elkmont &amp; quite a summer resort is it too. We will drive to the foot of 
+                    the mountain about six miles or so &amp; then climb to the top - stay all night at the hotel &amp; next 
+                    morning go in a logging train <pb ref="arm03030001003" seq="03"/>
+					<del>all</del> way up 
+                    the mountains to a lumber camp getting back to the burg same time Saturday evening. That sounds exciting 
+                    doesn&apos;t it? The timber around here is the largest found east of the Mississippi but is not as large as some 
+                    of ours.
+                </p>
+				<p>
+                    The way people slide along about things is really remarkable - for instance Evelyn has been trying to find out since last 
+                    April how much we owe at the store - and hasn&apos;t succeeded yet - The people are awfully honest too - I forgot my 
+                    purse one day at school &amp; left it on my desk &amp; not a penny had been touched &amp; they tell me that is 
+                    always so.
+                </p>
+				<p>
+                    Had a lovely ride last night after school of about four miles - A mile on these roads is you know <add place="supralinear">a</add> 
+                    much great consumer of time than the same distance on our good roads at home. <pb ref="arm03030001004" seq="04" n="02"/>
+                    Evelyn &amp; Abbie decided to go in to a concert at Sevierville last evening and as Estel Huff said he would take 
+                    them down about four miles on the way - Emily &amp; I piled into the Ford too &amp; came back with Estel. He is 
+                    one of my high school youngsters you know. The girls walked about 3 miles on to Pigeon Forge where they found 
+                    a car to take them the remaining seven miles to Sevierville. Then they came up early this 
+                    <abbr expan="morning">a.m.</abbr> in time for school - but had to pay &#36;5 for the trip. Monday was a 
+                    most peaceful day - Jane had sent me that funny story - &quot;The Young Visitors&quot; and after school where 
+                    I stayed late however I sat on the porch &amp; read &amp; chuckled over it. Then in the evening I read it to the 
+                    girls whom thoroughly enjoyed it too. <pb ref="arm03030001005" seq="05"/>My  four high school youngsters are 
+                    beginning to work up a little play adapted from Courtship of Miles Standish for Thanksgiving. We went through 
+                    it all after school tonight and had a great time doing it too - They are so funny - we all had the giggles.
+                </p>
+				<p>
+                    There are going to be <hi1 rend="underscore">long</hi1>
+					<hi1 rend="underscore">long</hi1> evenings before many 
+                    more days - in fact they have begun already &amp; hope to get things done - just what I don&apos;t know yet - but shall 
+                    keep busy - and then can&apos;t get homesick you know.
+                </p>
+				<p>
+                    Write soon do -
+                </p>
+				<p>
+                    With loads of love dear pa -
+                </p>
+				<p>
+                    Ruth.
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

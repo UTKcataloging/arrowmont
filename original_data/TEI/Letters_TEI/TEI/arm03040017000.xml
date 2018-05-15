@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03040017000">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Letter]  Mar. 25, 1920, [Gatlinburg, Tennessee to] family</title>
+                <author>
+                    <name>Sturley, Ruth</name>
+                </author>
+                <respStmt>
+                    <resp>Responsible for machine-readable version</resp>
+                    <name>Lepczyk, Tim</name>
+                    <name>Dyson-Smith, Bridger</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+                <pubPlace>Gatlinburg, Tennessee</pubPlace>
+                <address>
+                    <addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+                    <addrLine>556 Parkway
+                    </addrLine>
+                    <addrLine>PO Box 567
+                    </addrLine>
+                    <addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+                </address>
+                <date>2006</date>
+                <idno type="SPCID">arm03040017000</idno>
+                <availability>
+                    <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. 
+                        For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee 
+                        Libraries, Knoxville, TN</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+                <bibl>
+                    <title>[Letter]  Mar. 25, 1920, [Gatlinburg, Tennessee to] family</title>
+                    <date value="1920-03-25">Mar. 25, 1920</date>
+                    <author>
+                        <name>Sturley, Ruth</name>
+                    </author>
+                    <extent>9p</extent>
+                    <note type="summary">Smallpox scare. School closes sooner than planned with program. </note>
+                    <note type="box">3</note>
+                    <note type="folder">4</note>
+                    <note type="document">arm03040017000</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Created for the University of Tennessee Digital Library</p>
+            </projectDesc>
+            <editorialDecl n="3"></editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Local Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <list>
+                        <item>Living conditions</item>
+                        <item>Disease</item>
+                        <item>Food</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="abstract">
+                <pb ref="arm03040017001" seq="01"/>
+                <list>
+                    <item>Smallpox scare.</item>
+                    <item>School closes sooner than planned with program.</item>
+                </list>
+            </div1>
+            <div1 type="letter">
+                <pb ref="arm03040017002" seq="02"/>
+                <head>
+                    <date value="1920-03-25">Mar. 25, 1920</date>
+                </head>
+                <p><del>
+                    Dearest Family: A <hi1 rend="underscore">long</hi1> letter from Jane Monday and another yesterday (Wednesday) so feel
+                    quite pleased and especially glad to hear about the skirt - Bessie is a <hi1 rend="underscore">dear</hi1> to do
+                    it &amp; hope she remembers that I&apos;ve <hi1 rend="underscore">gained</hi1> about <hi1 rend="underscore">15</hi1>
+                    <abbr expan="pounds">lbs</abbr>! Such a sadness comes over my spirits when I stand before a mirror or put on my
+                    blue crepe dechine or that little gray wash dress - in fact everything fits <hi1 rend="underscore">very</hi1>
+                    snugly except my sweater &amp; that fortunately can expand even as I do - It will take at least a week
+                </del><pb ref="arm03040017003" seq="03"></pb><del> for the package to come through so perhaps you better mail it to Mrs. E. A. 
+                    Helmick - 3750 Oliver St. N. W. Wash. D.C. That is if it won&apos;t have plenty of time to get here by 
+                    <abbr expan="April">Apr</abbr> 3 - (<abbr expan="Saturday">Sat</abbr>.) for I expect to leave Monday morning 
+                    <abbr expan="April">Apr</abbr> 5 - before the mail gets in - But these directions are no doubt useless for perhaps
+                    by this time the skirt is on its way - It is perfectly lovely of you Jane to make me a present of it &amp; I will
+                    accept it &amp; hope to get even with you soon. Am glad I did not get it last year for now it will be nice
+                </del><pb ref="arm03040017004" seq="04"></pb><del> and fresh &amp; anyway would have been too tight. Am glad pa is so well &amp; 
+                    that you have both enjoyed your work. Hope my Sunday letter will stir you up to coming east. As to money I have 
+                    about two hundred dollars which I hope will suffice until after the D.A.R. - If not will write to you for the 
+                    <hi1 rend="underscore">loan</hi1> of some but hope it won&apos;t be necessary - </del>
+                </p>
+                <p>
+                    It is a wonderful morning &amp; here I am writing you peacefully in my room - Don&apos;t you wonder why I&apos;m
+                    not at school? Well school closed yesterday for like you we have smallpox in our midst - Last Saturday it was
+                    rumored that Ephraim Ogle (Charlie&apos;s father) had it but you know doctors are not always certain about the
+                    disease - sometimes getting it confused with measles - so we just wondered about it &amp; went along as usual - 
+                    People went to see him - Charlie kept the store open until Monday night when he closed it &amp; it was known for
+                    certain that smallpox was the disease - So many have been exposed that we wondered about going on with school &amp;
+                    finally decided to do so. Then Dr. Massy came up yesterday <abbr expan="morning">a.m.</abbr> &amp; thought we 
+                    ought to close and not give the exercises to a crowd as <pb ref="arm03040017005" seq="05" n="2"></pb> we had planned - He
+                    thinks that smallpox may have been in the soldiers clothes that have been sold here. So at noon yesterday was
+                    great excitement - We decided to go through the program just by ourselves &amp; get together our stage properties 
+                    etc. Decorated a little &amp; by 2 the thing was in full swing - no guests of course - Had school magazine - songs
+                    by Emily&apos;s primary class - Mother Goose Play by Abbie&apos;s - my Japanese lantern drill &amp; then the play - 
+                    Bunch of Roses - It went off well &amp; we were pleased &amp; so were the youngsters tho <pb ref="arm03040017006" seq="06"></pb>
+                    at first peeved - Emily &amp; Mr. <abbr expan="Creswell">C.</abbr> left about four &amp; Abby went down with Dr.
+                    Massy last night - So Evelyn &amp; I are left with Mrs. <abbr expan="Proffitt">P.</abbr> &amp; Aunt 
+                    <abbr expan="Lizzie">L.</abbr> - a Pi Phi Miss Turnbull visited us arriving Tuesday noon and leaving after dinner 
+                    today. Since I began this have taken a walk with her up to Tom <sic corr="Campbell&apos;">Camel&apos;</sic>&apos;s - Last 
+                    night we went up <sic corr="Baskins">Baskin&apos;s</sic> - She thinks everything very picturesque &amp; was quite
+                    appalled with the inside of the <sic corr="Campbell">Camel</sic> house - the way they live - their daughter etc.
+                </p>
+                <p>
+                    Monday we all went over to the hotel where we had a wond-<pb ref="arm03040017007" seq="07"></pb>erfully grand dinner - 
+                    chicken lemon pie etc. Mrs. Huff was there too. As to the smallpox Dr. <abbr expan="Massy">M.</abbr> said it was
+                    perfectly all right for me to stay here a week - I wondered if we would all be quarantined - He said he&apos;d 
+                    see that I got out all right if that were done. The days will just fly by I&apos;m sure - am going to make some
+                    combinations mend - pack - visit - 
+                </p>
+                <p>
+                    Friday <abbr expan="morning">a.m.</abbr> Am so sorry I didn&apos;t get the chance to send this off by yesterday&apos;s
+                    mail. The newspapers came yesterday &amp; the clippings which were very interesting - Some of the churches are
+                    beginning to realize that healing today should be as possible as <del>in the times of the writings
+                    of the the Old &amp; New Testament. As long as my movements seem so uncertain think I&apos;ll have my Science
+                    literature sent home until I get settled in my mind just where I will be - Felt just like giving up everything
+                    when Emily left Wednesday - Do you wonder?</del>
+                </p>
+                <p>
+                    A terrible wind &amp; rainstorm descended on us last night but it is &quot;brite &amp; fair&quot; this
+                    <abbr expan="morning">a.m.</abbr> Evelyn leaves this <abbr expan="afternoon">p.m.</abbr> Everyone is beginning to 
+                    work outside in the fields now getting the ground ready for crops - 
+                </p>
+                <p>
+                    Wonder isfthe smallpox excitement with you has subsided? I know you do not think much of vaccination but am 
+                    going to send you this clipping anyway.
+                </p>
+                <!-- Pages missing bds -->
+            </div1>
+        </body>
+    </text>
+</TEI.2>

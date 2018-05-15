@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xslt" href="../../frameworks/tei/xsl/html/teihtml-teic.xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "M:\Transcription\DTD\arrowmont.dtd">
+<TEI.2 id="arm03030014000">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Letter]  Nov. 9, 1919, [Gatlinburg, Tennessee to] family</title>
+				<author>
+					<name>Sturley, Ruth</name>
+				</author>
+				<respStmt>
+					<resp>Responsible for machine-readable version</resp>
+					<name>Lepczyk, Tim</name>
+					<name>Dyson-Smith, Bridger</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Arrowmont School of Arts and Crafts, Archives Collection</publisher>
+				<pubPlace>Gatlinburg, Tennessee</pubPlace>
+				<address>
+					<addrLine>Arrowmont School of Arts and Crafts
+                    </addrLine>
+					<addrLine>556 Parkway
+                    </addrLine>
+					<addrLine>PO Box 567
+                    </addrLine>
+					<addrLine>Gatlinburg, TN 37738
+                    </addrLine>
+				</address>
+				<date>2006</date>
+				<idno type="SPCID">arm03030014000</idno>
+				<availability>
+					<p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- sourceDesc describes analog material, NOT the collection from which the letter was taken.  http://www.tei-c.org/P4X/HD.html#HD3 -->
+				<bibl>
+					<title>[Letter]  Nov. 9, 1919, [Gatlinburg, Tennessee to] family</title>
+					<date value="1919-11-09">Nov. 9, 1919</date>
+					<author>
+						<name>Sturley, Ruth</name>
+					</author>
+					<extent>7p</extent>
+					<note type="summary">Red Cross Meeting - Details of interruptions that break into our schedule</note>
+					<note type="box">3</note>
+					<note type="folder">3</note>
+					<note type="document">arm03030014000</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Created for the University of Tennessee Digital Library</p>
+			</projectDesc>
+		<editorialDecl n="3"></editorialDecl>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>Local Subject Headings</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Living conditions</item>
+						<item>People</item>
+						<item>Social life</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="abstract">
+				<pb ref="arm03030014001" seq="01"/>
+				<p>
+					<list>
+						<item>Red Cross Meeting</item>
+						<item>Details of interruptions that break into our schedule</item>
+					</list>
+				</p>
+			</div1>
+			<div1 type="letter">
+				<pb ref="arm03030014002" seq="02"/>
+				<head>
+					<date value="1919-11-09">Nov. 9, 1919</date>
+				</head>
+				<p>
+                   Dearest Jane - Sunday afternoon and a beautiful day though cold enough in the house to make a furnace fire desirable - Our little
+                    frosty spell is over and yesterday <abbr expan="afternoon">p.m.</abbr> it tried to get warm and rainy again. Wonder what you are all
+                    doing today. Picture you enjoying a ride somewhere. Do you suppose I&apos;ll remember how to drive? At last the baskets are
+                    ready to send - so you may expect them about the time this letter arrives. The big one is not strong enough to go through the mail
+                    like the others so put it in the box with a small one as the sack was not large enough for the three small ones together as I first
+                    expected to send them. Among the newspapers in the box you will find a few sweet peppers they look like ours only are not
+                    peppery. We cut some &amp; ate with <pb ref="arm03030014003" seq="03"/> rice and gravy for dinner today. I have seen them as yellow
+                    as can be but could not get them to send you - nor have I been able to get the October beans &amp; the persimmons they say are
+                    too soft to send. Have you even eaten them? Funny little things! The big basket is yours &amp; the other Nellie&apos;s while in the 
+                    sack is one for Jo &amp; Mabel. Hope they suit. I like them very much especially yours Jane - Am sending <add place="supralinear">the</add>
+                    small kind to Aunt <unclear reason="illegible" resp="bds">Lottie</unclear> - Aunt Carrie &amp; Charlotte &amp; want a couple
+                    more for Maudie &amp; Fannie. These are about all I can do for Christmas presents except the immediate family.
+                </p>
+				<p>
+                    I wonder if you would just as soon call up Miss <unclear reason="illegible" resp="bds">Lathrop</unclear> or <pb ref="arm03030014004" seq="04"/>
+                    have Nellie K. <!-- Unknow name bds --> do it &amp; find out where she got the paint for our wooden toys two years ago. It was a 
+                    powder which we mixed with water &amp; glue &amp; which we have not been able to get in Knoxville. Ask her what Chicago firm
+                    or some other place near us would have it? Whether a school supply house or regular paint store.
+                </p>
+				<p>
+                    Since writing you <abbr expan="Wednesday">Wed</abbr>
+					<abbr expan="evening">eve.</abbr> have not done anything of note. Darned - 
+                    looked over my papers &amp; prepared lessons - visited with Miss Langmaid &amp; fussed around generally. Dr. Massey blew in
+                    Friday &amp; brought along a grand beef roast. Evelyn always cuts off a few slices to fry for supper when he brings one - The Red 
+                    Cross meeting was at 6:30 so we went over with our lamps as usual - Some of the young people came &amp; only a few - very few
+                    of the older - I had taken down the big map and put up the Red Cross posters that Charlotte sent - they came just at the right time and
+                    look very pretty. My <unclear reason="illegible" resp="bds">photogravers</unclear> look very nice too - on the piano have one of the 
+                    baskets filled with hemlock branches while on a flower stand below my little silk flag is another with pine branches &amp; cones. Across
+                     the panels at the back are pages of thin writing and printing. We had expected a speaker from Sevierville but they phoned up that the
+                    roads were too bad &amp; though told it was possible for a car to get through now - no one arrived. Evelyn &amp; Miss Langmaid
+                    talked some - also an ex-soldier Charlie Clabo - then we sang &amp; sang &amp; that finished it. <pb ref="arm03030014005" seq="05"/>
+				</p>
+				<p>
+                   Yesterday was a busy day - We (Emily &amp; I) did our sweeping right after breakfast - I packed up the baskets too - fixed my room - 
+                    got some films ready to send off - another mean little job - made the war cake &amp; cleaned up myself. Aunt Lizzie didn&apos;t feel
+                    good &amp; went to bed before supper - Mrs. Proffitt was over as Mr. <abbr expan="Cresswell">C.</abbr> &amp; Abbie both went
+                    home this weekend. Mrs. Huff &amp; Stella came over with some friends of their from Knoxville a Mrs. <unclear reason="illegible" resp="bds">
+                        Borlin</unclear> &amp; her daughter. Emily &amp; I are going to try to go over to Huff&apos;s some night this week &amp; stay.
+                    She has been wanting us to do it for a long time &amp; we had <pb ref="arm03030014006" seq="06"/> planned to go last night if these 
+                    friends hadn&apos;t arrived. So many interruptions all day long here - a Mrs McCarter came before breakfast to have Evelyn call up
+                    Knoxville General Hospital to find out about her son <unclear reason="illegible" resp="bds">Arlie</unclear> (had him in school a
+                    little while) whose hand had been hurt. Far a wonder she was able to get a message through &amp; then had to write a letter for her - 
+                    (she can&apos;t read nor write). Then a Mr. Jerry Whaley came to have a message sent - Richard Ogle came to <del>have</del>
+                    make some hearth brooms - Otha Reagan &amp; his father were hauling up our wood - <unclear reason="illegible" resp="bds">
+						<hi1 rend="underscore">Isorie</hi1>
+					</unclear>
+                    came to get rags soap etc. to scrub up the school - etc. etc. There is a great coming &amp; going here. The only place not to be 
+                    interrupted is off in the woods or shut up in your room <pb ref="arm03030014007" seq="07"/> as I am now.
+                </p>
+				<p>
+                    This morning was Sunday School as usual after which Emily &amp; I walked a mile or more up  <abbr expan="Baskins Creek">Baskin&apos;s</abbr>
+                    with the Ogle girls &amp; after much difficulty managed to get away without having to stay to dinner. Wore my new bouquet - which
+                    everyone admired muchly - It is surely awfully cute!  We saw so many butterflies on our walk - think of that!
+                </p>
+				<p>
+                    This is rather a stupid letter I fear but am really rather sleepy for some reason or other &amp; not a bit <unclear reason="illegible" resp="bds">newsy</unclear> - 
+                </p>
+				<p>
+                   Miss Langmaid is very very nice - extremely calm &amp; placid in her way but inexorable too - one would never dream of running in 
+                    opposition to her wishes unless absolutely necessary! She used to have one of Aunt Lizzie&apos;s nieces in school - <hi1 rend="underscore">Exy</hi1>
+                    for short - from <hi1 rend="underscore">Ex&apos;</hi1>
+					<hi1 rend="underscore">a</hi1>
+					<hi1 rend="underscore">mine</hi1>! Think of 
+                    that for a name. The machinery <add place="supralinear">for chair factory</add> &amp; dishes are at Sevierville but not  here yet - the
+                    site for the factory isn&apos;t settled as yet so the machinery doesn&apos;t matter but we do long for our dishes! Evelyn tries to 
+                    find someone <del>to</del> who is coming this way to bring up our stuff rather than make a special trip after it.
+                </p>
+				<p>
+                    Will write again in a day or so - with loads of love to you all as ever - 
+                </p>
+				<p>
+                    Ruth
+                </p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>
