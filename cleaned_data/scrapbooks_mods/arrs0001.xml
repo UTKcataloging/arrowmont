@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Character Studies</title>
+   </titleInfo>
+   <name>
+      <namePart>Chalmers, Marjorie</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+      </role>
+   </name>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of
+            Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" point="start" keyDate="yes">1941</dateCreated>
+   </originInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not
+            Evaluated</accessCondition>
+   <abstract>Scrapbook compiled by and lettered by Marjorie Chalmers, R. N. in 1941.  Contains 12 photographs by Dorothy J. MacLean, P. S. Q.  Several copies of the scrapbook were made and distributed among Pi Beta Phi Fraternity for Women chapters across the country.  Promoted the work of the Pi Beta Phi Settlement School in Gatlinburg, Tennessee.</abstract>
+   <subject authority="local">
+      <topic>Handicraft.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>People.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Health care.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Community.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Pi Beta Phi Settlement School.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964.</topic>
+   </subject>
+   <subject authority="local">
+      <geographic>Gatlinburg, Tennessee.</geographic>
+   </subject>
+   <identifier type="local">TU:DLC:Filename:arrs0001</identifier>
+   <location>
+      <physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+      <physicalLocation displayLabel="Repository">Arrowmont School of Arts and Crafts</physicalLocation>
+      <physicalLocation displayLabel="Detailed Location">Box 73.</physicalLocation>
+      <physicalLocation displayLabel="City">Gatlinburg</physicalLocation>
+      <physicalLocation displayLabel="State">Tennessee</physicalLocation>
+   </location>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <typeOfResource>still image</typeOfResource>
+   <genre authority="lctgm"
+          valueURI="http://www.loc.gov/pictures/item/tgm009266/">scrapbooks</genre>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>From Pi Beta Phi to Arrowmont</title>
+      </titleInfo>
+   </relatedItem>
+   <note displayLabel="Project Part">Arrowmont Scrapbooks</note>
+</mods>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Rosemary Moorehead Scrapbook</title>
+   </titleInfo>
+   <name>
+      <namePart>Moorehead, Rosemary</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+      </role>
+   </name>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of
+            Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" point="start" keyDate="yes">1936-11-07</dateCreated>
+   </originInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not
+            Evaluated</accessCondition>
+   <abstract>This scrapbook was compiled by Pi Beta Phi Rosemary Moorehead, a Decatur, Illinois native and James Milliken University graduate.  The scrapbook is dated November 11th, 1936 and is comprised of 118 images.  Rosemary Moorehead taught 5th and 6th grades at the Pi Beta Phi Settlement School between the years 1935 and 1937.</abstract>
+   <subject authority="local">
+      <topic>Students.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Education.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943.</topic>
+   </subject>
+   <identifier type="local">TU:DLC:Filename:arrs0002</identifier>
+   <location>
+      <physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+      <physicalLocation displayLabel="Repository">Arrowmont School of Arts and Crafts</physicalLocation>
+      <physicalLocation displayLabel="Detailed Location">Box 73.</physicalLocation>
+      <physicalLocation displayLabel="City">Gatlinburg</physicalLocation>
+      <physicalLocation displayLabel="State">Tennessee</physicalLocation>
+   </location>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <typeOfResource>still image</typeOfResource>
+   <genre authority="lctgm"
+          valueURI="http://www.loc.gov/pictures/item/tgm009266/">scrapbooks</genre>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>From Pi Beta Phi to Arrowmont</title>
+      </titleInfo>
+   </relatedItem>
+   <note displayLabel="Project Part">Arrowmont Scrapbooks</note>
+</mods>

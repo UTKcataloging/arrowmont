@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Pi Beta Phi Scrapbook</title>
+   </titleInfo>
+   <name>
+      <namePart>Pi Beta Phi Fraternity</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+      </role>
+   </name>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of
+            Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" point="start" keyDate="yes">1920-1925</dateCreated>
+   </originInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not
+            Evaluated</accessCondition>
+   <abstract>This scrapbook, which was assembled between 1919 and 1925, is currently housed in the archives of the Pi Beta Phi National Headquarters in St. Louis, Missouri.  The book contains twenty-seven images, and was likely sent to Pi Beta Phi Alumnae Clubs as a means of soliciting material support for the fraternity's Gatlinburg Settlement School. </abstract>
+   <subject authority="local">
+      <topic>Pi Beta Phi Fraternity.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>People.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Community.</topic>
+   </subject>
+   <subject authority="local">
+      <topic>Landscape.</topic>
+   </subject>
+   <identifier type="local">TU:DLC:Filename:arrs0004</identifier>
+   <location>
+      <physicalLocation displayLabel="Collection">Archives Collection</physicalLocation>
+      <physicalLocation displayLabel="Repository">Arrowmont School of Arts and Crafts</physicalLocation>
+      <physicalLocation displayLabel="Detailed Location"/>
+      <physicalLocation displayLabel="City">Gatlinburg</physicalLocation>
+      <physicalLocation displayLabel="State">Tennessee</physicalLocation>
+   </location>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <typeOfResource>still image</typeOfResource>
+   <genre authority="lctgm"
+          valueURI="http://www.loc.gov/pictures/item/tgm009266/">scrapbooks</genre>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>From Pi Beta Phi to Arrowmont</title>
+      </titleInfo>
+   </relatedItem>
+   <note displayLabel="Project Part">Arrowmont Scrapbooks</note>
+</mods>
