@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr6740331_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Rauch, Harriet Goodsell</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>May 1951</date>
+		        <idno type="SPCID">arr6740331_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">May 1951</date>, News From Little Pigeon</title>
+                        <author><name>Rauch, Harriet Goodsell</name></author>
+                        <extent>Pages 330-331</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">3</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 67, Number 4 (May 1951), Pages 330-331.</note>
+			<note type="document">arr6740331_0000</note>
+                        <note type="Table Of Contents">Arlie Watson</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Maintenance</item>
+                                <item>Gardens</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr6740331_0001" seq="01" n="330-331  "/>
+       <p>NEWS F OM LITTLE PIGEON Edited by HARRIET GOODSELL RAUCH, Iowa B isummuslW1110.1111111,111.11111.1111113111 ARLIE WATSON `Gardens are not made By singing "oh, how beautiful," And sitting in the shade.' "I can't tell you exact but, if I think right, it'll be twenty-one years in August," Arlie answered when we asked him how long he'd been at the Pi Phi Settlement School. Arlie and Neill were picking some of the spring's first blossoms from the stately tulip tree that stands in the field between his cottage and Teacher's Cottage. "I'm sure glad these have come out. Miss Dyer can fix them with laurel for the Committee to enjoy. Miss Dyer's as nice a woman as I've ever worked for," said Arlie. He clipped a few more of the beautiful blossoms and went on, "it used to scare me plumb to death when the Committee'd come but it just seems like home now." It most assuredly wouldn't seem like home to the Committee if Arlie weren't there to welcome us with his fine, generous smile. Arlie was raised at Cartertown and walked two-and-one-half miles every day to attend our school. In 1915 and 1916 he went to war and when he came back, he married Josie Watson. She had gone to school with him and will be remembered by Pi Phis as the convention weaver for Arrow Craft at the Swampscott convention. Arlie came to the Settlement School as farm, garden, maintenance man. Through the years he has seen the elementary and high schools outgrow their buildings. He remembers when the now replaced old elementary school and Teacher's Cottage (which needs to be replaced) were the finest buildings in. Gatlinburg. He told us: "We all had to come in and see every-thing in them. It was the first time I'd seen a furnace and the foundation of the house and the basement was the first concrete I'd seen in Gatlinburg. It seems funny now but when I had time I liked to sit on the porch of that new school. It was so nice." It was not too many years until Arlie found himself getting up at five o'clock every morning to fire seven furnaces for the Pi Phis along with his many other tasks. He said: "my hardest job was before breakfast in those days." Modern equipment has now relieved him of some of those duties but he told us that he'd gotten up so much at five A.M. and he was so used to it that he still can't sleep past that hour in the mornings. Arlie's and Josie's children attended the Pi Phi schools. The years sped by and after the second World War, their son, Neill, came to work for the Pi Phis, too. Arlie said that it wasn't his idea but he was so glad that Neill came. After graduating from high school, the 330 THE MAY ARROW 331 A scene of home, among Great Smoky splendor Watson's daughter, Lois became one of the most capable workers at Arrow Craft shop. Lois and her husband are living in Knoxville now while he is getting his degree at the University of Tennessee. But furnace-tending is now just a routine job at Little Pigeon. The vegetable gardens that supply vegetables for the dormitory and staff tables must be planted and tended. There are flower gardens to add to the beauty along the paths and fruit trees and berry bushes take time and care. Old and damaged trees must be taken out and the wood cut and neatly piled for fire-place use. Landscape planning requires planting of new shrubs and there are hours and hours and hours of grass-mowing. Preacher Watson, no kin of Arlie's, came to the Settlement School two years ago and is an able worker. He has charge of the chickens (The hens have been living so contentedly in their new University-of-Tennessee-approved hen house that they have broken all previous egg-laying records this year). Mr. Watson cares for the other livestock and assists Arlie and Neill in their work. Every order from Arrow Craft for Alumnre clubs and active chapters must be taken bytruck to the nearest railway station. Arlie and Neill load the Pi Phi truck and drive the ship ments to the Sevierville station. As every house holder knows, there is always a little repair work or painting to be done. Now and the: fences have to be mended also. The day after school is out the elementar school has to be converted into the dormitor for the Summer Workshop and the high schoo and Voorhees building have to be made reap.{ for the Summer Workshop classes. It is easy understand why Arlie said one day: "I just ne,.t can get caught up." He paused and looked up the Smokies and continued: "Things was pre! tier the way it was when I came here. Oh, I improvement and the good roads and all when I was growing up here the scenery IA ,.L prettier. It was just like nature 'left it." "You know," he told us, "one day a coup of men came along and asked me about ti Settlement School. I told them it was run the sorority, Pi Beta Phi. One of them sa4,1a `yes, he knew about it. He was a Pi Phi himsel He asked me if I was a Pi Phi. I just laugh ' and said: `I reckon I was.' But I thought myself I'd worked here so long I almost like a Pi Phi." </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

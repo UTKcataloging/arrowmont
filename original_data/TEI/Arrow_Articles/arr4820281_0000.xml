@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr4820281_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Chronicle of Convention</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>November 1931</date>
+		        <idno type="SPCID">arr4820281_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">November 1931</date>, Chronicle of Convention</title>
+
+                        <extent>Page 281</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">38</note>
+                        <note type="Folder">7</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 48, Number 2 (November 1931), Page 281.</note>
+			<note type="document">arr4820281_0000</note>
+                        <note type="Table Of Contents">The Arrowcraft Exhibit</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Arrowcraft</item>
+                                <item>Handicraft</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr4820281_0001" seq="01" n="280-291  "/>
+       <p>280 The November ARROW New York, exhibit was lovely and was made by their club delegate, Florence E. Ford, in the form of an old map showing the club activities in a very colorful way. Perhaps the most unusual club representation was that brought from Boston by Anna Nickerson, former Grand Vice-president. It was in the form of a wine and blue coverlet on which were the autographs of many Pi Phis prominent in the life of their Fraternity. Press Exhibit IN ORDER to stimulate interest in the possibilities of proper press publicity, the New Jersey Club offered a prize to the chairman of that active chap-ter publicity committee who should pre-sent the best display of pre-Convention news clippings. The exhibits arranged by Arizona .A and Colorado A were particularly good, and the judges, Elizabeth Lathrop Bethell, Mabel Scott Brown, and Anna Robinson Nickerson, with difficulty made their decision in favor of Arizona, but gave honorablemention to the Boulder chapter, whose efforts were exceedingly worth while. Historian and Central 0 ice Exhibits INASMUCH as this was the first Convention held in the East since the Historian's files have been in that locality, the Historian, not to be outdone by the active chapters and alumnae clubs, also brought an "exhibit." Among the valued articles brought were a copy of the very first ARROW, now bound together with adhesive tape, but cherished none the less, several photographs of the Founders, one of which showed them as college girls, a real jeweled I.C. pin, and a gavel which had been treasured by many members of the fraternity before it reached the Historian, as it is associated with Monmouth, being made from the stairway of the main building which has now been replaced. The book in which were recorded the minutes of the first Convention was also on exhibition, and as a more modern feature, the auto-graphed photograph of the portrait of THE ARROWCRAFT ROOM The November ARROW 281 Mrs. Coolidge presented to the White House at the Eastern Conference in 1923 was given a prominent place. It is our hope that all who saw the exhibit carried away with them memories of the successful accomplishments of the past, and a greater appreciation of the true meaning of Pi Beta Phi. Near the Historian's exhibit was that of the Central Office, which included the "Story of Miss Enny Pi Phi," a chart containing copies of all the necessary forms, cards, and blanks used in the records of one member, and also "The History of Pi Phi Bill," which gave the bookkeeping forms used in the office. The Arrowcraft Exhibit THE mystery of it all was that the walls and woodwork were just exactly the right shade of green! How the obliging management of the Berkeley-Carteret knew what color to paint the room which was to house the Settlement School exhibit no one has discovered; yet the pleasing fact remains. This, however, was of minor importance, for the Arrowcraft display would have been exquisite in any setting. Half of it one roomful consisted of the complete furnishings for a bedroom in orchid and green, everything made, of course, by the people of Gatlinburg. Any nearly-married Pi Phi who had not al-ready sunk a fortune in a bedroom suite, seeing this one, must have said, "Wrap it up, LaDelle; I can't be happy till I get it." The bed, the chest of drawers, the dressing table and bench, the split-bottomed rockers, the butterfly table, and the cunning crickets were all early American, fashioned of cherry in the natural finish; and the color scheme of green and orchid, carried out with con-summate skill in quilted counterpane, handwoven drapes, hooked rugs and mats, furnished the daintiest of contrasts. Visitors were keenly interested, we found, in the story of the counterpane. It seems that Grandma Hatcher and her daughter have a monopoly on Arrow-craft quilting, which monopoly is basedupon their unwillingness to produce any but the perfect product. As we looked upon the exquisite example of their work, it seemed incredible that the tiny stitches in the intricate design could have been made by hand. In order to obtain the best results in her quilting, Grandma Hatcher insists upon one particular grade of cotton for the padding, the kind grown on her own plot of ground and carded by her own skillful hands. In this age of much decried mechanical production, could anything be closer to "Mountain Homespun"? Many new patterns in mats, towels, runners, and bags have been developed during the current year, some of them even prettier than the old ones. The Peasant Runner, for instance, with more color than formerly, made those who had purchased the article last year quite envious. And the hand-woven dress materials! Had you seen the soft gray with contrasting border in black and red, the chances are ten to one you'd have bought yourself a birthday present, though the difficulty of deciding between this and the two-tone brown might have proved somewhat of a problem. LaDelle Allen, to whose interest and artistic genius the present-day Arrow-craft is largely due, and who had at infinite pains arranged the display, was kept busy wrapping the purchases which conventioning Pi Phis desired to take with them. As these patrons left the shop, their attention was almost invariably attracted to another exhibit which most appropriately occupied one end of the salesroom: a miniature model of the Settlement School with buildings and meadows, trees, roads, and telegraph poles, even Little Pigeon River, so completely worked out and labelled that, having studied it carefully, one could find her way blindfold about the premises of the real community from which it was modeled. Here it is that the mountain people, with the help of Pi Beta Phi, are creating every day, things of beauty and utility, things that should give pause to us who have all but forgotten how to use our hands. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

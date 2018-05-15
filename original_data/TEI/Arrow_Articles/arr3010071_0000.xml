@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3010071_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Report of Committee on Settlement School July 1912 to July 1913</title>
+                        <author><name>Helmick, Elizabeth A.</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>October 1913</date>
+		        <idno type="SPCID">arr3010071_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">October 1913</date>, Report of Committee on Settlement School July 1912 to July 1913</title>
+                        <author><name>Helmick, Elizabeth A.</name></author>
+                        <extent>Pages 71-73</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">35</note>
+                        <note type="Folder">13</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 30, Number 1 (October 1913), Pages 71-73.</note>
+			<note type="document">arr3010071_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Budget</item>
+                                <item>Funding</item>
+                                <item>Facilities</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3010071_0001" seq="01" n="70-71  "/>
+       <p>70 THE ARROW OF PI BETA PHI ANNUAL REPORT OF EPSILON PROVINCE PRESIDENT July, 1912 to July, 1913 Epsilon Province President submits the following report to the Grand Council of Pi Beta Phi: Epsilon Province has been visited this year from a to z, "a" being Wyoming A and "z" being Texas A. It is a pleasure to mark the progress of the two chapters Wyoming A and Oklahoma A which were installed the same year. At Wyoming the Greek world has formed itself into a club, including fraternity men and women on the faculty. Their motto is: "In times of peace prepare for war," and their purpose is to be ready to meet a hostile faculty or legislature if the necessity should arise. Texas A, together with all Greeks in Texas University under faculty inquisition and legislative probing, is nevertheless continuing to prove herself a help to the faculty and an asset to the university. Colorado B has open rushing to face this fall, and Colorado A a very short rushing season. They are doing some splendid rushing this summer conjointly and with the help of the alumnae of both chapters. The two Colorado chapters were hostesses of our Province reunion. *All the chapters were well represented with the exception of Texas which was handicapped by distance, the imminence of finals and six school days a week. The gathering was most successful from several angles of vision but best of all in convincing the girls that they belong to something more than a local chapter. It has broadened the horizon to the extent of the Province at least, and has brought about thought and consultation and deliberation on the fraternity situation. Each has come to know what other chapters are like and to realize the influence of each on every other. The interchange of ideas and ideals was helpful and the social side very delightful. It was so decidedly worth while that we wish to repeat it every year in the interim of conventions. Respectfully submitted, GERTRUDE FITZ-RANDOLPH CURRENS, Delta Province President. ANNUAL REPORT OF ZETA PROVINCE PRESIDENT July, 1912 to July, 1913 Zeta Province President submits the following report to the Grand Council of Pi Beta Phi: Our chapters on the western coast have peculiar needs. They are so far away from the center of activity that they, at times, feel segregated and alone and find it rather difficult to understand the relationship which ought to exist between themselves and their national organization and between themselves and their alumnae clubs. Chief among these needs are: 1st. That the active chapters meet and work with their alum.nee clubs. 2nd. That the active chapters set aside an hour once a month at their meetings for a talk from some member of their alumnae club. 3rd. That in some way we might give an added incentive for working toward a scholarship. 4th. That each chapter of Zeta Province might own its own home. 5th. That each alumna might become a life subscriber to THE ARRow. 6th. That the girls might learn how to choose the best, most substantial material. During the past year Zeta Province President has been able only to lay out a general plan for this work but she finds among the active and alumnae An illustrated account of this Province reunion will appear in the next ARRow. ANNUAL REPORTS OF COMMITTEES 71 girls everywhere an eagerness and desire for cooperation along the lines of development. The first of these points means that the active girls will realize that their alumnae stand for the real head of their chapter organization. The second means, that if the alumnae can be persuaded to go into the active chapters and give a vital talk once a month on character building or a live talk on our national organization, it will bring both active and alumnae members into closer touch and make the alumnae feel that they, at last, have some real work to do for their fraternity. This plan has been tried with splendid results in one chapter and it is hoped that it may be tried in all in Zeta Province. The third point was partially met by offering a .1) B K, loving cup to each Zeta chapter. Stanford won the cup, last spring, and as two of the chapters are not eligible to '^I:. B K, other scholarship honors in these universities are to be investigated and some adequate offer made to the girls there. The fourth need seems a very vital one on the Pacific Coast where K K r and K A e have been established so much longer than II B D. The building of a home means that a chapter has become an established, substantial,, fixed factor in the college community and California B is profiting by this and with Miss Elma Korbell at its head is building a beautiful home which will place B .1) in a better position to cope with the older, established fraternities in Berkeley. Miss Korbell has shown infinite patience tact and wisdom in her work and has demonstrated to the active girls what it means to have the substantial backing of a real live alumnae club. The fifth point is very important for all our western alumnae in particular need to become informed about the present aims and progress of the fraternity in preparation for a Pacific Coast Convention. The sixth point again brings up the ideas of cooperation between the active and alumnae members all over the state because the older women have mature judgment and can help the girls choose proper material so that each chapter may each year graduate its proper proportion of fine strong girls. It will take time to reach all these needs in the individual chapters and it can only be accomplished by the close cooperation of all members in the work but the work is started and the way is opening for many wonderful things in the future. Respectfully submitted, DAISY D. CARNEY, Zeta Province President. ANNUAL REPORTS OF COMMITTEES REPORT OF COMMITTEE ON SETTLEMENT SCHOOL July, 1912 to July, 1913 The chairman and treasurer of the committee on Settlement School begs leave to submit the following report: The financial condition of the Settlement School was never more satisfactory than at the present time. The keen interest among Pi Phis over the country has been a great stimulus, overbalancing disappointments and failures. If we hadn't had the deep conviction of our Pi Phi duty, in this self-imposed labor of love and service, the discouragements in the early part of our recent visit to the Little Pigeon would have caused our capitulation, and we would have added another tragedy to the lamentable situation in the mountains there. The following is a report of the finances of the Pi Beta Phi Settlement School, at the end of the School year, March 31, 1913: </p>
+      <pb ref="arr3010071_0002" seq="02" n="72-73  "/>
+       <p>72 THE ARROW OF PI BETA PHI RECEIPTS From Mrs. Anna J. Branson, treasurer $2,209.19 " Old Beta Province, after Convention $ 100.00 " Grand Treasurer, Pi Beta Phi 250.00 Interest on deposits, at 4 per cent 55.97 " Pi Phi Alumnae Clubs, as such 300.25 " Pi Phi Active Chapters, as such 152.00 Individual contributions 751.89 1,610.11 Total receipts from all sources $3,819.30 EXPENDITURES Travel Account, Miss Hill, $ 21.51 ,. Miss Gillette 30.40 Miss Miller 49.55 Mrs. Helmick 52.75 School and Cottage Furnishings Neostyle Outfit, for circulars Salary, Miss Hill $240.00 " Miss Gillette 100.00 Teachers Living Expenses Committee's Expenses, which include books, paper, print ing, postage, telegrams, etc Collection on checks out of Chicago Reimbursement, Miss Turner $110.66 Geo. Banta, 1st Committee's bill 19.90 Miss Hill, 1st Committee's bill 37.87 168.43 Balance in Bank, April 1, 1913 2,729.27 3,819.30 Funds deposited as follows: Savings Bank, of Newport R. I $1,009.27 State Bank of Evanston, Ill $1,009.27 Sheridan Savings and Trust Co., Chicago 628.95 $2,729.27 4837 Kenmore Avenue, ELIZABETH A. HELMICK, Chicago, Illinois. Treasurer. Recently, we have paid the $600 for property, and with, all incidental expenses, taken out and gifts added, we have today, August 25, a balance of $2,350 in the bank, and besides annual pledges to the sum of $1,221.50 for running expenses. This is the amount of our resources if not another cent were given this year. We hope to actually double this amount however. Upon the E. E. Ogle property, which hereafter will be known as the Pi Beta Phi School property, we have the three-roomed cottage, which has been used by us since our residence in Gatlinburg. This building can be used as it is for a short time, but will eventually need an additional room or two, a stone foundation and minor repairs. This will cost between $300 and $500. The new school building, for which Mr. and Mrs. Von Hoist have worked out plans, will cost, with a few alterations, it is estimated, at least $3,000, and then there will be the school equipment, upon which it is too early to make an estimate. Our old school house is of good, solid frame, but needs a new stone foundation, righting-up, roofing and other necessary repairs at once. This building will be used in the future in connection with the settlement. These things are the present and most pressing needs, and we want to make our way slowly and substantially and with an idea of permanency. Miss Langmaid arrived at the Pi Phi cottage July 28, and took charge of the school and settlement at once, Miss Ledbetter, her assistant, was delayed by illness, the immediate result of vaccination for typhoid, though she had not been well all summer. During her absence, after the first day, Miss Miller assisted Miss Langmaid with the little ones. On August 12, Helen Bryan, N. Y. Beta, who was visiting in Asheville, C., came over and relieved Miss Miller, who left the same day for her home. Miss Ledbetter arrived on the 14th, but finding that her absence would not embarrass the work, as Miss Bryan was acceptable to Miss Langmaid, she returned home after three days at the cottage, and Miss Bryan was engaged as, the school's assistant 154.21 134.36 47.50 340.00 161.94 80.94 2.65 ANNUAL REPORTS OF COMMITTEES 73 for thecoming year, and has proven herself to be an invaluable, loyal Pi Phi worker. Next, I am obliged to announce to you the resignation of Miss Langmaid, which took effect October first. Mary O. Pollard, Vermont Alpha, succeeds Miss Langmaid. Miss Pollard is a well rounded-out, earnest, talented Pi Phi, big of heart and sympathies, zealous and self-sacrificing, and I feel that we can entrust this important mission to her with perfect confidence that she will also carry with her a lofty, spiritual and Christian grace into the atmosphere of the school, the cottage and Gatlinburg. As this goes to press, Miss Langmaid writes that the ground for the basement of the new school building will be broken on September 23, and that she had given orders for the lumber to be cut, so that it may be stacked and dried-out for the building. The building will be pushed as fast as possible, and we hope to get into it before the cold blasts of the mountain winter overtake us. We plan for a plain, but substantial and comfortable building. We shall need volunteer teachers after Christmas, when our school will probably increase to over a hundred pupils. Will. not each Pi Phi take this appeal to herself and help the committee. We would be happy if we could make each Pi Phi feel that this school was her work; we ask you to write us if you want information of any kind regarding it; we would be glad of suggestions or recommendations, or even your criticisms, if for the good of the school. We are very much in need of funds for equipment and repairs that should be made, and are anxious to 'arouse in our affluent Pi Phis an interest and pride which will prompt them to give liberally in large sums .to this splendid work which the alumnae have shouldered and pledged themselves to carry on. No purely altruistic work of this kind has ever been undertaken by any fraternity before, and the splendid money support shown by the Gatlinburg people, in their extravagant giving us this fine piece of land, is sufficient evi-' dence of their need and appreciation. It was prompted by the crying need which the people keenly realized since our school had opened their eyes and given them a .vision of the better life within their reach through education. Finally, we own thirty-five acres of land real Pi Phi land a teacher's cottage, and old but useful school building, a barn, a store, several storage and smaller buildings, and an immense amount of faith in the generous support and good willof Pi Phis everywhere. Respectfully submitted, ELIZABETH A. HELm1cK, Chairman. REPORT OF COMMITTEE ON EXTENSION July, 1912 to July, 1913 The chairman of the committee on fraternity extension begs leave to. submit the following report: x. No correspondence has been carried on with petitioning groups in Stetson University, Drury College, or St. Lawrence University, which had applied before this committee was inaugurated. 2. Preliminary preparations were made for the group. in Randolph-Macon Woman's College to petition for a charter. 3. Letters of inquiry have been received from a group at Adelphi College, Brooklyn, N. Y., and from the President of Brenau College, Gainesville, Ga., but no effort was made by them to petition the fraternity. 4. Gamma Phi of the University of Utah and a group, Eta Pi, in Normal College of New York City wrote several letters. Both were sent discouraging </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

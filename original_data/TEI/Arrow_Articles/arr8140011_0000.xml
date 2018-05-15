@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr8140011_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Gordon, Sally Wild</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Summer 1965</date>
+		        <idno type="SPCID">arr8140011_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1965</date>, News from Little Pigeon</title>
+                        <author><name>Gordon, Sally Wild</name></author>
+                        <extent>Pages 10-11</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">41</note>
+                        <note type="Folder">1</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 81, Number 4 (Summer 1965), Pages 10-11.</note>
+			<note type="document">arr8140011_0000</note>
+                        <note type="Table Of Contents">Bell Ledford Mottern Is New Designer at Arrowcraft; Gregg Powers-Virginia Alpha Scholarship Winner; For Pi Phis Who Teach; Summer Craft Workshop Mentioned in February Holiday Magazine</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>The Birth of Arrowmont, Gatlinburg, Tennessee, 1965-1979</item>
+                                <item>Staff</item>
+                                <item>People</item>
+                                <item>Summer craft workshop</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr8140011_0001" seq="01" n="10-11  "/>
+       <p>News from Little Pigeon Bell Ledford Mottern Is New Designer at Arrowcraft Bell Ledford Mottern (Mrs. James T.) from Oak Ridge, Tennessee, is the new weaving designer and supervisor at Arrowcraft Shop in Gatlinburg. The position was developed in 1925 with Wino-gene Redding, who served in this capacity over twenty-two years. Recognition has been given Mrs. Mottern with two one-man shows in Oak Ridge, also in regional shows. Her earlier experience included teaching at Georgetown College and Berea. In recent years she has free-lanced and has taken an active part in the Southern Highland Handicraft Guild. At present Bess is serving as president of the Tennessee Regional Group of the Guild. Mr. Mottern is chemist-supervisor of special analyses in Technical Division of Union Carbide Company. Son, Jim, Jr., is a junior at the University of Tennessee, majoring in Psychology. Bell Ledford Mottern Edited by Sally Wild Gordon, Wisconsin A Gregg Powers Gregg Powers Virginia Alpha Scholarship Winner I do not believe that I could ever forget the wonderful experience that I had at Pi Beta Phi University of Tennessee Craft Workshop in Gatlinburg in the summer of 1964. Pi Beta Phi made this all possible. Being a freshman and a new initiate into the Pi Phi Chapter at the University of South Carolina, I was especially thrilled to receive the news that I had been chosen the Virginia Alpha Scholarship winner. Being able to see first hand the work that Pi Phi has done and is still doing in Gatlinburg and being able to meet many of the wonderful women who run the Settlement School, strengthened my love and admiration for Pi Phi. Then too I was able to meet many Pi Phis my own age and see the different types of girls that make up our national fraternity. The instruction in crafts at Workshop was excel-lent. Nearly anyone could find at least one course that would be of interest. My trouble was that too many of them interested me. I had to narrow it down to two, so I enrolled in poetry and textile de-sign. The credit I received for these two courses was transferable to my own school record. Of course I 10 THE ARROW OF PI BETA PHI was glad to receive the extra credit toward my art major, but even better, I learned too much and had such a good time that I will never forget the month. For Pi Phis Who Teach "Pi Phis who teach in an art or related field can have especially good reasons for attending the Craft Workshop Summer Sessions in Gatlinburg," so writes Helen Moffett Russell, Illinois H, former Settlement school Chairman and home economics teacher in Clayton, Missouri, who attended for graduate credit the Pi Beta Phi University of Tennessee Craft Workshop in 1959 and again in 1964. "Of course, there are people in many other social-educational-service fields for whom art and craft competency plus college credits are essential. They, too, find the Craft Workshop worthwhile, along with individual men and women who want the quality of college-sponsored courses without the responsibility for earning credits. The wonderful feature of the summer Workshop sessions is versatility according to individual needs. "Every Pi Phi probably has a basic desire to visit the fraternity's national philanthropic project in per-son someday. If an active or alumna can make that visit from the inside by working and living on Pi Phi grounds for several weeks as a summer student, the visit is far more meaningful than a few hours spent in looking around the Settlement School. "Most teachers today must consider periodic summer school attendance to maintain or advance their positions, so if you are a Pi Phi teacher with an urge to see for yourself, those available college credits may indeed have appeal. Add the challenge of creative productive work under outstanding instructors, the vacation aspect of the beautiful Great Smoky Mountains environment, and the company of other interested Pi Phis while there, then the total inducement becomes quite attractive. I know, for the reality of two different experiences quite literally ex ed the anticipation. If you teach, do consider experience in 1966." Summer Craft Workshop Mentioned in February "Holiday" Magazine Marion Mueller, Director of the Settle:. School, received many inquiries about the Pi B Phi University of Tennessee Summer Craft ti shop as a result of the article in Holiday M zine telling about the various educational vac., centers. Quoting from this article, "Their app.:, not economic; it is primarily intellectual. They the vacationer the cultivation of learning, creat:. and culture in their diverse forms, in contrast the pursuit of play and pleasure for their own sal,: . Reservations at the Red Barn Many church youth groups have taken advan of the accommodations of the Red Barn to hold, treats over weekends, in addition to many groups k , r Pi Phis. Alabama Alpha Pi Phis were scheduled t , r March 27th and the South Carolina Alphas came *r April 30th. The Carson-Newman Literary Gr,u spent the Easter weekend at the Red Barn. Gifts The Settlement School is very grateful to the Pi Phi Alumnae Clubs and Chapters, a% well as to the many interested friends through. out the country who have been so generous with gifts, especially at the Holiday Season The demands on the Settlement School are continuous. Clothing is always put to good use, gifts of all sorts are most welcome, includ ing trading stamps and even its equivalent money. Short Workshop Session The short session of the 1965 Pi Beta Phi-University of Tennessee Craft Workshop at Gatlinburg, Tennessee, will begin on July 19 and run through July 23. Cost for this session (room, board and tuition) is from $51.00 to $55.00 For further information on this short session write: CRAFT WORKSHOP Pi Beta Phi Settlement School Gatlinburg, Tennessee </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

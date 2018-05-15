@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr6820133_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Rauch, Harriet Goodsell </name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>December 1951</date>
+		        <idno type="SPCID">arr6820133_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">December 1951</date>, News From Little Pigeon</title>
+                        <author><name>Rauch, Harriet Goodsell </name></author>
+                        <extent>Pages 132-134</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">4</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 68, Number 2 (December 1951), Pages 132-134.</note>
+			<note type="document">arr6820133_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>People</item>
+                                <item>Conferences</item>
+                                <item>Staff</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr6820133_0001" seq="01" n="132-133  "/>
+       <p>Settlement School Committee: First row: Ruth Smith, Moore, Gibson. Standing, Ethel Smith. (Rauch not present) lement School Staff: First row: Snow, r, Chalmers. Second row: McMorrow, ps, Hansen. NEWS FROM LITTLE PIGEON Edited by HARRIET GOODSELL RAUCH, Iowa B "Going around those bases in the ninth inning, I just couldn't believe what was happening to me. It felt as if I was actually living one of those middle-of-the-night dreams. You know, everything was hazy. I heard yells . I saw paper flying . . . I noticed people jumping in the air but through it all, I just kept riding high on that cloud." These poetic lines were spoken by Bobby Thomson after he made the three-run homer that cinched the pennant for the Giants in the play-off for the 1951 pennant race. On the same day that the Giants won the pennant, news from Gatlinburg, Tennessee was taking front page space in the newspapers throughout the country and when Pi Beta Phi's May L. Keller picked up her newspaper and read about the 43rd Annual Governor's convention in Gatlinburg, she might have thought back and said: "It seems like one of those middle-of-the-night dreams." It does indeed seem like a "fur piece" from the time (39 years ago) when she first traveled into Gatlinburg over the muddy, bumpy, rutted roads to choose the community best suited to receive the benefits that Pi Phi could bring. Long before the opening of the Great Smoky National Park which brought the tourist business to the Gatlinburg area, Pi Phi through the founding of.its Settlement School had helped bring to the Mountain people of Eastern Tennessee a nation-wide reputation for beautiful weaving and had found a market for these hand-crafts. Moreover, Pi Phi stimulated a national interest in these people of the South and, as the years have passed, has helped preserve their finest fraditions. This last September came in at Gatlinburg with a flash flood. Ten inches of rain fell in one hour in a section of the Park which sent a wall of water down Little River and Little Pigeon River. The road over the mountains was closed for eight days and shops and motor courts and the Greystone hotel had varying degrees of flood damage. All of this came about as 'Gatlinburg was starting its clean-up and polishing campaign in honor of the Governors' visit. Ruth Dyer, our director at the Settlement School, wrote in her September letter: "Now the preparations are getting the finishing touches. A big banner now hangs at the Grey-stone welcoming the Governors to `Gatlinburg and Your Smokies.' Seventy Iris-colored Ford cars have been donated for the use of the Governors and the Press. Each car has a special license plate giving the name of the Governor and his state or the name of the Press, etc. Over a hundred State Highway patrolmen are here to drive the cars. Next week the playground back of Arrowcraft shop is to be used for parking purposes and a Local Craftsman's Show is going to be held on the Pi Phi property between the shop and Health Center. The exhibits will be set up in the two, front rooms of Health Center and tents for demonstrators backed against our hedge. In front of the tents colorful umbrellas are set and next to the walk there are five large black silhouettes of craftsmen at work. All of this makes an eye-catching display and `front' for the Fair which is to be purely an entertainment and educational feature. Our men have worked very hard to have the whole place looking very nice. Arlie even got the fence along the lane fixed with rails at top and bottom. Arrowcraft shop is in readiness with decorations of colored leaves and autumn fruits." Most of us probably don't picture the Governors as athletic visitors this trip walking with aching muscles and sunburnt noses but maybe all of them won't have to spend the entire time around conference tables in the hotels and can pause long enough to see the beauty of the area up Baskin's Way, some of the lush autumn coloring in the stretches of the forest or take a glance now and then at Mount LeConte with its wooded crown. The sportsmen in the group could return in the spring to see the trout jump quick. The Settlement School had many visitors during Governor's week but there are always visitors. Last January, Miss Mary Bash, Dean of Women at Oregon State College, wrote to Miss Onken about a young woman, Aida Fabriero, who had come to Oregon State from the Philippine Islands to take graduate work in Home Economics. Miss Fabriero had a position of considerable prominence and authority in the Government Home Extension work in the Islands. Her specialty is weaving and she is an artist with imagination and ability in adapting whatever she finds for the solution of her prob 133 </p>
+      <pb ref="arr6820133_0002" seq="02" n="134-135  "/>
+       <p>34 THE DECEMBER ARROW Among the wives of Governors in attendance at the Conference in Gatlinburg was Grace Edgington Jordan, Oregon Alpha, wife of Governor Jordan of Idaho. No picture of her available sorry! ems. For example, she sent back to the Islands or a packet of native grasses and combined hem with material of western manufacture into nost intriguing designs. Since Miss Fabriero's vork in the Islands is similar to that being done n Gatlinburg, Miss Bash was most eager to lave her see the Settlement School. While Miss Sash was pondering `ways and means,' news :ame that the government would provide just uch a trip for Miss Fabriero before her return o the Islands. Last June Miss Fabriero wrote to vliss Onken from Gatlinburg: "It is indeed a )rivilege and a pleasure to visit this school and te its wonderful undertakings of significant ielp to needy families especially. I highly ap-)reciate your giving me this opportunity and vish to congratulate the Pi Beta Phi for such Ln achievement. I am leaving the school after 4veral days of generous hospitality and very Drofitable experience to take back to my country." And so does the influence of the Settlement School spread to far corners. While many Pi Phis were enjoying drowsy summer days, the Pi Beta Phi-University of Tennessee Workshop was having its most successful season both in number of students and quality of the work. Staff and student body rep-resented twenty-six states and there were five Pi Phi students this year. Many of the students spoke of their appreciation to the fraternity for creating, developing and maintaining such a project. But during a Governor's Convention, Summer Workshop, Fairs, through the four seasons of the year the steady march of weavers in and out of Arrowcraft Shop continues. Shipping for the fall season is in full swing in July and August. Mrs. Snow makes out the new price list. Many Pi Phi visitors stop to see the shop and tarry to purchase. All Pi Phis can be proud of the school-healthcraft work at the Settlement School. Our 39 years must seem like a dream to many of the Pi Phis and staff who have given their help and time to the project. A Pi Phi can say with Bobby Thomson: "I hope this cloud I'm on never gets to a landing field." Let's not retire the side! -3 Wisdom Means Discrimination DISCRIMINATION was said by Gautama Buddha to be the greatest essential human virtue. Truly it is a blessing a blessing that is also in harmony with Judeo-Christian ideals. It is neces-;ary to progress and to the advancement of civilization. Many of the leading problems of our day, I believe, stem from a thought-disease about dis-:rimination. It is well known that discrimination has come to be widely scorned. And politicians :lave teamed up with those who scorn it, to pass laws against it as though morals can be manu-Eactured by the pen of a legislator and the gun of a policeman. What is this thing, this discrimination, which has become so widely dubbed as an evil? Discrimination is the exercise of choice. It necessarily arises from knowledge and wisdom. And the greater the knowledge and wisdom, the higher the degree of discrimination. Visualize a person who can discriminate nothing. He would be as a stone! He, would have no capacity for :hoice, no ability to guide any of his own affairs or to be in any degree his own master through ;elf-controlled and independent acts. He would be utterly and wholly dependent, if indeed he could Eive. He would be as much the slave of others as is a stone the slave of the winds, the floods, and :hemical changes incapable of any selective control of his place in the universe. From In Brief" Issued by Foundation for Economic Education. ---3 We don't need a `century of the common man'; we have it already. What we need, and what a humanistic, non-utilitarian education will foster, is a century of the individual man. Democracy, though slowly attained and never by revolutionary jumps, is the best government on earth when it tries to make ALL its citizens aristocrats. But not when it guillotines whoever is individual, superior, or just different." PETER VIERBECK. ]fib PHI PERSONALITIES Margaret Gessner Twyman, Illinois B A, of Milwaukee, Wis., in September became the administrator of the Association of the Junior Leagues of America, Inc., with headquarters in the Hotel Waldorf-Astoria, New York City. The association is made up of 176 Junior Leagues in cities of the United States, Canada, Mexico and Hawaii. Margaret Gessner Twyman, Illinois B A The Association acts in an advisory capacity to the 176 Junior Leagues. As Administrator, Mrs. Twyman has charge of an executive and clerical staff of forty. The staff services include field trips for which she will plan schedules in addition to the usual duties of an administrator. She will work closely with the Board of 17 members and guide the work of the staff in carrying out the business of the organization. She was formerly Dean of Women at Texas Tech, Lubbock, Texas. A QUEEN OF QUEENS Last New Year's Day Eleanor Payne reigned as the lovely Queen of the Pasadena Tournament of Roses, in ermine robe, white satin gown, glittering crown, borne on her royal float in the great Rose Parade today Eleanor is an equally lovely Pi Phi pledge in Oregon Gamma chapter. Her mother is Majel Kipp Payne, Utah Eleanor Payne, Oregon r, being crowned Queen of Tournament of Roses Alpha, formerly of Salt Lake City, now of Pasadena. , PI PHIS IN MISS AMERICA CONTEST Carol Mitchell, senior at Indiana University, gave her friends a thrill by winning the title of "Miss Indiana of 1952" then running a close second to "Miss Utah," Calleen Hutchins, whc was crowned "Miss America," September 8 in Atlantic City, New Jersey. The popular Miss Indiana and her official chaperone, Mrs. Carl Bendier, visited New York City for two and a half weeks to fulfill audi tions for broadway shows, appearances on the Stork 'Club T.V. show, and Ken Murray' T.V. Show, and film interviews for screen tests. Upon return to the I. U. campus the Pi Bet Phis welcomed Carol with a banner adorning the front of the house saying "Welcome Holm Carol" after which an informal party was held A whirl of photographers and interviews fa 135 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

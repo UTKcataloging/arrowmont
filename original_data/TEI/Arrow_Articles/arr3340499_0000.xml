@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3340499_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Helmick, Elizabeth A.</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>June 1917</date>
+		        <idno type="SPCID">arr3340499_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">April 1917</date>, News from Little Pigeon</title>
+                        <author><name>Helmick, Elizabeth A.</name></author>
+                        <extent>Pages 498-499</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">36</note>
+                        <note type="Folder">5</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 33, Number 4 (June 1917), Pages 498-499.</note>
+			<note type="document">arr3340499_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Teachers</item>
+                                <item>Facilties</item>
+                                <item>Funding</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3340499_0001" seq="01" n="498-499  "/>
+       <p>498 THE ARROW OF PI BETA PHI NEWS FROM LITTLE PIGEON The sixth session of the Pi Beta Phi Settlement School began on August 9, 1916, with Miss Elva Plank, Iowa E, Bloomfield, as business manager at Gatlinburg, and Head Resident; Helen Virginia Ikerd, Indiana B, as Principal ; Helen Weinberg, Illinois A, in charge of the intermediate grades; and Florence Helmick (now of Michigan B), in Julia Barksdale's absence, in charge of the' kindergarten. Margaret Brown, of Berea College, our manual training teacher engaged for the year, reported, but was ill and after a leave for recuperation, resigned. Her successor was not found until November, when Mr. and Mrs. Norman Prickett were engaged. We have in Mr. and Mrs. Prickett two experienced mountain teachers, under whose faithful and efficient leadership the manual training, cooking, sewing, and general settlement work, especially among the boys and girls, have been productive of real lasting results. Julia Barksdale, Michigan B, came in September, and this corps of teachers worked faithfully and with good results until the Christmas holidays. At Christmas, Miss Plank took a month's leave, and almost immediately after her return, the latter part of January, was called home.to the bedside of her sick mother, and was not able to return to the school. On February 9, Helen Ikerd left the settlement to accept a position in her home high school and the school year was finished by Helen Weinberg, Julia Barksdale, Mr. and Mrs. Prickett. Much praise and appreciation is due these young Pi Phis for their zeal and faithful work and management of the school's affairs at 'Gatlinburg during this most trying and disagreeable season of the whole year. With the advent of Mr. and Mrs. Prickett, our settlement work entered upon a field of usefulness not previously enjoyed by our Pi Phis. Because Mr. and Mrs. Prickett were mountain born and bred, with mountain sympathies and education, they were able to get in closer touch with a certain class of recluse and backward people than our more cosmopolitan Pi Phis could hope to do. I have not received the final reports from the settlement school, and cannot give definite figures and facts as to numbers and promotions, and can only say that the school year has been marked by the usual happy and successful results which will always follow earnest and conscientious work among these splendid people of the mountains. The county superintendent reported that the Pi Beta Phi Settlement School was the best in the county. NEWS FROM LITTLE PIGEON 499 Now that the new residence houses the teaching staff, the Pi Phi cottage is available for the proposed Jennie Nicol Memorial Hospital. The Founders and generous friends have given $909.68 to this under-taking, of which $150 has been already paid Steve Wheley for his horse. With the side-saddle Mrs. Gaddis sent us, "Sam" will make a valuable addition to our working family to carry relief and cheer to isolated and far-off homes beyond walking distance. The salary of a nurse, also the furnishings of the men's, the women's, the children's wards, the sun or convalescent room, and $500 toward necessary alterations have been pledged by Pi Phis. It might be well to say here that while this hospital is furnished by Pi Phis, in connection with the settlement school, it was the inspiration and under-taking of our Founders. The funds mentioned above, with very few exceptions, were given by persons especially interested in hospital work or as a memorial, prompted to do so purely by the nature of this work, and it is not planned nor expected to draw funds from the school's treasury. The war agitation has prevented our securing a nurse and now that war is a fact there will be still further delay although we have the necessary funds and the need is an urgent one. The recommendation that clubs work and earn $2.10 per member for the upkeep of the school has proven a good scheme for the club's growth and strength as well as the school's treasury. Concerted work is bound to weld the individuals together and to produce a stronger and more useful organization. It works both ways. Our people are willing to work for all they get if we will but hew to that line and not hurry them, but the methods to accomplish this will have to be simple and slow that they may absorb and assimilate little by little as they live day by day. ELIZABETH HELMICK, Chairman Board of Directors. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

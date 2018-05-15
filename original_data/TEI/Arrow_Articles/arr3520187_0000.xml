@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3520187_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Presentation of Settlement School</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>December 1918</date>
+		        <idno type="SPCID">arr3520187_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">December 1918</date>, Presentation of Settlement School</title>
+
+                        <extent>Pages 186-188</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">36</note>
+                        <note type="Folder">8</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 35, Number 2 (December 1918), Pages 186-188.</note>
+			<note type="document">arr3520187_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Land</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3520187_0001" seq="01" n="186-187  "/>
+       <p>1 86 THE ARROW OF PI BETA PHI evening devoted to historical reminiscences was so unique as to quite meet the requirements of the occasion. For more than two years, Mabel Balch, Vermont, '09, has been at work on The I. C. Sorosis, a historical play in three acts which depicts the birth and vital scenes in the development of Pi Beta Phi. She has been at great pains to collect the facts, and was able to stage and costume the production with the advice and approval of four Founders. The result was delightful and the enthusiasm was so great that provision was made at the closing session of convention to preserve the play in such a form that it can be used by local chapters and clubs for Founders' Day celebrations. Following the play, the four founders were conducted to seats on the platform and each gave a little talk concluding with Mrs. Kilgore whose remarks as follows, "brought down the house" "You scarce expect one of my age To speak in public on the stage jf we chance to fall below-in beauty Rest assured, we are still on duty Your Founders hold their heads on high Because they mother Pi Beta Phi." The chief attraction of convention, according to the unanimous expression of opinion was the presence throughout the week of four of the Founders, Mrs. Libbie Brook-Gaddis, Mrs. Emma Brownlee Kilgore, Mrs. Fannie Whitenack Libby, and Mrs. Ina Smith Soule, whose constant and enthusiastic interest in-every feature of the program was an inspiration. Much of the sweet spirit of the Twenty-fourth s Biennial Convention is due to their gracious presence which everyone felt and acknowledged. It is our dearest hope that they may be with us at the next Convention and bring with them the othei Founders who could not be present this year. PRESENTATION OF SETTLEMENT SCHOOL The four Founders present at Charlevoix selected Mrs. Libbie Brook-Gaddis to be their spokesman on July 4, when the Settlement School was formally presented to them. Mrs. Helmick, as was most appropriate, made the presentation speech in a few brief, extern FOUNDERS AT 1918 CONVENTION Mrs. Gaddes, Mrs. Kilgore, Mrs. Soule, Mrs. Libby CASTE IN THE HISTORICAL PLAY </p>
+      <pb ref="arr3520187_0002" seq="02" n="188-189  "/>
+       <p>188 THE ARROTF' OF PI BETA PHI poraneous sentences which were full of deep feeling and meaning. In response, Mrs. Gaddis spoke as follows: "This is one of the proudest moments in the lives of your Founders. We have watched with great interest the beginning and development of this great undertaking. To you, who have thought out and wrought out the problems of the Settlement School, great credit is due; and you have the heartfelt gratitude of the whole Fraternity. Now that this great work is an accomplished fact we have a right to . a just pride in its success. Our hearts are stirred with deep emotion when we think of your devotion to your Founders, and we want you to know that we fully appreciate the nobility of spirit pervading the whole organization. We_are overwhelmed when we think of the honor you have conferred upon us in permitting the Settlement School to stand as a memorial to your Founders. We have tried to comply with your wishes and we recognize the fact that this deed conveys to the Pi Beta Phi Fraternity-the property held in trust by Mrs. Elizabeth Clark Helmick and Miss Kate Miller for the Settlement School in Gatlinburg, Tenn. We have received the honor of a memorial at your hands, the deed we pass over to the Grand President as the representative of the fraternity, with our hopes and prayers. CONVENTION CONSERVATION The following letter requires a bit of explanation. In June, the elaborate rulings now governing hotel and dining-car service had not been issued by the Food Administration. The advance party of Pi Phis who spent two days at The Inn preceding convention were presented with elaborate menu cards at every meal and were somewhat disturbed at what seemed unnecessary liberality. Accordingly, Miss Keller consulted with the management, assured them that the majority of the guests expected were used to the family style service in vogue in all college dining-rooms and insisted that the hotel try the experiment. The suggestion was followed with some reluctance but before the week was half over the smiling faces of all concerned, chefs, waitresses, management and guests proved its practical value. Mr. Creamer's letter which follows is a sequel to CON F"-E.:(V TR).A.-'COA'S.P:R i'':..1 '/'1(.) ti' 189 FOUNT:UN AT CTIARLEVOIX the many verbal statements of satisfaction which he made at Charlevoix. Mrs. F. A. Rugg, Editor THE Arrow of Pi Beta Phi, Brookline, Mass. Dear Mrs. Rugg: I have so, many pleasant recollections of the Pi Beta Phi meeting held at The Inn this past week, and I shall attempt to convey to you my appreciation of your coming here. I want to congratulate you upon the splendid number of officers and young ladies in attendance, and especially thank you, who ,requested me to serve your meals family style, which eliminated the bill of fare. We were able to prepare our food and serve it to you with the least possible cost. We had no waste. Your cooperation in the conservation of food in all lines, was most gratifying. We have never found such little waste of valuable food stuffs among so large a number of guests of a hotel as occurred during this meeting. It was an advanced idea of the American hotel, and I trust it may be adopted by all the large hotels during the period of the war. I want to thank you again, and hope that it may be my pleasure to entertain you at many of your future meetings. Faithfully yours, A. I. CREAMER, Manager. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

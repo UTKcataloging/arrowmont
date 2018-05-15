@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr6730243_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Rauch, Harriet Goodsell</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>March 1951</date>
+		        <idno type="SPCID">arr6730243_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">March 1951</date>, News From Little Pigeon</title>
+                        <author><name>Rauch, Harriet Goodsell</name></author>
+                        <extent>Pages 242-243</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">3</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 67, Number 3 (March 1951), Pages 242-243.</note>
+			<note type="document">arr6730243_0000</note>
+                        <note type="Table Of Contents">Tina McMorran</note>
+                        <note type="Additional Information">Page 199 is Cover</note>
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Arrowcraft</item>
+                                <item>Weaving</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr6730243_0001" seq="01" n="242-243  "/>
+       <p>NEWS FROM LITTLE PIGEON Edited by HARRIET GOODSELL RAUCH, Iowa B lllll 111111.111:11.111111.1,111111.11111111111 lllll llll TINA MCMORRAN "I commend Tina, McMorran on her exceptional ability, her excellent craftsmanship and her complete understanding of the limitations and possibilities of the medium of weaving. I, therefore, am very proud to recommend without reservation that Tina McMorran be granted the very highest award that one of our craftsmen can attain, namely, that of Master Craftsmen of the Southern Mountains Highland Guild." These were the words spoken by the president of the guild to Tina, our Pi Beta Phi weaving supervisor at the Settlement School, when she received the distinct honor of being chosen a master craftsman, the third craftsman to receive this honor in the history of the organization. Tina was given the award on the basis of her work in design, originality and mastery of techniques. The exhibit that she presented was representative of all types of hand-weaving: lace-weaves, tapestry weaves, rug-weaving and loom-work using the modern metallic threads, glass fibres, nylons and modern linens. She combined linen and metallics. Her lace-weaves were adapted from designs found in the Cathedral of Saint Francis of Assisi and her tapestry weaves from tapestries of the Middle Ages. Techniques were adapted to combine the old and modern as well as the new Swedish techniques. For her tapestries, she used vegetable-dyed yarns. The weft thread was put in from selvedge to selvedge and the color for design was just "laid-in," as she said. Tina likes most to design and weave table linen. Since coming to Arrow Craft, she has created the "Greek-Lace," "Greensboro," and "Pi Phi wine and blue" table linens that Pi Phi clubs and chapters have become acquainted with in their Arrow Craft sales of the past two-andone-half years. When Pi Phis and Pi Phi friends are enjoying the use of the lovely "Greensboro" table mats, runners and napkins, it is interesting to know that this creation of Tina's is the one that took the fourth prize at the International Textile Exhibit at The Woman's College at Greensboro, N.C., over a year ago. In that same exhibit, Tina won a first prize for some drapery material that she had designed in our third Pi Phi Summer Workshop. This drapery materialwas exhibited in the "synthetic division" be-cause it was a combination of nylon, cotton, rayon, and lustrous gold thread contrasted with bleached white chenille. In addition to the new linens that we now have at Arrow Craft, Tina has given us the Smoky Mountain hangings, the loop and braid rugs, the new baby blankets and carriage robes, and the new soft wool dirndl skirts made from the afghan and vegetable-dyed wools formerly used in shawls and scarfs. Tina creates and adapts the new with the old designs and then finds the right weavers for the medium in our Settlement School area. Just as house wives who are cooks do not excel in every type of cookery, so it is in the field of weaving. Some Pi Phi weavers do their best work in linen, some in wool and some of the younger generation in the new materials. Miss Tina finds that her contact with the weavers is one of the most delightful and interesting phases of her work. She makes many, many calls on the weavers and says that it gives her a greater sense of helpfulness and a greater desire to help. She always feels a little apologetic when she makes morning calls but when she steps into the home of a weaver, she works harder to make the weaver more competent to carry on and she is much less impatient with mistakes. When I write to Pi Phis through the ARROW, I do so wish that I could bring to them the real picture of the people who carry on Pi Phi work in Gatlinburg. There are so many facets to the work there, whether administrative through Ruth Dyer, Health Center with Marjorie Chalmers, direction of Arrow Craft with Ethel Snow, or in the field of Design of which I am thinking at the moment. As Tina talked to us about her tapestry weaves and reached for a volume in her library illustrating the adaptation of medieval designs to the techniques of hand-weaving, her sensitive face under her lovely auburn hair was that of an honest and serious scholar. We were interrupted because a mountain woman brought in a finished order of pale yello-w baby blankets. Miss Tina left us and the smile on her face as she met and talked with the weaver was alive with affection and admiration of one talented craftsman for another. The deft mountain woman had learned her craft because the 242 THE MARCH ARROW 243 skill had been handed down to her from a mother or a grand-mother in an Eastern Tennessee mountain cabin. Our talented Tina, the leader and teacher, had developed and enlarged her skills through a background of serious university study. The third Wednesday of every month is set aside as pay-day for the weavers at Arrow Craft and Miss Tina says that she "aims" for two parties a year for the weavers a picnic when spring has settled in the mountains and a Christmas party. It is a week's work to get ready for the Christmas party and we suspect that the Christmas party of 1950 might have taken extra time. It was a combination of the usual Christmas party and a farewell to our Lura Owenby Porter who left Arrow Craft after 16 years of service. Lura went through the Pi Phi school and learned to weave at the school but was seriously interested in weaving because her mother was an Arrow Craft weaver. Lura wove the new drapes in Teachers Cottage this year. This is the third set of drapes woven for Teachers Cottage. Lura was a child when her mother wove the first set of drapes and, when her mother was out, Lura would slip in and seat herself at her mother's loom and weave on the drapes, too. Lura is leaving Arrow Craft to join her chiropractor husband in Mayfield, Kentucky. Theirs was a Gatlinburg grade-school, high-school romance and they were married shortly after he came out of the service after World War Two. Then while he continued his studies, Lura worked at Arrow Craft. Her main job has been the checking in the finished weaving and checking out the thread and yarn. Tina and Lura always call on the weavers together since some of the mountain roads are still almost too desolate and narrow to go down alone. Tina asked Lura once when they were down "Boogertown Way"; "What would you do if you ever met a car on this road ?" Lura said; "I've often wondered myself. On these narrow back-woods roads we still need a team of horses and a rig." The continued friendly relationships between weavers and staff at Arrow Craft have become a closely knit part of the life of both. Besides the continued economic help, there is the cultural help that comes through the flowering of new ideas carried out under the encouragement of our skilled weaving supervisor. With all of her duties, Tina doesn't find much time to sit and work at her loom. When she does, she must think to herself that the words of the Prophet ring truly: "My days are swifter than a weaver's shuttle." The College Year 1949-50 Showed the Greatest Gain for Fraternities-Sororities in Every Respect . . Thirty-two NIC members reported: Total membership 759,311 Members initiated last year 36,166 Active chapters 2,549 Alumni chapters 1,330 Alumni chapters organized this year 106 Chapter houses owned 1,202 Eighteen NPC organizations commented: Total membership 333,702 Members initiated last year 16,675 Active chapters 882 Alumni chapters 1,635 Alumni chapters organized this year 151 Chapter houses owned 311 Twelve PIC members claimed: Total membership 223,721 Members initiated last year 14,542 Active chapters 436 Alumni chapters 289 Alumni chapters organized this year 19 Chapter houses owned 36 Nine honor societies reported: Total membership 280,512 Members initiated last year 21,758 Active chapters 719 Alumni chapters 113 Alumni chapters organized this year 2 Altogether, the record reads: 1,597,246 mem bers ; 89,141 members were initiated last year ; 4,586 active chapters; 3,367 alumni chapters of which 278 were organized this year ; and there are a total of 1,549 chapter houses. From Fraternity Month </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

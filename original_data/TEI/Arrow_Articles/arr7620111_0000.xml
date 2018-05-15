@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7620111_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Finger, Lois Snyder</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Winter 1959</date>
+		        <idno type="SPCID">arr7620111_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1959</date>, News From Little Pigeon</title>
+                        <author><name>Finger, Lois Snyder</name></author>
+                        <extent>Pages 110-113</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">12</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 76, Number 2 (Winter 1959), Pages 110-113.</note>
+			<note type="document">arr7620111_0000</note>
+                        <note type="Table Of Contents">The Red Barn - Before And After</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Facilities</item>
+                                <item>Dormitories</item>
+                                <item>Arrowcraft</item>
+                                <item>Employment</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7620111_0001" seq="01" n="110-111  "/>
+       <p>The Red Barn-after The Red Barn-before Before the native stone fireplace in the second floor lounge, the Owl's Nest. Left to right, Marianne Wild, National Panhellenic Delegate; Alice Weber Mansfield, Grand President; Marion Mueller, Director of Settlement School, and Virginia Brackett Green, former chairman of the Settlement School Committee. ewJ FROM LITTLE PIGEON Edited by Lois Snyder Finger, Iowa Z The Red Barn--713efore And After With tremendous pride in a dream that has be-come a reality, Pi Beta Phi formally dedicated THE RED BARN at the Settlement School in Gatlinburg, Tennessee on June 22, 1959. Present for the ceremony were the members of Grand Council, the Province presidents and Vice-presidents, the Settlement School Committee, representatives from the University of Tennessee, resident members of Pi Beta Phi, and many local friends of the School. Virginia Brackett Green, Settlement School Chair-man, traced the history of the barn and presented the key to the Grand President, Alice Weber Mansfield, who, in turn, gave it into the keeping of Marion Mueller, Director of the Settlement School. A trio composed of Elizabeth Waitt Rue, Majorie Chalmers and Dorothy Manley sang BLESS THIS HOUSE, and the ceremonies were closed with prayer by Lois Summers. In the social hour which followed guests were taken through the building and refreshments were served. The red barn, now completely remodeled and christened THE RED BARN, was built in 1923. It served its purpose then as a model barn where the herd was kept and where boys of the School were taught the care of livestock. It was the home of Lady, the horse which the first Pi Phi nurse, Miss Phyllis Higinbotham, rode far into the hills to serve the mountain people. In the hayloft a new form of education was introduced when the first movies ever shown in the Burg were shown there. It was the site of the first basketball games. It has continued to be of service all through the years, and most recently it has been the winter storage space for the scenery of the Gateway Players, a New York Stock Company which plays in the Pi Phi high school auditorium during the summer months. Now, thanks to the generous bequest of a de-ceased University of Michigan Pi Phi, Joanne King Hempstead, the old red barn begins a new career and a period of new usefulness. It will provide at-tractive and comfortable housing for students who attend the Summer Craft Workshop ; it will make possible a series of special workshops in early spring and late fall; and it will provide housing facilities for those participating in the Craftman's Fair. Pi Phi groups may use it, at a minimum cost, for week-end retreats and it will be open to other organiza-tions that are directly concerned with education in craft arts, fine arts, rehabilitation, teacher training, youth leadership and similar educational areas. Occupants and visitors find The Red Barn a well-planned, modern building with an attractive back-ground for their work and recreation. They enter the inviting CHANTICLEER LOUNGE on the first floor. Designed for small group use, it is furnished with study tables, chairs and lamps. A saucy chanticleer decorates the native wood mantle above a large woodburning fireplace. Nearby is a cleverly enclosed hotel unit of stove, sink and refrigerator to be used for snacks or for informal entertaining. The remainder of the first floor contains three bed rooms with adjoining baths, service closets, other laboratories and a utility room. On the second floor the front half of the hayloft has been retained as it originally was built, with the ceiling extending to the roofline. This spacious lounge fashioned for relaxation and recreation is called THE OWL'S NEST. Three large windows overlook a beautiful valley with its mountain back-drop. Two walls and the adjoining hip roofline are paneled in knotty pine with the old supporting rafters exposed to form an interesting contrast. A huge fireplace of native stone extends to the ceiling and dominates one corner of the lounge. This room seats twenty-five comfortably and it has been known to have over eighty guests at one time without over-crowding. The colorful and attractive furnishings were made possible by a special contribution from the Pi Beta Phi Alum= Club of Pasadena, California. The rear half of the original loft was divided into two floors, and both may be reached from an interior stairwell or from an exterior fire escape. From The Owl's Nest the second floor continues on toward the rear to provide four bedrooms for ten, plus one large multiple bath. The third floor is named THE LITTLE PIGEON LOFT to continue the barn atmosphere, and also to pay respect to the nearby Little Pigeon River. This is a one-room dormitory for twelve, with adjoining multiple bath. The building, in addition to the two fireplaces, is equipped with electrical heating throughout. It is hoped that The Red Barn, Pi Phi's newest and perhaps the most fascinating of its building projects will fulfill the purpose for which it is intended that of widening the scope of the Fraternity's usefulness in educational fields. 111 </p>
+      <pb ref="arr7620111_0002" seq="02" n="112-113  "/>
+       <p>112 THE ARROW OF PI BETA PHI Mr. Warner Ogden wrote in the NEW YORK TIMES of Sunday, May 17, 1959 in a story about the Great Smoky Mountains "Many visitors like to see handicraftmen at work. . . . The annual Craftsman's Fair of the South-ern Highland Handicraft Guild will be held in Gatlinburg July 27-31. The five-day fair will bring together a hundred or more craftsmen from several states. Potters, weavers and spinners, metal workers, enamelists and broom makers . . . will be there to demonstrate and to explain their work. . . A new `red barn' workshop-dormitory is being added to the annual Crafts Workshop at Gatlinburg, June 15-21. The Workshop is sponsored by the Uni credit and honor to the entire fraternity world. Chapter -versity of Tennessee Home Economics Department and the Pi Beta Phi Settlement School at Gatlinburg. The new Workshop quarters is a converted barn. Among the 16 courses will be pottery, metal work, enameling, jewelry, textile and craft design, and weaving. The Workshop each year attracts students from all over the United States and other countries." The October issue of BANTA'S GREEK EX-CHANGE carried a detailed story of Pi Beta Phi's venture in the field of Arts and Crafts, stressing the fact that this venture has resulted in Gatlinburg's rating as an outstanding craft center in the nation. In congratulating Pi Beta Phi, BANTA'S GREEK EXCHANGE believes that this new project brings ''^P' ^Ir -.., . .- -O, At times there is need for a Graduate Student Counselor to guide a new Pi Beta Phi chapter. If any 1959 graduates are interested in this sort of fraternity work, please fill out this blank and mail it to Mrs. William H. Mansfield, #8 Long Meadows, St. Louis 22, Missouri. Name ................... College address Home address Chapter offices held FROM Edited by Mary Elizabeth Lasher Barnette, Ohio A MARION CLAYTON LINK, New York Alpha, Sea Diver, Rinehart and Company, Inc., 333 pp. Who has not known at some time or other the irresistible lure of the treasure hunt? It presents it-self in many a guise: the attic on a rainy day, an antique shop, a shell scattered beach, flecks of gold in a mountain stream. For Marion and Edwin Link it is the treasure left by treasure hunters of the past on the bottom of the ocean. The inventor of the Link trainer and other aids to aviation and his wife are revealed by this book as persons of enthusiasm, energy, and enterprise, who have developed a skin-diving hobby into a program of ocean archaeology of growing historical importance. Fortunately for the reader Mrs. Link is a trained newspaperwoman with the ability to report vividly and meaningfully what she sees and experiences. She is also historian enough to have done the kind of thorough research which gives the discovery of a wrecked ship significance beyond the monetary value of the treasure it carried. A sturdy shrimp trawler, skillfully outfitted by Ed Link with such modern tools as radar, metal detectors, and a sand suction hose, has taken the Links and various amateur and professional scientists on numerous tours of the Florida Keys and the West Indies, with the discovery of an anchor which may mark the wreck of Columbus' Santa Maria being their most romantic achievement to date. The combination of past adventures with present adventuring makes Sea Diver fascinating entertainment. It whets the appetite for future reports of Link expeditions, one of which is currently underway at Port Royal, Jamaica, where the Sea Diver is anchoredover a sunken city. A winter issue of the National Geographic Magazine will report on this exploration which the magazine is sponsoring along with the Links and the Smithsonian Institute. Next year it is to be diving in the old port of Caesarea off the coast of Israel for the Links. There's excitement ahead for them and for Marion Link's reading public. AUTHOR INTEREST : Marion Clayton (Mrs. Edwin A.) Link, New York Alpha, dedicated her book to her husband "who first introduced me to the wonders of forest and sky and sea and now to that new frontier, the bottom of the ocean." Once introduced she became actively interested and a writer of articles in the field of sailing and diving. She has been a newspaperwoman, is the mother of two sons, and, via her latest career, is a member of the Society of Women Geographers. RANDOM NOTES: One of the nation's outstanding professional women, Kansas Alpha's Dr. Leona Baumgartner, Commissioner of Health for New York City, spent five weeks early this year observing medical practices in the Soviet Union. Her report, "A Doctor Diagnoses Soviet Medicine," appeared in a May issue of the New York Times Magazine. In it she discussed the differences she found between the two countries and expressed the belief that with societies so different the variations may well represent what is best for each in its own case. For ex-ample, she found the very young children and government nurseries to be "remarkably healthy and happy" indicating that this system which has net with "almost universal opposition" here is satisfactory for the Russians. ARROWCRAFT NEEDS MANAGER. CAN YOU HELP FIND HER? On January 1, 1960, Elizabeth Rue will retire as manager of Arrowcraft. Somewhere there must be a Pi Phi who is qualified for this position and who would enjoy working with the lovely Arrowcraft products. The beauty of the Smoky Mountains is an additional incentive, not to mention the opportunity of giving service to the philanthropic project of Pi Beta Phi at Gatlinburg, Tennessee. If interested, write to Mrs. Robert R. Russell, 6823 Crest Avenue, University City 30, Missouri, Chairman of the Settlement School Committee. 113 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

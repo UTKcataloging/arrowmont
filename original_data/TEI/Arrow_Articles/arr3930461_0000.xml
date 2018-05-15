@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3930461_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Settlement School Notes</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>March 1923</date>
+		        <idno type="SPCID">arr3930461_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">March 1923</date>, Settlement School Notes</title>
+
+                        <extent>Page 460-462</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">37</note>
+                        <note type="Folder">2</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 39, Number 3 (March 1923), Page 460-462.</note>
+			<note type="document">arr3930461_0000</note>
+                        <note type="Table Of Contents">Settlement School Notes; Book Reviews</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Funding</item>
+                                <item>Southern Appalachian culture</item>
+                                <item>War</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3930461_0001" seq="01" n="460-461  "/>
+       <p>60 THE ARRO.TF OF PI BETA PHI SETTLEMENT SCHOOL NOTES Special attention is called to the Book Reviews in this issue where notice of the volume Sergeant York and His People will be of .tterest to all readers who wish to increase their knowledge of mouna,in conditions. The end of the fiscal year is approaching and all clubs and chapters re reminded that their contributions should be sent promptly in rder to be credited on this year's books. Every year there is much ,urdensome and unnecessary correspondence for our hard-worked reasurer because of misunderstandings caused by delays which reult in substantial sums failing to be credited in the fiscal year in 7hich they were raised. Mrs. Rugg is keeping a file of clippings of all reports of benefits r other meetings held in the interest of our work. Do not fail to end her a marked copy of any publication containing such references our school. Early in the history of our school, a leaflet containing a reading [st on the southern mountaineers compiled by M. Alice Matthews was issued. Only one copy of this valuable leaflet is now in the posession of the Settlement School committee and there is need for ther copies. Anyone having a copy of this leaflet in her posses-ion will confer a favor if she will send it to Mrs. F. A. Rugg, 201 )avis Ave., Brookline, Mass. PANHELLENIC (News of Panhellenic events is always desired by the Editor of THE ARROW. lease do not hesitate to send such material at any time.) The second annual Panhellenic luncheon was held in Boston, anuary 13. Nearly three hundred fraternity women were present epresenting the eighteen N. P. C. fraternities. Pi Beta Phi had he largest delegation of forty-nine members who represented fifteen hapters. BOOK REVIEWS ' 461 BOOK REVIEWS Sergeant York and His People, by Sam K. Cowan. Funk and Wagnalls Company, publishers, 354-360 Fourth Ave., New York, N. Y. Price, $2.00 net. So long as the human race endures, hero stories will be a part of the literature of all languages, and heroes' names will be emblazoned on the records of all nations. From the mountains of Tennessee, from a humble cabin home, came the man who did what Marshall Foch in decorating him said was "the greatest thing accomplished by any private soldier of all the armies in Europe." The author of Sergeant York and His People in describing the volume says: "It is but a story of the strength and simplicity of a man a young man whom the nation has honored for what he has done, with something in it of those who went before and left him as a legacy, the qualities of mind and heart that enabled him to fight his 'fight in the Forest of the Argonne." It is the record of these ancestors, however, and of his contemporaries, friends and neighbors whose lives have influenced young York, which has special interest for Pi Phi readers, for the author pictures a community whose characteristics are similar in many respects to the one which we have made peculiarly our own through our Settlement School. How truly the author understands these people and how sympathetically he portrays them may be suggested from the following paragraphs selected from his pages: "So the mountaineer to-day is the transplanted colonist of the eighteenth century he is the backwoodsman of the days of Andrew Jackson; but his life has the hospitality, the genuineness and simplicity of the pioneer. It has been said of the residents of the Cumberland Mountains that they are the purest Anglo-Saxons to be found to-day and not even England can produce so clear a strain. . They are Anglo-Saxons in their blood and their customs. They are Colonial Americans in their speech and credences. "They know they are not ignorant, except as everyone is ignorant who lacks contacts with new customs and changes in world progress. They are fully cognizant of their lack of that knowledge which `comes out of a book.' But, whatever their educational shortcomings, no one has ever laid at their door the charge of stupidity." </p>
+      <pb ref="arr3930461_0002" seq="02" n="462-463  "/>
+       <p>462 ' THE ARROW OF PI BETA PHI The book will repay the reader both as a story of a remarkable deed of valor and as a record of the characteristics of a body of our own people whose potential power for good in the development of our country is very great. SARAH POMEROY RUGG (Mrs. F. A.), Massachusetts A. A poem by Blanche Bane Kuder (Mrs.), Pennsylvania B, entitled "Reward," appeared in the Woman's Home Companion for September. A review of Mrs. Kuder's collection of poems entitled April Weather appears elsewhere in this issue. "The `Sigmas' of Denver" is the title of an article in a recent issue of the Sigma Chi Quarterly, by Lorena Accola F'itzell (Mrs. Grant R.), Colorado A. "With the publicatidn of The Young Wireless Operator With the Oyster Fleet, Brother Lewis F. Theiss adds another volume to the boys' bookshelf; published by the W. A. Wilde Company, of Boston." Phi Gamma Delta. Mr. Theiss is the husband of Mary Bartol Theiss, Pennsylvania B. In the "History of Alpha Chi Omega," which is in the January number of Banta's Greek Exchange, Sarah Pomeroy Rugg (Mrs. F. A.), reviews the recent history of our sister organization. A poem entitled "Arbutus," written by Mabel Balch, Vermont B, was recently published in The Vermonter. "Why I Don't Buy There" is the title of an article written by Elsa Schlicht Conner (Mrs. James T), Ohio r, for the November number of System. IN MEMORIAM 463 ITT MEMORIAM ROBERTS (Mrs. C. D.), LUCILE SMITH, Missouri r, died August 18, 1922, at the home of her aunt in Kansas City, Mo., following Missouri r in 1918, and a brief illness. She was initiated attended Drury College for three years as an active member of various branches of college and fraternity life. In her sophomore year she was class secretary and the following year she held the office of re-cording secretary in her chapter of IIB'4. Lucile's gift of music and her .winning personality won for her many friends in Spring-field as well as in her college. She specialized in home economics and had planned to become a dietetical nurse, when, in the fall of 1919 her fiance returned from France and per suaded her to give up her studies. On April 28, 1920, she was married to Charles Dewayne Roberts, an ex-captain of the Marines, who won the Croix de Guerre and the Distinguished Service Cross as well as several honorable citations. They made their home in Kansas City for a while, but later moved back to Springfield, where Lucile became an active member of the alumnae club. She was on the advisory board and had charge of rushing. Under her capable guidance the active chapter successfully added many new pledges. Mr. Roberts was, called to Kansas City for a few months this fall on account of business, and, while there,. Lucile suddenly became ill, and, after four days, passed away. In losing her, the fraternity has lost an ardent worker, a loyal -friend, and a true follower of the wine and silver blue. TI B I) extends sincere sympathy to her husband and her parents. into LUCILE SMITH ROBERTS </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

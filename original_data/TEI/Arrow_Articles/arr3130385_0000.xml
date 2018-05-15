@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3130385_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>A Pictorial Visit to Our Settlement School</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>March 1915</date>
+		        <idno type="SPCID">arr3130385_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">March 1915</date>, A Pictorial Visit to Our Settlement School</title>
+
+                        <extent>Pages 384-391</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">36</note>
+                        <note type="Folder">1</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 31, Number 3 (March 1915), Pages 384-391.</note>
+			<note type="document">arr3130385_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Facilities</item>
+                                <item>Students</item>
+                                <item>Teachers</item>
+                                <item>Handicraft</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3130385_0001" seq="01" n="384-385  "/>
+       <p>A PICTORIAL VISIT TO OUR SETT F MENT SCHOOL z ,r) 4.1 cf.) aaSSaNNU1, N SV 1I NI SMaI11 'IVDIdAJ. </p>
+      <pb ref="arr3130385_0002" seq="02" n="386-387  "/>
+       <p>SOME OF OUR PUPILS IN THE HEART OF THE SMOKIES . PI BETA PHI SETTLEMENT SCHOOL---DEDICATED JULY 9, 1914 BUILDING USED FOR THE KINDERGARTEN 1913-14 OLD SCHOOL BUILDING USED 1912-1913-1914 </p>
+      <pb ref="arr3130385_0003" seq="03" n="388-389  "/>
+       <p>~~,~i rf~ // //:,' / //A r i l / o ,"'/' zi-,//'/, v, / 't, r/04t,,,, PROPOSED TEACHERS' RESIDENCE PLANsl3yW;I-SON AND WILSON Cal't4* NEWYORK EXTERIOR OF PROPOSED TEACHERS' RESIDENCE T i4 o o ec N i a) ;2 8'g PLANS FOR INTERIOR OF PROPOSED TEACHERS' RESIDENCE FORDING-A NECESSARY PART OF EVERY MOUNTAIN JOURNEY (Published by courtesy of Zion's Herold.) THE HOME OF PI PHI'S NEAREST NEIGHBOR IN GATLINBURG THE OLD SCHOOL HOUSE </p>
+      <pb ref="arr3130385_0004" seq="04" n="391-391  "/>
+       <p>COMBINED CHURCH AND SCHOOL HOUSE LOCATED A FEW MILES FROM G MIN BURG WHICH SERVES A COMMUNITY OF ABOUT 300 PEOPLE (Published by courtesy of Zion's Herald.) A TYPICAL MOUNTAIN CABIN-THE HOME OF A FAMILY OF THIRTE: (Published by courtesy of Zion's Herald.) DR. YANCEY OF THE TENNESSEE HOOKWORM COMMISSION WITH MISS POLLARD WORKING AS HIS ASSISTANT IN GATLINBURG (Published by courtesy of Zion's Herald.), </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

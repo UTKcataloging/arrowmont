@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr8310027_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>A Pi Phi's Loyal Service Recognized at Ceramic Wing Dedication</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Fall 1966</date>
+		        <idno type="SPCID">arr8310027_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1966</date>, A Pi Phi's Loyal Service Recognized at Ceramic Wing Dedication</title>
+
+                        <extent>Pages 26-27</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">41</note>
+                        <note type="Folder">3</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 83, Number 1 (Fall 1966), Pages 26-27.</note>
+			<note type="document">arr8310027_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>The Birth of Arrowmont, Gatlinburg, Tennessee, 1965-1979</item>
+                                <item>People</item>
+                                <item>Facilities</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr8310027_0001" seq="01" n="26-27  "/>
+       <p>The Craft Center-the Lolita Snell Prouty Ceramic Wing is at the right. A Pi Phi's Loyal Service Recognize .. , "The heritage of the past is the seed that brings forth the harvest of the future." With this timely wisdom, so appropriate to the woman being honored and the accomplishment being marked, the dedication program of the Lplita Snell Prouty Ceramic Wing of the Craft Center on the Pi Beta Phi Settlement School grounds, opened, Sunday afternoon, June 19, 1966. Pi Phis assembled for the Fraternity's 45th Biennial Convention had gathered to honor a member of a four-generation Pi Beta Phi family, whose service to her fraternity has become legendary in her time. With Mrs. Prouty were her three daughters, who had initiated the idea of the .Ceramic Wing with a gift in their mother's name in 1962, and two of her granddaughters, all members of the Fraternity. The ceremony came seventy-one years from the time Mrs. Prouty's mother, the late Evalyn Barney Snell, was the first chapter initiate of Colorado Alpha. Grand President Speaks Grand President Alice Weber Johnson spoke for the Fraternity in making the official dedication and paid tribute to Mrs. Prouty with these thoughts: "To those of ,us who have known Lolita Snell Prouty for many years it seems entirely fitting that this Ceramic Wing should carry her name. A Gold-en Arrow Pi Phi, through the years she has set an example of living according to her initiation vows. "Her loyalty and devotion to the Fraternity's ideals has been apparent in every respect. Small or large, every call of Pi Phi service has been answered by her and carried beyond the call of duty. Her five years on the Settlement School 'Committee; her six years as Grand Treasurer; her four years as Counselor for Chapter House Corporation and her twenty years on the Board of Trustee Funds have been of immeasurable benefit to Pi Beta Phi. "It can truly be said of her that every Pi Phi has her sympathy; that all times she has given any aid within her power; and that she has used her influence to make our Fraternity a potent factor in the society of educated women. "Today all of us, her three Pi Phi daughters, her Pi Phi granddaughters, her close friends from Colorado, those of ,us who have served with her, and all members of this Convention share the happiness of this fitting tribute to a great lady of Pi Beta Phi. "Thus it is with great pride that we dedicate the Ceramic Wing of this Craft 'Center in the name of Lolita Snell Prouty." Portrait Unveiled Mrs. Evalyn Hickman, represented the honoree's daughters, in unveiling a portrait of Mrs. Prouty which they presented to the Craft Center and noted that she and her sisters felt, "excellence and creativity in craftsmanship are related to our Mother's 26 Mrs. Prouty expresses her appreciation. at Ceramic Wing Dedication dedication and devotion to her family, her sorority and community." Mrs. Prouty Responds Mrs. Prouty spoke briefly in response to the tributes paid to her and said in part, "My heart is filled with emotion as I stand here among so many Pi Phis on ground hallowed over the years by those dedicated to the principles of the Fraternity and working toward the fulfillment of the dreams they had for this great memorial to our Founders .. . "I am especially humble to think my name on a building will be among those illustrious Pi Phis who have given so much greater service to the Fraternity . . . it is only in my deep love for the Fraternity and my devotion to the Settlement School that I can deserve in any way the honor this occasion brings to me . "So, again I thank my loving daughters and all those helping them achieve their wishes to honor me . . . and with deep humility of spirit and great love in my heart, I hope this building will help in the training of craftsmen and fulfill its purposes in furthering the plans for a wonderful Arts and Crafts Center as our Pi Beta Phi Centennial Project honoring the memory of our Founders." Settlement School Chairman Settlement School Chairman Dorothy Coleman Thorman had opened the dedication program with an expression of appreciation to "the devoted service of so many Pi Beta Phi members," and words of appreciation to "all Pi Beta Phi chapters and clubs who have supported this memorial to our Founders." Mrs. Thorman singled out two capable and dedicated individuals for their contributions in the development of the Craft Center, Dr. Marian Heard, Professor of Craft Design at the University of Tennessee and long time Director of the Craft Work-shop and Marian Mueller, Settlement School Director. She noted that "Pi Beta Phi is indebted to Dr. Heard for giving us the best designed ceramic workshop in the nation today" and called attention to Mrs. Mueller's capable supervision "of all operations involved in its completion." As golden rays of late afternoon sunlight slanted across the majestic Great Smoky Mountains, the ceremony at the Ceramic Wing was closed with a benediction by Helen Moffeet Russell, Centennial Committees Coordinator, that concluded with those moving words from the psalmist, "I will lift up mine eyes unto the hills, from whence cometh my help, my help cometh from the Lord, which made Heaven and earth." 27 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

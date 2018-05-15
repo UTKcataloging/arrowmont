@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr9240017_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News of Arrowmont the Craft School and Arrocraft the Cottage Industry</title>
+                        <author><name>Lehner, Elanor Bushnell</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Summer 1976</date>
+		        <idno type="SPCID">arr9240017_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1976</date>, News of Arrowmont the Craft School and Arrocraft the Cottage Industry</title>
+                        <author><name>Lehner, Elanor Bushnell</name></author>
+                        <extent>Pages 17-23, 100</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">41</note>
+                        <note type="Folder">12</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 92, Number 4 (Summer 1976), Pages 17-23, 100.</note>
+			<note type="document">arr9240017_0000</note>
+                        <note type="Table Of Contents">Early American Crafts Exhibited at Arrowmont; Summer Workshop Time; Historical Recollections Recorded; Pottery Techniques; Facilities Come Full Circle; Reflections on Arrowmont</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>The Birth of Arrowmont, Gatlinburg, Tennessee, 1965-1979</item>
+                                <item>Arrowcraft</item>
+                                <item>Summer crafts workshop</item>
+                                <item>People</item>
+                                <item>Handicraft</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr9240017_0001" seq="01" n="16-17  "/>
+       <p>Skater A ual Ice Show by MARY ET LEN PILLING, Vermont Beta Corrine Perry, Vermont Beta, did an out-standing job directing the University of Vermont's third annual skating show. The ice show, held in February, proved to be a great success as it entertained over three thousand people during the two nights. Corrine was chosen to direct the show because of her strong interest in skating. She has been skating seriously since 1965. She has had solo performances in all three ice shows and this year she did a lovely one to the theme song from "Jonathon Livingston Seagull." Corrine combined all of her talents in producing the skating show, as she was the director, the choreographer, the trainer, and performer. She began organizing for the show last August, choosing the theme, "American Images." The show had a variety of group performances. Early in November, Corrine got all of the sisters of Vermont Beta in the show and Pi Phis also took the responsibility of printing and selling programs. The chapter made nearly $200, all of which we gave to our philanthropies. SP PSON This advertisement for Simpson College has appeared in Time Magazine recently. The smiling face is Sandy Watkins, Iowa Beta. Quiz Bowl Promotes Campus Involvement by SUSAN HIMMELSBACH, California Zeta In order to promote campus involvement with the Greek community, Panhellenic and Interfraternity Councils at the University of California at Santa Barbara sponsored a quiz bowl competition between the eight sororities and eight fraternities of the campus. The competition took place in one of Santa Barbara's lecture halls last October. The questions, asked by Dr. Bowers of the Engineering Department who proved to be an excellent host, covered a variety of categories that ranged from sports to science to trivia and current events. The Pi Phi team went to the semi-finals of the competition, the only sorority to get that far. Our team members were Cathy Langston, Sammi Ray, Barb Utsumi and Sue Himmelsbach. the place to become you 16 News of The Great Smoky Mountains Gatlinburg, Tennessee 37738 Edited by ELEANOR BUSHNELL LEHNER Board of Governors CONGRATULATIONS TO ARROWMONT DIRECTOR MARIAN G. HEARD FOR HER LATEST HONOR! The Trustees of Teachers College, Columbia University, awarded her a Distinguished Service Medal which she was to receive at the Commencement Day Convocation on May 12, 1976. The medal was awarded in recognition of her outstanding contributions to art, education, and public service. Created as a feature of a Bicentennial Exhibition of early American crafts which was displayed in the Arrowmont Gallery from April 19 May 1, 1976, this symbolic quilt, the work of many hands, was raffled on April 24 to help defray costs of the event. Co-chairmen of the exhibit were Mmes. Caroline Riddle and Hilliard Brown, shown with Mrs. Arthur Stupka who coordinated the assembling of the quilt pieces. (Details on next page.) 17 </p>
+      <pb ref="arr9240017_0002" seq="02" n="18-19  "/>
+       <p>early American Crafts Exhibited At Arrowmont The brightest item displayed in the Arrow-craft Shop window this spring was a colorful Bicentennial quilt. Each decorative patch in the quilt was designed and created by a Sevier County needlewoman. Each depicted an article traditionally handcrafted in the area. The idea for the quilt was conceived by committee members arranging a Bicentennial exhibit of early American regional craft articles which was scheduled to be on view in the Arrowmont Gallery from April 19 through May 1. Raffle tickets were sold, and the lucky winner of the quilt was to be announced on April 24. Mrs. Caroline Riddle, Arrowmont Administrator, and Mrs. Hilliard Brown served as Co-Chairmen of the Craft Committee; and Mrs. Arthur Stupka coordinated the random assembling of the quilt pieces. The objectivewas to bring together "squares" symbolic of early craft articles in early earthy colors, assembled in a contemporary manner. The quilt was to hang first in the Sevierville Library before being moved to the Arrowcraft Shop. The Bicentennial exhibit displayed in the Arrowmont Gallery featured items borrowed locally, some of which would be added to the permanent historical collection of the Southern Highland Handicraft Guild. They included wood carvings, pottery, kitchen and household implements and tools, household furnishings, baskets, and iron work. Each item offered for display was carefully recorded and documented by the committee. Proceeds from the quilt raffle helped to defray the costs of the exhibit. Craft demonstrations were also scheduled as part of the exhibit. Summer Workshop Time POTTERY Elinor Jensen, New York Alpha 18 As the summer ARROW appears, students of all ages are assembling from all over the country to enrich themselves in Arrowmont summer classes. Colors will burst forth on textiles as students tie-dye or hand-block or silk-screen them. Spinning wheels will yield hundreds of yards of yarn which will be stirred in pots of vegetable dye, shuttled back and forth on dozens of looms, or twisted and tied into intricate macrame patterns and draped from walls and ceilings. Clay will be squeezed and twisted and turned and constructed and glazed and fired in kilns or cans or holes in the ground. Metals and woods will be cut and hammered. Enamels will be mixed and applied and baked. Students will worry and strain and struggle and catch on and enthuse and triumph. No one is excluded. Anyone can participate. It is all there for the taking for those whose applications arrive before the classes are full! Offered this year between June 7 and August 13 are four one-week sessions and three two-week sessions taught by thirty-five visiting instructors. TEXTILES-The Workshop MACRAME-Margaret Norris, Iowa Gamma WEAVING-Karen Heiser, Massachusetts Beta 19 </p>
+      <pb ref="arr9240017_0003" seq="03" n="20-21  "/>
+       <p>Historical Recollections Recorded The history of Pi Beta Phi's early days in Gatlinburg has been thoroughly recorded on paper. Now a new dimension has been added ... tape. Modern electronics have made it possible to record on tape the voices of many who participated in the development of the Settlement School, Arrowcraft Shop, and Arrowmont. This project has been pursued since 1973 by Betty Bailey Hall, a former Board of Governors Chairman. Henrietta McCutcheon Huff, a former BOG public relations chairman who lives in Gatlinburg, contacted many of those to be interviewed and took part in some of the original visits. Henrietta became a Settlement School teacher shortly after she finished college, and through her efforts Betty was able to talk to such old-timers as Izora Keener, an early Arrowcraft weaver; Eva Hathaway, a teacher at Sugarlands; Marjorie Chalmers, Health Center Nurse and author of "Better I Stay;" and O. J. Mattil who taught wood-working, supervised the model farm, and became one of the founders of the Southern Highlands Craftsmen Guild. Caroline Mills Riddle, Arrowmont Adminstrator, and Nella Hill, Arrowcraft Manager who has been super-visor of weavers for 22 years, contacted many of the current craftsmen and accompanied Betty to their interviews. The lilting voices of such mountain people as Herb Trentham, driver for the Mountain View Hotel, are recorded for future generations to hear. Pi Phis will always be able to hear Lucinda Oakley Ogle tell how she was able to attend the Settlement School as a young girl because Director Evelyn Bishop found a woman to help Lucinda's mother with the younger children. Mrs. Ogle has taped many anecdotes and valuable historical data which add depth to Arrowmont's history. Included in the long list of interviewees are the late Marian Webb Mueller Prince, former Director of Settlement School; Winogene Redding and Tina McMorran, former weaving directors; Marianne Reid Wild, former Grand President, along with former Grand Council members Helen Anderson Lewis and Sarah Holmes Hunt. By February, 1976, forty individuals had been recorded on twenty hours of tape. Copies have been placed in the Pi Beta Phi Settlement School archives. Photographs were taken at the time of the interviews, and Betty Bailey Hall's association with Arrowmont began with her appointment as chairman of the Centennial Fund Committee, an office she held for five years. In 1967 she was one of the first appointees to the newly formed Board of Governors, of which she later became chairman. Betty plans to prepare a slide program to illustrate an edited version of the interviews. Many of the voices recorded are still very much a part of Arrowmont: . . . Marian Heard, Arrowmont Director; Nella Cook and the staff of the Arrowcraft Shop; Mary Frances Davidson, author of "The Dye Pot," who continues to furnish vegetable-dyed yarns for Arrowcraft weavers; Neil Watson, who succeeded his father, Arlie Watson, as maintenance supervisor. O. J. Mattil tells how he planned the early fairs on the school grounds, built the model barn, and taught woodworking to many of the local boys, some of whom are now producing craftsmen. Elmer Kear, whose picture appeared in the National Geographic book, "The Craftsman in America," tells that when he first sold brooms to the Arrowcraft Shop he was growing his own broom corn, and now the members of his family, who work in a new, fireproof building, still make brooms for Arrowcraft. Helen Lewis tells about the Mountain View Hotel bellboy who watched the luggage of visiting Grand Council members being unloaded and inquired, 20 THE ARROW OF PI BETA PHI 21 the Sugarlands area. Emma Ownby, an early Arrowcraft weaver, tells about saving her weaving money in order to buy land where prospering businesses are now located. The history of Gatlinburg and the history of the Settlement School and Arrowcraft are inextricably intermingled and, in this respect, these tapes are recordings of a significant sector of the history of America. Evelyn Bishop, who served as Settlement School director for 15 years beginning in 1918, is among the many individuals mentioned by those interviewed on Betty Hall's tapes. "Where did you-all live before you came here?" That bellboy is now the owner of a grocery store, and Helen is a resident of Gatlinburg. Henrietta Huff whose husband, a prominent Gatlinburg businessman, was once a Settlement School student, tells about her welcome by Mary Pollard when she arrived to teach at the school and about how she and another new teacher, Alice Williams, accompanied Amy B. Onken on a visit to some of the weavers who lived up Baskins Creek. Henrietta also tells how, as coach of the girls' high school basketball team, she dyed their bloomers and middies wine and put Pi Beta Phi in blue felt across the back of the middies. Many of the boys she taught were almost as old and definitely larger than she was. (She is barely five feet tall.) Eva Hathaway tells of the joys and problems of teaching many grades in a single room in Student Susan Lix tests her skill at the pottery wheel while enrolled in a Gatlinburg Community Course at Arrowmont. Pottery Techniques The simplest methods of making pottery are the hand-molding techniques. Pinch-forming is working the clay between the hands and pinching between thumbs and fingers. An ancient, primitive method still used is building a pot with clay coils, built up around a base forming the contour of the pot or bowl. The easiest method of all is forming a sheet of clay over a simple mold and lifting off for finishing as soon as it is stiff enough to handle. </p>
+      <pb ref="arr9240017_0004" seq="04" n="22-23  "/>
+       <p>Students hang out their dyed pieces to.dry, assisted by Jan Fraley, teacher. Facilities Come Full Circle The first Saturday morning in March brought the Fraternity's educational facilities in Gatlinburg full circle. Once again, classes in crafts were offered for the community's children. In cooperation with the city of Gatlinburg, who funded the instructor and materials cost, Arrowmont hosted classes for 3rd and 4th graders, and 5th and 6th graders, most of whom had never experienced any art training. The class is led by.Mrs. Jan Fraley, Arrowmont secretary and wife of Gatlinburg Recreation Director, Mark Fraley. Jan has a Bachelor of Fine Arts Degree and has done graduate work in Art Education at the University of Cincinnati. She brings a warm, happy approach to the learning situation, introducing students to varying media and techniques, from printing with found objects, dyeing with materials native to the area, to weaving and designing. She hopes to show children the beauty of their world, the varied use of "everyday" materials, and the excitement that comes from expressing feelings visually. Students apply wax to their fabric as they work with batik processes. Man's basic needs are four: Sustenance .. . Companionship . . . Learning . . . Creativity. Pi Beta Phi has helped to fill them all. Through Pi Beta Phi Sustenance has been achieved. . . By showing mountain people better ways to earn their daily bread. By helping them to improve their native skills. By fostering their confidence and pride. By bringing a market to their doorsteps. Through Pi Beta Phi Companionship has been achieved. . . . By helping students to learn to live together . . . work together . . . inspire each other . . . love each other. By giving them an emblem by which they can recognize each other . . . even when far away from home. Through Pi Beta Phi Learning has been achieved. . . . By bringing teachers to those who had no teachers. By building a school for those who had no school. By emphasizing the value of knowledge to those who might otherwise have taken it for granted and thus wasted the most precious opportunities of their most precious years. Through Pi Beta Phi Creativity has been achieved. . . By stimulating instincts too often buried. By encouraging talents too often overlooked. By making available the finest training in the most conducive atmosphere. By inspiring novice and expert alike to reach beyond their most ambitious dreams. Sustenance Companionship Learning Creativity Man's four basic needs fulfilled By Pi Beta Phi. Eleanor Lehner 23 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

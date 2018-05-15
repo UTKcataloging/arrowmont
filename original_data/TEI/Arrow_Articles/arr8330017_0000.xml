@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr8330017_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Gordon, Sally Wild</name></author>
+                        <author><name>Lexau, Dorothy Trainer</name></author>
+                        <author><name>Neville, Jane Roos</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Spring 1967</date>
+		        <idno type="SPCID">arr8330017_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1967</date>, News From Little Pigeon</title>
+                        <author><name>Gordon, Sally Wild</name></author>
+                        <author><name>Lexau, Dorothy Trainer</name></author>
+                        <author><name>Neville, Jane Roos</name></author>
+                        <extent>Pages 16-18</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">41</note>
+                        <note type="Folder">3</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 83, Number 3 (Spring 1967), Pages 16-18.</note>
+			<note type="document">arr8330017_0000</note>
+                        <note type="Table Of Contents">Pi Beta Phi Guidance; A Busy Retirement; Opportunity Benefits Many; Pattern for Settlement School Sale Success</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>The Birth of Arrowmont, Gatlinburg, Tennessee, 1965-1979</item>
+                                <item>Arrowcraft</item>
+                                <item>Sales</item>
+                                <item>Weaving</item>
+                                <item>Summer craft workshop</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr8330017_0001" seq="01" n="16-17  "/>
+       <p>News from Little Pigeon Edited by Sally Wild Gordon, Wisconsin A Ann Van Aken, pottery instructor, and Dorothy Lexau at wheel Mrs. Lexau gave in memory of her mother. Pi Beta Phi Guidance by Dorothy Trainer Lexau What the Pi Phi School means to me is difficult to put into words. Because of it my whole way of life was changed. Many years ago my Pi Phi cousin, Mrs. James Howe of Des Moines, Iowa, suggested that I apply to the Pi Phi School in Gatlinburg for a teaching position. Had I not come to Gatlinburg, I would not be living here now. For that I feel I owe a debt of gratitude I can never quite repay. The Craft School as it developed became a part of my life for my Mother attended it for many years, looking for-ward each year to her return with profound joy. Then came a time when I could also actively share in the activities of the Craft Workshops, 'both in the summer and at other times during the year. Mother and I were able to attend the summer sessions together the last two summers of her life. This was a realization of her dreams. In her memory a potter's wheel has been given to the new pottery wing. Through attendance I have gained new knowledge and ways of expressing that knowledge so that not only I but others have profited. It has also meant the gaining of new friends, as well as many hours of pleasure, though there were a few hours of frustration. What I can do in any way to help others find usefulness and pleasure through the age old crafts is an earnest and true expression of thankfulness and gratitude to a fine group of women armed with fore-sight and wisdom. I hope the growth of the school as an Art and Craft Center will continue to expand in many fields and will develop a program that will bring to this mountain area a leading place in the field of Art and Crafts and honor to the Pi Beta Phis. A Busy Retirement Miss Ruby Lanier of Chapel Hill, North Carolina, a retired social worker, has found the answer to happiness in retirement. While doing social work in the mountains of Kentucky she became very interested in crafts. For the last twelve years she has been coming to the Summer Craft Workshop, studying stitchery, jewelry, enameling, but has been particularly interested in weaving. Now she enjoys returning for additional instruction each summer at the Settlement School. However, during the rest of the year she has difficulty keeping up with the demand for her work. She makes contemporary place mats in 'brilliant colors, shoulder bags and sofa pillow covers which are sold in three different shops in the South. Miss Lanier works on stitchery. 76 Mrs. Morgan Fellers, student, left, Mrs. Holmes, Houston Workshop Scholarship winner, center, and Mrs. Given Grim, student. Opportunity Benefits Many by Sally Wild Gordon, Wisconsin A The 1966 Spring ARROW carried the story of two very successful Arrowcraft Sales of the Houston Alumnae Club. As a result, a scholarship to the Summer Craft Workshop was set up for a mature woman, interested in crafts who would return to the community to teach, as well as train others to teach. Mrs. Thomas E. Holmes is co-ordinator of art and crafts at Helena House, a non-profit recreation center for senior citizens. Because of her young children she didn't feel she could take advantage of this scholarship. However, her husband was anxious for her to have this opportunity so he arranged to take the whole family to Gatlinburg for three weeks while mother went to summer school. The courses in jewelry and weaving opened new fields which she can teach others. In addition, she received three hours of college credit. She returned to Helena House with samples of many different types of weaving and an unusual bracelet she had made of silver strips set with a coral stone. She plans to continue teaching here and to co-ordinate the fall and winter programs to include classes in weaving and jewelry. A Houston newspaper article, which appeared soon after her returnfrom Gatlinburg, gave future plans, told of the enthusiasm of the local folk in weaving, but explained there were no looms. Local Pi Phi alumnae saw the article and found funds for a fine old loom which they gave Helena House. A second smaller loom was also received, as a result of this article, so all is now well at the senior citizens' recreation center. During October the Houston Alumnae Club held another Arrowcraft Sale across from NASA, the Manned Space Center near Houston. Mrs. Holmes was there to demonstrate weaving. She is super-salesman for the Pi Phi Craft Workshop and so proud of having been sponsored by the Houston Club. Mrs. Holmes' experience at the Summer Craft Workshop shows how the present opportunities offer what Pi Phi hopes many more clubs will undertake to do as the Centennial Fund Project develops. For all this we owe a debt of gratitude to Marian Heard, Tennessee Gamma, Director of the Summer Workshop, and Marian Mueller, Indiana Gamma, Director of the Settlement School, for their unselfish interest in giving the time and effort to developing the Workshop into the great success it is. 17 </p>
+      <pb ref="arr8330017_0002" seq="02" n="18-19  "/>
+       <p>Pattern for Settlement School Sak Success by Jane Roos Neville, Illinois Zeta Planning your next Settlement School Sale? If so, members of the Pi Phi Alumnae Club of Champaign-Urbana (Illinois) would like to pass on a few ideas on what has made its annual sale such a hit in our community of 100,000 plus, the home of the University of Illinois and of Illinois Zeta. Since the first sale more than 20 years ago, the event has grown to an annual sales total of approximately $4,600. In 1965-66 the annual sale and year around sales totaled $5,663. So far this year, which runs from May to May, the total including tax is $6,320. Of utmost importance in achieving this volume of business is the extreme and constant enthusiasm of the alumnae, approximately 25 of whom have worked consistently for more than 20 years on the sales. This enthusiasm is radiated annually, the first Thursday of November (set with Christmas buying in mind) in the Colony Room of the Urbana Lincoln Hotel. Here, members as well as the general public, may shop and meet friends upstairs for luncheon. Luncheon is not part of the sale, however. These very active alumnae club members, under the direction of a general sales chairman who served as assistant chairman the year before, split up in small groups under the direction of an area chairman well in advance of the sale. In this way, on the day of the sale, each area is well staffed for the entire sale usually lasting from 9:30 a.m. to 4 p.m. Letting the members work in areas where they are the most interested also tends to result in better saleswomen. Another advantage to this type of organization is that no one person is overburdened with the entire Rosemary Fulton Unteed, Wisconsin Gamma, and son, Jimmy, plug Settlement School Sale items. She wears a costume designed to call attention to the Centennial idea. Mrs. Unteed is president of the Champaign-Urbana Alumnae Club. responsibility since each area chairman passes along detailed information for the next as well as does the general chairman, which is not to be confused with the year around Settlement School general sales chairman. All of the preceding is fine. However, it would not be possible unless there are customers, both old and new. The thorough newspaper coverage (usually a full picture page the Sunday or two prior to the sale in one or both local papers) plus a story or two alerts the community and surrounding area of the forthcoming event in time to make plans with friends. Here, it also is handy to have a general chairman as society editor! Last year, in addition to the stories and picture pages in the newspapers, there were more than 1,000 reminder cards mailed for the fall sale to those registered the previous year and newcomers to the community. The only real change from year to year, other than making sure new and unusual merchandise is added, is in the decorating to show off the items to best advantage. Usually, a theme is chosen, such as along Thanksgiving or Christmas lines. This can be quite elaborate, such as bringing in a sleigh or large loom, or done on a small, more simple scale. Some years our decorations are more involved than others, naturally. Another factor in making the sale successful, is the fact that we have in Mrs. Thomas (Dorothy Cummings) Wilson (Minn. A) a year around Settlement School general sales chairman. She also takes special orders at the sale which runs between $800 and $900 and keeps a pretty complete stock of merchandise in her home, where she sold $1,200 worth of hand crafted items the past year. And, this is not part of the annual sale total. Mrs. Wilson, who took over for another dedicated worker, Mrs. W. Leighton Collins, now of Washington D.C., finds it most valuable to drive to Gatlinburg, Tenn., each year to look over and select the merchandise to be sent for the annual sale. This is essential in bringing back old customers each year since they must find new merchandise and ideas. 4+ Pi Beta Phis Who Attended Summer Craft Workshop in 1966 Gregg Powers Brodie, South Carolina Alpha; Trish Crowley, New Mexico Alpha; Kay Kauzlarich, Colorado Alpha ; Beverly Lewis, Virginia Delta; Alice D. Kimball, Iowa Alpha; Barbara Wehr, Minn. Alpha, were the Pi Phis who attended the 1966 summer Craft Workshop. 18 "Sign of the Arrow" Shop a Sign of the Times by Libby Kramer St. Louis Alumnae of 'Pi Beta Phi, long known for their strong support of their fraternity, have now originated a unique idea in keeping with the for-ward dimension of their Fraternity's second century, a retail shop called, "The Sign of the Arrow". The St. Louis Club formed a non-profit Missouri corporation known as the "1867 Foundation" to operate this shop, where handcrafted items made by creative residents of the St. Louis area will be sold on consignment. Located at 9666 Clayton Road in the St. Louis suburb of Ledue, it opened for business in October, 1966. The shop is to be a continuing project, which will replace the annual Pi Phi Alumnae Carrousel and House Tour. Its profits will provide funds for the Club's usual philanthropic program which includes both the local project of the St. Louis Youth counseling service and the Pi Phi Arts and Craft Center in Gatlinburg. It provides a St. Louis implementation of the same ideals that have fostered the fraternity's philanthropic project at Gatlinburg. The shop is staffed on a volunteer basis by Pi Phis and there is a professional manager. She is Mrs. Cliff Davis, who formerly operated a knit shop. Consignment is received each Monday at the shop and anyone is welcome to bring handcrafted items for sale. Typical of the items received have been hand decorated items of all kinds including waste-baskets, gold towels, purses, knitting bags, candles, sweaters, copper enamel, aprons, baby dresses, ceramic and bisque items, oil and water color paintings and a wide variety of other items. There is a carefully selected group of unusual cards and note paper, and a treasure corner of antique furnishings. An interior view of the "Sign of The Arrow". but it has made friends for the Fraternity. It has drawn St. Louis area Pi Phis together and become a meeting place where new friends are made and old friends re-discovered. Every support has taken a genuine pride in this concentrated effort and again felt some of the joy and challenge of being a Pi Phi. Enthusiastic Support The "Sign of the Arrow" has been enthusiastically received by both Pi Phis and St. Louis area residents. There are currently 125 Pi Phi volunteers who staff the shop on a rotating basis. There are 250 consignors who collectively received $4,226.39 for merchandise sold in the club's initial 21/2 months of operation between mid-October and the end of December, 1966. Indication of the support it would receive was given early in the fall before the shop opened. In September the shop's board of directors invited all St. Louis Pi Phis to a morning coffee to explain the project and solicit support. Approximately 225 Pi Phis came to the 9:30 a.m., meeting. This number established a record for attendance at any St. Louis Shop Board of Directors-Kneeling, Frances Walrond, secre Pi Phi alumnx meeting. tary; Bev Stanford, Libby Kramer, president; Standing (from The benefits of the shop have been many. Not left), Betty Wulfing, Kathy Lupo, treasurer; Marge Thias; only has it provided an outlet for talented people Sharon Keith, vice president; Charlotte Flachman;Dorris Davis, president of St. Louis Alumnae Club. (Not pictured, Mrs. and a source of income for a philanthropic program Alfred H. Kerth.) 19 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

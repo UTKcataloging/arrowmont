@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3520245_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Bishop, Evelyn</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>December 1918</date>
+		        <idno type="SPCID">arr3520245_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">December 1918</date>, News from Little Pigeon</title>
+                        <author><name>Bishop, Evelyn</name></author>
+                        <extent>Pages 245-247</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">36</note>
+                        <note type="Folder">8</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 35, Number 2 (December 1918), Pages 245-247.</note>
+			<note type="document">arr3520245_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Food</item>
+                                <item>Well-Baby</item>
+                                <item>Home economics</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3520245_0001" seq="01" n="244-245  "/>
+       <p>244 THE ARROW OF PI BETA PHI onward, what could it not accomplish were all the energy of II B turned to one big end? And now, of course, that big end must be the winning of the war. A few short years ago, the Settlement School seemed to fill the need of our fraternity for the one thing, but now we have learned, as has very individual and every group in this warring world, that more must and can be done. And so, ever before me as I sat in convention sessions or talked with those Pi Phis gathered at Charlevoix, was the thought that II B 01) as a national organization must adopt a big war work splendidly worthy of her members, and that ,in so doing she can be a power for good greater even than the world has a right to expect from such an organization of college women. WYOMING A. WHAT A FOUNDER THINKS In memory I am again in "Charlevoix The Beautiful" and I am again living over the scenes and incidents of those fine convention days. I recall with pleasure the earnest faithfulness of the delegates and their devotion to ,the business intrusted to them. The whole spirit and tenor of the convention was splendid. I was very much impressed with the harmony that existed between the Grand Council and the delegates, and which pervaded all the de-liberations of the convention. I appreciated the great care shown in the selection of new chapters and the high moral tone of the convention evidenced by postponing action on the petition of a group, at the same time placing the convention on record as true to its vows and loyal to its ideals. LIBBIE BROOK GADDIS. ANOTHER FOUNDER SPEAKS I lived the convention over many times during sleepless nights. Certainly your Founders present had an enjoyable time. My heart certainly appreciated the convention; I have written down some of my impressions but I do not consider that they do justice to II B (D. First, personnel of convention, each worker of Grand Council, officer, chairman of committees, and delegate impressed me that unity controlled II B Second, in convention work I was impressed that advancement was the slogan of convention. Relative to Settlement School, educational work, extension policy, or war activities "Forward March" was the order. NEWS FROM LITTLE PIGEON 245 Third, the method of initiation has been greatly improved since 1867 and Miss Blach's play was certainly true to life. Fourth, I trust every ' has learned the lesson of the noted Triangle placing the base at the top representing spirituality, the two sides representing mind and body, knowing that mind and body be-comes more efficient when governed by right. Fifth, each person present will certainly go back to the active and alumnm chapters with renewed enthusiasm, resolved to be no slacker in Pi Phidom and wondering what the advancement will be in another fifty years. EMMA BROWNLEE KILGORE. NEWS FROM LITTLE PIGEON The first half of our school year is nearly over and the Pi Phis may be wondering if we are snowed in, rained in, or drafted into the service. None of these things have befallen us, in fact, we have had a most delightful fall and the hard work has only made us enjoy walks, visits, and spellings the more. We have a very congenial family in the cottage this year, Mrs. Reagan and the little Prickett boy just making a real "home" atmosphere. Speaking of babies reminds me of the Better Babies Meeting we had early in the fall. Mrs. Warner, our State Health Specialist, was here to talk to the mothers. It is quite the usual thing to feed green beans, fried eggs, and cheese to babies of five or six months. All the women around here think Mrs. Prickett will surely starve her boy for she insists that biscuits, corn, and beans are not necessary foods for a little chap less than a year old. And water on a baby is sure death unless used in small doses ! East Tennessee like most sections of the country, has made an extra effort to produce more this past year and our "farm" has been doing its bit. The fairs were a surprise to everyone, Sevier coming out ahead of all the East Tennessee counties. We were proud of having exhibits in Sevierville and Knoxville and won several prizes and honorable mentions. Now the school children are enthusiastic over gardening and canning next spring and our County Home Demonstrator has promised to start the work very early. Several clubs are wanting the names of boys who are in camp. The difficulty I find in sending addresses is that they hold good for such </p>
+      <pb ref="arr3520245_0002" seq="02" n="246-247  "/>
+       <p>246 THE ARROW OF PI BETA PHI a short space of time. Some of the fellows have gone over after no more than ten days or two weeks in camp. However, we will do our best to keep the clubs informed for the boys do appreciate the letters and gifts. There are a good many war brides here, several under fifteen years, and a few have been wise enough to come back to school again. Miss Burton has a knitting class which meets one afternoon each week. The number is limited so she can give plenty of time to each girl. They are making socks and seem to take as much interest as children would who never had seen homemade socks before, yet many of the mothers make up the family supply each fall and even make their own dyes. Our sewing room boasts two new Singer machines and Mrs. Prickett and the girls see that they are seldom idle. The girls made a new venture this fall and the results were beyond our expectations. They have been dissatisfied with the hats brought into the Burg and I don't wonder for they came in lots of a dozen or more, just alike, and designed for women of the ages of their grandmothers while the colors would have delighted the eye of an Indian chief. So supplies were procured and about fifteen girls made their own hats. The only reason the whole town didn't trim hats was that we had to draw the line somewhere. Now the girls are clamoring to do all kinds of work to pay for them. I sometimes wonder how many of the girls from the places you and I have lived would be asking the privilege of washing windows or doing laundry work so they can have these things we call necessities. The pianos are in use much of the time for several who take lessons have to do their practising at the cottage as they have no instruments at their homes. They learn very readily and are so fond of music. The war has inspired the composing of new ballads, each one with about fifteen verses for the story must all be told, from the timethe war began until the boys return victorious. Our basketball court is finished and the boys and girls have organized their teams. Now we are trying to have clock golf. Practically all the boys and girls are here during the noon hour and must have something to keep them busy and away from the stores. The days when these children didn't know how to play, laugh, and sing has gone by, we are glad to say. IN MEMORIAM 247 But for Pi Phi there would be but four months of school here this year for, I say it with shame, our County Court has voted only that length of term. What chance does that give the boys and girls, especially when so much fall work has to be done in connection with school work? Now, of all times, we should make an extra effort to keep the children in school. The former teachers' cottage was used for a boys dormitory last fall but boys are such uncertain quantities these days that it seems better to give the girls the house. After Christmas we expect more than we can accommodate for the short term of free school will tend to increase the attendance here. The greatest problem is to find some-one for a house mother who can be contented to live as simply as the girls will have to and still be competent to teach them household management. Just now this looks almost like an impossibility. The time has come when we must have dormitory facilities, if we begin to meet the needs of the people. A great deal of the narrow prejudice is gone and several times this year the minister has spoken out publicly for the school. Right now while feeling is good and people speaking well for the school is when we can broaden out and increase our usefulness and what greater work can we hope to accomplish than to teach the boys and girls what a real home can be. EVELYN BISHOP, Head Resident. IN MEMORIAM MAY CHASE HOUGHTON May Chase Houghton was initiated into Iowa I' in May, 1907. She had previously spent a year at Colorado College, before entering State College at Ames, Iowa, where she was graduated in 1910. She served as instructor of mathematics at Ames for two years, resigning in 1912 to marry Mr. Glenn M. Houghton of Strathmore, Cal., where they made their home. She was always prominent in church, social, and civic life. At the time of her death she was president of the Town and County Club of Strathmore and was active in the Red Cross. She endeared herself to all who knew her, and her home on the California olive ranch was ideal not only in the inner circle of </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

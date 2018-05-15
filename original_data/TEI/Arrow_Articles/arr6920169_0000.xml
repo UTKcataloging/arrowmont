@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr6920169_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Green, Virginia Brackett</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>December 1952</date>
+		        <idno type="SPCID">arr6920169_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">December 1952</date>, News From Little Pigeon</title>
+                        <author><name>Green, Virginia Brackett</name></author>
+                        <extent>Pages 168-169</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">5</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 69, Number 2 (December 1952), Pages 168-169.</note>
+			<note type="document">arr6920169_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Health care</item>
+                                <item>Community outreach</item>
+                                <item>Education</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr6920169_0001" seq="01" n="168-169  "/>
+       <p>ewJ FROM LITTLE PIGEON Edited by Virginia Brackett Green, 'Indiana Gamma "My feelings are that words cannot de scribe how much the Settlement School has meant to the mountain people and this section of the country." This was the statement of Mrs. Steve Whaley, who with her son, operates the New Riverside Hotel at Gatlinburg. "In 1912, when the Pi Beta Phi Settlement School was founded," she continued, "my oldest son was four years old. Since that time all my six children have graduated from the school and have been successful in business. The school has not only benefited children in this section, but also helped the mountain people acquire a livelihood. This was made possible by the school's handicraft department which created a market for their work." It was exactly forty years ago that Pi Beta Phidecided to establish this living memorial to its Founders in the mountains of Tennessee. That first year there were thirteen children and one teacher; last year there were 585 pupils in the elementary school and high school. The way you got to Gatlinburg in 1912 was driving up the bed of Little Pigeon in a buckboard with your feet up on the dash. Today you can travel by bus via modern highways. "In the forty years of its existence, the Settlement School has had a strong, steady growth and has been a constant source of help to the people of the community not only here but to its nearby neighbors." This was the expression of Mrs. Georgia Duffield, affectionately known as "Miss Georgia" by all and who lived for seventeen years at the school as a member of PI PHI NURSE, Marjorie Chalmers with some 'Gatlinburg children. 168 THE ARROW OF PI BETA PHI the staff in the weaving department of Arrow Craft. Still residing in Gatlinburg, she is just as interested as ever and writes, "From its inception and throughout all the years, it has never faltered from its original purpose. Its day of usefulness and influence is not gone but stands as a beacon light to point the way." It was still primitive country when Pi ,Phi came to Gatlinburg. We brought the first concrete, the first sliding window and the first in-door plumbing. New buildings have appeared during the years. The Arrow Craft Shop is best known to tourists for in that attractive building is found the handicraft of the Pi Phi weavers. The revival of the old mountain crafts has meant additional income to about 100 Pi Beta Phi weavers scattered in the mountains and valleys near Gatlinburg. Helping folks help themselves, is the best way to give assistance. There came a time awhile back when the County assumed responsibility for the basic educational program; but, in order that the school might be accredited, the fraternity continues to supply teachers for Arts and Crafts, Physical Education and Music. In 1948 the new Health Center was finished. It is there that the fraternity maintains a registered nurse who, not only cares for the school children, but cooperates with the community and nearby rural schools. There is no hospital at Gatlinburg, so the Pi Phi nurse stands ready to serve in all emergencies. Nurse Marjorie Chalmers told the Pi Phis at Convention, "The health service at Settlement School is 32 years old. Miss Phyllis started in the corner of the Director's office and carried supplies in her saddle bags. Now a car can go into the isolated places. Health problems vary little from year to year for there is always the human equation. A sick baby still strikes terror to the heart. A severed artery bleeds as freely as it would have thirty years ago. Trained assistance and an understanding mind is every bit as important now.' "A woman phoned the other morning with a problem. `Maybe I weary you a-callin' s'much. Have you contributed -to Holt House. Send contributions to the treasurer-address in front of Arrow. But things is anus happenin' to scare a bo especially when there's young tins. I told I was again' to . call, cause you give my he ease.' It isn't always professional assistance t is needed. We have the every day griefs worries of every day people like you and m We have come a "fur" piece since 19 Boys and girls too far away to be day pup stay at the Pi Beta Phi Dormitories. In the st mer, those dorms and the other buildings used for the Pi Beta Phi-University of T nessee Workshop. People come from all o the country to learn skills in various crafts un outstanding teachers. A repertory company to over the auditorium for six weeks and tour and natives enjoy drama. The Settlement Sch plant is used the whole year. And now this fortieth anniversary year the completion of a new staff house. Better he ing for the staff has long been needed thanks to legacies and wise planning, this tractive building stands on the ground adjoin that of our good neighbors, the Huffs and tl Mountain View Hotel. Forty years ago we sty together in the new venture, too. The enlar, accommodations will make possible future pansion of the Summer Workshop as well furnish a delightful home for those who w in the name of Pi Beta Phi. From a small mountain village, Gatlinb became the gateway to one of the great p. grounds of the nation. Because Pi Phi was tlbefore the Park was opened, many of the e; pupils of the Settlement School were prepa to take advantage of the new business opt tunities and the adjustment was easier. An anniversary is a time both for look backwards and looking forwards. There arc many places to go forward at Settlement Schl With the park, many "furriners" have am to make Gatlinburg their home for a time; is .both a challenge and a problem. The and committee start the new decade with thusiasm. Looking ahead is a good way to k from falling behind! </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7920031_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Pi Phi Personalities</title>
+                        <author><name>Stuck, Dorothy Davis </name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Winter 1962</date>
+		        <idno type="SPCID">arr7920031_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1962</date>, Pi Phi Personalities</title>
+                        <author><name>Stuck, Dorothy Davis </name></author>
+                        <extent>Page 30</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">15</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 79, Number 2 (Winter 1962), Page 30.</note>
+			<note type="document">arr7920031_0000</note>
+                        <note type="Table Of Contents">Pi Phi Claims a Loyal Friend; Stella Sue Huff Cox, Settlement School Pupil and Teacher is an Honor Initiate</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>People</item>
+                                <item>Community</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7920031_0001" seq="01" n="30-31  "/>
+       <p>Pi Phi Personalities Edited by Dorothy Davis Stuck, Arkansas A Pi Phi Claims a Loyal Friend STELLA SUE HUFF COX, SETTLEMENT SCHOOL PUPIL AND TEACHER IS AN HONOR INITIATE Stella Sue Cox is the daughter of the man who led the efforts to help Pi Beta Phi Fraternity establish its Settlement School in Gatlinburg. At the age of four she was a member of its initial first grade class in 1912 and she has served many years as a teacher in that school. With this background of friendship with the Fraternity, Stella cemented those ties in March 1962 when she was an honor initiate of Tennessee Gamma Chapter of Pi Beta Phi. Her invitation to membership came from Grand Council on the recommendation of the Little Pigeon Alumnae Club of Gatlinburg and Tennessee Gamma. Her initiation was particularly significant since it came in the golden anniversary year of the Settlement School with which she has been so closely identified throughout her life. Stella Sue Huff Cox Andy Huff's Daughter It was through the efforts of Sue's father, the late Andy J. Huff that the Pi Phis remained in Gatlinburg in 1912 and he remained a true friend of Pi Phi throughout his life. Although she was only four that year, she entered the first grade of the new Settlement School. After she had completed all the schooling offered by the School in its early years, she finished her high school work away from Gatlinburg and graduated from Maryville College, Maryville, Tenn. She then re-turned to Gatlinburg to teach high school English in the School and has given years of service as a teacher. For many years she served on the local Settlement School Committee (which no longer exists) that worked with the Pi Phi Settlement School Committee in solving many local problems. Through the years she has made many Pi Phi friends and one who is very dear to her is Miss Amy B. Onken, Honorary Grand President. She has always been a leader in civic and church work and presently is superintendent of the Baptist Church Junior Sunday School Department, sings in the church choir and is a Training Union Leader. She is active in the P.T.A., the Gatlinburg Garden Club and the Sevierville Music Club. Pi Phi Family Ties Sue has a Pi Phi daughter, Connie Sue Cox, Tennessee Gamma; a Pi Phi sister, Mattie Huff Lawson, Iowa Gamma ; two Pi Phi sisters-in-law, Henrietta McCutchan Huff, Missouri Beta and Pauline Whaling a Huff, Illinois Alpha; and three Pi Phi nieces, Barbara Huff BeVille, Patricia Sue Huff and Barbara Cox McCroskey, all of Tennessee Gamma. Her husband, William G. Cox, has served on the Sevier County School Board from the Gatlinburg District for eight years. They have three children, Connie who graduated from the University of Tennessee in 1962 and now teaches in Atlanta, Ga.; Billy, a history teacher at the Pi Phi High School and Sammy, a freshman at Carson-Newman College. Sue, who has expressed her deep pleasure in being a Pi Phi, now has another civic activity in which she takes intense interest the Little Pigeon Alumnae Club. 30 It's Dr. Dalton Now TENNESSEE ALPHA P1 PHI EARNS PH.D. WITH HONORS by Mary Y. Hale, Tennessee A Elizabeth Landress Dalton (Mrs. Sethur W.), Coordinator of Secondary Education in the Chattanooga. Public Schools and a Tennessee Alpha alumna of Pi Beta Phi, has made a distinguished record as an educator and administrator culminating June, 1962 in the attainment of a Ph.D. degree, with honors, from George Peabody College for Teachers, Nashville, Tennessee. Within the same week a daughter, Barbara, also Tennessee Alpha, received her A.B. degree from the University of Chattanooga and a son, David, his diploma from Chattanooga High School. Another daughter, Anna, is in high school and a son, Robert, in junior high. The quartet of children and the husband form an admiring group around Elizabeth in her academic role in the picture below which appeared in a Nashville newspaper with the caption, "Sheepskins Pelt Chattanoogans." Chapter President Elizabeth Landress entered the University of Chattanooga in 1926 and was initiated into Tennessee Alpha in 1927. She served as recording secretary 1928-29 and as president of the chapter 1929-30. She was delegate to the national convention at Pasadena in 1929. Elizabeth was active on campus serving as secretary of Student Council and as an officer in various clubs Beta Pi Theta (French), Sigma Tau Delta (English) and the Spanish Club. She was graduated with honors in French and English, presenting a thesis entitled, "Rostand, His Life and Works." Elizabeth was elected to Alpha, honorary scholastic society, and received the Alumni Achieve ment Award given to the outstanding senior of the class of 1930. In 1937 she married Sethur W. Dalton, chief accountant with Dixie Mercerizing Company of Chattanooga. Except for leaves of absence for the births Dr. Dalton and her family. Left to right: Robert, David, Barbara, Anna and Sethur. of her four children Mrs. Dalton continued to teach ; first, elementary school; then junior high French, Spanish, English and business ; and high school business education, including shorthand, typing, secretarial practice and bookkeeping. The master of education degree, cum laude, was earned at the University of Chattanooga in 1952. In the administrative field she was designated Educational Aide to Superintendent L. G. Derthick, who was subsequently U. S. Commissioner of Education ; then she became Assistant Principal of an elementary school until her appointment as Super-visor of Secondary Education. Her present post as Coordinator of Secondary Education was attained in 1960. While completing the work for the doctorate, Mrs. Dalton was graduate assistant to Dr. William Alexander, chairman of the Department of Education, George Peabody College for Teachers. She was granted a Ford Fellowship at this time. Her doctoral dissertation, "Preparation Programs of Junior High School Teachers," is being published by George Peabody College as one of its pamphlet series, "Master Teacher Classroom Keeper?" Active in Civic Work Dr. Dalton has not limited her activities to her career and home, however, but has also been a participant in church work and civic affairs. She is a member of the Central Baptist Church where she teaches a class for women. She is a member of the board of the Family Service Agency, an active member of Kappa Delta Pi, a national honor society in education, and Alpha Delta Kappa, a national honorary society for women teachers. Among the many professional organizations in which she holds membership are: Association for Supervision and Curriculum Development, Association for Childhood Education, Tennessee Supervising Teachers and National Education Association. Dr. Dalton has published articles in The Tennessee Teacher, The High School journal, edited the Chattanooga School News-Letter, and is a regular book reviewer for The Chattanooga Times. It is always inspiring to watch the results and influence of an accomplished homemaker and de-voted mother. When these duties are dovetailed with an outstanding career in a highly competitive field which demands ability, application and continuing research and study, then we point with pride to one of our number who exemplifies success in a triple fashion: wife, mother and teacher, Elizabeth Lan-dress Dalton. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

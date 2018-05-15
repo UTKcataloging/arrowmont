@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr8620031_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News of Arrowmont School of arts and crafts</title>
+                        <author><name>Garrard, Allece Locke</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Winter 1969</date>
+		        <idno type="SPCID">arr8620031_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1969</date>, News of Arrowmont School of arts and crafts</title>
+                        <author><name>Garrard, Allece Locke</name></author>
+                        <extent>Pages 31-34</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">41</note>
+                        <note type="Folder">6</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 86, Number 2 (Winter 1969), Pages 31-34.</note>
+			<note type="document">arr8620031_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>The Birth of Arrowmont, Gatlinburg, Tennessee, 1965-1979</item>
+                                <item>People</item>
+                                <item>Arts</item>
+                                <item>Promotion</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr8620031_0001" seq="01" n="30-31  "/>
+       <p>Nola Willis, Alberta Alpha Susan Sheffel, Oklahoma Beta Two Awarded Pi Phi Fellowships IN 1909 Grand Council established a "Graduate Fellowship of $500.00 open to any Pi Beta Phi who has received her bachelor's degree and available for use in any university in this country or Europe." The Fellowship winner is deter-mined by vote of the Grand Council. This year, Grand Council announced the selection of two Fellowship recipients, Nola Hague Willis, Alberta Alpha, and Susan Scheffel, Oklahoma Beta. . Susan was graduated from Oklahoma State University in 1967, and for the past two years has been teaching in the San Mateo, Calif., Elementary School District. During her four years on campus, Susan was awarded nearly all the honors available to her. She was a member of all the honorary organizations based on scholarship, as well as being Mortar Board and in Who's Who. In her chap-ter, she served as pledge superviser, and membership chairman and was selected for the Chapter Service Award. In addition, her over all grade point average was 3.5. Susan is using her scholarship at Stanford University, working on a Masters degree in guidance and counseling. Mrs. Nola Hague Willis is using her Fellow-ship to begin work on her Ph.D. in the department of English at Royal Holloway College, University of London. Following her graduation from the University of Alberta, Nola spent four years teaching high school in Edmonton, all the while working on her masters degree. She was also active with the Alberta Alpha AAC, where she was rushing recommendations chairman, AAC advisor to pledges and supervisor of examinations. While a collegiate Pi Phi she was responsible for completely rejuvenating rush methods of the chapter: During the past year, Nola took a course in English stage comedy at the University of Sus-sex in England, and, at the same time, completed her thesis on Shakespeare's Troilus and Cressida. Her husband has begun a Ph.D. pro-gram at the University of London. An assistant professor in the English department of York University in Toronto says of Nola, "She was without question the best student in the class of sixty people, and displayed unusual promise and critical perceptiveness. I can recommend her to you without any hesitation." Surely these two Fellowship recipients show the "all-around development of character with its resultant ability worthy to represent the fraternity," as stated in the requirements for selection. 30 News of THE NEW ARROWMONT BUILDING CONSTRUCTION AS OF SEPTEMBER 1969. This tremendous building stretching on and on is roofless. Under the new roof will be four studios, an exhibit gallery, classrooms, offices, an auditorium and a library, all necessary to start the year round program in June 1970. No Pi Phi active or alumnae wants to see this important school housed under a cheap roof which would have to be replaced in a few years. Instead everyone is rooting for a permanent roof. How does Arrowmont get such a roof? By every Pi Phi buying one or more "lifetime shingles." school of arts and crafts '%t.. The Great Smoky Mountains Gatlinburg, Tennessee 37738 31 </p>
+      <pb ref="arr8620031_0002" seq="02" n="32-33  "/>
+       <p>?d Interest by ALLECE LOCKE GARRARD Crafts Tour Director ?. a bert F. Kooistra, Tennessee; Lourena Cook, Jesone sie Clarke Daniels, Dotty Holmes, Texas; John who Fix, Dorothy Fix, Maryland; Robert M. Gilt-own ner, Nelda Gay Vest, Kentucky; Shirley Her-high dell, Iowa; Robert Hutsell, Washington; Meda and Parker Johnston, Dr. Will F. Tolar, Illinois; auHelen F. Potter, Massachusetts; Helen M. Rus sell, Missouri; Jan Wright, Wyoming. our. In what is called the Ugly Age, Arrowmont .tion is excellence and empathy and beauty that lasts. area It stands out. k as The whirlwind tour to publicize Arrowmont owlgathered new scholarships on the way, and Duld created interest in and out of The Fraternity. Van But Pi Phi is working on a centennial project Ible, designed to be productive for another hundred ;abel years. Its needs are as tremendous as the buildaehing program in progress. , JuThe Crafts Tour response, exciting as it was, Me represents a drop in the bucket. ,am The Tarrytown, N.Y. Daily News printed the above picture of Dorothy Verges Griffin, amateur potter, whose work is displayed, and, right, Betty Bailey Hall, New York Tour Chairman, to announce the showing in May at the Burke Rehabilitation Center, White Plains. The Westchester Alumnae Club sponsored the New York showing. Mary Emrich Van Buren, left, Beverly Blout, and California Tour Chairman and exhibitor, Jean Bobst Venable, view Arrowmont crafts above. California showings were in a bank on Wilshire Boulevard; the Oakland Kaiser Center, and the Huntington-Sheraton in Pasadena. (Los Angeles Times photo) .': Cindy Pictured at the entrance of the Phoenix Art Museum ml on where crafts were displayed in January are R. D. A. mber. Puckle, Associate Director of the Museum, who ar iir in ranged the display, and Arizona Tour Chairman, A. J. 1. The Fleet Dickey. Mrs. Dickey was also responsible for two tature other Arizona showings-one at the Northland Press .t, the Gallery in Flagstaff, and the other at the Fine Arts edenBuilding of Prescott College in Prescott. 32Chairman of a showing in Washington, D.C., two in Maryland and two in Virginia, was Merl Meadors Pettit, Jr., standing below. Seated is Honorary Chair-man, Mrs. Howard H. Baker, Jr. The reception-showing at the Congressional Club in Washington honored Marianne Reid Wild, President Emeritus. Four showings, covering nearly 100 New Jersey towns, represent the work of State Chairman, Jean Dunbar Socolowski, above right, assisted by Martha Martin Cease, showings sponsored by the Northern New Jersey Alumnae Club. Showings were at Mountainside Library; Central YM-YWCA, Newark; the Mall at Short Hills; and a bank in Mountain Lakes. Blueprints of Arrowmont gain the attention of Missouri Tour Chairman Geraldine Hall Dalton, above left, and co-chairmen of the five-day showing of crafts at Stan-ley Gallery, the University of Missouri, Mrs. Dick Renner and Mrs. Clement Brooke. There were showings in Springfield at the Drury College Gallery, and a reception-showing at the Nelson Gallery complex in Kansas City. (Columbia Missourian photo) Batik wall hanging by museum artist, Isabel Beaudoin, is held by Allece Lock Garrard, Tour Director. Called "Tennessee Waltz" (a hemp tassel swings at the end of each tapered panel), the colorful hanging was purchased by the Garrards at the close of the tour. </p>
+      <pb ref="arr8620031_0003" seq="03" n="34-35  "/>
+       <p>Arrowmont Student Has High Praise I have known about the Pi Beta Phi Settlement School, now Arrowmont, for over twenty-four years, but until I went there, I was unaware of how much we, as Pi Phis, have to be proud in Arrowmont. The directors, the staff, the students, all working together toward a common goal of achievement, is a wonderful adventure of which to be a part, although it is difficult to describe. One simply has to be there. I was so impressed with so many talented and accomplished people so willing and anxious to share and impart their knowledge to others. It was hard work, but one wanted to work because there was so much to learn and such a short time in which to absorb it all. The students range in age from fifteen to seventy-odd years, from all walks of life, from hobbiest-housewives to professional craftsmen, auditing credit to taking Ph.D. credit, and they came from at least thirty-five different states and two foreign countries. I was unusual in that I was the only Pi Phi student the first term, and I gathered that Pi Phi students are somewhat unusual at any time. Apparently, not too many of us have taken advantage of our wonderful Arrowmont. Indeed, if it had not been for the Houston Alumnae Club awarding me a scholar-ship, I would not have been there myself. Needless to say, I am eternally grateful to them. To my knowledge, I am the first Pi Phi to whom the Houston Alumnae Club has awarded a scholarship to Arrowmont. It would be my hope that all of the Pi Phi alumnx clubs who award scholarships to Arrowmont, might consider a member of the club as a recipient of an Arrowmont scholarship. I feel that no one could be anymore proud or grateful than a Pi Phi receiving this honor. I hope to return every year, any way I. can, and I shall shout my praises of Arrowmont anywhere I can. To all my Pi Phi sisters I heartily recommend a trip to Gatlinburg. This is true whether arts and crafts are of particular interest or not. Arrowmont is a beautiful school, run by beautiful people, in one of the most beautiful spots in our country. It could not help but be a delight to everyone, as it was to me. And to those who are interested in arts andby SHIRLEY MAXWELL ABBOTT Housion Alumni Club crafts, please take two and a half or five weeks one summer, and attend Arrowmont as a student. It will be one of the most enriching experiences you will ever have. On the right, Shirley Maxwell Abbott, scholarship recipient of Houston, Texas Alumnce Club, admires a Macrame wall hanging in the ceramic wing of the Craft Center. On the left is Mary Maxwell Haberger, a junior high school art teacher, who also received a scholarship from the Houston club. SHINGLES FOR SALE $Loo Help Raise the Roof At Arrowmont 34 Pi Phi Is Queen Of Forest Festival TWENTY-YEAR-OLD Charlotte Nelle Buzzard of Moundsville, W.Va., a pleasing blend of beauty, charm and intellect, reigned as Queen Silvia XXXIII for the annual Mountain State Forest Festival in October in Elkins, W. Va. A member of West Virginia Alpha, Charlotte is an elementary education major. A bit awed and genuinely appreciative of the honors bestowed upon her, Miss Buzzard bubbled with excitement as she related the story of how she first learned of her appointment as Queen of West Virginia's oldest and largest festival. "When my father first mentioned the subject, I thought he was referring to my being a princess. When he said, `You know you will be queen, don't you? Well, I was just overwhelmed." Charlotte is blond, five foot six, and talented in several fields. A sports enthusiast, she ranks swimming highest among her favorite pastimes, but a sunny day might well find her on the golf course or swinging a tennis racket. Painting still-life portraits in oils and char coal is a favorite hobby. She also plays the piano, but says that both painting and music are pastimes which she does for her own enjoyment. During her reign as Queen of the 23rd annual Mountain State Forest Festival, Charlotte was the guest of honor at the Queen's Ball, at-tended the Distinguished Guests Dinner, rode in two mammoth parades and officially attended the dozens of sporting events, dances, exhibits, and contests which are a part of the four day celebration. One of the highlights for Indiana Epsilon last year was the crowning of Jan Johnson as queen of "Little Five Hundred" Weekend in May. Jan reigned as Freshman Interfraternity Council Queen her first year on campus. Last spring she was runner-up in the Miss DePauw Pageant where she had the opportunity to demonstrate her talents on the trampoline. She has been a cheer-leader for two years and has worked on committees for the Union Board. Next semester Jan will study in Vienna, Austria. First Time "Rusher" Loves The Experience by JANET FULLER, New Mexico Alpha Ifs been a week now, and I'm still all excited about fall rush. This was my first time rushing for Pi Phi and I really didn't know what to expect. To add to my anxiety, I was appointed to song leader at the last minute when one of my sisters revealed her plans to transfer to Arizona. However, our rush was so well planned that nothing could have gone wrong. Most of the thanks go to Gail Bandoni, our rush chairman. Gail did a mountain of preparing for rush and put in many long hours on decorations and party plans. We finished rush with a fantastic pledge class and a chapter that is full to over-flowing. My first rush was an exciting experience and I can't wait for next year to come. Congratulations to all chapters of Pi Beta Phi on your great new pledges, and lots of luck from me and all my sisters for the coming year. I'm waiting to read about all of you in The ARROW! </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

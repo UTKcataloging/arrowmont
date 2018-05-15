@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr5720227_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name> Pace, Jeffries Green </name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>December 1940</date>
+		        <idno type="SPCID">arr5720227_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">December 1940</date>, News from Little Pigeon</title>
+                        <author><name> Pace, Jeffries Green </name></author>
+                        <extent>Pages 226-229</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">39</note>
+                        <note type="Folder">9</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 57, Number 2 (December 1940), Pages 226-229.</note>
+			<note type="document">arr5720227_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Plays</item>
+                                <item>Southern Appalachian culture</item>
+                                <item>Arrowcraft</item>
+                                <item>Agriculture</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr5720227_0001" seq="01" n="226-227  "/>
+       <p>NEWS FROM LITTLE PIGEON Edited by JEFFRIES GREEN PACE, Virginia A 11.1.11111.1.11111111811111111.11111111IIIIIIIIIIIIIIIII.1111M.1111.118.11111111IIIIII01111111111.111111111111 1.11111111.1.811311. I I II 1 1111111t.111.11111111111111 One of the most interesting adventures of my summer, was making the acquaintance of Wiley Oakley's book just published Roamand With the Roamin' Man of the Smoky Mountains. It is a fine thing to know Wiley but this book will transfer the colorful character of its writer to all those who care to buy and read its quaint philosophy. The following are a few outstanding quotations from its pages: "Nature is one of the studies in the Great Smoky Mountains that every pursen should know something about. Old Mother Nature can't be beat in these mountains. She is a wonderful study. So I advise every pursen who reads this little book just take time to stroll out on some of these beautuful trails and every now and then take a look and lissen and take a deep breath and look things over. It don't make any different how young or old you may be, jus go at a slow pace and try to forget about time or other worry. Time and money don't mean any-thing. Most of the mountain people thinks about the same thing about this rushing business." THE SHEEP EYE "Still in my boyhood days as I grew up my older brothers married off one ,by one and a sister so I began to think it is time for me to look out for a girl and get married. I would go around where the mountain people would be making sorgum molaseys in the autem time and at night they would take off the box and the hot furnice would be full of fire we would have a candy pulling and this was lots of fun for the young people. The boys would pull candy with the girls and they would make wishes and after the candy pulling everybody went home for the night. But around these places was a good place for a. boy to spot him, a girl and when no one was looking this was the time to cast sheep eyes at the girl he liked best when he found one. When the boy casted the sheep eye at the girl if she loved him good enough she would cast them back with a nice smile. This meant it was O.K. you could go home with them or to church. But if the girl give you a sour look with plenty frowns in her face this meant you had better call your dogs and go home for the fox race was all over. You would hafto try again some other day. SHOT AT THE SCREAM "But still let me take you back to scratch britches Mts. I lived for 4 years. At nights I could walk to the cabin door just at dark and gaze up into the skys sometimes for the big dipper and the north star and the north star was my guide at night and I watched the other stars to count the time of night it might be and when I counted the space between the Earth and the star I picked out to count time I measured the space with my hand holding it just as far as I could reach. My hand would make an hour looking over my hand not counting my thumb. Just over the 4 fingers. And in the same way I could tell about the sun in the day time. If I wanted to know just what time a day it was I would meassure from Earth to the Sun and this would work like a clock. And while standing at the cabin door at the foot of scratch britches I could hear the different crys of the old horn Owl and other nightbirds and when there was going to be a change in the weather the old Wizard owl would come around and scream and hoot and laugh and make all kinds of rackets and then I new to get ready there was a storm on the way of some kind. AND THERE NESTES IS HIGHUP "Now if you would like to be a poiet Just let me tell you how. just climb one of these mountain peaks on a summer day. then spend the night. and watch the skys. as the sun bends low. and see all the shadows come and go. and lissen to the sofe whispering winds, that rushes wright through the tree bows. and they always seamest to say where 227 </p>
+      <pb ref="arr5720227_0002" seq="02" n="228-229  "/>
+       <p>Top: Six of the cast in Weaver's Play with old Pi Phi cabin in background. Bottom: Cast of Weaver's Guild Play. Author is in exact middle of page. THE DECEMBER ARROW 229 are you. then you should not fear for Gods love may be coming near." Gleanings from the Letters of the Directress The weaver's play which gave performances one night a week all summer for the benefit of summer visitors, cleared five hundred dollars for the season. In addition to the regular performances, they are giving a benefit, whose proceeds will go to help the plan for a public library in Gatlinburg. Guild Players Guests of Knoxville Mayor Mr. Allen, Mayor of Knoxville, invited the cast of the Weaver's play, the members of the school staff and the dormitory students to attend the fair in Knoxville as his guests. The cast went in a chartered bus and spent the evening. The students went another day in the truck with two of the teachers and Mr. King as chaperons. All reported a good time and only one got lost. Flower Show Gets Big .Had This year's flower show was pronounced by the judges (who were expert flower growers from the Knoxville Club) a far better show than the Knoxville one. The gymnasium and both the laboratories were filled with the display. Mrs. Voorheis' unique feature for the stage was greatly admired. It was a little farm house surrounded with lovely scenery made with flowers and shrubs from the Voorheis' place. It is amazing where all these flowers, plants, and vines spring from, but the native folk have become so interested in the raising of flowers for exhibition that they feel no hesitancy any more in bringing their best specimens. Mary L. Owenby's wild flower display, as usual, took first prize. National Conference of Handcrafters Many groups were represented at the Pen-land conference of handcrafters. Among them being: the New Hampshire League of Arts and Crafts, John C. Campbell Folk School, Berea College, U. S. Agricultural Extension Service. Twenty three states altogether were represented, the topics of chief interest being the marketing of handcraft products, standards of works, and planning publicity for crafts. The last three days were devoted to individual craft work. Speakers of interest were Eugene Deutch, Hungarian, a ceramist from Chicago, and Christine Van Hall, Hollander, a weaver with the Farm Security Administration, Home Settlement project. Vocational Agriculture Enrolls Fifty Fifty boys are enrolled in the vocational agriculture classes for this year. At the Sevier County Fair, the Pi Phi Jersey herd made a good showing, bringing home three firsts, one second and two third prizes and the Grand Champion Heifer of the jersey Show. The boys were happy to be superior F.F.A. of the county and on their personal exhibits, they won a total of $32.00 in prizes. The F.F.A. shop exhibits were also entered in the Tennessee Agricultural and Industrial Fair at Knoxville, where there was great competition, but they won some second and third ribbons. Arrow Craft Sweeps Knoxville Fair Arrow Craft took all the first prizes at the Knoxville Fair display for weaving. It was virtually a walk away but the amount of money won is not yet known. Gifts During September Grateful acknowledgement is here made of gifts for the month as follows: books for the library, from Mrs. L. K. Malvern of Elgin, Illinois a lovely big flag from Mrs. Davis of Gatlinburg and $5.00 toward new curtains for the stage from the Weaver's Guild. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

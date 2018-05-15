@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr8040017_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Tate, Maria Hutchins</name></author>
+                        <author><name>Stange, Jean</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Summer 1964</date>
+		        <idno type="SPCID">arr8040017_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1964</date>, News from Little Pigeon</title>
+                        <author><name>Tate, Maria Hutchins</name></author>
+                        <author><name>Stange, Jean</name></author>
+                        <extent>Pages 16-17</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">16</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 80, Number 4 (Summer 1964), Pages 16-17.</note>
+			<note type="document">arr8040017_0000</note>
+                        <note type="Table Of Contents">From Arrowcraft . . . ; Summer Craft Workshop; Busy Red Barn</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Arrowcraft</item>
+                                <item>Summer craft workshop</item>
+                                <item>Facilities</item>
+                                <item>Staff</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr8040017_0001" seq="01" n="16-17  "/>
+       <p>News from Little Pigeon by Maria Hutchins Tate, Florida Beta Arrowcraft Shop Manager The Arrowcraft Shop on the Gatlinburg Parkway at the edge of the Pi Beta Phi Settlement School property is an attractive, homelike shop. This is a weaving center and under our weaving designers traditional as well as original designs have been developed for table linens, stoles, towels and bags and many other items woven by men and women on their home looms. These articles, along with the finest examples of the native handcrafts, are sold to local visitors and shipped to all parts of the United States and Canada, where Pi Phis provide the market for them through the Alumnae Club sales. Our shipping to the alumnae clubs actually be-gins with the weavers and craftsmen in the area. We average sixty-five weavers during the peak season and less the remainder of the year. These weavers live within a radius of ten miles of Gatlinburg and many depend upon this for their livelihood. Weaving items are brought to the shop ready for shipping except for the tag which carries the name, design and price. In five months time from June through November 1963 the best selling article was the potholder with a sale of 11,510 the next in line were the hot mats with a sale of 8,416. The Whig Rose is the most popular place mat with 4,882 sold last year but the Daisy Chain mat will run a close second in the year's total. The Tote Bag is by far the best seller in bags with 3,169 sold. Mr. Kear's broom top the list in crafts with a total of 4,087 in those five months. Following are Tic-tac-toe, 2,144; napkin rings, 1,353 ; spinning tops, 1,152. 161 alumnae clubs sent in orders for the full year 1962-63. From August 1963 to January 1964, orders came from 178 clubs, which we feel is a size . . . To You able gain. Peak amount of postage for one day this year was $72.00. Larger orders are shipped by Railway Express or motor freight. Neal and Zanley Watson, cousins come in every morning to tie the pack-ages and take them to dispatch centers in Gatlin-burg or Knoxville. October, November and December are the busiest shipping months. Fay Cook and Gene Hembree are called shipping clerks but during this heavy shipping season all shop staff members, who have been faithful for many years, work days and many times at night to get orders to clubs in time for their sales. The orders are filled and shipped as soon as pos sible but because all items are handmade this is sometimes difficult, particularly at Christmas. How-ever we are making every effort to increase our efficiency and look forward to your future orders. From Arrowcraft. Nella Hill, center, bringing weaving to Shirley Roberts and Jane Cook, who are at work tagging stacks of woven goods. Fay Cook and Gene Hembree checking articles as they prepare them for shipment. Neal and Zanley Watson load packages for the first leg of their journey to alumnae clubs. 16 THE ARROW OF PI BETA PHI 17 Summer Craft Workshop by Jean Stange, Instructor Pi Beta Phi University of Tennessee Workshop Workshop has not only a physical entity but possesses a quality of the spirit which gives it a particularly unique identity. It connotes shared experiences of personal and professional creative growth, of a loose knit, diverse group of individuals of varying abilities and back-grounds, yet bound by a common recognition of the personal values inherent in working with one's hands, the satisfaction and rewards that come with self-expression. I believe most of us take far more home with Busy Red Barn Have you ever wondered whether the Red Barn was being used ? It is. From January through April bookings for the Red Barn were heavy. Three Pi Phi chapters have held retreats there. The University of Tennessee Alpha Gamma Deltas, five,church groups and two youth groups all took advantage of the fine facilities it affords to philanthropic and religious groups and to Pi Beta Phi chapters. us than the completed silver pendant, the enameled bowl or the ceramic pot. These are merely the means, yet the tangible symbol of a far richer experience which Workshop offers to students and staff alike. Reflection on Jean's thoughts brings another Pi Phis participating in the Craft Workshop realize that the easy, friendly atmosphere which contributes to this enriching experience is largely a reflection of the personalities and the philosophy of the Workshop staff. Fraternity-Sorority Exhibit at World's Fair During the period of July 19 to August 9 the center of attention in the magnificent "Hall of Free Enterprise" at the New York World's Fair will be a special fraternity-sorority display. The multi-colored exhibit, under the title of "Young Partners in Free Enterprise," will be jointly sponsored by the National Interfraternity Conference and the National Panhellenic Conference. The presentation will vividly portray the contributions of Greek societies to the betterment of colleges and universities and to the constructive development of young men and women in North America. Informed young members of men's and women's groups will be on hand at all times during the course of the exhibit to answer questions, distribute materials and accommodate guests. You will be proud of your exhibit at the World's Fair. Plan to see it. FROM PI PHI PENS (Continued from page 14) Revealing of her ability to find delight in variety and to spice beauty with the salt of humor is her poem, "Sounds I Love," in which she includes in part: "Meows from kittens with milk whiskers, 'Yes, I love you,' in tender whispers, 'Hello: chirped with vitality, `Good night,' with great finality, The plinks of rain on shallow tin, The swish as coal slides into the bin. . . A sampling of her titles substantiates the claim of variety. Try: Teaberry Ice Cream, Socialism, The Oneness of the Soul, A Plea for Non-conformity, and What Is God ?, the latter a charming dialogue between mother and child. In fact, try them all and be rewarded. AUTHOR INTEREST : Past president of the Bucknell University chapter Janet Worthington(Mrs. Ernest Harris) Engelhardt, Pennsylvania Beta '38, has two earlier books, Irondale Songs and Falling Petals, to her credit, and her poems have also appeared in such nationally known periodicals as Better Homes and Gardens, Country Gentlemen, the N.Y. Herald Tribune, and the Philadelphia Inquirer. A resident of Bloomsburg, Pa., and the mother of a son and daughter, she has maintained her interest in the sorority, serving four times as Symposiarch. RANDOM NOTES: A family writing tradition is being perpetuated by Carol Estes (Mrs. Michael C.) Thometz, Texas Beta '61, the daughter of Carol Cox (Mrs. Joe E.) Estes, whose mystery books have been reviewed here. Mrs. Thometz' book, The Decision-Makers: The Power Structure of Dallas, was prepared originally as a thesis for her Master's. Degree at Southern Methodist University, and sparked so much interest in that form that SMU Press published it last October. A review of it is planned for a future issue. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

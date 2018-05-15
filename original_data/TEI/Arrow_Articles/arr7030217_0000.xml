@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7030217_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelock</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>March 1954</date>
+		        <idno type="SPCID">arr7030217_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">March 1954</date>, News from Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelock</name></author>
+                        <extent>Pages 217-218</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">6</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 70, Number 3 (March 1954), Pages 217-218.</note>
+			<note type="document">arr7030217_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Summer crafts workshop</item>
+                                <item>Arrowcraft</item>
+                                <item>University of Tennessee</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7030217_0001" seq="01" n="216-217  "/>
+       <p>Ct tizevto ~i~p ark By Marie Tunstall Lingo, D.C. Alpha FEBRUARY 29, 1952, the President signed a joint resolution passed by both Houses of ongress, designating September 17 of each year "Citizenship Day," and authorizing the Presient to issue annually a Proclamation calling pon the people of the United States to observe 'at Day. The Day will henceforth be the oc-Lsion each year to commemorate the signing F the Constitution of September 17, 1787, and ) re-emphasize the significance of United States :itizenship. The "Citizenship Day" Resolution Teals the Joint Resolution passed by Congress 1940 establishing "I am an American Day." The Constitution was signed September 17, 787, and although that date has sometimes een referred to as "Constitution Day," and the ccasion variously commemorated from time to me by independent organized groups throughut the country, there has never been a Conressional Resolution designating September 17 s a day of observance. Citizenship and the Constitution are inseparale. Therefore, the recognition, observance and ommemoration of United States citizenship are losely related to the basic purpose of cornnemorating the signing of the Constitution. When this timing and the designation of "I am n American Day" was under consideration, it eemed most appropriate to set "September 17" .s the commemoration date, and Citizenship Day .s the designation of the event. Only in name and timing, however, does "Citizenship Day" replace "I am an American Day." All the traditional objectives, principles and activities of the latter will be carried forward under Citizenship Day observances, with additional emphasis placed upon the significance of United States Citizenship and the reciprocal rights and duties flowing from the Constitution. The D.A.R. has just published the 1953 edition of their Manual For Citizens in 18 languages compiled and given to candidates for United States Citizenship for over thirty years. The film entitled Twentieth Century Pilgrim, 16 mm., sound technicolor movie of fifteen minutes' duration describes the naturalization procedure in the United States of America, following the alien from the moment of landing on these shores to the oath taking in a naturalization court of the United States. The courtroom scenes are authentic and were made with the per-mission of judge Alexander Holtzoff, U. S. District Court, District of Columbia, who presided. The film may be had on a loan basis by civic, patriotic, school, church or social service groups by addressing a request to the undersigned. Due to a limited number of prints, scheduling is made from four to six months in advance: Judge Carl Hyatt Assistant Commissioner Citizenship I ices and Instruction Division Immigration and Naturalization Service U. S. Department of Justice Washington, D.C. Fraternities Teach" Loyalties Says Illini Professor "You won't find Communists in fraternities they just aren't there," declared University )f Illinois Professor Sleeter Bull, chairman of be Board of Fraternity Affairs, in a recent iddress to students at the Urbana campus. "Fraternities teach their members to be loyal :o their government, to the university and tothe fraternity," he explained. "There are laws, rules and regulations governing the three areas of loyalty. Even if we disagree with the laws, we must obey them until we can send a delegate or representative and wipe it off the books." From C Bulletin 216 nwO FROM LITTLE PIGEON Edited by Louise Wheelock Dobler, Washington Betc A THOUSAND students can't be wrong! That is the number who have been en-rolled in the nine Summer Workshops which Pi Beta Phi has sponsored jointly with the University of Tennessee, Division of Extension. Despite the fact that these "students" (from teen-agers to grandparents) have come from forty different states and Canada, relatively few of our Pi Phis know of the wonderful opportunity that is offered every summer to those who are interested to learn to do things with their hands. It might be just for a hobby, a way to spend empty hours, for physio-therapy benefit, to be-come proficient in handicraft arts, or the means of learning a livelihood that increasing numbers of Americans are busy practicing the art of creative production; and the Summer Workshop of Pi Beta Phi at Gatlinburg is one of the out-standing such schools in the country, and the first to offer college credit. The quality of the school and the excellence of its program are best appreciated when one hears first-hand from those who have attended and learn of those who have served as instructors. The 1953 group is typical. Miss Marion G. Heard, Professor of Craft and Design at the University of Tennessee, served again as Director of the Workshop and those who enrolled in her jewelry-making classes had the privilege of studying under one of the country's outstanding teachers. An international authority and teacher of the art of enameling, Mr. Kenneth F. Bates of the Cleveland Institute of Art, was a colorful addition to this year's faculty. A native of Massachusetts, with years of study in this country and abroad, Mr. Bates enjoys an international reputation for his skill as artist, teacher, lecturer, judge and author of the only complete work on the subject since 1902 "Enameling Principles and Practice." It was specifically to take work under Mr. Bates that Mrs. Edith Bailin, of the Art Museum staff in Denver, enrolled in the 1953 Workshop. Another enthusiastic student of Mr. Bates was Frank Stimson of Knoxville, architect and builder, who came tostudy basic design and color. Mr. Stimson con sidered the school an unique opportunity wits the caliber of the instruction most outstanding The weaving classes under Miss Wanda Nelles, talented artist-craftsman formerly of Ontario, Canada, College of Arts, and Miss. Meda Johnson, specialist in weaving and textile design from Mid-Western University in Texas proved ever popular and included advanced a! well as beginning students. One of the latter, Mrs. Alice M. Hecker, teacher of correlated craft in the Jamesburg, N.J., Correctional Schoo] for Boys, said the Workshop proved to be the most delightful experience of her life, and she was eager to get back to her boys and teach then-. how to use their looms to make articles to set at their annual fall fair which the local Lion'! Club sponsored. Mr. Benjamin F. Seitz of Elkins W.Va., a veteran who had spent some time as a T-B patient, was preparing to go into Veterans Hospitals as an instructor in the craft that i! considered so satisfactory from an occupational. therapy standpoint. Mrs. Ruth R. Gibson of the Ft. Wayne School of Art, who came to study metal wort under Miss Jane Glass of the regular staff of Radford College in Virginia, said of all the craft schools she had ever attended the Pi Ph. Workshop was superior because of its nice] living quarters, pleasanter surroundings, anc better instruction. Many others had similar word! of praise declaring that all previous recom, rn.endations for the school were understatement! of the delightful conditions prevailing. Anyone interested in pottery-making founC Barbara McDonald of the local McDonali Ceramics an outstanding artist and instructor and Miss Ruth Brotten, the dietician froand Michigan State College, did a superb job in producing meals for which there was not a complaint, nor a "repeat" during the entire session! Five wonderful weeks of work and play ir the beautiful Smoky Mountains! Doesn't that sound exciting? Well, if you are interested ir learning crafts from outstanding artists, whether for fun, profit, or' college credit, you couldn't 217 </p>
+      <pb ref="arr7030217_0002" seq="02" n="218-219  "/>
+       <p>218 THE ARROW OF PI BETA PHI PI BETA PHI-UNIVERSITY OF TENNESSEE WORKSHOP. Reading left to right, Eleanor Hodgson, student, College Park, Md., Mrs. J. K. McDonald, instructor and craftsman, Gatlinburg, Tenn., Ann Smith, Graduate Assistant at Workshop and Arts and Crafts teacher at the Pi Beta Phi School in Gatlinburg, Tenn. find a better place to do it than in Gatlinburg, Tennessee, home of the famed Pi Beta Phi School-UnIversity of Tennessee Summer Work-shop. This summer's Craft Workshop will be held in two' half-sessions from June 14 to June 30, and from July 1 to July 17, and one may enroll for either or both. A full session provides opportunities to visit craftsmen and craft centers in the area, as well as the maximum time for actual practice of desired crafts. Classes will be offered in beginning and advanced weaving, silk screen printing, metal-work, jewelry-making, enameling, pottery, de-sign, and recreational crafts. Tuition is $75.00 for the full session, $37.50 for the half-session. Room and board at reasonable rates may be obtained at the Pi Beta Phi School. If you wish to meet interesting people, accomplish some worthwhile creative work, enrich your knowledge of crafts, acquire some college credit hours, and/or take a summer vacation in the beauty of the Smoky Mountains, then come to the CRAFT WORKSHOP! You'll be glad you did! (For further information, write to the Pi Beta Phi Settlement School, Gatlinburg, Tennessee) . ....* Where Did the Words Come From? The Citizenship Committee of National Panhellenic Conference, in a recent statement on "The Spiritual in Fraternity Rituals," points out interesting relationships between fraternity ceremonies and some of the great documents of our civilization. Most rituals, the Committee states, are based upon the philosophies of the ancients, the Bible, and the Declaration of Independence. "In attendance at national conclaves are manyalumni who participate with solemn reverence in the ritualistic services which are a part of such gatherings, they look on with pride and sometimes emotion as younger members carry out the traditional symbolical ceremonies which the older members realize have influenced the ideals and practices of their own lives." 1RAC Bulletin nP. C Okervei gotten, -An,niverutry -.4t Hotel Huntington, Pasadena, California November 3-7, 1953 By Mary Hastings Holloway Page (Mrs. Robertson), N.P.C. Delegate of THE GOLDEN opportunities of the future took precedence over the golden anniversary aspects of the past as delegates from all over the nation assembled in Pasadena to pay tribute to fifty years of service by the National Panhellenic Conference achieved since its first official meeting in 1902. * New horizons of usefulness keynoted this 33rd meeting of N.P.C. with emphasis on the potential force of the fraternal world in providing leadership in civic affairs. The thought-provoking program, according to many members present, dramatically illustrated the contrast between a past that featured discussions of more or less self interest and a present where the chief concern is rendering a service to mankind in a complex world. It was stressed again and again that women's national fraternities recognize the need for sound leadership and their opportunities for contributing to such leadership through faithful practice of the fundamental principles upon which Panhellenism is founded. Presiding was Mrs. W. Harold Hutchinson, A cl), Chairman of N.P.C.'s Executive Committee. In her opening remarks she called upon the conference to discuss with wisdom the means of fraternities to utilize the potential force of their membership. She said that the biennium had revealed increasing effort of college and city panhellenics to pattern their procedures in accordance with recommended N.P.C. policies. Further she called attention to the cooperative interest of college administrations in the widening scope of fraternity progress, and pointed out that federal and national organizations have continued to seek N.P.C. support and influence. Among the first business of the conference was the acceptance of Iota Alpha Pi into associate membership, following the report of the Eligibility and Nationalization Committee. At the Tuesday evening session, "Investment in Fraternity," a panel discussion, was effectively presented by the Central Office Executives Association, moderated by the president, Gertrude Anderson, A '41 A. "Investment" was defined asalways a personal one, with a return capital outlay but in the member's oppo: to increase and build upon her own scat a woman. Since the program of womer tional fraternities encourages leadership, a ber learns how to assume responsibilities as how to work with others. The pane] marized that through fraternity experie: member may learn to participate with disci in local and national affairs. As the five day agenda progressed, rep standing committees reflected impressive i in all directions, indicating practical awe of citizenship responsibilities developed 1 ternity training. Panhellenic activities she distinct maturity of approach, with N.P.C. sentatives conscientious in seeking to workable procedures which express the id, fraternity in the finest sense of public re at the chapter and civic level. Indicative of this far-reaching attent campus activities, on Wednesday memb the College Panhellenics Committee dis the "Relationship of N.P.C. to the Colleg( pus" with visiting Deans of women in th present to participate. This committee ex' N.P.C. policies with regard to local panhellenics, public relations, the essent a strong panhellenic, educational pro methods and techniques of membership se N.P.C. OFFICERS 219 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

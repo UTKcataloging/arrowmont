@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr8120021_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Gordon, Sally Wild</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Winter 1964</date>
+		        <idno type="SPCID">arr8120021_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1964</date>, News from Little Pigeon</title>
+                        <author><name>Gordon, Sally Wild</name></author>
+                        <extent>Pages 20-21</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">41</note>
+                        <note type="Folder">1</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 81, Number 2 (Winter 1964), Pages 20-21.</note>
+			<note type="document">arr8120021_0000</note>
+                        <note type="Table Of Contents">Settlement's School Ambassador of Good Will; Congratulations to Arlington Heights, Illinois Alumnae Club; Pi Beta Phis 1964 Summer Craft Workshop</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Settlement School</item>
+                                <item>Staff</item>
+                                <item>People</item>
+                                <item>Sales</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr8120021_0001" seq="01" n="20-21  "/>
+       <p>News from Little Pigeon Edited by Sally Wild Gordon, Wisconsin A Settlement School's Ambassador of Good WM In February of 1955 Mrs. Nelson B. Rue came to the Pi Beta Phi Settlement School in Gatlinburg, as manager of the Arrowcraft Shop. Now she is semi-retired and is manager of the Arrowcraft Shop in the Mountain View Hotel, adjoining the Pi Phi property. An Iowa Gamma and a Golden Carnation Pi Phi, she has always maintained a great interest in the work of the fraternity. We might characterize Elizabeth as an Ambassador of Good Will for the Settlement School. She has done much to acquaint the world with Pi Phi, as she relates in her letter. "How interesting and challenging it is to be retired and yet working for `Pi Beta Phi Arrowcraft' at the Mountain View Hotel. Our loyal Pi Phis tell their friends to be sure to stop in Gatlinburg. Many come to the familiar and popular Mountain View Hotel for luncheon or dinner, even if only passing through town, and usually before they leave they stop by our Arrowcraft Shop. "Pi Phi in Gatlinburg is an old, old story to most of us, yet it is a pleasure to show our crafts and to tell the story behind the items, especially the fact that we have sixty-five weavers and in some homes there are four or five in the family who weave for us. Some of this is still done on handmade looms. "Many conferences are held in Gatlinburg each year. These bring visitors from all over the world, as well as from the southeastern area of our United States. A great share of the conferences are held at the Mountain View Hotel, so we get to know many distinguished guests. One visitor this past year was the President of Bolivia. He was touring our T.V.A. and came to the Mountain View for lunch with his party. He was most interested in our crafts because his sister is a potter in their country. Lady Fletcher from England came with her husband to one of the Atomic Energy conferences. She bought many things from our shop to take back to England as gifts. At a later conference a young scientist brought me greetings from Lady Fletcher. He and his family had been dinner guests in her home the week before and they had enjoyed food from recipes out of our Pi Phi Cook Book which I had given her. "Recently a visitor from Mississippi told me of a shop in Paris with a sign which read, `Gifts from all over the World.' On entering the shop she found the beautiful wooden fruit made by Don Ward Elizabeth Rue right here in Gatlinburg. A doctor from Chicago was at the hotel on his way around the world. He purchased quite a few items of Nye Silver to take as his host gifts. He had grown up in North Carolina and knew the beauty of the designs, so typical of the beauty in our Smoky Mountains. Friends and neighbors stop by to take back place mats, tote bags, aprons, or handwoven, towels like `my mother bought for me' or `my neighbor bought when she was here." "This past week during a Scientist Convention I told the story of the silk screen hangings to a young mother from Ann Arbor. Before she left she bought several articles, including a hand carved doll for her daughter. She was so interested in the stories be-hind so many of our crafts that she wanted to tell them to her children when she returned home. "The regular visitors who come throughout the year, or stop off on their way to and from Florida, or come for the special beauty of the mountains during the Spring Wild Flower Festival, or the Fall Color Spectacular, plus the exciting Craftsman's Fair the latter part of October, usually come with orders from their families and friends and find many additional items to take home. "It is indeed a pleasure to greet Pi Phis in Gatlinburg and to be able to give them a tour of our grounds, Staff House, Red Barn, Loom House, Log 20 THE ARROW OF N BETA PHI 21 Cabin, Health Center and finally the big a Arrowcraft Shop on Parkway."r to Arlington Heights, Illinois Alumnae Club Jeanne Janett, Settlement School Chairman of the Arlington Heights, Illinois Alumnie Club reports two very successful Arrowcraft sales on October 1 and October 8 at two different country clubs. Publicity pictures concerning Pi Beta Phi Settlement School were mounted on blue poster board with simple explanations by each print. These were posted on a large folding screen. More information was placed on a card table at the entry to the two clubs. The sales staff wore white blouses with blue car-nations and wine ribbons and three inch golden arrow name tags. This was most effective. The results were excellent. $2,800 worth of merchandise was sold during the sales and since the sales, there have been additional phone orders for $375.00. A card was enclosed in each package with Jeanne's name and phone number of it. (An excellent idea.) The Settlement School Committee will appreciate hearing from all clubs which have successful Arrowcraft sales. Good ideas should be passed on to other clubs. In order to do so, will the Settlement School Chairman, please, send any helpful hints on how to sell Arrowcraft, and on how to attract customers to Mrs. Floyd M. Thorman, 1221 Elm St., Winnetka, Ill. Pi Beta Phis Who Attended 1964 Summer Craft Workshop Gladys Old, Oregon Beta Helen Russell, Illinois Eta; Louise Bandy, Georgia Alpha; Marion Heard, Tennessee Gamma; Mary Gregg Powers, South Carolina Alpha; Elizabeth Rue, Iowa Gamma; CarComing in Spring ARROW olyn Vaught, North Carolina Alpha; Marion Nuell er, Indiana Gamma; Marjorie Chalmers, Illinois Dates and Courses that will be offered in the Beta-Delta; Louise Clark, Mass. Alpha; Elinor Jen1965 Summer Craft Workshop sponsored by Pi Beta son, New York Alpha. Phi and the University of Tennessee. THE SETTLEMENT SCHOOL NEEDS THE SUPPORT OF EVERY ALUMNAE CLUB AND ACTIVE CHAPTER TO MAINTAIN ITS HIGH STANDARD AS A FRATERNITY PROJECT. This support must come from Selling more Arrowcraft Selling more magazines Sending in larger contributions as early as possible Paying all Arrowcraft bills as promptly as possible This type of support is vitally necessary if our Arrowcraft Shop is to meet its obligations for supplies, weaving and weaver's work. Attention: Art Majors-Art and Crafts Majors Graduate assistant Craft Workshop Scholarships are available for the 1965 Summer Craft Workshop, co-sponsored by Pi Beta Phi and the University of Tennessee. Tuition for one craft class, board and room will be available for two or maybe three lucky Pi Phis. Applicants should be seniors or graduates. Virginia Alpha Scholarship for 1965 Summer Craft Workshop is available to an undergraduate member of Pi Beta Phi. This scholarship amounts to about $192 which must be used toward tuition, board and room. When the fraternities were removed from the Randolph-Macon campus, the members of Virginia Alpha felt that the best way they could honor their chapter was to use the interest from their assets for a scholarship to the Summer Craft Work-shop at Settlement School in Gatlin-burg. Mary Gregg Powers, South Carolina Alpha, was the fortunate winner of the Virginia Alpha Scholarship this past summer. For further information on these scholarships write immediately to Mrs. Floyd M. Thorman, 1221 Elm St., Winnetka, Illinois. All applications must be made by April 1, 1965. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

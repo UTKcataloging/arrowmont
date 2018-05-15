@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr4520143_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Arrowcraft advertisement</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>November 1928</date>
+		        <idno type="SPCID">arr4520143_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">November 1928</date>, Arrowcraft advertisement</title>
+
+                        <extent>Page 42</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">38</note>
+                        <note type="Folder">1</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 45, Number 1a (November 1928), Page 42.</note>
+			<note type="document">arr4520143_0000</note>
+
+                        <note type="Additional Information">no actual page number</note>
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Arrowcraft</item>
+                                <item>Promotion</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr4520143_0001" seq="01" n="42-43  "/>
+       <p>YOU BUY. EN, BLANKETS, ETC. ney and help the Settlement g thru this shop. Nationally Cannon Towels, Sheets and and and Woonaska Blankets leads Defender Sheets and and Cannonette Hosiery at tail prices. Write for catalog. 122 WARDMAN ROAD, BUFFALO, N. Y. Ell LINEN SHOP SNAE CLUB FOR THE SETTLEMENT SCHOOL ?ecial rates will be given to all Pi Beta his. Plan a house party or a week-end sit. Miss Stroud will give you a cordial elcome. Miles from New York on the New Jersey Coast CARRIE E. STROUD New York A, owner and manager MAY TO OCTOBER FIRST Phi Magazine igency ay be made through the Pi Beta Eor any magazine published. Club offers made. Place your renewals 1-iptions to [E G. REISINGER 'orthfield Place ORE, MARYLAND School receives all profit) Make Plans Now for Convention June 3oth July 5th Hotel Huntington Pasadena, Galf 6gQ=46'''tZQz,r,C^Q=:,464f''Qz,Q'Q.:c?''zQ.x. 00 ~olJ Place Magazine Subscriptions Now! </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

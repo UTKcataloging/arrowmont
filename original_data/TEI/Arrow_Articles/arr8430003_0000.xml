@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr8430003_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Arrow in the Smokies</title>
+                        <author><name>Peters Kyle, Evelyn</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>January 1968</date>
+		        <idno type="SPCID">arr8430003_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">January 1968</date>, Arrow in the Smokies</title>
+                        <author><name>Peters Kyle, Evelyn</name></author>
+                        <extent>Page 3</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">41</note>
+                        <note type="Folder">4</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 84, Number 3 (January 1968), Page 3.</note>
+			<note type="document">arr8430003_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>The Birth of Arrowmont, Gatlinburg, Tennessee, 1965-1979</item>
+                                <item>Philanthropy</item>
+                                <item>Summer crafts workshop</item>
+                                <item>Committies</item>
+                                <item>People</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr8430003_0001" seq="01" n="2-3  "/>
+       <p>off the ARROW readers who are detail watchers have probably noticed a change in Volume 84. This year we have named our magazines by months instead of by seasons. This is an eventuality that was made necessary by postal regulations after we returned to including the Information Arrow in the regular mailing to all members. There has been a bit of a chuckle over that September issue of THE ARROW that is plain bound and offers nothing but statistics and reports meant only for the edification of Pi Phis. One Pi Phi husband, who was anxiously awaiting a post-convention issue of THE ARROW, grabbed this dietetic version of the magazine and found it not at all palatable. He was Dr. Duncan Wimpress, president of Monmouth College, who had played host to 700 Pi Phis during the Centennial Convention. Dr. Wimpress was looking for an account of that big event in the life of Pi Phi and Mon-mouth and its condensation in the official minutes didn't give quite the dimension he had expected. He communicated to a Monmouth Pi Phi his dim view of THE ARROW Editor and the time she had wasted taking notes and pictures that day. It didn't take nearly as long for that story to reach my ears as it did for the Centennial Convention ARROW to reach the desk of Dr. Wimpress. Some splendid Pi Phi publications reached my own desk as the fall passed. One came through the thoughtfulness of a Maine Alpha Pi Phi who is now active in the affairs of Indiana Delta at Purdue. Mrs. Lester H. Smith sent the Tiny Arrow, which is a publication put out once "every few years" by Indiana Delta Alumnre. Anyone, who has worked with publications would feel that "tiny" is a misnomer in one sense of the word work for this publication represents a monumental effort. The Fall, 1967 issue is 8 pages, 5 columns wide by 17 inches deep and contains hundreds of names with pertinent information about each. In addition there are pictures and news of the Pi Phi chapter at Purdue. Jean Anderson Petersen '55 edited this issue and in a comment suggests once every two years might be a good frequency for publication. We think many chapters might do well to consider such a publication. Another top-notch piece of work that was sent to us is the Centennial Yearbook of the Los Angeles Alumnre Club. Eleanor Lehner, president of that club in the year 1967-68 has de-signed a book that might well serve as a model for metropolitan area clubs. Eleanor has obviously spent hours of research, using both THE ARROW and other official mailing of the fraternity in compiling material for this yearbook. It is more than a program announcement and club roster. It is a source of reference and inspiration. Another mailing that went out from Eleanor in the yearbook was a letter pointing out the concern felt by many parents in relation to the assault on morals in today's society. She suggested that "those who are seeking solutions might like to take a closer look at the philosophies and traditions of such organizations as Pi Beta Phi." She quoted from those philosophies in the letter and also attached to it a page of excerpts from comments of active chapter Pi Phis in THE ARROW Fraternity Forum on Standards in the Winter, 1966 issue. Eleanor Lehner has demonstrated graphically what sincere alumnae interest and dedication can do to help meet the challenges fraternities are facing where they must be met. That is at the local level in the minds and determination of all members, active and alumnae. D D S -3 2 Arrow in the Smokies "All the best things of this world are not to be produced by each generation, but we are all intended not to carve our work in snow that will melt, but each and all of us to be continually rolling a great gathering snowball higher and higher, larger and larger along the road of human power." These words of John. Ruskin's aptly describe the philosophy behind Pi Beta Phi's Centennial philanthropy, "Arrow in the Smokies." Our great altruistic movement began in, a small way in 1910, when we voted to found our Settlement School in Gatlinburg, Tennessee. Then, as now, our ultimate goal was to be of service and to help others to reach a fuller more satisfying life. In 1912, our first school brought basic education to a community. In 1945, our Summer Craft Workshop brought craft education. In 1968, our "Arrow in the Smokies" will begin to expand the workshop program and to bring more instruction to teachers, therapists and those with creative instincts to develop hobbies. This last named group is extremely important, for during these past fifty years the continuing mechanization and time-saving appliances have brought more leisure time than can be satisfactorily filled. Art like music, is a universal language that can be understood by people in all parts of the world and throughout all ages. Almost every person has the desire to express his or her feelings. These feelings can be put into material form. And thus Pi Phi's pioneering spirit may assert itself once more with an expanded craft program which will continue toby EVELYN PETERS KYLE, Grand Vice President of Philanthropies attract students from all walks of life and from all parts of the world. Our snowball will grow only as rapidly as we help it to grow. For it will be through our contributions that the physical plant and the instructor program will enlarge. In this sense we will follow the progress of our first school, which was built over a period of years, and not in what is termed today "a crash program." But it is to our interest and benefit to make our "Arrow in the Smokies" grow as quickly as humanly possible. Preliminary plans call for class-rooms, and expansion of Arrowcraft Shop to accommodate products of craftsmen. Then will come dormitories, more classrooms and studies for resident craftsmen. Clubs may assist in the Scholarship program by either offering scholar-ships to students, or by financing students from their own communities, who are therapists and teachers. The Summer Craft Workshop has been con-ducted in conjunction with and accredited by the University of Tennessee and "Arrow in the Smokies" will continue this manner of operation. The project will be the responsibility of the new Settlement School committee, which the 1967 Convention authorized, to be composed of not less than five nor more than twenty members. The new committee will be known as the Board of Governors. This Board will hold an annual meeting in Gatlinburg and everyone serving on the Board will be an active member of the committee. At present, the committees which have been authorized are Ways and Means and Publicity. In addition, Pi Phi will continue operation of the Arrowcraft Shop. Our weavers will still produce the beautiful articles for retail to be sold by clubs and chapters. The shop will also feature the products and original designs of our resident and student craftsmen. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

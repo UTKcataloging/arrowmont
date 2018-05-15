@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3510135_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Report concerning Gatlinburg boys in service</title>
+                        <author><name>Plank, Elva</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>October 1918</date>
+		        <idno type="SPCID">arr3510135_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">October 1918</date>, Report concerning Gatlinburg boys in service</title>
+                        <author><name>Plank, Elva</name></author>
+                        <extent>Pages 134-135</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">36</note>
+                        <note type="Folder">8</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 35, Number 1 (October 1918), Pages 134-135.</note>
+			<note type="document">arr3510135_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Military</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3510135_0001" seq="01" n="134-135  "/>
+       <p>134 THE ARROTY OF PI BETA PHI Mrs. F. C. Sigler, 703 West Ashland Ave., Indianola, Iowa. Zeta and Eta. Mrs. Gaylord Nelson, Ardmore, Okla. Gamma and Theta. Miss A. Roberta Holmes, 209 Castor St., San Francisco, Cal. Iota and Kappa. REPORT CONCERNING GATLINBURG BOYS IN SERVICE When the Grand Council asked me last fall to take charge of the work of the clubs looking after our Gatlinburg boys in the army, I did so gladly, because so many of the boys are known to me and I realize their needs. I wrote to Mr. Prickett for a list of names which has been revised and now we have fourteen boys from our community. Our people down there are slow and not very sure and it has taken time and postage to keep in touch with the boys and even so, the whereabouts of one has been lost and one has never been found. I sent two stamped and self-addressed postcards to each boy and had very prompt replies and I have had letters of thanks from many of them after they received packages from clubs. Twelve clubs adopted boys, two clubs sent articles to me to send out, and six other clubs asked for a boy. Not one club refused to take one. My thought was that perhaps at convention we could find new "mothers" for the boys, thus distributing the work, but upon writing the clubs to ask their opinion as to carrying on the work another year they all approved of the plan and, in nearly every case, asked to keep their boy. This year the clubs report to me the sending of all kinds of knitted goods, things to eat, many little useful gifts, smileage books, and some letters. Once they go "over there" we can send only first class mail. Some of our community boys are already there. One soldier of the Rain-bow Division told me that "most soldiers have enough to eat and wear over there but one who goes many days without a letter is a most unhappy soldier." I hope as long as there is a Sevier Country boy in the war that he will hear from some Pi Phi. WORDS OF APPRECIATION 135 I understand that the present plan of the Red Cross is to have all things for all soldiers come through them, but no doubt we can all find some way to bring joy to our Settlement School boys. I want to thank all the clubs for their very wonderful cooperation and their prompt response to all of my appeals. I had hoped to be able to present this report in person at convention and also to talk Settlement School, but illness kept me from attending. ELVA PLANK, 4520 Holmes St., Kansas City, Mo. SUMMARY OF CHART ON INITIATION VS. GRADUATION AND ON BIDS During the three years from 1915 to 1918, Pi Beta Phi has graduated 53% of its initiates from the colleges or universities at which they were initiated. Transfers have not been considered in this report. Vermont B ranks first with 85% of its initiates graduating; Oregon A ranks second with 83%; and Michigan B ranks third with S0%. Arizona A and Oregon B each with only one year's graduating class to be considered, have graduated ma% of their initiates. During these same three years Pi Beta Phi has won 88% of all bids given by her chapters, with a record of 190 bids lost to other fraternities and 470 bids won from them. New York A, Pennsylvania B, Virginia B, Iowa A, Iowa B, Missouri A, Kansas B, and Arizona A report i00% of their bids accepted, with 62 bids won from rival fraternities. Missouri T ranks second with a record of 9713/21% of her bids accepted, and Nebraska B ranks third with a record of 9717/.%. WORDS OF APPRECIATION July 20, 1918. Dear Editor: I do not know where this particular note can be inserted in the secret number of THE ARROW, but please put it somewhere, for it is the only possible way by which to reach everyone who had a share in giving to me, as a parting gift from the fraternity, the beautiful little watch marked Pi Beta Phi, 1918. I appreciate the feeling that prompted the gift more than I can say and the watch will remain through the years to come as the tangible evidence of that spirit of loyalty and cooperation, which has made the fraternity work of the past ten years a period of real joy, not alone in the inception but in the carrying out as well. Many times, it is true, anxiety and responsi</p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

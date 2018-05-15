@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr5430225_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>February 1938</date>
+		        <idno type="SPCID">arr5430225_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">February 1938</date>, News from Little Pigeon</title>
+
+                        <extent>Pages 224-225</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">39</note>
+                        <note type="Folder">3</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 54, Number 3 (February 1938), Pages 224-225.</note>
+			<note type="document">arr5430225_0000</note>
+                        <note type="Table Of Contents">Miss Redding Speaks; The Gatlinburg Garden Club; The Weavers' Plays </note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Weaving</item>
+                                <item>Agriculture</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr5430225_0001" seq="01" n="224-225  "/>
+       <p>THE FEBRUARY ARROW "MISS EDDING" SPEAKS ,sked to write about by weavaappy subject, for they are a omen. This year there have of them weaving and sewing age in age from Aunt Lizzie to a sweet seventeen-year-old .kes up some of our bags. where from a stone's throw from the school to seven miles away, on the highways and up the hollows. It takes time to keep in touch with ninety-two homes. The weavers are scheduled to bring back their weaving on days of the week according to the district in which they live. It is a re COUP OF WEAVERS WITH SOME HUSBANDS AND CHILDREN. THIS IS A REGULAR FRIDAY MORNING GROUP. department is one of the most d in the country for we have nization pays. We know what the weavers and what is far t, they know what to expect system of dealing with the simple. Each woman has her ter own home and is taught certain articles. Some women eaving wool, others at linens, ich readily divides the whole oups, that can undertake ceraving and paterns. If they have try to follow it, for a satisfied od one. is available, a card is sent to comes into the weaving buildrarp and the thread with which s material is carefully weighed m she takes it. She takes the , and if she is learning a new s instruction of any kind, I go give it. It is fortunate that we Ise, for the weavers live any quirement for a woman to come in once every two weeks, unless she has a reasonable excuse. Husbands and children come in at other times, and are a great help when there is a young baby to bring along or the weather is bad. No children are allowed to stay out of school to come, so we often play the role of truant officer. The women enjoy their weaving. The mountain people are especially clever with the use of their hands and with training do lovely work. They love the colors they use, and the greater variety they can have, the better they like it. All the designs are supplied to them. Most of them are original adaptations of old Colonial patterns-some of them are entirely new. A few standard coverlet drafts, like the Whig Rose and the Tennessee Blazing Star, find their place among our articles. Three years ago when .we moved into the building that was formerly the woodcraft shop, the weaving department came into its own. We were able then to expand our activities. I especially wanted the women to feel THE FEBRUARY ARROW that it is their building and that they are free to come there for advice, help, and recreation. From the calls they make upon us and the many problems which we solve unrelated to weaving, we are sure that the building and the opportunities for service fulfill a crying need. The monthly weaving meetings are held there the meetings when they receive their checks for weaving done in the previous four weeks, and come for a good time as well. We celebrate any and all occasions, decorations go up and come down, refreshments are pre-pared and served, weaving problems are discussed, ideas exchanged, songs are sung, poetry is read, anything that would give a good time is undertaken. Nothing is ever too much trouble for a weaving meeting. Sur-prises are carefully guarded and then sprung on the unsuspecting audience. Old friends visit for this is one time when they gather from all sections away from Gatlinburg. We get an opportunity to see the new babies as they come along, too. Our garden club which had its debut last spring meets in the weaving building once each month. The membership includes not only interested weavers but any woman from the community who cares to attend. The pro-grams have been varied and instructive. This spring we will be busy with some community beautification project. We have a lending library of light novels that are thoroughly enjoyed. The readers in the group soon read all the books and clamor for more. Old magazines are distributed whenever we have them. Tragic things happen, funny things hap-pen, and annoying things happen. This fall two of my young weavers lost their babies. Both cases caused us uneasiness until we learned the particulars and were assured that the weaving was not a contributing factor. We JENNIE NICHOL MEMORIAL HOSPITAL WINTER COMES TO ARROWCRAFT have a stringent rule that any weaver becomes pregnant must have permission the nurse or her doctor before she can tinue weaving. For two months previous two months following the birth of the she cannot weave. When one stops to that in the group this year, there have twelve babies born, besides the two tha not live, and that eight more are on their the situation is one with which to re, This fall it seemed as if my group of weavers were all going to have babies took some quick switching about to ge situation under control and get the we' '. done on time. The husband of one of my three ri( weavers was run over by an =tot-habit severely injured, which meant that she not able to continue weaving. In order t her place, I had to wait for the only weaver who could weave necktie materi finish a rainbow shawl wrap. To add t^ trouble the factory had bad luck dyein; yarn and it was delayed some weeks. Al time, the shop was calling for green ne( which had started to sell and our stock . a year ago was soon exhausted. Oh th garies of the public! How I wish I could tell when it wants green neckties instep blue or red! We needed some yellow napkins an, woman weaving them came down wit] flu before the order was filled. So it goes, everyone doing their be keep things going in spite of emergencie will arise. Try as we do to prepare for t we must remember that we are dealing human beings and not machines. On sor the cold days just passed, when I sav weavers coming in with a promised 1 weaving, I realized anew how faithful are. Do we have the cooperation of the w, who weave for us ? As, yes, they will dc </p>
+      <pb ref="arr5430225_0002" seq="02" n="226-227  "/>
+       <p>THE FEBRUARY ARROW Ley come in with smiling faces friends everyone. Our Pi Phi weavers are a fine lot and I am proud of them and their work. GENE REDDING THE GATLINBU G GA EN CLU FLOWER SHOW gourds on Aunt Lizzie's loom. Center t: Views at the Flower Show. Through the Weavers' Guild of the Pi Beta Phi Settlement School a Garden Club was organized May 4, 1937. We call ourselves "The Gatlinburg Garden Club" meeting the first Tuesday of each month, to discuss different types of flowers, and their proper care, and planting. At the June meeting, we had a very interesting display of several different kinds of roses. The miniature bouquet was very interesting, as it was new to many of the weavers. October 5 we had a Flower Show, of which, we all were more than delighted, having been organized for such a short time. Flowers were displayed in abundance, and prizes were awarded. At the November meeting, we discussed bulbs, and their planting. Several of the members have planted bulbs of different kinds that bloom early in spring. We are sure this will improve our Flower Gardens, as heretofore we have not had many flowers to bloom in early spring. Everyone enjoyed the meeting in December as it was devoted entirely to the making of Christmas wreaths, from our beautiful holly, with its many red berries this year, and the evergreen cedar. Every meeting is more interesting and our membership is increasing under the super-vision of Miss W. B. Redding, Chairman. MRS. BETSY MCCARTER. (Mrs. McCarter weaves our baby jackets and baby blankets.) THE WEAVE S' PLAYS 1".'\ .at more than ninety Pi Phi alit the happiest group in Gat-very essential too, because to weaver, one must have creaich is impossible to have unless t happy and contented nature. has, during her years with us, ;ucceeded to give us something )ur monthly weaving meetings, ,t the grandest occasions for us educative and entertaining. At we can be ourselves, free to dings and laughter, song, and is no one to think us queer) . It was in this manner that Miss Redding found out just how much the women really enjoyed playing. In our search for more fun, we decided to make up a play. When Miss Redding believes we can do a thing, we know we can. Our play must be something we were familiar with, and as most everyone is interested in our quaint mountain brogue and odd ways of living, we decided to make our play centralize around our mountain cabin homes. There was a committee appointed to make up the outline. Miss Redding worked with the committee. She mostly pruned our "gather THE FEBRUARY ARROW ings up." Eventually during the meeting of the Settlement School Committee in July 1936, we produced "Lightenin' the load."The three acts told a combination of the old days when Pi Phi first came here, and ended with modern life. In March of this year, we were invited to give a part of it at the folk festival which was held at the University of Tennessee. We selected the act showing a cabin kitchen at and old fashioned workin'. We had such a good time doing it and everyone appreciated it so much we decided to reproduce it again in June of this year, leaving off the modern acts and adding two others of the old days. This we called "Bygone Days." We think as we gave it the last time it lacks very little to give any stranger a pretty good history of the mountain folks. It portrays the life of the children in the old school days, life in the cabin home and the wonderful days in the woods around the sugar boiling camp. We had little acting to do, we just had to be natural and so everyone felt at home during it all. Every woman in the place entered into WHAT WEAVING HAS Weaving has been worth lots to us. We began weaving for the Pi Beta Phi School in 1925. The first pattern was the Monk's Belt with Miss Redding for teacher. It has helped us to buy food and clothing and I enjoy weaving the beautiful colors that I make. I hope that I can weave many more years for the Pi Beta Phi School and enjoy it as I have in the past twelve years. Weavers for the Pi Beta Phi School, MOLLIE MOORE, and her daughter BERTHA MOORE. In the year 1932 the Pi Beta Phi School started a class in weaving. I came to this class. There were six members of the class and now there are over ninety weavers for the school. One other member and myself are the only ones of this class who have been weaving for the school since it started. The first weaving teacher, Miss Nickolson taught the class. My first loom which I used for many years was made by my brother. My present loom was made by Mr. Mattil. Weaving has not only provided work for me to do the year around but it has also been my only source of income whatsoever. I feel grateful to the school for providing this work for Me.-IZORA CoN-the spirit of them and was glad to ad, bit to make it more historical and entertai After our playing, we can just see our improve. Colors blend better and it to more pleasing and satisfactory appearar carry to the end of the world a breeze c and gladness from our beloved mountain mountain folks. We have a little bank account fror proceeds of our play and that gives us of independence. Some day when Miss ding has time we're going to write the play in the world, make the best weavi the world, and become famous. Then bank account will grow big enough tit can all take a trip to Washington an what the government we hear so much really looks like. And along with our diversions, we're going to learn to rais most beautiful flowers in the world thi the garden club recently organized, at this way, our homes will become more a tive and we will be happier. What won, things our weaving has brought !---LuLA OGLE (Mrs. Elder) EEN WO TH. TO US NER KEENER. (Izora weaves rainbow sl and other lovely things.) MRS. MOLLIE MOORE Mollie has been weaving the Whig Rose doili( for four years. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

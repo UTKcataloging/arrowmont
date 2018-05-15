@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr5840399_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Sale, Mildred Odell</name></author>
+                        <author><name>Copp, Ethel H.</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>May 1942</date>
+		        <idno type="SPCID">arr5840399_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">May 1942</date>, News From Little Pigeon</title>
+                        <author><name>Sale, Mildred Odell</name></author>
+                        <author><name>Copp, Ethel H.</name></author>
+                        <extent>Pages 398-400</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">39</note>
+                        <note type="Folder">10</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 58, Number 4 (May 1942), Pages 398-400.</note>
+			<note type="document">arr5840399_0000</note>
+                        <note type="Table Of Contents">Boston Area Pi Phis-- We Salute You</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Handicraft</item>
+                                <item>Arts</item>
+                                <item>Education</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr5840399_0001" seq="01" n="398-399  "/>
+       <p>11.111.11111.111111118 1.111.1118111181111.11111111111111111I I 11111 1111111111 111111 11.1. I. 11. 1111 11. I 1 1 1 111111111tl 11111. 1. 1I 131111117. 111177717171. NEWS FROM LITTLE PIGEON Edited by MILDRED ODELL SALE, North Dakota A 111111111111111111 lllll 11111131111111t.f.1111111IIIIIIII111111111111111111.11.11111111111111111111113A 11111 John Poore, new Arts and Crafts teacher, is a graduate of the University of Tennessee, where he received a Teaching Fellowship, after graduating, in the field of special education for the exceptional child, for his Master of Science Degree with a major in Arts and Crafts and minor in Education. He has taught jewelry and Metal Crafts at Penland School of Crafts in North Carolina, and at Christenberry Junior High School Art De John Poore partment at Knoxville, Tennessee, before joining the Pi Phi staff this past fall. Mr. Poore is a member of K 1,', and of the honorary fraternity, (I) A K. The courses now being taught by Mr. Poore, in the Arts and Crafts Shop include jewelry, Metal Crafts, Ceramics, Block Printing, and the Native Crafts. In jewelry the students are studying the fundamental techniques of constructing and decorating rings set with semi-precious stones, sterling silver pins and clips, a combination of copper and brass bracelets, and decorative chains. In their Metal Work in constructing plates, trays, bowls, lamps, candle sticks, bookends, structural and decorative design is being stressed. Laboratory problems in ceramics include the techniques of hand building of familiar animals and the like, wheel throwing, pressing from moulds, slip casting, glazing, and the firing of the kiln that was just purchased for the department this past year. The methods of textile decoration are also being studied which include the various techniques of block printing, stenciling, and tie dyeing. The problem of Education in the field of Crafts is met and solved in the following ways here at the school. There is first an organized method for solving problems. This naturally reduces the period of learning because of its completely controlled conditions. It also reduces the cost of discovering the abilities of the students by the method of shifting them from an unsuitable Craft, say possibly Ceramics to Metal Work, which probably is more suited to the talents, aptitudes, and likes of the particular boy or girl. Therefore they will have a keener interest in finding their work because they are better adjusted and adapted to it through such an intergration of likes and dislikes. These students after this has been done will learn by doing each of the Crafts until they find the one they like to do the most. Trying out the Craft is the best test of fitness for it. Working at the Craft is the most effective way to gain proficiency in its performance. Through training in this way by actual participation the Crafts that they select are able to measure their own interests and talents against the actual requirements and working conditions of the Craft. This is important because they can get some idea of what is required in the work as a whole ; they can learn whether or not their interests should be directed toward this field or another field of economic activity. The Craft program at the Settlement School here consequently furnishes an excellent opportunity to use organized participating experiences for instruction. Juniors and Seniors at the school are al-lowed to take the Arts and Crafts courses. The course is an elective one, and conse 398 THE MAY ARROW 399 quently the boys and girls taking it are genuinely interested in their work. There are also adult classes and the Crafts department is open afternoons and two evenings a week for both students and adults to work if they so wish. As an added incentive to do fine work in the Crafts the students are permitted to sell their finer articles of workmanship in the Arrow Craft Shop. Quite a few of the more practical minded talented students have taken ad-vantage of this offer and over $200 worth of their articles has been sold during the last few months. oston Area Pi Phis We Salute You THE New England Flower Show is an interesting and beautiful memory to over 100,000 visitors. Selling over $2,000 worth of Arrowcraft to these visitors goes down in II cl. history as a merchandising achievement. Success of this alumnae venture goes beyond our fondest hopes. It all happened this way. In January your Settlement School committee was surprised and delighted to receive an invitation to participate in the New England Spring Flower Show, to be held through March 16 to 21 in Boston. The invitation came from Mr. Harlan P. Kelsey, president of the Association. Because the Great Smokies was to be the theme of this year's flower show, Mr. Kelsey had toured the Smoky Mountain region under the guidance of Major Aiken, Superintendent of the Great Smoky Mountain National Park. So impressed was Mr. Kelsey with the importance of Pi Beta Phi's endeavor, and so pleased was he with the quality and beauty of our Arrowcraft products that he suggested immediately that a showing of our products would add greatly to the featuring of the Great Smokies. Further, because he was impressed with the unselfish service of our philanthropy, he suggested that an exception might be made which would allow us to sell our products if we wished to make some money for our project. Ordinarily, only garden supplies are sold at these Flower Shows. The invitation was accepted, and Beth Le Roy, Boston member of the Settlement School Committee, enthusiastically took charge and enlisted the help of over fifty Pi Phis. Special appreciation is due Mrs. Kenneth Wildes, who worked full time daily to coordinate the efforts of so many generous Pi Phis. The Fraternity and the Settlement School Committee are indebted for all time to those loyal enthusiastic Pi Phis, the active girls of Massachusetts Alpha and of the Boston Alumnae Club, whose spontaneous response to this sudden call to hard labor deserves honorable mention along with our gratitude. To the satisfaction which all Pi Phis will feel because of the national recognition of the quality and high standards of our Settlement School service will be added the even greater joy occasioned by the completely unselfish cooperation of Boston area Pi Phis in their enthusiastic effort to do justice to a wonderful opportunity. To compensate for the hard work there were many amusing incidents and human interest stories. A passing visitor remarked, "Look! They're Greeks ! They don't look like Greeks." Another watching intently said, "Mountaineers! I don't see that they're any different from the rest of us." A member of another fraternity came rushing up to the booth on Saturday and said, "I came especially to find out what the Pi Phis have that we haven't. Every girl that I have recommended is year at different colleges has gone II 43! What is it you have?" "The Settlement School," of course, was the answer. The stock was lovely. Much credit goes to Ethel Snow, Arrowcraft Director, and her staff of girls who packed so beautifully the huge shipment from Arrowcraft. Pi Phis ex-pressed joy in handling the lovely linens and fine wool. Almost the first sale was the single bed coverlet and a large hooked rug, and the Whig Rose things disappeared rapidly. Gene Redding, our weaving director at the school, added greatly to the interest of our booth by weaving at her loom. Many fine talks were given about our work by Gene, Anna Nickerson, Sarah Rugg and Beth Le Roy. Both Gene and Beth were invited to appear on Connie Stackpole's New England Cupboard Broadcast Station WNAC. On Tuesday of the show Mrs. Priscilla </p>
+      <pb ref="arr5840399_0002" seq="02" n="400-401  "/>
+       <p>400 THE MAY ARROW Fortescue broadcast on her program an announcement of our part in the Flower Show, and planned for Gene to be interviewed over the radio the week following the show. There was much publicity for the Fraternity, all good. The newspaper syndicate and the Christian Science Monitor asked for copy. Pi Beta Phi Settlement School was on the map as far as Boston was concerned. So thorough and eager are Boston Pi Phis that they are planning to have sales in Mel-rose and other small towns following the show until the $3,000 stock is entirely sold. They are priding themselves that nothing will go back to the School but money. So again Pi Phi's great asset our Settle ment School has proved how deep-rooted is the desire to express humble gratitude for our blessings in terms of unselfish labor to promote the happiness and well being of others. The Committee regrets the loss by death of Mr. Steve Whaley, fine Gatlinburg citizen and good friend of the Settlement School through all the years of its existence. For many years Mr. Whaley gave loyal service to the School in the local committee his friend-ship and wise advice will be greatly missed. ETHEL H. COPP, California r Chairman, Settlement School Committee Do you read House and Garden? The June issue, to be released May 20, will carry pictures and a story about the Pi Beta Phi Settlement School. - Here's an idea for other clubs, other relatives to follow! What can you do about it? From the Little Rock Alumni Club comes this fine notice: "Since Camp Robinson is located in our city we would be glad to hear from II B sisters or mothers who have relatives or friends at the camp so that we may extend hospitalities to them. If you approve of this idea will you print this letter or a notice to the same effect in the forthcoming issue of the ARROW ? Names and name of the men's squadron or detachment may be sent to me at 1905 Louisiana St., Little Rock, Ark. DOROTHY JONES Change of Address The Pi Phis seem to be on the move Central Office is hoping that members everywhere who make any change will at once notify Central Office of their new address. Says Mrs. Purdunn, "I just hate to increase our lost list. We removed about twenty members living in the Philippines this week. Poor things, I wonder where they now are !" Pg PHI PE SONALITIES Edited by GLADYS WARREN, North Dakota A III WU tI.1.11.1.11111111.1111.1 Nurses Unit In January the Northwestern University General Hospital Unit No. 12, of the United Army Medical Corps was ordered into active service at Camp Custer, Mich., for preliminary training before possible work overseas and with it went Katherine Baltz, Minnesota A, as chief of its staff of 120 nurses. Her experience as surgical nursing instructor at County Hospital in Chicago was fine preparation for her work in the unit, which will eventually have with it almost 700 medical specialists, and will be equipped to care for from 1,000 to 2,000 patients. NOTE: The United States Government is asking for more nurses like this. Dr. Clementine Bash One of the outstanding Pi Phis who spent her life as a medical missionary in China was Dr. Clementine Bash, sister of Mary I. Bash, Washington A, now associate dean of women in the University of Washington. Their father, because he was interested in the promotion of railways in China, took his family to Peking. There, when Clemmie was fourteen years old, she became so deeply interested in the Chinese that she decided to become a missionary doctor. As a member of the petitioning group, which later became Washington A of II B Clementine gave it much courage and inspiration. In 1906 she was graduated from the University of Washington with high honors, winning B K ; in 1911 she received her doctor's degree from the Women's Medical College of Philadelphia. Purdue Faculty Martha Ann Anthony, Missouri 1', is now on the faculty of Purdue. She is at the same time getting her Master's degree in chemistry. She is also head of one of the girls' dormitories there. Katherine Baltz, Minnesota A After serving her internship in New York City, in 1913 Dr. Bash sailed for Peking, where she joined the staff of the Douw Presbyterian Hospital, later becoming its superintendent. Here for twenty years she gave her time and strength until her death on December 23, 1941. It was no won-der that many sought this place of service as the "hospital with a heart." Daily she lived Christ. She will live on and on in the lives of the many she helped to know Him. One who was most intimately associated with Dr. Bash has said, "Earth is poorer for her going, and she will be sorely missed. I wonder if any member of our Peking staff was ever so loved by the Chinese, or ever so loved them." HARRIETT JOHNSTON, Washington A While a student, Martha Ann Anthony was out-standing on the campus. She was an assistant in the chemistry and mathematics departments. Martha Ann was listed in Who's Who in 1940. 401 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

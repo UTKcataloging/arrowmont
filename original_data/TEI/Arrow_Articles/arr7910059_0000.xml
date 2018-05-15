@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7910059_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>In Tribute Mary Orenda Pollard</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Fall  1962</date>
+		        <idno type="SPCID">arr7910059_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1962</date>, In Tribute Mary Orenda Pollard</title>
+
+                        <extent>Page 59</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">15</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 79, Number 1 (Fall  1962), Page 59.</note>
+			<note type="document">arr7910059_0000</note>
+                        <note type="Table Of Contents">Vermont a Charter Member; Settlement School Pioneer; Teacher and Journalist</note>
+                        <note type="Additional Information">Arrowcraft Manager Needed advertisement on previous page</note>
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Staff</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7910059_0001" seq="01" n="58-59  "/>
+       <p>8 THE ARROW OF PI BETA PHI ,avage greeted you at the door and showed you the features of tomorrow's home and answered your questions. (Jan is a third generation Pi Phi whose mother and grandmother are Pi Phis.) A little further on you met another Pi Phi hostess, Sue Green, who completed your tour of the house. Kris was sure to show you the Federal Science Pavilion, and no doubt you visited the shops that lined the streets with merchandise from so many different countries and displays from different states. The Fashion Pavilion and the Commerce Pavilion were also main attractions. Here you found Pi Phi Robin Miller answering questions in the Encyclopedia Britan-nica display. Robin too, agrees with Ardie Marlatt when she says, "It was so exciting to meet and talk to people from so many states and from all over the world. Everything was so fascinating, but one of my favorite sights was the International Fountain." This fountain, with a sunflower design base, shot water in different patterns to music. In the evening colored lights were shown on the designs and many enjoyed a break sitting around the fountain feeling the cool spray mist. All in all, each Pi Phi agrees there will never be another summer like working at the Seattle World's Fair unless, of course, it is working at the New York World's Fair. Susan Jan Arrowcraft Manager Needed Our Pi Beta Phi handcraft shop in Gatlinburg is a wonderful place to work with craftsmen and live in the Smokies. A Pi Phi manager is needed for this challenging position. There are only three general qualifications for an applicant: An aptitude for business with ability to type, freedom from family responsibilities, and ability to work with people. Perhaps this is an opportunity for YOU. If so, write NOW to Chairman of Settlement School Committee, Mrs. Robert Russell, 6823 Crest Avenue, University City 30, Missouri. WELCOME TO THE CITY . The New York City Alumnae Club welcomes all new Pi Phis to the city. It has issued a cordial invitation to these newcomers to contact the Club president and make plans to join in club meetings. For additional information contact Patricia Gray, president. 104 East 85th Street Phone UN 1-7136 Mary Orenda Polla IN TRIBUTE MARY ORENDA POLLARD Vermont A Charter Member Settlement School Pioneer Teacher and journalist Mary Orenda Pollard, dedicated teacher, talented journalist and a devoted Pi Phi for 64 years, died in Middlebury, Vermont, July 9. She had suffered a stroke on July 3 and never regained consciousness. Memorial services for Miss Pollard were held at the Isley Memorial Baptist Church in Middlebury on Sunday, September 23. She had willed her body to the Department of Anatomy of the University of Vermont Medical School. This remarkable Pi Phi's career was the subject of a feature story in a recent Aaow (Fall, 1961). She was a charter member of Vermont Alpha, had served as head resident and a teacher at the Settlement School from 1913-1916, and since her return to Middlebury in 1935 she had maintained a constant and active interest in the Vermont Alpha chapter. She graduated in 1896 as one of the top two students in her Middlebury College Class and was a Phi Beta Kappa. Four years later, after combining high school teaching with college work, she received her master's degree from Middlebury. Her teaching career had taken her from Vermont to Illinois and she had sampled several other types of endeavor before she returned to Middlebury and semi-retirement. In the twenty-seven years she had spent there she had become widely known and read as a columnist for the Burlington, Vt. Free Press and the Addison County Independent. Last year she had been honored at the Middlebury bi-centennial observance when the Sheldon Museum named its library the Mary Orenda Pollard Library. This year, just one month before her death, she was one of three Middlebury College graduates honored for meritorious service to the institution; and a bronze plaque and citation had been presented to her in special ceremonies at her home. A newspaper account of that ceremony also had this to say, "To her door have come the Middlebury students of other classes, representatives of each new class that has come to the college since her retirement .. . among her favorites have been each new class of Pi Beta Phi pledges who have come to her to learn of the traditions of their sorority and be regaled with tales of the pioneer days of the Settlement School in Gatlinburg, where she was head resident from 1913-1916." One of those Pi Phis who had come to Miss Pollard's door as a Pi Phi pledge and active member in recent years is Ann Wadsworth, who speaks for her chapter in tribute to their sister, "The rich, interesting life of Mary Orenda Pollard was an inspiration to anyone who knew her. As one of the founders of the Middlebury Chapter of Pi Beta Phi, Miss Pollard remained active to her death. She became a legend to each group of new Pi Phis through her, symbols became realities. Even stronger than the love and care which we felt she held for each of us, was the sense of purpose which she gave continually. There was no place in her life for failure or lack of interest; she expected the same of her friends, and especially of those whom she called sisters. What she never said in words came through in the example of her life her presence gave much more than social meaning to a group of college girls. With this in mind I wish to express sympathy to those who shared her friend-ship and understanding." In the July 13 issue of the Addison Independent that carried her obituary, there was also Miss Pollard's last contribution for her column "Looking Backward." Also in that issue the editor paid tribute to Miss Pollard in a lengthy editorial and said there, ". . . Mary Orenda Pollard, despite her years of retirement from active teaching, remained a teacher in the highest sense of the word; and thus her passing could never leave a void, rather a legacy that we, among others, will cherish as long as we live and trust that, in some way, its fruits may yet be shared with others. . . The human experience that had given her ideas and philosophy birth had been too firm a platform to allow for a trivial though a care-less piece of advice. . . She only exposed and directed as all great teachers do . . . a teacher is a person who instills a respect for moral commitment. This has truly been a part of Miss Pollard's legacy. . . . It is in memory of a truly great woman that we bow our heads today, and give our thanks to God for having let her pass our way." 59 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

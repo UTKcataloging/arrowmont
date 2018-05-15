@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr5630193_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name> Pace, Jeffries Green </name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>February 1940</date>
+		        <idno type="SPCID">arr5630193_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">February 1940</date>, News from Little Pigeon</title>
+                        <author><name> Pace, Jeffries Green </name></author>
+                        <extent>Pages 192-195</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">39</note>
+                        <note type="Folder">8</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 56, Number 3 (February 1940), Pages 192-195.</note>
+			<note type="document">arr5630193_0000</note>
+                        <note type="Table Of Contents">The Purloined Letter</note>
+                        <note type="Additional Information">Cuttings from fall issues of the Gatlinburg News.</note>
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Curriculum</item>
+                                <item>Weaving</item>
+                                <item>Gardening</item>
+                                <item>Homes</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr5630193_0001" seq="01" n="192-193  "/>
+       <p>NEWS FRIM LITTLE PIGEON \WJ Edited by JEFFRIES GREEN PACE, Virginia A 111.11IIIIIIIII1.11IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIA1011111111111.11111111118111111.1111111111111.118111.11.311111.111.111,1111111111101M.Will.i.l I.111.1.131S.11111111.111.111tumism. THE PU I WINED\ LETTE I Christmas having taken complete possession of the situation, I offer cuttings from fall issues of The Gatlinburg News: Craft Course Mr. William Oakes, formerly of Knoxville, the new crafts teachers at the Pi Phi WINTER COMES TO GATLINBURG School, announces a course in wood and metal craftsmanship for adults. There will be classes in the afternoons for all adults who would either like to know more about the work or get a start in wood and metal artcraft. Mr. Oakes comes from Knoxville with many years of experience and is now holding regular classes with the students of the Pi Beta Phi School. Weaver's Play is Success "Granny Helps Out," the uproarious comedy of the Pi Phi Weaver's Guild, played to a capacity house at its first performance Tuesday night. The play was writ-ten by the weavers and directed by Rev. Charles Palmer. Miss Winogene Redding, weaving supervisor of the School, was production manager. All of the stage properties were genuine antiques from mountain homes. "China Boy" Good Comedy; Presented by junior Class The play selected this year by the Pi Beta Phi Junior Class, "China Boy," was one of the best ever given by the class. Written by James Beach and Tom Taggart, the comedy is one of the recent offerings of Samuel French, New York, and is a royalty play. The play had much to interest the local folks for one of the characters is Wilfred Ott, who runs the "Ott Home for Tourists." The coming of a troupe of players to the tourist home brings about many clever situations. Another good character is Wilfred, the homebred philosopher. The play was presented two nights, .Thursday and Friday, November 23 and 24. Gatlinburg Has First Community Tree Gatlinburg's first community Christmas Tree became a reality this year. Through the cooperative efforts of the Garden Club, Gatlinburg business houses and several private individuals, a beautiful evergreen tree was placed on the Pi Phi property across from the old Arrow Craft Shop on land which is being made into a park by the Gar-den Club. The tree was decorated with silvered cones, sweet-gum balls, sycamore balls, and red oilcloth for the daytime and electrically lighted at night. The Girl Scouts made 192 THE FEBRUARY ARROW 193 the daytime decorations and lights were sup-plied from various sources. The procuring of the tree was supervised by Earnest Ogle's father at Pigeon Forge. Christmas Eve there were carols sung at the tree prior to church services, "It Came Upon the Midnight Clear," "0 Little Town of Bethlehem," "Si-lent Night," "Joy to the World," "0 Come All Ye Faithful," Mimeographed copies of the songs were by Mrs. Ralph Pritchard. The Fall Flower Show The Gatlinburg Garden Club Fall Flower Show, was the largest and best show yet put on. Each year the Garden Club puts forth a great deal of effort in organizing and putting on the exhibition which is reflected in the beauty of the entire show and the popularity it commands. Following are some of the pertinent facts concerning the show: General Chairman: Mrs. R. E. Creswell Chairman of Staging: Mrs. Louis Voorheis Co-Chairman of Staging: Miss Winogene Redding Prizes for the holders of all blue ribbons, donated by the following firms: Baums Home of Flowers, Knoxville; The Wayside Gardens Company, Mentor, Ohio; W. Atlee Burpee Company, Philadelphia; Inter-State Nurseries, Hamburg, Iowa; Brand Peony Farms, Faribault, Minnesota ; Henry A. Dreer, Philadelphia; H. G. Hastings Company, Atlanta, Georgia. Prizes consist of seeds, iris, rhizomes, bulbs, plants, and shrubs. Special features: Table appropriately set for a breakfast, luncheon, formal dinner, and a company table 75 years ago. Space reserved for the men who are urged to bring in the results of their hobbies. Guides will be the senior patrol of the Girl Scout Troop, and officers of the Club. Silver offering is to be used to further the program of civic beautification. Blue Ribbon Winners at Flower Show The big Gatlinburg Garden Club Flower Show closed at 9 P.M. Saturday after the most successful exhibition held since its commencement. There were many beautiful displays of flowers, fruit, handicraft and numerous other items. The Girl Scouts exhibited a miniature Scout Camp, and a tiny model village of Gatlinburg was built by the Pi Phi School. The awarding of blue ribbons was difficult due to the number and beauty of the various exhibitions. December News from Mrs. Weaver's Letter "The most inspiring speaker in the county, Mr. L. E. Sarton, American Legion, Sevierville, addressed the high school and the 6th, 7th and 8th grades on Friday morning be-fore Armistice Day. I had asked Mrs. Creswell to speak, after hearing her talk on Americanism at the County Teachers' meeting, but she suggested that we have Mr. Sarton, and we were not disappointed. Every student and teacher was impressed with his ideas on Americanism. He complimented our Glee Club on the singing of patriotic songs. He said that a lump came in his throat when the huge flag we had borrowed from the County Superintendent's office, was automatically unfolded across the stage as the Glee Club sang "God Bless America" and when the little flags, as a surprise were waved during the singing of the National Anthem. The home-ec and agriculture sophomores combined for the study of meats, and a field trip was made to the East Tennessee Packing Co. to observe the slaughtering and the cutting of meats. It seems best to combine these classes when the two are interested and need the same information, and Mr. Carpenter, Ag Supervisor, highly recommends it. Hi-Y was organized by twenty-four of our boys. The idea was promoted by Mr. Palmer. At their first meeting Mr. Palmer and Mr. King presided. A handicraft club has also been organized. The Christmas program began with a one-act play by the 6th, 7th, and 8th grades ; following this, there was group singing by the lower grades, then Santa Claus appeared. There were the usual net stockings filled with candy. Preceding the program, ex-change of little presents took place in the school rooms. Each child brought something for another child. Many of these things are home made and very quaint, but they are brought a couple of days ahead and this is the teacher's time to look them over and supply or adjust whatever is necessary to make sure that all is ready. This exchange is best, we think, for it gives the children a part in the giving as well as the receiving end of the Christmas idea. All of the toys and things received by the School from the Clubs or individuals had previously been sorted according to ages and suitability. </p>
+      <pb ref="arr5630193_0002" seq="02" n="194-195  "/>
+       <p>194 THE FEBRUARY ARROW These were distributed next by the teachers, each to her own grade; then the children were ready to march to the gymnasium for the program. The Christmas tree was the first thing they saw." Pi Phi School News The first issue of the Arrow News for this year appeared on the newsstands last week. The paper is bigger, and better than A TYPICAL COTTAGE-HAND-HEWN SHINGLES ever. Pern Price and Miss Ryan are on the advisory staff. A pewter bowl, made by Mrs. W. E. Trainer in one of Mr. Oakes adult handicraft classes took a prize at the Sevier County Fair. The Home Economics Class gave a dinner a week ago last Wednesday for the faculty. A big time was had by all. The lunchroom under the grammar school building is now serving about 900 meals a week. Mrs. Pickel is manager. 'Burg Notes: "Gatlinburg News" It was nice the other day to get away from "War" for a while. The radio, the newspapers, and our friends, were pretty full of it. From the time we turned off the main road at Pigeon Forge we were conscious of peace. The very road itself, the quietness of everything looked inviting. In a few minutes we were really "back in" and the world seemed entirely new. There were some old log houses, a few large barns, healthy tobacco fields, corn, and sweet potato fields. A ways down the road we stopped to ask directions from some folks sitting in the doorway of an old barn. They were apparently oblivious to time and place, and their faces showed it. Later we came on a man and his two sons, one a black haired, brown eyed boy of seven or eight and the other golden haired with two blue sparkling flowers for eyes. The boys were setting out with their father to cut tobacco, their first try at the job. Then we visited the home of some weavers. A young mother and her beautiful little daughter greeted us with smiles and shy welcome. Then we turned homeward. Not once did we hear mention of Hitler, the question of what was to happen in Europe or anything about foreign countries. Each and every person we net was interested in the ever present problems of their daily existence. Life was sweet, peaceful, and full of the joy of living and being just what thou-sands of people far away tonight would like to be free, happy, and ever hopeful of a still more beautiful tomorrow. Another school year goes on at the Pi Phi School spread on the greensward south of the main road. If there are but a few among the hundreds who will attend this year that do not mind the idea of leaving the bright open spaces for two times how many boys ate green apples, it will be because they go to a school where life is worth living and all is not dullness and drudgery. The school child privileged to attend the Pi Beta Phi School is fortunate. Interesting bit of news from an old timer when someone mentioned ravens. "Sure are strange birds. In the old days a man could rely on a raven to tell him where there was a deer fine if you didn't have a dog." Now is the time we miss the big old chestnut trees that used to be so plentiful round about. When we were small Granpa Whittaker used to take us into the woods at the first big frost and we would come back laden with the choicest of nuts. Picking the burrs out of our bare feet was one of the pastimes for a while afterward. There used to be a boy in our crowd that could crack THE FEBRUARY ARROW 195 a burr plumb open with his bare heel. We tried the stunt once and were sorry we tried. When James Lamb, Jr., of Baltimore, and W. T. Alexander of Waynesville get two certain letters they will no longer doubt the mysteries of the Smokies, if they ever did. The other day, high on a trail, Curt Mc-Carter found a little makeshift box in which were two letters, each addressed to the afore-mentioned, and evidently written by the would-be receivers. A quarter was also in the box for postage. Curt did his part and thus became the first unofficial postmaster of the Appalachian Trail. Someone bought a stove several years ago at Chas. A. Ogle and Co. The stove was de-livered and forgotten. The other day the man returned it and said, "Guess I don't need it after all." Coming back on the bus from Knoxville the day after Christmas we were talking to a lady from way back in the Smokies. She had been to a Christmassin' near Knoxville. "Shore am glad to git back," she said. "It's only old Smoky fer me. There's hogs to stick, weavin' to do, granpap to take care of, the cookin' and a sight of work when I get back, but the city chokes me up so I just can't wait to git to that cabin !" WEST VIRGINIA ALPHA REJOICES IN A NEW HOME OF ITS OWN, PURCHASED LAST YEAR </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

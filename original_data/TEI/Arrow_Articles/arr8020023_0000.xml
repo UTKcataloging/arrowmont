@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr8020023_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Gordon, Sally Wild</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Winter 1963</date>
+		        <idno type="SPCID">arr8020023_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1963</date>, News from Little Pigeon</title>
+                        <author><name>Gordon, Sally Wild</name></author>
+                        <extent>Pages 23-25</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">16</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 80, Number 2 (Winter 1963), Pages 23-25.</note>
+			<note type="document">arr8020023_0000</note>
+                        <note type="Table Of Contents">An Enthusiastic Report on Craft Workshop from Four Young Pi Beta Phis Who Attended; Graduate Assistant Workshop Scholarships</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Arrowcraft</item>
+                                <item>Summer craft workshop</item>
+                                <item>Students</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr8020023_0001" seq="01" n="22-23  "/>
+       <p>OTHER HONORARIES Roe Lane Lawhon Louisiana B Phi Sigma Iota Barbara W. Bilbox Mississippi A Pi Kappa Pi Carolyn Ruth Varner Tennessee r Pi Lambda Theta Susan Neil Kansas A Mu Phi Epsilon Mary Horton Michelle Menton Missouri r Louisiana B Skiff Phi Sigma Iota Gayle Bramgan Linda Downs Janet White Jackie Wash Nebraska B Illinois H Louisiana .B Kansas A Theta Sigma Phi Pi Mu Theta Kappa Delta Pi Omicron Nu News from Little Pigeon Edited by Sally Wild Gordon An Enthusiastic Report on Craft Workshop from Four Young Pi Beta Phis Who Attended At the request of the Little Pigeon Editor, four young Pi Beta Phi members who attended the Craft Workshop last summer have written brief resumes on the experience. Two were scholarship winners and two were graduate assistants. VIRGINIA ALPHA SCHOLARSHIP WINNER Sandra Kay Martin, Texas Delta When I enrolled, I was probably the greenest, most untalented `craftswoman' the Pi Beta Phi-University of Tennessee Craft Workshop had ever had. When I left two weeks later, I was still green and untalented, but I knew how to weave on a floor loom, and I understood the basic essentials of how to `pot a pot.' And never have I found more pleasure in hard work. But after two weeks of rubbing elbows with really skilled craftsmen instructors, students, area craft artists perhaps the greatest accomplishment I made was an understanding of the word handcraft. It's a word that means knowledge, skill, a creative spirit, hard work, dauntless enthusiasm, and an intense love of nature and beauty. The Craft Workshop de-fined handcraft beautifully, better than a dictionary ever could. "But this wasn't all that happened to me in Gatlinburg! It was such a thrill to meet and talk with the members of Grand Council, the Settlement School Committee, Province Presidents, and several other charming Pi Phi `alums.' The Craft Workshop itself overflowed with fascinating people, including three of my own Pi Phi sisters from Indiana, Canada, and New Mexico. It was a thrill, too, just to see the Pi Beta Phi Settlement School. "But to talk of crafts and people isn't quite enough, not when one is from the barren oil fieldsof Texas and has just spent two weeks in the middle of the Smoky Mountains of Tennessee. One would have to tear away all the pink laurel and the rhododendron and chop down every one of those tall, green trees to convince me that this isn't one of the most beautiful places on earth. "Need I say now that the Virginia Alpha Scholar-ship is a wonderful opportunity for any Pi Phi? No, I'll just say that I will be forever grateful to those who gave me this opportunity, the wonderful experience of two weeks in the Pi Beta Phi-University of Tennessee Craft Workshop at the Settlement School." ALBUQUERQUE ALUMNAE CLUB SCHOLARSHIP WINNER Pat Hamilton, New Mexico Alpha "What would your reaction be if you discovered you were going to spend six weeks in the pigeon loft of a red barn? I had been awarded a scholar-ship by the Albuquerque Alumnae Club to attend the Pi Beta Phi-University of Tennessee Craft Work-shop held on the Settlement School campus. I could muster only a vague mental image of Settlement School which was dependent upon slides I had seen of Gatlinburg, that I knew existed 1300 miles away. "Some 1300 miles later Gatlinburg became a reality, and a series of delightful and unforgettable experiences began. There it was, a small tourist town located in the beautiful Smoky Mountains, a natural setting for the Craft Workshop. "Craft Workshop was an excellent educational experience. Special effort was made by the enthusiastic and well qualified staff to create an atmosphere conducive to learning. There was close association between students and staff, which intensified the communication of ideas and the desire to produce. Learning was further enhanced, in that everyone was interested in and working in the same general field. The program extended beyond the Settlement School campus. There were hikes, picnics, and tours to visit local craftsmen. "I intend to teach crafts ; however, I urge each of you to consider the value of crafts as constructive use of leisure time and as means of self-expression Sandra 23 </p>
+      <pb ref="arr8020023_0002" seq="02" n="24-25  "/>
+       <p>24 THE ARROW OF PI BETA PHI Pat at work by creating items which you own more deeply than if you would buy them for ten times their monetary worth. They are your own ideas, materialized. "Aside from the educational aspect, it was a special thrill only a Pi Phi could know to actually see your Settlement School and talk to those living in Gatlinburg who received their education at Settlement School and played basketball for the Pi Beta Phi team. The experience was invaluable. You really must go if you get the chance. By the way, I did live in the Pigeon Loft of the Red Barn and loved every minute of it." GRADUATE ASSISTANT Margaret Miller, Indiana Zeta "As a graduate assistant at the Craft Workshop this past summer, I feel that I have been rewarded with one of the most wonderful experiences for which any Pi Phi could possibly ask. "The atmosphere that surrounds the Craft Workshop is one of knowledge and sincere friendship, not only among the students, but also between students and instructors. The opportunity of meeting and working with people from all over the country is a gratifying experience. The chance to live and work with other Pi Phi sisters from different chaptersshowed me the true bonds of wine and blue. "Any group such as Pi Beta Phi that can sup-port, not only with financial aid, but also with time and qualified people, such a worthwhile project as our Settlement School and Craft Workshop de-serves much credit. As one shop keeper in Gatlin-burg put it, `You girls should be very proud to be-long to such an organization as Pi Beta Phi! "It was purely on impulse that I happened to write requesting information about the assistantship. As I look back on my experiences, I sincerely believe that I shall never regret doing so, and it will long be among the greatest of my Pi Phi memories." GRADUATE ASSISTANT Shelia Smith, Manitoba Alpha "The past summer was a wonderful experience for me. I applied for the graduate assistantship at the Pi Beta Phi-University of Tennessee Craft Work-shop because of my interest in crafts. I also felt I could meet many Pi Phis while there and learn much about our fraternity. As I boarded the train in Winnipeg, I had mixed feelings of excitement and skepticism. What would the South be like? Would the weather be too hot? Would I be the only per-son without a southern accent? "Upon entering Gatlinburg, I was amazed at the many motels and hotels, the gift shops, the candy stores, and the bright neon signs. It was hard to believe this modern tourist resort had grown from the isolated village of a Baptist Church, Ogle's Store, and the few houses that greeted our Pi Phi sisters over fifty years ago. "The questions I had at home were soon answered. I sent for more sweaters because it was chilly in the mountains at night. My classmates came from Michigan, Indiana, New Mexico, and many other states. We did tease our southern friends about their accents. "One of the greatest rewards of the workshop was working with crafts in an area where hand crafts play such an important part in the people's lives. We were not just learning in school, we were observing and learning everywhere. It was an interesting experience to go along the mud roads of the back hills and see craftsmen working in the same manner and surroundings as their forefathers had years before. I found my appreciation for crafts grew in this environment where so many people shared my interest. "Pi Beta Phi carries a special significance in Gatlinburg. The arrow is associated with the Settlement School and all it has done for the people. We were told that Pi Beta Phi taught the people in this area what they know today, and without our sup--port many would never have reached the high standard of living they now enjoy. "We are fortunate to have our Settlement School Margaret THE ARROW OF PI BETA PHI 25 Virginia Alpha Scholarship Applications When fraternities were removed from the Randolph-Macon campus members of Virginia Alpha chose to honor their chapter by establishing a scholarship to the Summer Craft Workshop. Sandra Martin, pictured below with Shelia Smith, has explained the opportunity this offers any undergraduate Pi Phi interested in arts and crafts. Application letters should be sent by April 1, 1964 to Miss Mary Virginia Williams, 2600 Monument Avenue, Richmond, Virginia. The recently chartered Oxford Alumnae Club of University of Mississippi, with the assistance of Mississippi Beta chapter, held a very successful Settlement School Tea and sale in the lounge of New Hall Dormitory. Mrs. Joseph L. Norman, Settlement School chairman wrote, "It was really this tea that introduced Pi Phi to the university and the vicinity. Pictured are three who helped plan the tea, Sara Mieher, left, Miss Corinne Bass, and Rosalind Perry, chapter president. Graduate Assistant Workshop Scholarships The 1964 Craft Workshop offers two Graduate Assistant Scholarships to graduates or seniors who are art majors or minors. These scholarships include board, room, and tuition for one class. Margy Miller and Shelia Smith, 1963 Graduate Assistants, have described their absorbing experience last year. They are pictured below finishing a project at the Workshop. Interested persons should write Mrs. Floyd Thor-man, Settlement School Chairman, 1221 Elm Street, Winnetka, Illinois. in an area so rich in crafts. The future, I hope, will see further development in this field. We have reason to be proud of our past, and we can look with confidence into the future of Pi Beta Phi Settlement School." Shelia </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

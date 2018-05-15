@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr8430005_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Craft Director Sees Dream Taking Shape</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>January 1968</date>
+		        <idno type="SPCID">arr8430005_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">January 1968</date>, Craft Director Sees Dream Taking Shape</title>
+
+                        <extent>Page 4</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">41</note>
+                        <note type="Folder">4</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 84, Number 3 (January 1968), Page 4.</note>
+			<note type="document">arr8430005_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>The Birth of Arrowmont, Gatlinburg, Tennessee, 1965-1979</item>
+                                <item>People</item>
+                                <item>Arrowcraft</item>
+                                <item>Administrators</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr8430005_0001" seq="01" n="4-5  "/>
+       <p>Craft Director Sees Dream Taking Shape t is safe to assume that no individual has had a more unseen but most effective role in shaping the dream of Arrow in the Smokies than its Craft Director, Marian Heard. As the dream of this second century philanthropy begins to take shape it will undoubtedly follow the broad out-lines of the vision of this brilliant designer of craft programs. Marian Heard is professor of Related Arts and Crafts at the University of Tennessee and she has been director of the Pi Beta Phi-University of Tennessee summer craft workshop since its establishment. One of her co-workers for many years, Settlement School Director Marion W. Prince says of her, "her flexibility in making the most out of meager facilities has also contributed greatly to the success of this Pi Phi program from its very small beginning in 1945." This flexibility stemmed not only from innate talent but from constant inquiry, exchange and study on the part of Marian Heard. She was the first individual from the Southeast area to be elected a trustee of the American Craftsman's Council. She served two terms as president of the Southern Highland Handicraft Guild. She currently is a member of the Guild's Board of Trustees. Her vision Across two decades of association with the summer craft workshop, Marian Heard began to develop a vision about the project's future potential. She articulated it well as she closed a presentation for Pi Phis several years ago. Discussing the future of the program she said, "We have an established reputation in an established center and are blessed to have a project in which we have unbounded faith as to its essential value. We .have a project of great vision which is built on the needs of our society . . . a project that is tailored to be of help to people of all ages, regardless of social, economic, and educational background . . . a project whose services will be in greater demand as lei-sure time and life span increases ... a project perfectly timed with the increasing recognitionby our government of all aspects of cultural endeavors." Objective As the Centennial Project of Pi Beta Phi moved into its first year, Marian Heard sees its major objective as that of developing "a great creative Art and Crafts Center on Pi Beta Phi property at Gatlinburg, Tennessee. This would be a year-round center and educational facility with University accreditation through participation by the University of Tennessee School of Home Economics, and would be dedicated to the teaching of all native art and crafts." Getting down to specifics she envisions six basic objectives as follows: To sustain and preserve the native American crafts which originated in the Gatlin-burg, Tennessee area of the United States. To pioneer in a program of teaching the arts and crafts to the greatest number of interested persons. To provide University accreditation for courses in the art and crafts. To train teachers in the field of art and crafts, preparing them to work either professionally or as volunteers in school and community programs. To serve as an additional source of economic stability in the Gatlinburg area. To provide local craftsmen with an outlet for the merchandise they produce. Her co-workers see Marian Heard as Pi Beta Phi's "craft standard bearer into our second century." It seems a most apt description. 4 FROM SOUTH AFRICA-Student Annette Raubenheimer weaves a rug in Pi Beta Phi Craft Workshop class. Board of Governors Announced EARLY IN DECEMBER, Grand Vice President of Philanthropies Evelyn Peters Kyle announced that the Board of Governors, which will aid the Executive Committee had been appointed. This Board will meet annually in Gatlinburg with the Committee. Its members are: Christine Yerges Conaway (Mrs. S. S.) ; Ger-aldine Hall Dalton (Mrs. John M.) ; Beth Olwin Dawson (Mrs. Harold S.) ; Allece Locke Garrard, (Mrs. Thomas E.) ; Betty Bailey Hall, (Mrs. Adin) ; Hesperia Aylesworth Henderson (Mrs. J. Ross); S. Lucille Jennings; Carolyn Ottenger Kovener, (Mrs. R. R.) ; Sara Ruth Mullis; Jean Dunbar Socolowski, (Mrs. N. J.) Jean Bobst Venable (Mrs. John H., Jr.) ; and Mariantha James Williams, (Mrs. B. R., Jr.). 5 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

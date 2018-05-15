@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7420119_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelock</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Winter 1957</date>
+		        <idno type="SPCID">arr7420119_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1957</date>, News From Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelock</name></author>
+                        <extent>Pages 119-122</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">10</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 74, Number 2 (Winter 1957), Pages 119-122.</note>
+			<note type="document">arr7420119_0000</note>
+                        <note type="Table Of Contents">Cook Book Is Ready!; Remember the 1958 Foreign Study Craft Tour; Settlement School Committee; Province Presidents and Vice Presidents at Gatlinburg</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Committees</item>
+                                <item>Arrowcraft</item>
+                                <item>Weaving</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7420119_0001" seq="01" n="118-119  "/>
+       <p>Glynnelle Hubbard, New Mexico A "Miss New Mexico" Anna Stange, Alabama B "Miss Alabama" Joni Jess Gravelle, Colorado A "Miss Nevada" Malinda Diggs Berry, Oklahoma B, was crowned queen of the '1947 American Royal Association, horse show and livestock exhibition, in Kansas City. n. FROM LITTLE PIGEON Edited by Louise Wheelock Dobler, Washington B  ONCE AGAIN Gene Redding has "come home" to Arrowcraft. On January 5, 1958 she will be-gin again the position she pioneered in 1925 when the then Director of the school, Miss Evelyn Bishop, asked her to "find her job and make it" as weaving instructor. And Gene Redding, a New England individualist and artist set about to meet the challenge in such a way that when she "finally retired" in 1945, she could look with pride and satisfaction upon the achievements of her record. That record included many pioneering "firsts'' finding the women in the mountain areas who were willing to learn the almost-forgotten craft of their forbears ; organizing them into a Weavers' Guild which provided social, recreational, educational, and financial advantages far beyond , their imagined dreams ; and finally, the creation of a market for their wares through organized alumnm clubs and over the counter of the shop on the Smoky Mountain National Park Highway in Gatlinburg. In the thirty-one years since "Arrowcraft" came into being, Gene Redding has been at the helm as supervisor of weaving longer than any other person, having served for 15 years in three different terms. The first ended in 1929 after the venture was successfully launched and on its way and before depression days were felt in the Smokies. After an absence of two years, Miss Redding returned to Arrowcraft and served until 1934. The following year she taught weaving and pottery making at Norris, Tennessee, for the T.V.A. and again re-turned to Gatlinburg, this time for her longest tenure from 1935 to 1945. Winogene Redding learned weaving in a school of handicraft in Boston after some training in art school. She is a Master Craftsman in weaving of the Society of Arts and Crafts in Boston, and was Dean of the Weavers' Guild of that city from 1950 to 1952. She is also a member of the Southern High-lands Guild which means she has demonstrated her Staff members for Pi Beta Phi work in Gatlinburg (left to right), Tina McMorran, retiring weaving supervisor; Marjorie Chalmers, Health Nurse; Marion Mueller, Director; Elizabeth Rue, manager of Arrowcraft; Eunice Cole, bookeeper at Arrowcraft. 119 </p>
+      <pb ref="arr7420119_0002" seq="02" n="120-121  "/>
+       <p>SETTLEMENT SCHOOL COMMITTEE Left to right: Graham, James, Green, Dobler, Archibald, Finger. THE ARROW OF Pt BETA PHI skill and originality to the satisfaction of a group of qualified artisans, and from 1945 to 1948 she was Assistant Director of the Craft Education Program which is sponsored by that Guild. When she returned to Boston in 1948 she taught private weaving classes in her own studio and found time to originate and perfect a most unique service for the handloom weavers of today. Known as "Reddigraphs," these detailed weaving instructions include directions for weaving complete articles, with ideas to vary the master draft given and how to use the varieties of exciting new threads and materials now available. "Reddigraphs" are being successfully and enthusiastically used by weaving teachers, occupational therapists, professional weavers, and hobbyists. They are circulated all over the United States and Canada and in several foreign countries . . . a new one available each month. Although summer is usually vacation time for most teachers, Gene Redding gets her holiday just 121 by shifting to a different territory, still doing the same beautiful things with her hands and heart. For four summers she taught in the Coach House Work-shop in Mason, New Hampshire, in 1955 and 1956 she was on the staff of our own Pi Beta Phi-University of Tennessee Summer Workshop here in Gatlinburg, and in 1957 she studied weaving and water color painting at the Banff School of Fine Arts in Banff, Alberta, Canada. Miss Redding replaces Mrs. Tina McMorran who has been weaving supervisor since 1945. Like many former Pi Phi employees, Mrs. McMorran has fallen in love with the region, and has built a lovely home in the mountains where she can enjoy their beauty the year 'round. Other former Pi Phi workers include Miss Evelyn Bishop and Mrs. Ethel Snow who now call Gatlinburg "home;" and they are just a few of the many on hand to greet our "new" Weaving Supervisor and to wish her well as she comes back to us. COOK BOOK IS READY! Have you your copy? It represents the best in Pi Phi cookery from coast to coast. It is available from Arrowcraft Shop, Gatlinburg, Tennessee. Price: $1.00 plus postage. Clubs wishing to sell in quantity may have discount. -* Remember the 1958 Foreign Study Craft Tour Sponsored by Pi Beta Phi and the University of Tennessee Write to College of Home Economics University of Tennessee Knoxville, Tennessee What's Good About College Societies? Doctor Walter Manning in the Indianapolis Star for August 10, 1957, discusses the above topic and concludes his article with the following words: "As for the snobbishness, I find most sorority and fraternity members far less snobbish than many of the so-called intellectual groups on the campus. In fact, my experience has led me to believe that membership in a fraternity makes one more friendly, less snobbish, and much better equipped in social graces. "Today on the typical campus there would be no `college spirit' without the sororities and fraternities. They are the only groups that can be counted on to do things for charity, to decorate for special affairs, to furnish willing hands and hearts for a whole variety of campus activities. Recently a college president said to me, `I do not know how our college could operate without the fraternities and sororities. They are the only groups I can always count on to get things . done.' "Perhaps we are growing up as a nation and changes are needed in sorority and fraternity life. Yet, I believe that any fair analysis of these organizations, as they now are, would cause most parents to say `yes' to a son, or daughter who sought membership. "We need spirit, and especially the volunteer spirit, in America fraternities and sororities breed and sponsor both." From IRAC Bulletin </p>
+      <pb ref="arr7420119_0003" seq="03" n="122-123  "/>
+       <p>Pi Ai J9eion'a/ttii The Misses Charlotte and Charlene Strah, Twin Oil Queens, were greeted by their sorority sisters, the Pi Beta. Phi Alumnae Club of Casper, Wyo., at a luncheon, September 20, 1957 in the Little Elbow Room of the Henning Hotel. The twin sisters were selected from forty-five twin entries to reign as the Twin Queens of the Rocky Mountain Oil Show held in Casper, Wyo., September 19-21. They are juniors at Kansas State, Manhattan, Kan., and active members of Kansas Beta chapter of Pi Beta Phi. Seated jeft to right: Mrs. Charles Crowell, Mrs. Elmer Connell, Miss Charlotte Strah and Miss Charlene Strah, the Twin Queens; standing left to right: Miss Peggy Tobin, Mrs. Cecil Bon, Mrs. David Baskett, Mrs. William Swanton, Mrs. John Lavery, Mrs. Robert Huffsmith, Mrs. Howard McDaniel, Mrs. Clyde Sissman, Jr., Mrs. Robert Freeman, Mrs. Darrell Booth, and Mrs. W. A. Hocker. --Iowa Zeta Chapter celebrated its 75th anniversary last spring with a luncheon and historical review of the chapter. It was installed in 1882 as a chapter of I. C. Sorosis. A fashion show depicting 75 years of history was presented. Left to right: Joan Frohwein Parsons (Mrs. Carlyle), of Iowa City; Ann Nickerson, of Scarsdale, N.Y.; Betty Summerwill Kozo (Mrs. Roy) of Iowa City, and Gabrielle Royal Robertson (Mrs. T. A.) of West Liberty. 123 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

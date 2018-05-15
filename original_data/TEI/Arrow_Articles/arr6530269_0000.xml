@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr6530269_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Mr. Kear, Gatlinburg, Weaving a Pi Phi Broom</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>March 1949</date>
+		        <idno type="SPCID">arr6530269_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">March 1949</date>, Mr. Kear, Gatlinburg, Weaving a Pi Phi Broom</title>
+
+                        <extent>Page 268</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">1</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 65, Number 3 (March 1949), Page 268.</note>
+			<note type="document">arr6530269_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Arrow craft</item>
+                                <item>Staff</item>
+                                <item>Weaving</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr6530269_0001" seq="01" n="268-269  "/>
+       <p>,,,,,,,, .^111a.111,1111111111.11.111111111.111 THE AR I OW OF PI ETA PHI MARCH, 1949 VOLUME 65 NUMBER 3 .. . 18111811 1111 111 I I 11.81111.111 111111111.1.1.1111111/1 Eaitoriars To The Alumnce With pride and pleasure we dedicate this issue of the ARROW to the alumnae of Pi Beta Phi. It is far from a complete picture of the activities of the more than 45,000 women who have been initiated into Pi Beta Phi and have gone out from our college chapters into the full life that women are leading in the world of today. It is possible within our limitations to bring only material about a very few women who are doing some unusual task in the world besides these few, think of the thousands who are performing with distinction and success the myriad tasks of teaching, leadership in civic and charitable affairs, and government service. We can only glean some of these, because we cannot personally know what they are all doing and because to chronicle all their doing would require many issues and besides we are dependent on the alertness of chapters and clubs in calling our attention to members whom they want to single out for special mention. So often a Pi Phi says, "Why don't you have an article about such and such a girl!" Perhaps we would, and gladly, if some one told us about her! As we went over the material for the issue, trying to apportion it fairly as to chapter, club, and location in the country, again and again it came to us, "What a truly tremendous force for good we might be, if ever we exercised our combined power." Think of the needed work we might be doing, the added service to humanity at large, and in particular to our own active chapters. Most of us do not necessarily need more activities, but better directed and concentrated effort to make the world a little happier because the Pi Phis everywhere have done something to help someone, somewhere! Pi Beta Phi can never glory enough in the greatness of her alumnae organization, and the Editor of the ARROW is for her part grateful for the opportunity that is hers to know what these alumnae are doing! ----- What It Means Writing in the Magazine of Sigma Chi, Hervey Allen said something we like very much about fraternities: "Within the framework of American democracy, a great national fraternity provides the means, both of obtaining and sustaining the personal, intimate, and properly selective friend-ships and warmth of associations, which otherwise tend to become dim and be lost in the common shuffle of our everyday common existence. There must be quality as well as quantity in your friend-ships if they are to endure. Fraternity is a prime means to that end." New Council Member Grand Council announces with regret the resignation of Isabel Clark Winkler, Manitoba A, as Director of Rushing and Pledge Training, an office which she filled with distinction. Mrs. Winkler's time will be completely occupied with her new position as Executive Secretary of the Central Volunteer Bureau under the Council of Social Agencies of Winnipeg. The Fraternity is fortunate indeed to have as her successor another member from Canada, Clara Hall Sipherd, Iowa B, former Alpha Province West President, who lives in London, Ontario, and has been long active in work for active chapters, in particular for Ontario B. 269 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

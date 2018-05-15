@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7440245_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelock </name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Summer 1958</date>
+		        <idno type="SPCID">arr7440245_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1958</date>, News From Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelock </name></author>
+                        <extent>Pages 245-246</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">10</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 74, Number 4 (Summer 1958), Pages 245-246.</note>
+			<note type="document">arr7440245_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Healthcare</item>
+                                <item>Facilities</item>
+                                <item>Plays</item>
+                                <item>Arrowcraft</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7440245_0001" seq="01" n="244-245  "/>
+       <p>244 ~ecv~ FROM LITTLE PIGEON Edited by Louise Wheelock Nobler, Washington B It is timely that the spotlight should be turned on the work of the Pi Beta Phi Health Center in Gatlinburg, Tennessee where Mrs. Marjorie Chalmers has served as our Pi Phi registered nurse for twenty-one years. In the following article Marjorie looks at the past, present and future of the health program at the Settlement School. "What a blessing are these black top country roads. Don't talk to me about the good old days. How did we ever get places up to Big Ridge, for instance. We straddled the foot-deep ruts, inched across the corner of Pink's bean patch, crept down a shale hill between the creek and a stake-and-rider fence, and climbed the steep slope to the ridge. And the looks of that rural school! Cracks between the wide boards of the floor gave a view of bare ground four feet below. Long, pew-like benches were all adult size. There were no desks, and but one table on which to learn to write. Dark walls were almost the color of the piece of blackboard. A pail held water from a spring at the bottom of the hill. How the children loved a change in routine, whether it was the teacher's fiddle-tunes on special days or the nurse's inspections ! Getting to the school was bad enough. But, oh, the coming back. The steep grades and the sharp turns where one took the road on faith. The road, itself sometimes on the creek bank, sometimes far above it on a ledge, sometimes in the creek bed for fifty or a hundred feet, bouncing over rocks and scratching through close-growing bushes. And the log "corduroy" road that was the cut-off to Boogertown! It's a blessing so many of those rude little schools are closed now and the students brought to consolidated buildings. But we still have some. And we still have many problems of the under-privileged. Driving rapidly along this good road, I count my blessings. We have doctors to care for our people ; town officials in sympathy with our health program, the friendly co-operation of the Department of Public Health, and the County Medical Association, and school authorities and teachers in full accord with what we try to do. We have the blessing of a civic water and sewer system, recently installed and unpaid for, but at least in operation. And we have the great blessing of friends from near and far to give so many things we need. Yesterday, for example, there were blue jeans and two knit shirts for Wade. His sister gives him homeand food, but there's little left for clothes. Thanks to a gift, there was money for stout shoes and sox. Wade never asks for himself just for something for "Mary's young-uns." And the first thing this morning, there was Edna, who looks like the child in the "Broken Pitcher." A second grader, she had burned herself "makin' th' bread for breakfast." She had only shabby panties under the thin dress and only a jacket over. There were some lined levis on the shelf, and a woolly shirt for her. And we went to Ogle's store and bought sox and shoes to replace the torn canvas slip pers. What a blessing to us are our generous friends! No time, now, to think of anything but getting up the narrow, rutted road to the ledge where stands Glades School. Before the top is reached, the door bursts open and several children rush out to carry ATTENTION! All Pi Phis When you visit Settlement School this summer, be sure to reserve one evening to see "Chucky jack," the story of Tennessee, written by Kermit Hunter and produced by the Great Smoky Mountain Historical Association, Incorporated. The saga of John Sevier, known as the "father of Tennessee," is enacted nightly, except Sunday, from the third week of June until Labor Day, in Hunter Hills Theatre one of the finest of popular outdoor drama settings in the green hills on the outskirts of Gatlinburg. Mr. Hunter, author of the University Theatre section ,of the Encyclopaedia Britannica, and a professor at Hollins College, has joined his talents with those of Mr. Jack Frederick Kilpatrick, whose field is music, to produce a highly entertaining and informative production. Knowing that Mr. Kilpatrick is professor of composition at Southern Methodist University, a music critic for a Dallas newspaper, author of more than 125 separate works whose music has been performed by more than fifty of the world's great symphony orchestras is enough to assure one of an evening's neverto-be-forgotten pleasure. Add to that the beauty of the natural setting, the colorful costumes and the fascinating dances, and the play be-comes a MUST! J 245 </p>
+      <pb ref="arr7440245_0002" seq="02" n="246-247  "/>
+       <p>246 THE ARROW OF PI BETA PHI equipment. Last week there was only the audiometer to test hearing. This week, there is the projector and the screen, the box of films and the long curtains to darken the windows. We have electricity in this school now, and there is no need to borrow the heavy car battery from the garage to show the pictures. This is another of our many blessings. Today the lesson is on cleanliness and personal care. We call it looking pretty. After the study films and the fairy story, there is a surprise more blessings from Pi Phi friends. A table is cleared and on it are arranged tooth paste, and brushes, combs and soap. The children are invited to choose a gift, and Mrs. Ogle and I watch the agony of indecision, and the happy faces of the youngsters as they go back to their seats. A gift of tooth paste, you say? If you only knew how little some of them have. If you could see the rural school where they are expected to get education and inspiration for living. The dirty, once-white building stands on a small patch of bare leveled ground with a cemetery just beyond. There is a rickety pole with a torn basket for basket-ball when they have a ball. A pump which spews water from holes in a pipe set over a cement trough, is their sanitary drinking fountain. But that's better than a pail of spring water. There's no knob just a rope end to pull the door open and shut. Gaping holes mark the window openings in the little hall. Inside, the partition that divided the room has been ripped out, leaving rough 4 by 4 uprights. Two tall, rather rusty stoves stand on opposite sides of the room with stove pipes hung on loops of wire. Beauty is represented by a calendar, a poster or two and some crayon drawings. It is no wonder the children love the picture shows and gifts of combs and soap. No wonder they welcome even the "Inoculation Parties" as a brightness to the days, and say good-bye with a shy wave or a quick hug. The Health Center has a very definite place in the lives of the people. Its services, day after day, are important in the community. It is an integral part of the state and county health programs. It is a focal point of Civil Defense for the area and is designated as the Command Post by the state. The work has changed some since the not-so-good old days. But the children and grandchildren of our first patients come back to us from distant places, for it is part of home coming. Truly, the Health Center is as important as ever. And that's a blessing."JUE!N STUDY TOUR --- PI BETA PHI and the Related Art and Craft Department of the College of Home Economics at the University of Tennessee are sponsoring the second Foreign Craft Study Tour July 14-August 29, 1958. Miss Marian Heard, associated with the University and the Pi Beta Phi Summer Craft Workshop, will be the instructor for the European Craft course. In 1955 Miss Heard conducted a similar tour to Scandinavian countries. The tour will visit eminent craftsmen at work in their homes and studios, study their materials and designs, visit craft schools and organizations, and museums and historic places. Strictly for pleasure, an opportunity is offered to visit the London area and to take a trip up the Jungfrau. The tour will be under the management of Brownell Tours. The tour is avail-able on the Time Payment Plan. Credit is granted by the University of Tennessee. For complete details write Miss Henrietta R. Sivyer College of Home Economics University of Tennessee Knoxville, Tennessee i..~ II 11 i F EU~OP UNIVERSITY TENNESSEE] Pi Phi J9eionct/ttis Will Tour Abroad with Ballet Group Lois Bewley, Ky. A, a former Louisvillian, has joined the American Ballet Theater and will tour with it in North Africa and Europe this spring and summer. Miss Bewley was discovered by dancer Leon Danielian when he directed her in a Louisville Ballet Company work. Three years ago she joined the Ballet Russe de Monte Carlo and has toured with that company. Her contract with American Ballet Theater calls for solo and corps de ballet work. The company, under auspices of the United States State Department, will leave late next month to perform in principal cities and art festivals of Europe. It is the only American dance company invited to perform at the Brussels World's Fair in July and August. The group will return to New York September 16 for a three-week engagement at the Metropolitan Opera. -*-* Betty Haldeman (Mrs. Harry F.) was chosen by the Los Angeles Times as one of the ten most out-standing women in the Los Angeles area the most prominent woman in the field of volunteer philanthropic work. Vida H. Peene, Ontario A The high honour which the Canadian Government conferred upon Vida Peene in selecting her as one of four woman members of the Canada Council recognizes her native talent, her keen interest in the arts, her skill as a director and leader, and her rich experience in various phases of Canada's cultural life. She is well known for her articles on Interior Decoration in the Toronto Daily Star and for her Miss Ethel Melin and Mrs. Horton Prouty were honored at Founders Day, 1957 by the Tri-City Mumma Club of Pi Beta Phi for the acceptance into the order of the Golden Arrow. From left to right: Mrs. Dick Woodard, Davenport, Iowa, president of the Tri-City Alumnae Club; Mrs. John Hollings-worth, Rock Island, Ill., hostess; Miss Ethel Melin, Moline, III., 50 year member; and Mrs. Horton Prouty, Moline, III., 50 year member. service with the Canadian Red Cross during the last war. Presently, her associations with the National Ballet Guild and the Opera Festival Association of Toronto as director, with the Dominion Drama Festivals as Governor, and with Boyd Neel Orchestra as the only woman Director qualify her admirably for her appointment in 1956 as a member of the Provincial Drama Council of Ontario, and in 1957 as Chairman of the Allied Arts Committee of Toronto. University women will follow the work of the Canada Council with particular interest through our liaison, Miss Vida. Peene. -* Marian Keck Simmons, Kansas A, national historian for Pi Beta Phi, is, the first woman ever to be elected head of .the Phi Beta Kappa Association of Kansas City. She was elected president of Greater Kansas City recently at the group's annual meeting at Haig hall at the University of Kansas City. More than 200 persons attended the meeting, celebrating the scholastic fraternity's 181st anniversary. ---* Dorothy Wilson Ware (Mrs. Keith V.) Iowa Z, has been elected president of the newly formed auxiliary to the Rehabilitation Institute of Kansas City. Offering both individual and group member-ships, the Auxiliary already has approximately 200 paid members. 247 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

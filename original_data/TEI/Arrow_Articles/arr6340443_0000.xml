@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr6340443_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Pi Beta Phi - University of Tennessee Summer Workshop in Gatlinburg, Tennessee, June 16-July 23 1947</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>May 1947</date>
+		        <idno type="SPCID">arr6340443_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">May 1947</date>, Pi Beta Phi - University of Tennessee Summer Workshop in Gatlinburg, Tennessee, June 16-July 23 1947</title>
+
+                        <extent>Page 443</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">39</note>
+                        <note type="Folder">15</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 63, Number 4 (May 1947), Page 443.</note>
+			<note type="document">arr6340443_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Summer crafts workshop</item>
+                                <item>Weaving</item>
+                                <item>Education</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr6340443_0001" seq="01" n="442-443  "/>
+       <p>Elisabeth Sawyer Von KleinSmid Word has come of the passing of another great woman and great Pi Phi, distinguished especially in California for fine service to college women. From the News Bureau of the University of Southern California comes an evaluation of her life and work which expresses all we might say, and more ; it was written by Franklin B. Skeele, husband of Violet Stuart Skeele, California Gamma. "A `noble and gracious alumnae of Pi Beta Phi,' Elisabeth Sawyer von KleinSmid, wife of Chancellor Rufus B. von KleinSmid of the University of Southern California, died January 20 at the family residence, 17 Chester Place in Los Angeles, after several years of illness. "Affectionately known as `First Lady of the Campus,' her influence in behalf of the students of the university `will forever endear her to Southern California,' declared Rev. Wendell Miller, pastor of the University Methodist Church, at her services. "Mrs. von KleinSmid was made a member of Iowa Alpha of Pi Beta Phi in 1888, and at Wesleyan University where she was graduated with the Bachelor of Music degree. She kept her interest in sorority life throughout her years and in addition to her many interests at S.C. frequently loaned her home in Chester Place to Pi Phi alumnae and was fre quently honored by the active chapter of California Gamma. Her sister, Mrs. Fletcher Linn of Portland, Oregon is credited with originating the famed `Ring Ching Ching' song. "As Elisabeth Sawyer began her musical career she first entered Wolf Hall of Denver. In addition to degrees from Iowa Wesleyan University she was graduated from the New England Conservatory of Music and the Boston Conservatory of Music, later becoming affiliated with the American College of Musicians in New York City. Prior to entering a brilliant career as a concert pianist and instructor at DePauw University she spent four years abroad studying with masters in Berlin and Vienna. "In 1911 she was married in Portland, Oregon to Professor Rufus B. von KleinSmid who at that time held a chair of philosophy at DePauw University. Together with her husband she spent two years in psychological research work in Indiana, moving with him to Tucson where he served for seven years as President of the University of Arizona. "In 1921 the von KleinSmids came to the University of Southern California and for the past twenty-five years she devoted her activities to campus life. She founded Town and Gown (and was its president for a quarter, of a century) , an organization sponsoring student housing and scholarship. The Elisabeth von KleinSmid Hall, women's dormitory, was named in her honor as were several scholarships. The Town and Gown award is given annually to the most out-standing senior woman. Under her leadership the Foyer building of Town and Gown was constructed as a cultural gathering place for outstanding banquet events. She also joined her husband in establishing the Elisabeth S. and Rufus B. von KleinSmid Libiary of World Affairs. Her affiliations likewise included activities in the campus Y.W.C.A., and the Faculty Wives Club. "To perpetuate her memory, many campus groups as well as alumni and friends have already offered contributions for numerous projects in which Mrs. von KleinSmid was interested. In addition to establishing a memorial lounge. in the new Y.W.C.A. building now being planned: additional scholarships and the von KleinSmid Library of World Affairs are receiving gifts." Of New Members We can ill afford to lose such devoted members, such distinguished women, as these two whom we have honored here. Every chapter in the land has new members and so this is the right time to take stock of those members, and of our responsibility to them. What are we doing to make them Pi Phis of the type of these women? How are we, working to 'develop them, so that perhaps from their ranks may come women of such distinction? Here is food for thought for chapters and advisory boards: "Think on These Things !" Elisabeth Sawyer Von KleinSmid 0 4C300k?gYM'gKAXAMM50VANMKRZ30CAN'.10OV.100000,NW30f:Xm2gg) 0 Pi Beta Phi University of Tennessee S-UMIVIEI't. WORKSHOP 8 S JUNE TO JULY 23 0015.WOM'Ot=fDO=.00IOiZ C3C?OfOl=C $Wf;=O_iX=0t; ta'MCOt C300tWOETilt C0 COME to the third summer workshop offered by Pi Beta Phi and the University of Tennessee HAVE A PROFITABLE AND PLEASANT VACATION in the heart of the Great Smoky Mountains learning, creating and playing. COURSES offered in: Beginning Weaving Advanced Weavmg Jewelry Stencilling Block Printing Recreational Crafts Leather Work Community Recreation CREDIT courses or non-credit courses STAFF: MARIAN HEARD, B.S., M.A., University of; Tennessee, Director and Instructor in Jewelry Metal Craft Recreational Crafts JOSEPHINE ARNQUIST BAKKE, B.S., Iowa State College Social Director Instructor in Community Recreation ALLEN H. EATON, A.B., LL.D., University of Oregon Lecturer MARY ELIZABETH STARR SULLIVAN, B.S., M.A., University of Washington Instructor in Weaving JANE GLASS, B.S., University of Tennessee Instructor of Textile Design and Leather MARY KATHERINE OVERHOLT, Iowa State College June 1947 Assistant in Weaving Jewelry Textile Design 00C,00000CRNN',*MOOOOMOO--'.0000Cm!Nk?;,Ok",MM'.sOmnJO8 For further details please write to Miss Ruth Dyer, Pi Beta Phi Settlement School Gatlinburg, Tennessee. Make your application early as only a limited number of students can be accommodated. 800OWMCAZ='a=X===CiCit;X f:X''4XX Oaa.C?aIDWill='Olf:0000000000 443 Gatlinburg, Tennessee </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3640493_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>The Future of Gatlinburg</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>June 1920</date>
+		        <idno type="SPCID">arr3640493_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">June 1920</date>, The Future of Gatlinburg</title>
+
+                        <extent>Pages 492-493</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">36</note>
+                        <note type="Folder">11</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 36, Number 4 (June 1920), Pages 492-493.</note>
+			<note type="document">arr3640493_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Planning</item>
+                                <item>Promotion</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3640493_0001" seq="01" n="492-493  "/>
+       <p>492 THE ARROW OF Fl BETA PHI THE FUTURE OF GATLINBURG In the preceding pages, THE ARRow has tried to portray the transformation which has been wrought in one mountain community through the' efforts of workers inspired by Pi Beta Phi ideals and supported by Pi Beta Phi contributions. All who have ever attempted to describe the changes which the years have brought to Gatlinburg have felt the inadequacy of both the spoken and the written word. The most far-reaching results of our Settlement School are subtle and intangible and only those who knew the Gatlinburg. of the past and are piivileged to compare it with the Gatlinburg of today can really sense this truth. Miss Bishop spok6 truly when she wrote, "The school has already outgrown the first dreams of many Pi Phis." Out' fraternity has literally put a town on the map. Many 'families have moved to the "burg" solely for the school advantages it offers their children and the new spirit of progress which is apparent throughout the community is a certain indication that the people are ready to meet the new opportunities which transportation facilities are bringing nearer. The Gatlinburg of the future will be largely what we make it for COLLEGE WOMEN AND THE HEALTH PROBLEM 493 the people will need guidance and counsel for at least another decade. ' It is a solemn thought that the development of a growing village for good or ill depends upon our loyalty to a trust. The people have put their faith in us. We have won it by a long, hard struggle but now that it is ours, we must be true to the responsibility we have assumed. Looking ahead in 1910 no one would have dared prophecy the far-reaching effect of the vote taken on that fateful June morning in Swarthmore. No more do we dare prophesy now but since, "The best prophet of the future is the past," let us go forward into the next decade with redoubled energy and enthusiasm. .EDI'I'OR. COLLEGE WOMEN, AND TODAY'S PUBLIC HEALTH PROBLEM A MESSAGE FROM THE UNITED STATES PUBLIC HEALTH SERVICE TO FRATERNITY WOMEN OF AMERICA [EDITOR'S NOTE: The following article furnished by the Bureau of Public Health Service, Washington, D. C., is published at the request of the Surgeon General of the U. S. Public Health Service. EmToR.] The fall of 1918 found the world's stage set for a drama of real life, swift in action, spectacular in effect, gripping the imagination. The world was witnessing the close of the most frightful war in history. The nations were soul-weary, every ounce of energy had been spent in supporting the armies in the field, and in keeping up their morale and that of the people at home. Human life had been ruthlessly sacrificed, millions had fallen during those four years of war. Then, on the eve of victory, as if to complete the destruction which men had begun, disease came, spreading with appalling rapidity through Europe and America, carrying sickness and death to the farthest corners of two continents. To combat the influenza epidemic in America all the medical and nursing forces of the nation were mobilized under the direction of the various public health ,agencies. Congress appropriated $1,000,000 to enable the United States Public Health Service to help the states conduct their campaign against this plague. Emergency hospitals were opened, corps of visiting nurses were organized. Laboratory studies of the disease were made and methods of. treatment perfected. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

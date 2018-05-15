@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3620169_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Sturley, Ruth</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>December 1919</date>
+		        <idno type="SPCID">arr3620169_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">December 1919</date>, News from Little Pigeon</title>
+                        <author><name>Sturley, Ruth</name></author>
+                        <extent>Pages 169-170</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">36</note>
+                        <note type="Folder">10</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 36, Number 2 (December 1919), Pages 169-170.</note>
+			<note type="document">arr3620169_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Living conditions</item>
+                                <item>Southern Appalachian culture</item>
+                                <item>School children</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3620169_0001" seq="01" n="168-169  "/>
+       <p>168 THE ARROW OF PI BETA PHI vote necessary for Congress endorsement but they met with the approval of a majority of the delegates and it is hoped that the work done in this Editors' Conference has laid the foundations for a constructive program in the future. SARAH POMEROY RUGG, DeLgate to the Editor's Conference. SIGNIFICANT STATISTICS As indicated in our Panhellenic Delegate's report one of the most significant points brought out at the Congress was the fact that the ratio of fraternity women in proportion to nonfraternity women was a steadily decreasing one in many colleges.. The statistical table compiled by a committee of which our own delegate was chairman is the result of an investigation made at the request of the Fifteenth Panhellenic Congress into a situation which was there suspected but not proven. The figures collected are based on returns from thirty-three colleges and universities, all who responded to the questionnaire submitted. I. Number' of women students varies from forty-three at Adrian College to 2,931 at University of California. 2. Number of fraternity women varies from twenty-sik at Adrian College to 704 at University of California, the second highest being at Syracuse University with 455 fraternity women. 3. Number in a chapter varies from twelve at Bethany College to thirty-nine at the University of California and thirty-five at Syracuse University with twenty-two as an average. ' 4. The average percentage of fraternity women to nonfraternity women is about 33'4%. 5. The total .number of fraternity women from thirty-three colleges is 4,908 out of a total enrollment of 14,787 women. 6. Average size chapter compared to total enrollment in instituttion is highest at 'St. Lawrence University where the percentage of fraternity women is 71 or 74 out of a total 103 .and lowest at the University of Cineinnati, Florida State College, and the University of California with a percentage of ten, twenty, and twenty-four, respectively. (Statistics of this year from the universities of Minnesota and WiscOn'sin would place them in the same .class with University of California.) NEWS FROM LITTLE PIGEON 169 NEWS FROM LITTLE PIGEON BY RUTH STURLEY, Washington A (The writer is the latest addition to our Settlement School Staff and writes from the standpoint of a newcomer.--EDITOR.) The last issue of THE ARROW told of so many big things that the fraternity has planned for the Settlement School that perhaps this month the Pi Phis will be interested in reading about the little things that go along in the accomplishment of what we hope to be the big things of our everyday life. And a busy life it is with many an unexpected turn and twist to it for the demands on our happy family are many and varied. We do expect Aunt Lizzie to keep us in order, however, though she did say one morning "You-uns mustn't patronize after me!" She is a "sure enough" mountain woman but living in our "tight house" has "plumb bodaciously spi'led" her for a cabin such as numerous children and grandchildren find very comfortable. Until last year she never made "light bread" (bread made with yeast) and now is proud as can be over the "bakin's" and gives "Miss Evelyn" and Abbey suggestions for improving of their bread. She is a Reagan as you may know, and many a family of that name there is along with the Maples, McCarters, and Whaleys. But I do believe. the Ogles lead, for Charlie says he has about eighty-two families of Ogles on his books. Charlie is a pleasant and chatty individual who is proprietor of the largest store, general, in fullest sense of the word, from millinery to nutmegS, also postmaster and, on Saturdays, barber, the front porch serving as the scene of operations. During the week of course "books," as school is called, keep us well occupied until the middle of the afternoon, then often we go home with some of the youngsters to call or stay all night, a thing they love to have us do. The boys and girls are good looking and quite up to date in appearance and dress, but their homes! that's an-other story. These are up on the various .creeks and such delicious names for everything; for example, Roaring Fork, Fighting Creek, Sugar Lands, The Glades, Booger Town, Panter (Panther) Branch, Baskins (Bearskins) Creek, Sheep Pen, Turkey Nest, well, that's enough for now. There is usually a story about each name which adds to' the charm. </p>
+      <pb ref="arr3620169_0002" seq="02" n="170-171  "/>
+       <p>170 THE ARROW OF PI BETA PHI How would you like to go to a charivari up "Wild Cat Holler" or take an all-day tramp over the mountains with Tom Camel and his wife, real pioneers who smoke pipes and dip snuff. Tom is a hunter and has always lived up here, never wore "store pants" till after he was married. His wife acquired store shoes and bought cotton material for clothes about the same time. In those "good old days" salt was about the only thing the mountain people had to get from "outside." The majority of the older people would be satisfied with that kind of life now, for, like their old-time religion, it was good enough for their fathers and mothers and is good enough for them. The young people are the ones who will bring about impi-ovements. Gatlinburg took one long forward step last month in holding a Fair. The exhibits were arranged in the schoolhouse which was very attractive with wild asters, golden rod, and autumn leaves. It was a great day school program the latter part of the morning, then dinner on the grounds, followed by a baseball game in which we defeated Murphy College. One of the activities recently started which we think will bear good fruit is a debating club, subjects of local interest are being taken up first, to be followed by those of wider range. The B. Y. P. U. meetings Sunday afternoon for the little people at the house and in the evening for the older girls and boys at the schoolhouse seem to be well attended and answering the purpose for which they were organized. In conclusion let me say that our school is engaged in a task worthy the effort of every Pi Phi, great and small, to broaden the horizon and push back the mountains for these real Americans who have been shut away from the outside world for so long. IN MEMORIAM BRADBURY (MRS. WALTER R.), GEORGIA IRWIN, Nebraska B, ex-'08, died at the home of her parents in Lead, S. D., of consumption, August 4, 1919. She was initiated into Nebraska B at the University of Nebraska October 22, 1904, and received her certifi IN MEMORIAM 171 cate from the home economics course in the spring of 1906. She leaves two young daughters. CAMPBELL, ANNA M., Iowa H, died at the home of her sister, Mrs. W. C. Ball (Mary Campbell, Iowa E) in Fairfield, Iowa, September 6, 1919. She was initiated into Iowa H in 1882. She attended Par-son's College 1876-78 and Lake Forest University 1878-79, when she graduated. From 1881-84 she taught in Fairfield and from 1886-89 in Washington, Iowa. Since that time she devoted her life to Y. W. C. A. extension work. She was a charter member of the Cleveland Alumnae Club, and was always a loyal and faithful Pi Beta Phi. DENNIS (MRS. HERBERT), AGNES WRIGHT, Illinois Z, '16, died at Charles City, Iowa, July 17, 1919. She was initiated into Illinois Z at the University of Illinois February 12, 1914, and was graduated with (I) B K honors in 1916. She immediately accepted a position in the Illinois Historical Survey where she did remarkable work in research and in the literary revision of the Centennial History of Illinois. Three chapters of the history have been accredited to her in their entirety. She was married to Mr. Herbert Dennis, instructor in sociology at the University of Illinois September 7, 1918. In July, 1919, while they were visiting Mrs. Dennis' mother at Charles City, Iowa, both Dr. and Mrs. Dennis and Mrs. Dennis' mother and sister were victims of a drowning accident on Cedar River. At the time Dr. and Mrs. Dennis were making their home in Houston, Tex., where Dr. Dennis was Sharp Lecturer at Rice Institute. They were held in highest regard by a large circle of acquaintances at the University of Illinois where Mrs. Dennis' charming personality and brilliant mind had made a lasting impression. LOUISE FENET, Texas A, '15, died at her home, Paris, Tex., of meningitis of the brain, October 9, 1919. She was initiated into Texas A at the University of Texas, September 28, 1914. She was a charming girl, loved and cherished by all who knew her. It was through her admirable qualities and attractive personality that every-one became attached to her. We sympathize most sincerely with her bereaved family. VIRGINIA MCCREARY, Illinois Z, ex-'21, died at the Mayo Brothers' Hospital, Rochester, Minn., during an operation, September 17, 1919. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

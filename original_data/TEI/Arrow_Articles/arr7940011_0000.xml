@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7940011_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Gordon, Sally Wild </name></author>
+                        <author><name>Mueller, Marion </name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Summer 1963</date>
+		        <idno type="SPCID">arr7940011_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1963</date>, News from Little Pigeon</title>
+                        <author><name>Gordon, Sally Wild </name></author>
+                        <author><name>Mueller, Marion </name></author>
+                        <extent>Pages 11-12</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">15</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 79, Number 4 (Summer 1963), Pages 11-12.</note>
+			<note type="document">arr7940011_0000</note>
+                        <note type="Table Of Contents">Our Pi Phi Girl; Around the Corner of Fifty Years Service</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Summer craft workshop</item>
+                                <item>Staff</item>
+                                <item>Arts</item>
+                                <item>Arrowcraft</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7940011_0001" seq="01" n="10-11  "/>
+       <p>A Success Story St. Louis Clubs' Carousel by Peggy Woodlock Kerwin, Missouri B The Junior and Senior Alumnae Clubs of St. Louis, Missouri, combine every other year to produce the Pi Phi Carousel an event that has become so popular that many people seek out club members to buy tickets. The Carousel is an out-door affair held one day only the first week in May at a park in the suburbs. It is a mammoth undertaking that enables the clubs to make substantial contributions to all projects in which they are interested and in addition provides healthy budgets for both clubs for two years. Members especially appreciate the fact that it eliminates to a great extent the tedious business of benefit bridges, book reviews or small bazaars. The organization for the project has been perfected to an almost fool-proof point through the years and is set up under the first vice president of the senior club. She serves as general chairman. Equally important to the project is the work of the chairmen in charge of tickets, physical properties and publicity. A separate fund is set up to finance the initial outlay of the various booths. Pi Phi alumnae are also selected to serve at various homes which are included in a house tour. The tour is offered along with admission to the Carousel for the one-dollar ticket. The carousel atmosphere is achieved through thecolorful decoration of booths with bobbing balloons and ribbon streamers and in the costumes of members, pale pink pinafores worn over pastel blouses and skirts. Members work for months preceding the Carousel on the items that will be sold in the booths. These booths include "Antiques" hand-decorated old trunks and school desks; "Hats and Pets" Italian straws trimmed by members and glamorous felt dog collars; "Trash and Treasure" plow discs made into centerpieces, flower pots fashioned from bleach bottles and potted plant novelties; "Bakery" homemade delicacies contributed by all 600 members; "Toys" dress-up kits, villages to be assembled, stilts, train lamps for children's rooms; "Mystery" a grab bag with gifts of guaranteed $2.00 value donated by members and sold for $1.00. A box lunch is catered and served by members of Missouri Beta Chapter of Pi Beta Phi from Washington University. The net result of all this is a tremendous amount of togetherness for club members and generous gifts for the Settlement School, Emma Harper Turner and Holt House funds as well as for the Youth Counseling Service of St. Louis and the junior Club's project that provides glasses, shoes and other extras for public school children. Early arrivals at the Carousel get the best selection at a booth of handmade items. News from Little Pigeon Our Pi Phi Girl by Marion Mueller, Settlement School Director While attending the Summer Craft Workshop six years ago, Mrs. Walter Spelman (Ruth Schantz) accepted the position as housemother at Settlement School. Since then she has made a place for herself in both the school and the community, for, even though past retirement age, she is always ready to help. Ruth's mother, Mrs. Orpheus Schantz (Carrie C. Flagler), was initiated into I. C. Sorosis in 1885 ; Ruth into Pi Phi at Northwestern in 1910. As a staff member at Settlement School (lovingly referred to by many Pi Phis as Little Pigeon) she wears the Little Pigeon guard with her Arrow. One daughter, Mrs. Robert Kay (Constance Spel Mrs. Spelman Edited by Sally Wild Gordon, Wisconsin A man), is a New York Alpha. Ruth's brother, Worth Schantz, had the honor of presenting the first American Flag to the school in 1913. Orpheus Schantz, Ruth's father, was a frequent visitor to Gatlinburg and Settlement School, conducting nature study tours from Chicago. Ruth has stated that her work has been a challenging experience in all its many facets: the varied programs of the craft workshops in which she participated, the development of the Red Barn into a housing center for special groups, and, most satisfying, her work with the boys and girls in the dormitories. As she says, "To see a shy, retiring boy or girl develop into a capable leader in school or athletic activities, to help in a small way that development, to bear with each one through his or her trials, and finally to take each one to your heart as your own, what could be a more rewarding experience?" Ruth has been most loyal and faithful and is, in-deed, our Pi Phi girl. Around the Corner of Fifty Years Service The Pi Beta Phi Settlement School has completed fifty full years of dreams, endeavors, and realities, since the first one-room school was started in 1912 as a memorial to our Founders. There are now thirteen buildings, 77.8 acres, education for grades 1-12, a Summer Craft Workshop, various craft workshops throughout the year, economic independence for many local people through Arrowcraft, and a very excellent health program. This is a monument to Pi Phi's continuing effort to promote educational opportunities. These achievements have been recognized not only by the Smithsonian Institution, which now has a permanent exhibit of handwoven articles from Arrowcraft, but also by the University of Tennessee, which through its College of Home Economics co-sponsors the Summer Craft Workshop with Pi Beta Phi. The 19th Craft Workshop will be held this year from June 10 to July 16, with an additional special workshop from July 18 to July 23. Courses may be taken for credit or non-credit, with college credits given through the University of Tennessee. Although the high standing of this workshop is known in many remote parts of the world, very few Pi Phis have taken advantage of the opportunity of working with the fine craftsmen on the staff. Why not attend workshop this summer? At the same time 11 </p>
+      <pb ref="arr7940011_0002" seq="02" n="12-13  "/>
+       <p>FROM Pi Phi Pens Edited by Mary Elizabeth Lasher Barnette, Ohio A HELEN RAYBURN CASWELL, Jesus, My Son, John Knox Press, 48 pp. With tenderness and sensitivity Helen Caswell has retold in poetry the world's most famous story, the biography of Jesus. By telling it through the eyes and in the words of Mary, His mother, how-ever, she has given it a new focus. The reader can identify in sympathy and under-standing with a woman who, in preference to a cup that once held wine representing blood and sacrifice, chooses to hold and caress the earthen cup from which her son drank cold water as a small boy. She says to John, "The other cup's the world's, my dear my memories are in this small one here." There's great appeal in the humanizing of a story dressed too often in the rich trappings of the ages. Mrs. Caswell's talent extends to illustration with the result that the poem is graced with appropriate woodcuts. AUTHOR INTEREST: HELEN RAYBURN (Mrs. Dwight) CASWELL, Oregon Alpha, is a professional artist, who specializes in portraiture, but also de-signed and produced a seven-foot mosaic cross for her Presbyterian Church in Saratoga, California, where she lives with her husband, a research physicist and president of Caswell Electronics, and five children: Dwight, Jr., a Stanford freshman, Philip, 16, Mary, 13, to whom the book is dedicated, Christopher, 9, and John, 3. Though this is her first book, periodicals have published her poems, one of which, "The Pilgrimage," won the 1958 Phelan Award, and currently she is at work on a collection of poems for children. RANDOM NOTES: Polyunsaturated fats having become a true "household word," Pi Phi cooks should appreciate the fact that DOROTHY TOMPKINS (Mrs. Eugene) REVELL, North Dakota Alpha, has published two books, first Cholesterol Control Cookery and last October, Dietary Control of Hypercholesteremia. As therapeutic dietitian at the Dakota Clinic in Fargo she is an active professional, but her books are written in terms fully understandable to the persons who must follow diets as well as to those who plan them. Mrs. Revell has held a Pi Phi job as well, being scholarship chairman for Kappa Province in 1958 and '59. Pi Phis who know DOROTHY VALE (Mrs. John R.) KISSINGER, Wisconsin Beta, a former national music chairman for Pi Phi, or her father the Rev. Mr. Roy Ewing Vale, D.D., LL.D., 1944-45 Moderator of the General Assembly of the Presbyterian Church in the United States and a noted evangelical speaker, will be interested to know that Mrs. Kissinger has written and published her father's biography, Say a Good Word, which she is marketing herself. Of it a Vassar College critic wrote, "It is a book that is inspirational, amusing and informative, and especially helpful to young pastors and their wives or to those who contemplate Christian service." Copies at $4.25, which includes postage, may be ordered from the author at P.O. Box 190, Mesa, Arizona. The consolidation of the Pi Beta Phi and Pittman Center High Schools is proceeding according to schedule, and the new high school building, outside Gatlinburg, is expected to be ready by fall of 1963. see what we Pi Phis have here. Combine a vacation with an art experience, live in the Red Barn, and eat at Staff House. Meet members of Grand Council, the Settlement School Committee, and Province Officers, who will be in Gatlinburg for their biennial conferences. The new Weaving Studio is fast becoming a Craft Center. Classes have been held in weaving, pottery, stitchery, jewelry, block-printing, and silk screening. Tina McMorran, former Arrowcraft de-signer, held classes in tapestry and rug-designing in March. The popularity of these workshops indi-cates the interest in these crafts, and many hidden talents have been developed. Pi Phis should make an earnest effort to visit Settlement School; chat with Marion Mueller, Director, Maria Tate, Manager of Arrowcraft Shop, and Nurse Brenda Allison at the Health Center; and see the dormitories, the school buildings, the Red Barn, and the Staff House. The wearing of the Arrow should not only mark one as a member of Pi Beta Phi but also signify the proud distinction of supporting this memorial to our Founders and our national philanthropy. 12 Follow the ARROW This is the ARROW which points the way to membership selection. Active chapters and alumnx who are considering girls as potential Pi Beta Phis should keep the same criteria in mind. If this is done, w( will have outstanding success during membership selection week. As a result of cooperation between actives and alumnx, pledges will take their place in the long line of outstanding women who are memben of our fraternity. What 'qualities should we look for in a prospective pledge? Those that have long been synonymous with . . . Good character, scholarship, ability, poise: personality, industry, congeniality, leadership, sincerity, appearance ". . . . Let us keep these in mind in recommending, rushing, and inviting new sisters into Pi Beta Phi. ------------------------------------------------------------------------------------------------------------------------------------------ PI BETA PHI RECOMMENDATION BLANK Name of Rushee ' . .' ' '. ' ' ' ' ' " . . ' '. " . ' ' . " . ' ' ' ' ' ' ' ' ' ' ' ' ' " Adareso of Rushee number street city zone state Father or Guardian's Name Occupation State whether you know the girl personally High School attended " "."....".".".".".'."."."" name city state Scholastic record (be as accurate as possible) Scholastic honors ' ' .' . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . .. . . . . College she will attend Term for which she is registered '..".".'."....'.... Has she attended any other college? (if so what) '.'. .' ' ' . . " ... .' Recommended by Chapter Address ' . " . .. . " ' ' " . ' . ' ' -' ' . ' ". ' . ' ' ' ' . ' ' ' ' ' ' ' ' ' ' ' ' ' " . ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' (Official Recommendation Blanks may be purchased from the Pi Beta Phi Central office, 264 Citizens Building, Decatur, Ill., for one cent each) </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

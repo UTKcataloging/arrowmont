@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7920027_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Gordon, Sarah Wild</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Winter 1962</date>
+		        <idno type="SPCID">arr7920027_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1962</date>, News from Little Pigeon</title>
+                        <author><name>Gordon, Sarah Wild</name></author>
+                        <extent>Pages 26-27</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">15</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 79, Number 2 (Winter 1962), Pages 26-27.</note>
+			<note type="document">arr7920027_0000</note>
+                        <note type="Table Of Contents">Two Valued Staff Members Retire; Thank You, Marjorie Chalmers; Thank You, Winogene Redding; Permanent Exhibit in Smithsonian Institution; Album Profits Will Go to Settlement School</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Staff</item>
+                                <item>Health Care</item>
+                                <item>Arrowcraft</item>
+                                <item>Weaving</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7920027_0001" seq="01" n="26-27  "/>
+       <p>News from Little Pigeon Edited by Sarah Wild Gordon, Wisconsin A Two Valued Staff Members Retire December, 1962, will record two important mile-stones in Settlement School history with the retirement of Mrs. Marjorie Chalmers and Miss Wino-gene B. Redding. Each has devoted a considerablenumber of years in serving the Settlement School and the Fraternity owes an immeasurable debt of appreciation and gratitude to both of these fine resident staff members for their many contributions. Thank You, Marjorie Chalmers After twenty-seven continuous years, Mrs., Marjorie Chalmers retires as Registered Nurse in charge of health service and education at the Jennie Nicol Memorial Health Center. "Miz Charmer," as she is known, brought patience, tact, and tirelessness when she came in 1935 to assume her vital position in the community. She has witnessed the growth of Gatlinburg from a quiet little village to the bustling tourist town of Marjorie Chalmers in the uniform so familiar to all those Gatlinburg area residents who love and admire her and know her as "Mix Charmer." today and has ever kept Health Center services abreast of the changing times. She served thirteen years at the Old Health Center and was especially happy when the "new" Health Center was built in 1948. With Marjorie's warm personality, ability, and dedication to her work, the way was paved to trust and love; the Health Center came to be what Marjorie herself was a haven in time of need. Initiated In 1958 Pi Beta Phi was honored to initiate Mrs. Chalmers into the Fraternity at the 1958 Swampscott Convention and to make her a part of the organization for which she had worked so selflessly and faithfully. Her code through the years is expressed in her own words, "May I never be too busy with persons to care for personalities. May I never see duty so clearly as to be blind to its blessings. May I always find beauty in life and be ever grateful for each loveliness that I find." Although "Miz Charmer" is retiring, she will not be forgotten by the thousands of individuals she has helped. She will continue to reside in the community she has served. All Pi Phis join in gratitude and best wishes to Marjorie Chalmers as she retires from Settlement School service. Thank You, Winogene Redding Miss Winogene B. Redding, Weaving Designer and Supervisor at Arrowcraft, first came to the Settlement School in 1925. Although not serving continuously since then, she will retire at the end of the year with twenty-two years of service acquired in several different employment periods. She has received recognition over these many years for the successful planning and organization of the Arrowcraft Weaving program. It is very fitting that during her last year her achievements should be honored by being among those handcrafts exhibited last June and July at the Smithsonian Institution, 26 THE ARROW OF PI BETA PHI 27 Winogene Redding looks down at a loom that is being used to put one of her unusual designs in cloth. and that the permanent exhibit will include her designs. "Miss Gene" will long be remembered by the local weavers for her assistance and guidance. After gaining their confidence and friendship, she patiently and constantly supervised their work to achieve excellent high standards of weaving we know so well today. Helped Guild Organize The Weavers Guild was organized by the Arrow-craft weavers under Miss Redding's direction, and later she helped the Guild found the Garden Club. Through her work at Arrowcraft, Gatlinburg has become a major center of handweaving, and from this has come the great revival of the other hand-crafts in this area. Her technique of design and her ability to pass it on to others will leave an influenceat Arrowcraft for a long, long time. Miss Redding also plans to retire in the area and is building a new home nearby Pigeon Forge. All Pi Phis join in appreciation and best wishes to Wino-gene Redding as she retires from Settlement School service. Permanent Exhibit in Smithsonian Institution Pi Beta Phi has again been honored by the Smithsonian Institution, the United States National Museum. A permanent collection of Arrowcraft hand-weaving was selected by the Smithsonian from items in the month-long exhibit held last summer. Three pieces of old weaving that were loaned to us for that exhibit were chosen along with nine items that are currently being woven at Arrowcraft. Old Pieces Included Permission has graciously been given by the owners of these old pieces to add them to the permanent collection. An old, well-preserved coverlet is donated by Jessie Moeur Hamilton (Mrs. James Monroe), Arizona A and Pi North Alumnae Province President, in memory of her mother, Mrs. B. B. Moeur, to whom it belonged. Margaret Glanding Rupp (Mrs. C. R.) , New York A, is kindly donating a linen guest towel in the Monk's Belt pattern, which was purchased from Arrowcraft in the 1920's. The third item is another towel in an early American pattern called M and O. This towel is fringed at one end and hemmed at the other, with a loop at one corner to hang on a nail. It had been given to the Settlement School by Eva L. Hathaway, Iowa B, a former teacher at the school, after the death of her dear friend, "Miss Evelyn" Bishop, New York A, who was Head Resident of the Settlement School from 1918-1933. This towel was one of the Log Cabin Museum collection. The currently produced items, all designed by Miss Redding, are a red and white Whig Rose tablecloth and matching napkin, a length of blue woolen yardage, a brown and gold afghan, a brown poncho, a gold stole, a brown stole, a brown and gold guest towel and matching finger tip towel. The Smithsonian plans to make these items a small comprehensive exhibit in 1967 the Centennial Year of Pi Beta Phi. They are accessioned as a gift from Pi Beta Phi. Album Profits Will Go to Settlement School The Philadelphia Alumnae Club's record "Pi Beta Phi Keep Singing" has been turned over to Central Office for further sale and distribution. The price is $4.25 per album including a mimeographed copy of the lyrics to the songs. The Philadelphia Alumnae Club was allowed to stipulate where any future profits from the album sale should go and it voted that all profits from future sales should be sent to the Music Department of the Pi Beta Phi Settlement School. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

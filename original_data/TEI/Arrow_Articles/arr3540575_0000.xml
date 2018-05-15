@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3540575_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Bishop, Evelyn</name></author>
+                        <author><name>Richardson, Waneta B.</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>June 1919</date>
+		        <idno type="SPCID">arr3540575_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">June 1919</date>, News from Little Pigeon</title>
+                        <author><name>Bishop, Evelyn</name></author>
+                        <author><name>Richardson, Waneta B.</name></author>
+                        <extent>Pages 574-577</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">36</note>
+                        <note type="Folder">9</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 35, Number 4 (June 1919), Pages 574-577.</note>
+			<note type="document">arr3540575_0000</note>
+                        <note type="Table Of Contents">An Important Letter from the Chairman of the Settlement School Committee</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Health care</item>
+                                <item>Funding</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3540575_0001" seq="01" n="574-575  "/>
+       <p>574 THE ARROW OF PI BETA PHI NEWS FROM LITTLE PIGEON This last term of school has been such an unusual one that I hardly know how to sum the work up or where to begin to tell of it. Noth,,, ing stands out any more vividly than the epidemic of influenza which struck us the 'second week in January. On Tuesday morning we questioned the wisdom of closing school and finally decided it was the best thing to do and by the next morning nearly every person in the Burg was down. With no doctor within. seven miles and no nurses anywhere we well ones had to put our shoulders to the wheel. The people had confidence in us and if anyOne was able t,t)' get to the cottage they came for instructions and I UelieVe they followed them out to the best of their ability., We are so thankful that with all the cases not one proved fatal. Since the epidemic the people collie to the cottage for help in everything from taking care of babies, to assistance in all kinds of operation's. Many of you know that there were plans for a hospital in Gatlinburg and we were about ready to go ahead with them when the war came. Now there is a chance of working out a different plan. ,The Red Cross is ready to cooperate with any community or board of health in putting in a good nurse. I was talking with two Red Cross nurses recently and they were sure they could send us someone this year if we would pay half the salary. It seems to me a good visiting nurse could pave the way for a hospital later on as nothing else could. This spring the people have come to me of their own accord and talked over school affairs very freely. They are anxious for some place where we can board students. We have the small cottage for girls and I have the refusal of one of the houses in the Burg for boys. Three men have asked that we have a high school course next year and one of our boys who is still in France ha,s written me to know if there will be high school work this fall. He says he will be home the latter part of the summer and will be willing to do anything he can to help but that he feels we must keep the boys and girls in school as long as possible. He is right in saying that very few can ever have any more education than that received in Gatlinburg. We closed school one week earlier than we had expected, so could not give the little operetta we had planned. The children wanted something, though, so they looked up recitations and helped all they could to get up a little entertainment. At the end of the NEWS FROM LITTLE PIGEON 575 program. the last day of school they asked to sing the school songs and give the yells so we really had quite a lot of school spirit, even though the attendance was rather small. So many of the children and other people, too, asked for the privilege of using the library this summer that we shall have it open one day each week. I have been surprised this year to see how much use the young people made of the library. The church and Sunday School suffered as much' from the influenza as the school did and it has been hard, to arouse interest again. Some of the ladies came to me to help them start 'a 'Woman's society in the church and I believe that will be a great help to them and the whole community. I gave them the use of the cottage for their meetings and urged them to try to get together twice a month. Now that the Tennessee women are to have the opportunity to vote there will be something more to be done. We must do some kind of work that will help prepare them for their new responsibilities in that line. The more we can coordinate church, school, and country the more we will accomplish for each. The southern schools committee have asked us for an exhibit at the' Centenary jubilee at Columbus, Ohio, June 20 to July 14. I shall be there 'part of the time and shall be' so glad to see any ,of the Pi Phis who' coiue to the jubilee. So many letters of inquiry come from the diff event clubs and I am sure it would be splendid for all if we could have some opportunity to talk instead of always being tied to pen and paper. Some clubs have complained of not hearing from the school. All letters received have been answered but where some have gone to is More than I can say. If you do not hear within a reasonable time, will you write again? And another suggestion. Today there is a pile of letters on my desk, every one asking the same thing, something about the school for Founders' Day and unless I used th'e telegraph it is impossible to, get one reply to you in time. The mails are slow these days and we have to allow more time than we used to. I am so glad to give you any news I can and love to hear from the clubs but I am sorry to have the replies get to you after you have ceased to want them. All thisyear I have wished to be in closer touch with those who are interested in the 'school and if can be of any help to any Of you in any way Dist let me know. Our fraternity is doing a splendid work in the mountains and, in my judgment, a very patriotic work </p>
+      <pb ref="arr3540575_0002" seq="02" n="576-577  "/>
+       <p>57.6 THE; ARROW OF PI BETA PHI If we can train boys and girls up into fine citizens, what better can we do for our country and the world? EVELYN BISHOP, Head President. AN IMPORTANT LETTER FROM THE CHAIRMAN OF THE SETTLEMENT SCHOOL COMMITTEE To Alumna' Members of Pi Beta Phi: Some inquiries have come to me concerning the individual pledge cards that have been given out by the Province Vice-presidents or others working under their direction for the settlement school. A reference to the financial report in the October ARROW of last year will give you the, amount of money that passes through the chairman's hands for the yearly maintenance of the school and it may be easily seen from this that a larger amount has to be counted on to pay the actual running expenses each month never less, than $400. As the clubs vote the amount they will give each year, this varies considerably and is very uncertain in arriving at the time we expect it, so, we feel that the individual pledges given for a term of five years furnish us with a definite basis for estimating what can be counted upon for the support of -the scjaoolduring the year. Credit is always given the alumna! club whenever the individual specifies her desire. If the secretary or treasurer of the clubs would itemize the money sent by them we could then designate the amounts in our report as follows Amount given by club as a whole. Amount given from entertainments, sale of baskets, etc. Amount given by individual pledges. The clubs in this way could be.graded according to the number of individual pledges in proportion to the club's membership. We are in hopes, by this plan to have the clubs reach nonresident members and isolated Pi Phis who would be .glad, to be given an opportunity to come in touch with a club, and also to have a part in this great work that our fraternity has undertaken. ,As it is reflecting credit and honor on each and every Pi Phi,., each , should be a contributing force at work for its growth. The Province Vice-presidents ,have these pledge cards for distribution, and I hope this explanation, will make the necessity. so urgent that they will be signed rapidly. If only one dollar a year were given by each alumna, we would be enabled to pay easily all expenses IN AYE 11 0 IA AI 577 and have enough besides for expanding to meet the new opportunities offering themselves since the close of the war. As has been explained in other issues, we have been standing still during the war, doing no repairing and making no improvements. Now these are urgent and we must ask for a loyal support and rallying to the help of these mountain people who have such confidence and faith in Pi Beta Phi. Sincerely yours, WANETA B. RICHARDSON. IN MEMORIAM SARA MARGARET BIGIIAM Sara Margaret, Bigham, Pennsylvania r, ex-' 15, passed away December 3, 1918, in Denver, after, a brief illness from influenza and pneumonia. .Sara,was born in Gettysburg, Pa., December 1, 1893. She entered Dickinson College in 1911, being initiated into Pennsylvania r the same year. With the intention of taking up special work elsewhere, she. withdrew from the coilege at the end of two years. During the following summer her health began to fail, and after an illness of nearly three years, she went to Denver, accompanied by .her sister, in. the hope of regaining health. It was. here that she was attacked by the fatal influenza. We remember lovingly the winsome, happy, fun-loving Sara of college days, when she endeared herself to so many as a true friend; and we think with deep admiration of the patient, brave, and cheerful . spirit in which, afterward, she faced illness and its discouragements. She indeed fought a good fight and her life will ever he an inspiration to those who were ,privileged to know her. LUCILLE STEWART Ontario A girls cannot realize that they can no longer anticipate the visits of Lucille Stewart, ex-'18. It is hard to think that death has robbed us of Lucille who seemed so necessary to our happy reunions. Other people in sickness were her constant care and thought and we imagined that she was immune from illness, for we never heard her complain, but she contracted influenza on December 20, and died the day after Christmas. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

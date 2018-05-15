@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr5730309_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name> Pace, Jeffries Green </name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>March 1941</date>
+		        <idno type="SPCID">arr5730309_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">March 1941</date>, News from Little Pigeon</title>
+                        <author><name> Pace, Jeffries Green </name></author>
+                        <extent>Pages 308-311</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">39</note>
+                        <note type="Folder">9</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 57, Number 3 (March 1941), Pages 308-311.</note>
+			<note type="document">arr5730309_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Philanthropy</item>
+                                <item>Weaving</item>
+                                <item>Well-Baby</item>
+                                <item>Home economics</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr5730309_0001" seq="01" n="308-309  "/>
+       <p>Top: New Arrow Craft Shop, Bottom: The Home Economics students sew in pleasant surroundings. NEWS F Edited by JEFFRIES GREEN PACE, Virginia A OM LITTLE PIGEON The Settlement School Committee is in the position of a housewife whose husband's job is precarious during years of depression. From one year to the next there is no way of predicting what funds will be available for use. The School Is Maintained Entirely By Contributions from Clubs and Chapters. Each Summer the Committee Meets to Formulate a Budget for the Coming Year Each Year the Committee Hesitates to Budget Needed Expenditures Because of the Uncertainty of Receipts from Those Sources. Bundles for Britain, Friends of France and similar organizations have made their demands on all our sympathies, but because we are anxious to help these wretched people we must not abandon our own mothers, our own children in Tennessee. There once was a family which came upon very hard times from somewhat the same mischance now threatening the school. The father was a successful business man and expended all his energies there. The mother was an ardent espouser of Causes the Foreign Missions, the Church, Orphans' Homes, Clubs of all kinds. She was sweetness and light to everyone, BUT-her children went in rags, buttonless, sketchily fed, uncertainly housed, the backbone of every mischievous scheme hatched by young people in the town. Morning family prayers and blessings at meals were supposed to take care of these youngsters, and eventually a small percentage of them became substantial citizens, but in their formative years the family was a men-ace to community life. We have adopted this Settlement School as our own child. We have cared faithfully for it through its infant years. Now that it has turned out to be a sturdy, rosy-cheeked off-spring, are we figuratively to take away its fresh fruit juice, its winter cod liver oil, its leisure for outdoor exercise, its acquaintance with good books, its warm clothes and the endless good things which every beloved child of comfortably situated parents learns to require? We need money this year for this year's expenditures. Give the Settlement School your time and redoubled effort to achieve AT LEAST the sums which you always have so generously ac-corded before. We have confidence in you and we thank you. JEFFRIES PACE Member of S.S. Committee LETTER FROM A STUDENT Gatlinburg, Tennessee January 16, 1941 DEAR PI PHIS: Pi Beta Phi Settlement School is located in the center of our town and Pi Beta Phi is the school which I now attend. The Junior Class, of which I am a member, has quite a record for being the biggest class ever to enter High School as Freshmen. There were fifty of us. There are only thirty of us now. The Junior Class has been working for two and one half years to get enough money to go to Washington, D.C., for our trip when we become Seniors. This year the Junior Class is going to give the members of the Senior Class a banquet before graduation. We hope the other classes will continue to do this. Our school has a very good boys' basketball team and also the Future Farmers of America have a good team. The F.F.A. team is made up of players who aren't quite good enough to be on the regular school team. We have quite a few clubs in our school Home Economics Club, F.F.A. Club and also a Glee Club. The Home Economics Club and F.F.A. Club give parties for each other. Square dancing is what we usually do at the parties. Each club tries to think of unusual things and different kinds of parties to have. At our last 309 </p>
+      <pb ref="arr5730309_0002" seq="02" n="310-311  "/>
+       <p>310 THE MARCH Home Economics party we gave a "back-ward" party, where the girls ask the boys to play games, etc. It proved to be a success as there are more boys than girls and some of the boys are what you might call bashful. Roller skating parties are quite popular here too. The F.F.A. boys give a banquet in the spring for the boys and their parents. The Home Economics girls cook and serve it. There are numerous things to do in Gatlinburg and I'm sure that everyone who at-tends Pi Beta Phi School enjoys going as much as I do. Sincerely, EVELYN CONNER After a busy day of visiting, our nurse, Marjorie Chalmers, soliloquizes in quaint mountain phraseology: "With one thing or 'nuther Life takes a heap o' loin' Thar's Johnny, now, and Sue's Bill, Teethin' an' venturin' to walk. Life's serious fer them. An' Linda's broke out 'ith heat rash Summer's hard on little folk An' big un's too. ARROW Granma.w she don't feel much stout. They're proud, Grandpap an' her, To have nurse set a spell They quarrel lovingly Hit he'ps a sight to have nurse come "Stay with us," "Come back soon" Aunt Charity's got a mizry Mought be th' shots holp hit afore Sortie like common, she seems to be. Jimmie's been in the poison vine Dave's got a thin' on his neck Thar's that young feller 'ith the burn Bandages are pow'rful hot to wear. Lou's got to stay in bed a spell An' the new mother too. Cabin windows 're less'n shud be Seems like breeze won't circulate But thick logs an' broad plank floors An' dusky shade seem good A sight on earth the noisy branch Makes coolie' melody. I feel wishfulsome To shed my shoes An' trail my toes In rushin' streams, Whilst settin' on a big ol' rock. 'Pears like the water washes off Troublin' cares 'ith the dust of day. Marjorie Chalmers and Her Beloved Children </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

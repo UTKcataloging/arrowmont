@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3240597_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Helmick, Elizabeth A.</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>June 1916</date>
+		        <idno type="SPCID">arr3240597_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">April 1916</date>, News from Little Pigeon</title>
+                        <author><name>Helmick, Elizabeth A.</name></author>
+                        <extent>Pages 596-597</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">36</note>
+                        <note type="Folder">3</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 32, Number 4 (June 1916), Pages 596-597.</note>
+			<note type="document">arr3240597_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Students</item>
+                                <item>Curriculum</item>
+                                <item>Funding</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3240597_0001" seq="01" n="596-597  "/>
+       <p>PIGEON aed on March 31, for its ne to their homes. Miss 'ollard to Chicago, Miss 1ington, and Miss Plank, mtain Workers at Knox chool will open again on ity School Superintendent of 133 students, receiving Lr : j33 in spelling, 133 tic, 25 in grammar, 66 in ,n History of the United in sewing, . 63 in drawing )f study its that prescribed iblic schools. 57 students , leaving, of the present xt August: trades, school d is well patronized. We l insure the reading table Ire for the children. any kind and there is ) be built this year. All ~zT pledges for the meet the runnint The Fraternit work. Each tea made satisfactoi greater than any year must be cone next year, and w have new work is Each year the It is hoped that e work as hers, and BM I To We Froi Tha Swe Cau The WiT Our As , </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

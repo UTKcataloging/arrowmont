@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7240211_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelor</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Summer 1956</date>
+		        <idno type="SPCID">arr7240211_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1956</date>, News From Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelor</name></author>
+                        <extent>Pages 210-211</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">8</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 72, Number 4 (Summer 1956), Pages 210-211.</note>
+			<note type="document">arr7240211_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Dormitories</item>
+                                <item>Students</item>
+                                <item>Community programs</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7240211_0001" seq="01" n="210-211  "/>
+       <p>nu/ FROM LITTLE PIGEON Edited by Louise Wheelock Dobler, Washington Beta A diamond in the rough, is a diamond, sure enough, But before it's ever polished, it is made of diamond stuff. But someone must find it or it never would be found, And someone must grind it or it never would be ground. But when it's found, and when it's ground, and when it's burnished bright That diamond's everlastingly flashing out its light." To THOSE who have had any part in accom plishing the task that Pi Phi started so many ears ago as a memorial to our Founders, the work as been like finding and polishing precious gems, nd has been just as exciting and satisfying. Perhaps one of the least-known and most retarding facets of our work in "finding and polishag diamonds" in the Smokies, has to do with the oys and girls we call our "dormitory students." 'hese high school students live too far from Gatlinurg to commute each day, and so they arrange with ur Director to live in one of our cottages. The girls live in Stuart Dormitory which was a ift to the school from former grand treasurer, Ann tuart of Nebraska B. When it was built in 1941, was intended as a home for boys; but with the cond world war and the need for every available elper to be active in defense work, so many boys ropped out of school that permission was granted y the donor to use the building to house the girls and so it has remained to this day. The boys live the old staff house or "Teachers" as it is familiarly sown. The dorm has pleasant living quarters for le supervisor in each case. The Pi Phi Housekeeper housemother for the girls, and one of the men mchers lives with the boys. In return for their board and room the students ay $5 per month plus giving 96 hours in work 3sistance. The girls help with housework not only 1 their own dorm, but in Staff House as well. They ave proved invaluable help when the Staff House as been temporarily without a cook, for they mange to get breakfast and help with the other meals. he training they receive in serving has meant Dod jobs for many in the dining rooms of the ig hotels of the town. The opportunities they have ) assist with receptions and teas in the Staff House :e assets in their social training and the boys and iris alike learn the fine art of hospitality when they Itertain their classmates at parties, or assist with irl scout or boy scout benefits in their "homes." pork for the boys may be in helping with farm cores, shoveling snow, keeping the fireplace wood-)x filled, or doing any number of odd jobs. A [-le contribution this year is their effort in helping Three Dormitory graduates, June 1955, on the steps of the Ruth Barrett Smith Staff House. Arlie, our Pi Phi maintenance man and overseer, and his son, Neal, with their work in remodeling the lower floor of Pollard Cottage to accommodate more Summer Workshop students. Their help will mean many dollars saved on a project that is a "must" in our schedule this year. The close contact with the staff of Pi Phi, as well as with their teachers, has an apparent re-warding influence in the lives of the young folk who make up our Dorm families, for through the years their accomplishments have been outstanding. Many of them have been on the honor roll, have been chosen by their classmates as the outstanding boy or girl of the year, have won many popularity polls and achievements in the areas of speech, creative writing and dramatics. A recent executive referred to our young people as especially reliable and outstanding in their leadership and service to their school. The success of this program is due to the super-vision of the Pi Phis who are engaged in our pro 210 THE ARROW OF P1 BETA PHI e,gram of "finding and polishing diamonds" for us. This year our Director introduced a plan for study table, which has meant a decided improvement in grades; she encouraged high scholarship and co-operation further by making small financial awards to the boys and girls who rated highest in grades and school activities and did most to contribute to "dorm" life. With a special gift from a thoughtful Pi Phi, she has subscribed to American Girl and Sports Illustrated for each dorm respectively. She is alert to every opportunity that will enrich the lives of our young people; such as the arrangement to have the gifted music student receive lessons from the private teacher who uses our piano in Stuart. She is there to encourage boys and girls who show promise to continue their education, and with such funds as the recent bequest which Charlotte Alspaugh, Illinois B, left to her beloved Pi Phi to use for higher education for outstanding students, we will continue to "find the diamonds and let their lights shine." cZ'') el'. h,t PP amp t eri An abstract of an address by Dr. Kenneth McFarland at NPC Mrs. Marion W. Mueller, Direct( Beta Phi Settlement School, has accep position as a member of the Honorary ory Council of the Great Smoky Mou Historical Association, Inc., the nonpro ganization in Gatlinburg sponsoring the Kermit Hunter outdoor drama CHI_ JACK, to be produced in the Hunter Theater there nightly, except Sundays, 22 through September 1. This historical depicts the colorful career of John Sevier the founding of Tennessee which he set.) first governor. Kermit Hunter is the autt the outstandingly successful Cherokee I drama, UNTO THESE HILLS, now ing its seventh season at Cherokee, I Carolina. FOR NEARLY three decades now I have been in creasingly identified with education, industry, business, the professions, and agriculture and al-ways over wider and wider areas. As a result of this experience I am thoroughly convinced that no person can be personally and happily successful unless his job is one that lets him put light in people's faces. The first characteristic of these lamp lighting people is that they must have a light inside of them-selves. It is this light that lets them see to do the right thing and do it with finesse. Most people know what is right, and a surprisingly large number of people get around to doing the right thing. But if you want to realize any dividends from doing the right thing, you must do it with style. It is the light that the Lamp Lighter carries that permits him to see how things are in the other per-son's situation and thus get into the other person's life with him. Only in this way can one teach, sell, lead, or administer. It is this understanding that pre-vents one from making the tragic mistake of believing there are two sets of rules one for himself and another for other people. Finally, the Lamp Lighter must keep his light refueled. People sometimes ask me why I so frequently inject a spiritual note into addresses made to business, industrial, professional, and lay groups of all kinds. It is not because I am a theologian. I have never studied an hour of theology in my life. It is because I am sincerely trying to do a job. I want the stuff I dispense to be right. I want people to take ithome and find that it works for them, and 1 working. Now, the plain fact is that a strong religi viction is the only thing we have found t keep a fellow doing the right thing even is headed uphill and even when it is unprof is not enough to know what is right there an emotional drive to keep one doing tl thing. In answering this great need we hal found any substitute for spiritual force. If ever comes to us with another equally sat answer, I shall be glad to add it to my an the meantime, if you want to keep your lam : you had better keep it connected to the Hi that leads straight back to the Source of Po The late Sir Harry Lauder liked to tell of Lamp Lighter in his hometown in Scotian( used to observe him every day at dusk. The would .put a ladder up against a light p climb up to light the lamp. When he had that one he climbed down the ladder and c to the next lamp post. Finally, Harry said, " man would be out of sight, but I could alp which way he went by the lamps he had 1 So, I close right where I started. If you be not only successful but personally, hap permanently successful then do your job i that puts light in people's faces. Do that jot a way that even when you are out of sigh will always know which way you went by tl you left lighted. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

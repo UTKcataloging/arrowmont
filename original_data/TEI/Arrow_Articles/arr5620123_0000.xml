@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr5620123_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name> Pace, Jeffries Green </name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>November 1939</date>
+		        <idno type="SPCID">arr5620123_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">November 1939</date>, News from Little Pigeon</title>
+                        <author><name> Pace, Jeffries Green </name></author>
+                        <extent>Pages 122-125</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">39</note>
+                        <note type="Folder">7</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 56, Number 2 (November 1939), Pages 122-125.</note>
+			<note type="document">arr5620123_0000</note>
+
+                        <note type="Additional Information">About Old Timer's Day, June 24, 1939. This issue numbered Vol. 56, No. 2, Part 1 Part 2 is a brief supplement</note>
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Programs</item>
+                                <item>Students</item>
+                                <item>Competitions</item>
+                                <item>Southern Appalachian culture</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr5620123_0001" seq="01" n="122-123  "/>
+       <p>OLD TIMERS DAY, JUNE 24, 1939 `op to bottom: Mr. Riley King, age 89, oldest person present; left, Uncle Bud Ogle, second prize whisker contest right, Ogle ; An interesting and typical family group in the audience ; Aunt Juliann Margaret Thumb, winner of the title old timey dressed woman." Center, top to bottom: Mr. Red Maples (note P.T.A. quilt on wall) ; Mr. Riley King, person present, 89 years, Mr. Billy Franklin, 88, Aunt Charity Watson, 85, Mr. Geor,ge Ogle, 85, Mr. George Lemons, ant Sally Compton, 80, Miss Porter, 80, Mr. Bud Ogle, 78; Spinning Contest Aunt Lave Reagan, Mrs. Ellen Watson, ag, Aunt Celia~~Ownley, Mrs. Emaline Ogle, a school weaver and daughter of Mr. Riley King. Right, top to bottom: om Franklin, most old timey dressed man ; a group of hog rifle contestants some rifles dating back to the revolu-The corn huskers. NEWS FROM LITTLE PIGEON Edited by JEFFRIES GREEN PACE, VirRinia A OLD TIMERS' PROGRAM Gatlinburg, Tennessee Saturday, June 24, 1939 8:30 Opening Prayer by Rev. Eli McCarter 9:00 Address by the President, Amos Reagan 9:10 Talk by Steve Whaley 9:25 Music by String Band 9:40 Hog Calling, Husband Calling and Cow Calling. Judges: Mrs. Holton, Mrs. Copp and Mrs. Hagee 10:00 Ugliest Man, etc., judges: Eli McCarter, Chairman, Isaac Bradley, D. C. Maples, John McCarter 10:15 Most Old Timely Dressed Woman, same judges as above 10:45 Old Harp Singing led by Husque Trevena 11:00 Funniest joke, judges: Mrs. Steve Whaley, Chairman, Mrs. I. L. Maples, Mrs. Everett Trentham. Ballad Singing 11:10 Story Telling, Judges same as for Funniest joke 11:20 Heaviest Whisters since April 1st, judges, Phillip Maxwell, Chairman, John Marshall, Mrs. Georgie Duffield 11:30 Prize for oldest man, etc., Judges, Ambers Ogle, Chairman, Amos Trentham, William King 11:45 Individual musicians, judges, Los Reagan, Chairman, Cleophus Ogle, Pern Price, Mrs. Marjorie Chalmers Lunch 1:00 Corn Shucking, Judges, Jim Huff, Chairman, Jack Huff, W. L. Ogle 1:30 Election of Officers 2:00 President's Closing Address 2:30 Outdoor Contest, Hog Rifle Shooting, Judges, Frank Morvle, Chairman, Dick Ownby, Everett Reagan, Lewis Reagan 2:40 Horse Shoe Pitching, Judges, Harve Reagan, Chairman, Luke Reagan, En. N. Clabo, Verlus Reagan 2:50 Bow and Arrow, Judges, Los Reagan, Chairman, Wiley Oakley, George Barnes, Marshall Thomas 2:50 Weaving, 'fudges, Mrs. Marshall `Trentham, Chairman, Mrs. Jim Reagan, Mrs. Lee Hick= Carding, judges, Mrs. Mary Ogle, Chairman, Mrs. lunette Clabo, Mrs. Arlie Watson Spinning, Judges, Mrs. Sol Reagan, Chairman, Mrs. `W. C. Brown, Mrs. Mirriam Proffitt Sewing, Judges, Mrs. E. N. Clabo, Chairman, Mrs. Harrison Proffitt, Mrs. Eli McCarter 3:00 Baseball, Chairman, Roy Griffin Woodsplitting, 'fudges, Horace Kelley, Chairman, Giles Newman, Robert Esl:nger, Lavater Ownby. Cash Prizes will be given the winners of each contest, with the exception of the corn shucking, where the prize will be the corn. All old folks over 75 will receive a prize. THE QUILT MADE BY THE MOTHERS OF THE PARENT TEACHERS ASSOCIATION WILL BE RAFFLED OFF ON OLD TIMERS' DAY It was a lucky group of visiting Committee members who were handed the above pro-gram the Saturday before our regular meeting began on Monday. We sat in the front row of the high school auditorium, surrounded by crowds of people who had come from up the mountain roads for miles around to see and hear all that this anniversary offered. Fans were wielded with great enthusiasm all about us, for it was a very warm day. On the stage were seated the speakers of the day and in the rooms to each side were gathered a restless group, some twanging strings of their musical instruments and some screwing up courage to take part in the day's program. Photographers representing the Tennessee State Department of Conservation and others interested in the occasion stood ready with their flash bulbs to record the coming events. The program was followed very much as given above. Mr. Eli McCarter opened with a talk on the old families of the region. He is a great-great grandson of William Ogle, relative of the first Ogle in this section, Thomas, whose numerous descendants enter into every phase of community life in Gatlin-burg. Mr. Radford Gatlin for whom the settlement of White Oak Flats was rechristened and who was its first postmaster, apparently has no representative of his name in the neighborhood. But the old names of Huff, Ownby, Reagan, McCarter, and others are echoed in every group one meets in Gatlin-burg today. Amos Reagan, the president, a youngish man who vigorously led all the activities, spoke of the first Old Timers' celebration in 1927 when Miss Higginbotham was the nurse. Mr. Steve Whaley, owner and operator of the Riverside Hotel, told tales of his early 123 </p>
+      <pb ref="arr5620123_0002" seq="02" n="124-125  "/>
+       <p>124 THE NOVEMBER ARROW days here in the mountains. He mentioned wearing shoes made of bearskins and after making a glowing tribute to Mothers concluded thus: "This world is big enough for any young man who has any ambition in life. Nobody has ever been on relief in Gatlinburg and I hope none of our young men ever will be." The string band which began the regular program was lively and colorful, consisting of four pieces led by Red Maples. They played old mountain music and had the whole audience tapping time. After several numbers Amos Reagan asked the hog callers to step forward and had some little difficulty in overcoming the shyness of those in the audience best equipped to compete. With a "Come on now, don't make me beg you," he got some response and after the first few had taken their places on the stage, diffidence seemed to disappear and the fun began in earnest. Aunt Sally Compton won the most applause and thereby first place with Uncle George Ogle a close second. Aunt Sally was anxiously pushing Uncle George into position when they appeared to receive their money prizes, but Uncle George disliked being bustled about and retorted, "Long as you ain't courtin', don't matter what side you git on. The husband callers came next and their comments after a hearty whoop varied around this theme, "Hey pap, hep pap, come on to your dinner or I'll eat it up." Mollie Moore won first in this class. Cow calling produced several original styles "She's dry 1'11 call her though Hoohoo come on you old heifer you!" or "Old Red's way down at Brute's field, I'll have to call her pretty loud," which won the event for Uncle George Ogle. Harkness Ogle walked away with the doubtful honor of ugliest man though he seemed proud enough. The most old timey dressed woman in black basque, bonnet, and ruffled skirt over a hand-woven striped wool petticoat was Aunt Juliane Margaret Thumb from Possum Hollow. She and Mr. Tom Franklin, in old coat and carrying a hog rifle and a powder horn at his belt celebrated their victory with a buck and wing dance. From the back of the room now appeared a man very like his name Husque (pronounced husky) Trevena, who was to lead the harp singing. I asked one of the old folks in front of me how he spelled his name, since I had no program at hand and his response was "Just any way he feels like, I reckon." I wish all of you could have heard the deep religious tones of the chorus of men's voices that followed. Harp singing has always been a mystery to me since I first saw the books with only queer shaped notes to indicate the tune, but by the time the songs were finished, I was quite convinced of the beauty and effectiveness of it. A youngster of twelve or so, junior Trent-ham, was so apt with his words and so well versed in song that he captured the prizes both for the funniest joke and the ballad singing. The next event brought forward all the oldest of the Old Timers. They were helped up the steps onto the stage and were lined up according to age all above seventy-five got a prize. The oldest was Mr. Riley King, a small man with flowing white beard and twinkling eyes eighty-nine years old. Unfortunately it was his last chance to win for he died the following week. There were only two whisker contestants, the top prize winner being Harry Rice, a young man in the government service. He had really endured a good deal of derisive comment in the process of initial whisker cultivation. After one of the younger element (Oda Ownby, Jr.) had played himself into first place for musicians, there was intermission for lunch. The school playground was soon filled with bright spots of color, groups of mothers and children, grandparents indulgently looking on, men hobnobbing and telling the tales that had failed to be produced for the pleasure of the audience. Musicians tuned up and had a ring of enthusiasts about them and the cold drink stand had a steady stream of customers. Soon hunger was appeased, limbs sufficiently stretched, and the crowd trooped back indoors to elect Amos Reagan president for the coming year, as he really deserved to be. We are told he has a persuasive way that charms the merchants into hearty financial support. After the corn shucking prize had been awarded to Mr. A. C. Mashburn, the crowds again scattered, some to see the women's events and some to cross the road and watch the hog rifle contest on the other side of the creek. Aunt Lizzie Reagan won the carding and spinning; Myrtle Conner the weaving, and Pearl Maples the sewing. To a small boy, to a man, or to the mother of an enthusiastic son, the shooting seemed much more lively. Some of the old rifles were made of decorative curly maple with fine metal work THE NOVEMBER ARROW 125 and dated back to the revolutionary war. They had served their families well in early times, had been treasured and cared for and had often meant the subsistence of their owners. They are loaded by pouring powder from an old horn into the gun barrel, easing it down by knocking on the barrel ; then a small rag is wadded into the gun with a long metal rod, the bullet following in the same manner. A tiny flint is pushed into a hole just below the trigger and the gun is ready to be fired, making a mighty impression on the target and the earth around it. The day was concluded by a baseball game which was enthusiastically cheered by a large number of spectators, although a few people at a time had been leaking out through the gates and the celebration was gradually drawing to a close. The wails of tired babies, the shouts of small boys, were gradually stilled and we walked over to sit on the porch at the Teachers Cottage and congratulate our-selves on not having missed this day of COmmemoration. PERN PRICE'S SOAP-BOX DERBY Our second year of supervised summer playground work under the grammar school principal, Mr. Price, was punctuated during the committee meeting by a soap-box derby. Ever since school was out his group of boys had worked all day and every day in the shop and turned out a creditable array of vehicles, for which even the wheels were hand-made and covered with pieces of old auto tires. Since there was no available hill, the cars must be boy-powered. One lad would steer and one push from the rear. The course was laid out over the playground with red flags at every corner. The race was run in groups of three, the winners racing each other for the final prize. Of course the grass was not an easy surface over which to propel these hand made disk wheels and there were times when the autos failed to budge and the pusher had to stop and begin all over. But their enthusiasm never failed and with cheers from staff, committee members and relatives, the race was successfully run. One small boy of five was tossed out on rounding a flag, but he was up and back in his car so quickly that he really deserved especially to win the final event and surprised none of us by doing it. A prize was given for the best entry, which was richly decorated with windshield and other accessories showing the ingenuity of its young builder. When the last panting contestant had pushed his car over the line, the boys trooped away, led by Mr. Price who had promised ice cream to all those who took part. THETA SIG e,, P I TO HOL It "WO K CONFE ENCE" AT N. U. The national honorary organization for "women in journalism" Theta Sigma Phi Fraternity, whose alumnm are found scattered throughout the world in many topflight positions and whose younger members are in colleges, held a conference an idea exchange to further women in the field of writing. To this end, the Northwestern University campus in Evanston, Illinois, was the setting for the "Work Conference" of the fraternity for three crowded days in August, the 17th, 18th, and 19th. The six hostesses for the convention were: Chicago Alumna Chapter, the Milwaukee Alumnae Chapter; Alpha Beta at Northwestern University ; Alpha Gam ma, Marquette University; Pi, Illinois University; and Beta, University of Wisconsin. Among the unusual sessions planned was the "free-lance free-for-all" open to writers who seek aid on markets, writing tips and an entree and knowledge of technique in new fields just developing, such as television, etc. A first-ranking literary agent and a publisher's representative were in attendance. Another session was a "job symposium" led by women prominent in their specialized fields. Members of U B (I) who held responsible committeeships for the .0 4' convention were: Beth Wood, budget chairman, and Dorothy Brunton, convention newspaper. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

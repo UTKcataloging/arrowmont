@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3220199_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Helmick, Elizabeth A.</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>December 1915</date>
+		        <idno type="SPCID">arr3220199_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">December 1915</date>, News from Little Pigeon</title>
+                        <author><name>Helmick, Elizabeth A.</name></author>
+                        <extent>Page 199</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">36</note>
+                        <note type="Folder">2</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 32, Number 2 (December 1915), Page 199.</note>
+			<note type="document">arr3220199_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Facilities</item>
+                                <item>Teachers</item>
+                                <item>Staff</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3220199_0001" seq="01" n="198-199  "/>
+       <p>198 THE ARROW OF PI BETA PHI THE CONVENTION DAILY OF PI BETA PHI When we undertook to publish a Daily, our purpose was a three fold one to make it something that would be interesting to those who could not be at the convention with us, something that would give those who were here a better idea of some of the more important matters to be brought before them in the sessions, and a financial suc cess for the benefit of one or more of our fraternity in terests. We were warned by others, who had tried the plan before us, that this last purpose would be a vain one. The Editor feels, however, that in the case of our Pi Phi Daily, the financial purpose was the most successful of the three due to the splen did publicity work of the ladies of the Los Angeles alumnae club and the en thusiastic efforts of Helen Havens, our advertising HAZEL DONOHO BABCOCK manager. All of the adver Editor of Convention Daily tising bills have not yet been settled, but we show a fairly good surplus even now. This will be divided between the Settlement School and the Loan Fund just as soon as complete settlement has been made. At present we can offer the following report : Subscriptions mailed 528 Subscriptions delivered 257 Total 785 Cash received from subscriptions $222.80 Cash received from advertising 87.50 Total $310.30 NEWS FROM LITTLE PIGEON 199 Expenses for printing $151.50 Expenses for wrappers and stamps 24.04 Total $175.54 Total cash on hand $134.76 Cash yet to be collected from advertisers, $27.50. HAZEL DONOHO BABCOCK, Editor. Berkeley, Cal., October 15, 1915. NEWS FROM LITTLE PIGEON [Owing to the pressure of after-convention news, this department is abridged this time but a liberal amount of space will be given it in the March iSSUe.-EDITOR.] The Pi Beta Phi Settlement School opened its fifth session on August 3, 1915, and has been having an average, attendance of 95 pupils. Caroline McKnight Hughes, Minnesota A, '96, is the new head resident, with Mary O. Pollard, Vermont A, '96, principal of school, Marie Ditmars, Indiana A, '13, and Bernice Good, Indiana B, assistants. Manual training with a moderate equipment has been installed, and one loom for weaving cloth and old fashioned cover-lids is kept in constant use. The Springfield, Mo., alumnx club is trying to raise the money necessary to buy three more looms for the work. The small cottage has been remodeled this fall and two-sleeping rooms added, a new chimney takes the place of the old one, the piazzas widened and three coats of fresh paint puts the finishing touch to the last of our school buildings to be put in first-class order. This building will now be ready to be used as a hospital as soon as the much needed teachers' residence can be built. The new Board of Managers is composed of the seven province vice-presidents, with Mrs. Helmick as chairman, and work has started this autumn with more enthusiasm than ever before, and the year promises to be the most profitable to both Gatlinburg and Pi Beta Phi alumnae clubs. ELIZABETH A. HELMICK, Chairman and Treasurer. Address: Mrs. E. A. Helmick, Care 28th Infantry, U. S. Army, Donna, Texas. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

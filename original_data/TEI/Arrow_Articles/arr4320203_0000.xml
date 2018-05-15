@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr4320203_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Supplementary Report of Treasurer of Settlement School</title>
+                        <author><name>Curryer, Ethel R.</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>November 1926</date>
+		        <idno type="SPCID">arr4320203_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">November 1926</date>, Supplementary Report of Treasurer of Settlement School</title>
+                        <author><name>Curryer, Ethel R.</name></author>
+                        <extent>Pages 203-207</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">37</note>
+                        <note type="Folder">9</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 43, Number 2 (November 1926), Pages 203-207.</note>
+			<note type="document">arr4320203_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Funding</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr4320203_0001" seq="01" n="202-203  "/>
+       <p>202 THE ARROW OV P, nA Pin Chapter papers have come to the editor's des., from chap ters in Beta Province and from Indiana Delta. These papers are interesting, attractive and show a great deal of originality. Ohio Delta calls her publication a Spring Bulle Chapter Papers tin; Pennsylvania Beta's Jrrowette is a Founders' Day number; Ohio Alpha displays a St. Patrick's Day Journal ; Pennsylvania Delta has a Commencement Number ; 'West Virginia Alpha's news shines forth through the Xfay Day Sun; and Ohio Beta broadcasts through a news bulletin. The Tiny Arrow of Indiana Delta is snappy and to the point.! The work of artists and journalists portrayed in these chapter papers is exceedingly interesting both to national officers and alumna :y. Illinois Zeta has a very fine plan which ight: lie tried in other chapter houses. One room of the chapter house is fitted up and reserved for the use of the town Town Girls' Room girls who can drop in and rest, dress for a party, or have a quiet study hour between classes. The town girl is just as interested in the chapter house as the girl who lives there and very often she contributes most generously to the house fund. With the arrangement which. Illinois Zeta has, the town irl feels at home in the chapter house and has a nook and corner which she can really call her own. It was with great regret that the resignation Olive Keller Laurence, Grand Vice President, was accepted by the fraternity. She has served the fraternity faith Resignation of fully and well during the past years Grand Vice President and brought to her office the enthusi asm of one well-versed in every phase of fraternity work. Through her influence many progressive ideas have been adopted by both active chapters and alumnae clubs. She will continue her contact with Pi Beta Phi through the Miami rice Club. SETTLE N 'T SCHOOL TREASURER'S REPORT 203 SUPPLEMENTARY REPORT OF TREASURER OF SETTLEMENT SCHOOL ONTRI-BUTTON S for the Settlement School from active chapters and. alumme clubs from May 1, 1925 to June 30, 1926 are listed below. The fiscal year has been changed to end June 30, so all such gifts should reach the Settlement School treasurer by June 15 to avoid a last minute rush. Chapter and club treasurers please remember that checks should be sent direct to vour Province vice President, who will forward them to the Settlement School treasurer. Start them early ! Last year many chapters and clubs sent their contributions in two payments, and this helped materially to finance the School. No money had to be borrowed during the entire year. 'I'II i. CuRRYER, Treasurer. ACTIVE CHAPTERS ALPHA PROVINCE Maine Alpha $ 30.00 Massachusetts Alpha 50.00 New York Alpha 212.00 New York Gamma 54.00 New York Delta 377.00 Ontario Alpha 100.00 Vermont Alpha' 43.00 Vermont Beta 25.00 601.00 BETA PROVINCE Ohio Delta 25.00 Ohio Beta 25.00 Pennsylvania Alpha 100.00 Pennsylvania Gamma 100.00 West Virginia Alpha 50.00 300.00 GAMMA .PROVINCE Columbia Alpha 37.70 Florida Alpha 20.00 Virginia Gamma 41.00 98.70 DE. TA PROVINCE Indiana Alpha 10.00 Indiana Beta 25.00 Indiana Gamma , 60.00 Indiana Delta 20.00 Kentucky Alpha , 10.00 Michigan Alpha 63.00 Michigan Beta 225,00 413.00 </p>
+      <pb ref="arr4320203_0002" seq="02" n="204-205  "/>
+       <p>204 THE ARROW Or PI BETA P 1I EPSILON PROVINCE Illinois Beta, 100.00 Illinois Delta 32.00 Illinois Epsilon 25.00 Illinois Zeta 75.00 Illinois Eta 65.00 Minnesota Alpha 60.00 North Dakota Alpha 37.00 Wisconsin Alpha 80.50 Wisconsin Beta 25.00 409.50 ZETA PROVINCE Iowa Alpha 10.00 Iowa Beta 23.00 Iowa Gamma 35.00 Iowa Zeta 36.00 Missouri Alpha 100.00 Missouri Beta 75.00 279.00 ETA PROVINCE Colorado Alpha, 100.38 Colorado Beta 30.00 Kansas Alpha 35.00 Kansas Beta 100,00 Nebraska Beta 100.00 Wyoming Alpha 50.00 415.38 THETA PROVINCE Arkansas Alpha 12.00 Louisiana Alpha 25.00 Oklahoma Beta 45.00 Texas Beta 20.00 102.00 IOTA PROVINCE Idaho Alpha 42.00 Oregon Beta; 35.00 Washington Alpha 33.00 Washington Beta 10.00 120.00 KAPPA PROVINCE Arizona Alpha 67.50 California Beta 25.00 Nevada Alpha 22.00 114.50 Total $3,033.08 In addition to the above Ohio Alpha gave $70.00 to be credited to the Hazel Todd Meaden Memorial Fund. ALUMNAE CLUBS ALPHA PROVINCE Boston, Mass 669.02 Buffalo, N. Y 160.00 Burlington, Vt 35.00 Connecticut 103.11 SETTLEMENT SCHOOL TREASURER'S REPORT New York City 400.00 Northern New York 25.00 Rochester, N. Y 191.00 Syracuse, N. Y 100.00 Toronto, Ontario 55.00 Western Massachnse:ts 25.00 $ 1,763.13 BETA PROVINCE Akron, O 265.0o Altoona, Pa 17.00 Cincinnati, O 200.00 Cleveland, O 2,140.00 Columbus, O 47.12 Lancaster-Harrisburg, Pa. 150,00 Miami Valley, O 75.00 Morgantown, VT, "\Ta 25.00 Northeastern Pennsylvania .. 50.00 Philadelphia, Pa 960.29 Pittsburgh, Pa 314.92 Toledo, O 150.00 4,304.33 GAMMA PROVINCE Atlanta, Ga 100.00 Baltimore, Md 178.00 DeLand, Fla 150.65 North Carolina 20.00 Orlando, Fla 75.90 Richmond, Va 63.00 St. Petersburg, Fla 25.00 Washington, D. C 500.00 1,112.55 DELTA PROVINCE Ann Arbor, Mich 9.00 Bloomington, Ind 15.00 Chattanooga, Tenn 50.00 Detroit, Mich 591.34 Falls City, Louisville, Ky. . 50.00 Franklin, Ind 50.00 Hillsdale, Mich 50.00 Indianapolis, Ind 642.98 Lafayette, Ind 25.00 Southwestern Indiana 40.00 1,523.32 EPSILON PROVINCE Beloit, Wis 35.00 Carthage, 111 50,00 Central Ill 162.03 Chicago, Ill 380.89 Decatur, Ill 205.00 Elgin, 111 31.75 Galesburg, Ill 25.00 Grand Forks, N. D 37.00 Madison, Wis 100.00 Milwaukee, Wis 175.00 Minneapolis, Minn 300.00 Peoria, Ill 85.00 Springfield, 111 30.00 1,616.67 </p>
+      <pb ref="arr4320203_0003" seq="03" n="206-207  "/>
+       <p>206 THE ARROW Or PI BETA PHI ZETA PROVINCE Ames, la 218.80 Burlington, la 76.00 Cedar Rapids, la 68.00 Columbia, Mo 75.00 Des Moines, la 250.00 Indianola, la 150.00 Iowa City, la 15.00 Kansas City, Mo 478.02 Mt. Pleasant, la 55.54 Sioux City, la 40.00 Springfield, Mo 75.00 St. Joseph, Mo 30.00 St. Louis, Mo 1,200.00 2,731.36 ETA PROVINCE Albuquerque, N. M 50.00 Boulder, Colo 50.00 Caspar, Wyo 200.00 Cheyenne, Wyo 35.00 Denver, Colo 507.00 Lawrence, Kansas 66.50 Lincoln, Nebr 250.00 Manhattan, Kansas 150.00 Omaha, Nebr 100.00 Pueblo, Colo 50.00 Salt Lake City, Utah 20.00 Topeka, Kansas 25.00 Wichita, Kansas 185.00 Wyoming 30.00 1,719.30 THETA PROVINCE Austin, Texa.s 220.00 Dallas, Texas 200.00 Enid, Okla 5.00 Fort Smith, Ark 50.00 Houston, Texas 200,00 Little Rock, Ark 20.00 New Orleans, La 150.00 Oklahoma City, Okla 80.00 Tulsa, Okla 50.00 975.00 ............ IOTA PROVINCE Corvallis, Ore 25.00 Eugene, Ore 50.00 Portland, Ore 1,000.00 Seattle, Wash 412.25 Spokane, Wash 50.00 Tacoma, Wash 100.00 Yakima, Wash 36.00 1,673.25. KAPPA PROVINCE Long Beach, Calif 150.00 Los Angeles, Calif 1,309.97 Northern California 504.00 Pasadena, Calif 163.19 Reno, Nevada 40.00 SETTLEMENT SCHOOL TREASURER'S REPORT San .Diego, Calif 17.85 Tucson, Arizona 141.00 2,326.01 Total $19,834.92 In addition to the above the Alumnm Club of Athens, Ohio gave -to be credited to the Hazel Todd Meaden Memorial Fund, and the Club of Austin, Texas, gave $177.70 to be credited to the School I Fund. Alpha $ 691.00 $ 1,763.13 $ 2,45= Beta 300.00 4,394.33 4,69: Gamma 98.70 1,112.55 1,217 Delta 413.00 1,523.32 1,93( Epsilon 499.50 1,616.67 2,11( Zeta 279.00 2,731.36 3,01( Eta 415.38 1,719.30 2,13=. Theta 102.00 975.00 1,072 Iota 120.00 1,673.25 1,79: Kappa 114.50 2,326.01 2,44i $3,033.08 $19,834.92 $22,861 OFFICIAL PI PHI HANDKERCHIEFS Attention Pi Phis! The Little Rock Alumnae is offering the official Pi Phi handkerchiefs for sale seventy-five cents. All Pi Phis are asked to send ord, to Kathleen Williams, 1905 Battery Street, Little Ro Arkansas. Samples will be sent on request. IIUIIIIHIHKIIIIIIIIIIIIIIIIIKIIIIIRIIKIIIIIIIIMIIIIIKIIKIIIIIIIIIIIIIIIIIKIIIIIIIIIIIKIIIHKIIEIIRIIKIIIIIIIIKIIIIIIIIIRIIII </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

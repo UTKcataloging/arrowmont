@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr6720163_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Dyer, Ruth</name></author>
+                        <author><name>Rauch, Harriet Goodsell</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>December 1950</date>
+		        <idno type="SPCID">arr6720163_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">December 1950</date>, News from Little Pigeon</title>
+                        <author><name>Dyer, Ruth</name></author>
+                        <author><name>Rauch, Harriet Goodsell</name></author>
+                        <extent>Pages 163-165</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">3</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 67, Number 2 (December 1950), Pages 163-165.</note>
+			<note type="document">arr6720163_0000</note>
+                        <note type="Table Of Contents">Summer Workshop, 1950</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Summer crafts workshop</item>
+                                <item>Home economics</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr6720163_0001" seq="01" n="162-163  "/>
+       <p>162 THE DECEMBER ARROW An added honor has come to Pi Beta Phi in the inclusion of the portrait of Grace Goodhue Coolidge, Vermont B, wife of the thirtieth President of the United States, in an exhibition celebrating the Sesquicentennial of the establishment of The Federal Government in Washington, assembled by the National Gallery of Art, The picture was painted by Howard Chandler Christy and was presented by Pi Beta Phi in 1924 to the White House, is on loan with many distinguished portraits until November 19, 1950. Mrs. Coolidge is portrayed in the portrait wearing a large Pi Beta Phi Arrow on a wine velvet gown. The catalogue entitled Makers of History in Washington, 1800-1950, has been purchased by thousands of visitors to the Mellon Gallery known as The National Gallery of Art, Washington, D.C. since June 29th. The California Alpha Association announces the award of three scholarships for the year 1950-I.951 these scholarships are given from the income from the California Alpha House Fund, now held in trust by the Grand Treasurer: Annetta Dietz, Oregon Beta Peggy Burbank, California Beta Marian Lofgren, California Epsilon Marian Lotgren Annetta Dietz Peggy Burbank III/tlNAlltAA//111lIIAIIIIIIIAt11N1111I#11#11/III/IIIAI/I1lIAAIIIIIIIIt1A1tAlllitllllAlllllltllti/MINI//11111!All#lltll//AIIlIt1lIIIlItIAtlI11/ItlltlllANIAAIlIt1111/1111111111111111/1111111111tH 111! NEWS F OM LITTLE PIGEON Ilt Edited by HARRIET GOODSELL RAUCH, 1OWa B Summer Workshop, 1950 Facing the door of the Home Economics room in the Pi Beta Phi Settlement School building, is a large map of the United States which is dotted with colored thumb tacks. Above it, a neatly lettered strip says, "Where We Live." The tacks mark the towns and cities represented by the faculty and students enrolled in the Summer Workshop in Crafts and Community Recreation, held annually by the Pi Beta Phi Fraternity and the University of Tennessee. This past summer the 69 dots were scattered over twenty-five states, with New Mexico the farthest from the concentration of dots around Knoxville and Gatlinburg. For six weeks the people represented by these colored dots, teachers, students, Home Demonstration Agents, physiotherapists and home craft devotees, lived, worked, and played together enjoying a unique educational experience. At the close of regular school we change over to the Workshop set-up. By utilizing every avail-able space in our three residence houses plus the converted Grade School Dormitory, we are able to house and feed the Workshop faculty and most of the students. Four University of Tennessee Home Economics Majors prepare the meals under the direction of a dietitian. At meel time the line forms army style and tables in three rooms and on the screened porch at Pollard Cottage are quickly filled. This free and easy companionship gives an opportunity for a widened acquaintance and exchange of ideas among the members of the group. Old friend-ships are renewed and new ones formed. Another transformation takes place in our high school building and in the little Emma Harper Turner Craft House as workrooms are arranged for the summer program, the buildings lending themselves very well to the Work-shop idea. The Home Economics room becomes the lounge or central meeting place for the group. Informal parties, stunt nights and movies are held here. One corner houses the office of the Director and in another corner is the library of craft books and magazines. Exhibits of out-standing crafts are displayed here. Last summer an Exhibition of Anni Albers' Textiles, on loan from the Museum of Modern Art in New York City, decorated the walls. The Sciencelaboratory is converted into a pottery studio and the Grace Coolidge Library is transformed into a lecture hall and exhibit room for the use of Mr. Allen Eaton. The beautiful examples of rural arts and crafts decorating the room coupled with the delightful personality of Mr. Eaton make this room a mecca for everyone. Across the .hall is the Recreational Class room and the Weaving studios occupy the music room and several other class rooms. The Jewelry and Metals classes are taught in the Craft house. Tables and benches under the trees pro-vide extra space for hammering and outdoor work for these classes. Last summer, these classrooms were presided over by a very able staff of instructors. Miss Marian Heard, Professor of Craft Design, at the University of Tennessee, again directed the Workshop and taught Advanced Jewelry. Miss Jane Glass who completed work on a master's degree at Columbia University last June taught the class in Metal Work and Advanced Recreational Crafts. A third University of Tennessee professor, Miss Helen Watson, taught the Recreation classes and had charge of the recreational activities for the whole group. Mrs. Barbara McDonald, Artist-Craftsman of McDonald Pottery, here in Gatlinburg, gave the Pottery instruction. Two outstanding weavers handled the different courses in Weaving. They were Berta Frey of New York City and our own Mary Elizabeth Starr Sullivan, Washington A. Allen Eaton, author of Handicrafts of the Southern Highlands and noted authority on Crafts, lectured on Craft Design. Miss Marguerite Horn,, Assistant Professor of Hotel Administration at Pennsylvania State College was the Dietitian. We had three graduate assistants Miss Wilbur Armistead who served as House Director for the Grade School Dormitory, Helen Becker and Marilyn Jones. The latter two were both Iowa State graduates and members of Iowa Gamma. WORK is the keynote of the whole experience but when it is done in pleasant surroundings, in the company of others who are vitally interested in the same things, it seems like play. Even with the workrooms being kept open three nights a week, there was a call for more time to WORK. One unusual and popular fea 163 </p>
+      <pb ref="arr6720163_0002" seq="02" n="164-165  "/>
+       <p>ARROW Lms that were going on. Folk dancing and ipet show were scheduled by the Recrealasses adding pleasure to a truly wonderful y of Arts and Crafts as taught in the shop. Fraternity is fortunate in having the hearted co-operation of the University mnessee in developing this outstanding t F. C. Lowry, Head of University Ex-n, and other members of the staff are vitally ;ted in the success of the Workshop and closely with the Settlement School Corn-in planning each year's program. Chief !se is a Pi Beta Phi, Miss Jessie W. Harris, Dean of the Home Economics Division. rish that I could share with you some of aarming letters that Miss Heard and I received from former students. These ex-sincere appreciation for the pleasant con-with students, faculty and staff and the ation and knowledge gained from the given, knowledge that will be shared with as they return to their own homes and rig positions. Some students return year ;tear, often bringing co-workers or friends them to 'the Workshop. We agree with apartment store slogans that the best ad-?.ment is a satisfied customer! We have lots am scattered about the United States but e looking for new ones. If you are inter-in crafts, plan to attend the Workshop next er. Our enrollment is limited so early -ation is important. The University will ou credit if you wish to do undergraduate klua.te study and all of us will endeavor to you a happy, profitable time at your own 1 in the Smokies. RUTH DYER University of Tennessee, and Pi Beta Is in Bavaria, Western Germany, on a :s administrator. Her most important Le Economics known in Germany as our Home Economics Colleges in the will be sent to this country to study and and help in developing this work. this will help greatly in World Peace. Summer School Staff: Upper row: Allen Eaton, Mrs. Sullivan (1 'eaving), Betty McDonald (Pottery), Jane Glass (Recreational Crafts), Marion Heard (Director). Lower row; Helen Watson (Recreation), Ruth Dyer (H B .1)), Berta Fry Weaving), Mrs: Horn (Dietician). One wan student, Cesare) Lombardi, Warner, Okla. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

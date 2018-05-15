@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3740501_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Langmaid, Abbie B.</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>June 1921</date>
+		        <idno type="SPCID">arr3740501_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">June 1921</date>, News From Little Pigeon</title>
+                        <author><name>Langmaid, Abbie B.</name></author>
+                        <extent>Pages 501-503</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">36</note>
+                        <note type="Folder">13</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 37, Number 4 (June 1921), Pages 501-503.</note>
+			<note type="document">arr3740501_0000</note>
+                        <note type="Table Of Contents">Some Political Experiences</note>
+                        <note type="Additional Information">Cover has photo of Basken's Falls, Gatlinburg, TN</note>
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Politics</item>
+                                <item>Roads</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3740501_0001" seq="01" n="500-501  "/>
+       <p>500 THE ARROW OF PI BETA PHI guests by Mrs. Robert D. Duncan, Jr., Missouri B, president of the Washington Alumnae club. Others in the receiving line were Mrs. Henry C. Wallace, Iowa r, wife of the Secretary of Agriculture; Mrs. Paul S. Reinsch, Wisconsin A, wife of the former Minister to China, Mrs. George T. Smallwood and Miss Martha Waring, president of the Chapter of Pi Beta Phi Fraternity at George Washing-ton University. Mrs. Coolidge's gown was of black lace over black satin, smartly supplemented by a blue girdle, with which she wore a corsage bouquet of violets and orchids and a black maline hat. Mrs. Duncan wore a pink taffeta finished with a bow of blue tulle. A color scheme of lavendar and yellow was carried out in the drawing-rooms and dining-room by the decorations of violets and jonquils. Mrs. Reginald W. Geare and Miss Emilie Margaret White, both of Columbia A, presided at the tea tables, assisted by Mrs. Wilson Compton, Ohio r, and Miss Genevieve Hendricks, Wisconsin A. In addition to Mrs. Reinsch (Alma Moser, Wisconsin A) whose husband now represents the Chinese Government in this country, there is another member of the fraternity in Washington at present whose husband is in the diplomatic service, MRS. E. W. BURR (Mabel Neal, Washington A), wife of Major Burr, military attache at the United States Embassy in Mexico. In connection with the articles from our sisters under foreign skies published in this issue it is interesting to read the following extract from a long letter descriptive of her life in Mexico which was written by Mrs. Burr and first published in The Evander News about a year ago. We have a furnished apartment in a family hotel and are quite comfortable. Living is dreadfully high here, in fact the only two cheap things we have found are maids and flowers. Women come every day to the door with huge baskets of flowers and one can buy great bowls full for a few cents. Gardenias sell for two cents apiece in the city, and on the coast one gets at least four for a penny. I am enjoying the luxury of having two maids. I pay the cook $7.50 a month and the house maid $1o. The last cook I had said she couldn't work for me any longer, because I kept such good track of the pantry and ice box that she couldn't steal enough to feed her three children, so she would have to seek another house. Vegetables and fruits are sold in open plazas along the streets, or in huge central market places. It is quite fun to go marketing, for one always has a little contest with the venders to get them to sell at a reasonable price. Strawberries, tomatoes, and all the ordinary vegetables are brought fresh every day in the year. Alligator pears can always be bought for three cents. There is quite a large foreign colony here, but there is little mixing between the French, English or American. The English and Americans mix a little at the golf and tennis clubs, though not as a rule any place else. The Mexicans one meets are always very cordial and flattering, but one never gets very far in an acquaintance with them. Their parties are too stiff and formal for words. One PI PHIS IN THE PUBLIC EYE 501 is invited for tea at five and he is not supposed to go until six or after and he is shockingly impolite if he leaves before nine or ten, and many times guests stay until after one. As people arrive they go around to greet the people in the circle of chairs that is always found and after the greetings are over it is the custom to take the first unoccupied chair. The party is in reality no more than an ever widening circle. The women always greet one with a kiss, or more exactly a dab at each cheek, and the men fold one another in an embrace with much patting on the back. It is too funny to see two exceedingly fat men on the street car embracing. After tea is served they always have paid singers and reciters to entertain the stiffly seated company. Most of the Mexicans give teas on their saints day which is celebrated instead of the birthday, and most people send bouquets which are arranged around a stick and are covered with chiffon. At a saint's day party one will seldom see less than 50 bouquets about the size of a rounded shrub. A Mexican woman sent me a little token of 18o American beauty roses covered with blue chiffon which was tied around the edge of the blossoms with a wide satin ribbon four yards long. The stems of the blossoms are all wired and the wires fastened to a short pole, so all one can do with such a bouquet is to put it in the corner and watch it wilt for want of water. There are dozens of books on Mexico which are interesting; Prescott's History reads like a thrilling adventure. Flaundrau's "Viva Mexico" and F. Hopkinson Smith's, "The White Umbrella," give interesting glimpses of the life in different parts of the country. Thomas Janvier's "Legends of Old Mexico" is one of the most delightful, for it is written in the most characteristic simplicity of style to show the unthinking faith and beliefs of these people. "Mexico Under Carranza," by Thomas Gibbon gives a truthful account of how things have been run politically. NEWS FROM LITTLE PIGEON SOME POLITICAL EXPERIENCES BY ABBIE B. LANGMAID Before election day last fall the republican congressman-elect and the several candidates for state legislature gave political talks at the II B 'I) Settlement School and in other districts. When they went to Green Briar and to Smoky Mountain Academy, Miss Evelyn and I were invited to go along. After a few miles of travel, a steering gear bent up double on Dr. Massey's runabout delayed our progress some-what, but we arrived in Green Briar about the time the others did, for there were other troubles to encounter on Gatlinburg roads, beside </p>
+      <pb ref="arr3740501_0002" seq="02" n="502-503  "/>
+       <p>502 THE ARROW OF PI BETA PHI bent-up steering gears. In the course of the morning's program, I added my bit to give endorsement to the voting by women in the coming election for the men of the party wished the mountain people to know that the "Ladies of the II B (I), School" believed in women's voting. As I left the school house in Green Briar, I was introduced to, a very old lady, affectionately called "Aunt Mary," and I asked, "Are you going to vote, Aunt Mary ?" "I shore will," she answered. "I ain't fergit my pappy's being killed in the `Republican War,' and I shore am aiming to do my duty." At this gathering in Green Briar, we saw many snuff-sticks, as in the early days at Gatlinburg. They are almost never seen now-a-days, in our neighborhood. When the meeting "broke" we bought crackers, and cheese (in tin cans), which served as our lunch, as we took the road for "Smoky Mountain Academy." Such roads and such deep, hard, impossible ruts! I was quite glad that the congressman-elect could have the privilege (?) of all those ruts, for we all hoped he would be a strong advocate of good roads for Eastern Tennessee, and certainly they demonstrated the need of federal aid. Miss Evelyn and I walked most of the way over the mountains as the Ford had almost more than it could do to get itself over and through the ruts, without being thrown over the side of the mountain. At Smoky Mountain, we listened again to the political oratory, the talks lightened this time by some of Miss Evelyn's rare singing. Election day came soon after this experience of ours. I had occasion to go to the hotel very early that morning, to intercept the state rural engineer who had been out to do some surveying for II and who was leaving very early with Mr. Huff, to catch the early eight o'clock for Knoxville. As we left the hotel and came past Mr. Calvin Ogle's store (I had been asked, by the way, to serve as clerk at the election, but could not), we found the porch and store filled with women, the men crowded outside waiting for the women to vote first! It was a goodly sight. And, again, we appreciated the splendid worth of our Gatlinburg friends who, in spite of a strong conviction that voting was not the work for women, came out, on their own initiative, to cast their votes, because they felt they ought now that suffrage had been obtained for women. "I reckon hit's my duty" was heard from more than one mountain woman that day. One very old lady was brought to the polls in a neighbor's wagon, many came horseback, and the vote cast was at least fifty per cent larger than it NEWS FROM LITTLE PIGEON 503 would have been without their cooperation. Only fifteen votes were cast for the Democratic ticket. Indeed, one or two near-by districts voted straight Republican, not a single Democratic vote being cast. One Gatlinburg wife voted Republican while her husband voted the Democratic ticket. 'That night, in spite of the dark, and the muddy roads, Miss Evelyn and I rode into Sevierville with Charlie Ogle to "get the returns." I wish many Pi Phis dev'oted to the development of the Settlement School who have expressed a desire to visit Gatlinburg could have such a ride as that. In the night, with the lights of the car illuminating first this bit of wonderful bit of scenery and then that one, the ride was almost more entrancing than the same ride in daytime, although one must not forget the enchantment of the mountainsides, about four o'clock in the afternoon when covered, as in early June, with the wonderful mountain laurel, or "ivy" as the Southerner loves to call it. BOOK REVIEWS The Sorority Hand Book, Seventh Edition EDITED BY IDA SHAW MARTIN In this volume, the editor has compiled the most recent statistics of all the N. P. C. organizations and brought up to date the descriptive matter concerning them. The chapters dealing with all fraternal and alumnae organizations for women have been revised and the brief statistical table of the men's academic fraternities also contains the latest available figures. The book has long been the accepted authority on questions concerning the women's organizations and this new edition should find a place in the library of every fraternity woman. IN MEMORIAM DANIELS, DOROTHY, California B, 18, died January 18 at her home in Riverside, California, of tuberculosis. She entered the University of California as a junior coming from Pomona College and was initiated into California B in the spring of 1917. In her friendships </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

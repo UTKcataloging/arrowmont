@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3120207_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Good News From Little Pigeon</title>
+                        <author><name>Pollard, Mary O.</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>December 1914</date>
+		        <idno type="SPCID">arr3120207_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">December 1914</date>, Good News From Little Pigeon</title>
+                        <author><name>Pollard, Mary O.</name></author>
+                        <extent>Pages 206-208</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">35</note>
+                        <note type="Folder">15</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 31, Number 2 (December 1914), Pages 206-208.</note>
+			<note type="document">arr3120207_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Agriculture</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3120207_0001" seq="01" n="206-207  "/>
+       <p>206 THE ARROI47 OF PI BETA PHI GOOD NEWS FROM LITTLE PIGEON BY MARY O. POLLARD, HEAD RESIDENT S INCE the school closed in March the Settlement School work has been far from a standstill. There has been a vacation, but it has been a busy one. Probably many of you have been puzzled as to why our school keeps such strange months; if you were here you should understand. As soon as the weather began to be settled in the spring, all the older ones, both boys and girls were called from school to get ready to plant corn. By the middle of March, few were left in school above twelve years old. Then the whole family were busy with corn until it was "laid by" about the first of July, then there was a month of respite, when they had singing school and a picnic at Elkmont in honor of Mr. Townsend's birthday by the first of August, the children were at liberty to attend school. For a week or two they stayed out to "pull fodder" ; then they were in again for a few days, and they stayed out to pick beans ; between times they made molasses; and then came the picking of the peas. The corn will be shocked by the first of November when they will come to school with fair regularity. The work of the summer was largely done through the Tomato Club. A club of thirteen was organized the first of May. It was late starting, and owing to the extremely dry weather and to sickness in several of the families, the club has not been as successful as it, might have been. One girl and her sister have canned over sixty dozens cans, and they have themselves found a market for their produce. We have had several pleasant trips. The club went to Maryville to attend a meeting under the auspices of the Mountain Workers Department of the Presbyterian Church. There were eleven in the party. We stayed over night at the dormitory of the college. Five of the eleven had never seen a train, and two of those five are fine looking girls of sixteen and seventeen , it was the second ride of three. For almost all it was their first introduction to the electric light, the radiator, the faucet and bank. The girls enjoyed the trip thoroughly. One told me it was the longest best time she had ever had. Another trip was made to Sevierville to meet the agricultural train which made a two hours' stop there. They gave their yells and their songs and received much favorable comment. The girls have had a pleasant summer by means of the club. GOOD NEWS FROM LITTLE PIGEON 207 The dedication of the building proved a great success. The school is becoming well and favorably known in the state. This fall, we have been fortunate in hav'ing visits from several friends. Margaret Burroughs, of Texas A, stopped over for a week on her way north and started the girls in basket making. They were much interested, and we are anxious to push the industrial side of the work as rapidly as possible. School opened August 10. We have 134 enrolled, but the average attendance has been below one hundred. It will be better now that the fall work is nearing completion. Those who attend regularly are learning rapidly. There has been great improvement during the past year, especially in the writing and in the interest in the meaning of the words in the spelling and in reading. Spelling is one of the accomplishments of the people; the most popular form of entertainment is the "spelling." We attend them nearly every week through the fall and winter, but those who spell best often know the meaning of few of the words they spell, and one of our efforts has been to encourage the use of the dictionary. We have three boys who are doing almost straight high school work; there are ten who are doing a combination of seventh and eighth grade work ; and there are about fortv-five below the third grade. The' latter are our greatest hope. They are getting well started and intensely interested in the work. It would do vour hearts good to hear their voices ring out in genuine child singing, for they are learning the same songs that primary children learn the country over and they love them dearly. You perhaps remember how Miss Gillette used to speak of the sad faces of the little children; but we do not notice that at all now among those who have been .coming regularly to our school. They are normal children in their shouting and in their laughing, their singing and their playing. It is in them that we see the greatest change. The cottage is crowded with four teachers. We are making our-selves as comfortable as we can by using one of the rooms in the school building for a bedroom. There Miss Wilson, Miss Ditmars and Miss Young sleep, while I stay at the cottage alone. We can hardly do that comfortably when cold weather comes. It is not pleasant now to start out at bedtime across the fields with a lantern, especially on rainy nights, but when snow is on the ground and the house freezing, it will hardly be possible to go so far away to sleep. We are certainly looking forward to the new cottage with running </p>
+      <pb ref="arr3120207_0002" seq="02" n="208-209  "/>
+       <p>208 THE ARROW OF PI BETA PHI water and a bathroom as one of the things that will make life here much easier and pleasanter. The school house is a delight. We use it all day and every day, for school and for parties ; Sunday afternoons the young folks sit around the table on the porch for their visits, and it is not at all unusual to have some of the native men drop in at school and listen to the classes recite for an hour at a time. Dr. and Mrs. J. Wilbur Chapman gave to the school this fall fifty new testaments, which we have distributed among the desks at the school, and from which we read every morning. Most of the children have difficulty in finding any book in the new testament, but they are rapidly learning. These same testaments we take to the church for Sunday school and the Baptist Young People's Union which was organized by the Settlement School teachers this fall, so they are doing triple duty. The young men of Gatlinburg have a baseball team; most of those who play are of the school, but it is a village rather than a school team. The girls are learning to play basketball. I wish you could see the glorious mountains in their fall beauty. It makes a beautiful setting for the new school house, and we never tire of admiring the gorgeous coloring of the trees. With such natural beauties, with the new school house, and with the growing cordiality of the people, the outlook for the school is gratifying. BOOK REVIEWS The Italians. By Sarah Gertrude Pomeroy, A.M. Fleming H. Revell Co. Price, 5o cents. The purpose of this little volume, one of the series on Immigrants in the Making, "is to give, in compact form, the history, life and character of people whose worse sides alone are usually displayed upon their arrival in this country." That the treatment is sympathetic is shown by the author's subtitle "A Study of the Country-men of Columbus, Dante and Michael Angelo." The writer shows a thorough, first hand knowledge of all phases of her topic and especially creditable in her handling of the historical sketch in which the story of these people during the last five centuries is reviewed. The differences between the Italians of northern and southern Italy are clearly brought out but from whatever part of their native land BOOK REVIEWS 209' they may come, one cannot help feeling for them a greater kindliness, interest and hopefulness after reading this helpful little book. S. P. W. In Camp at Fort Brady. By Lewis E. Theiss. W. A. Wild Co. Price, $x.00. Mr. Theiss, .1) r A., well known to many Pi Phis as "the husband of Mary Bartol-Theiss" as well as for his genial self, has just written a book for boys, full of adventures centering in the neighborhood of historic Fort Brady, Pa., and full of outdoor vigor as one would imagine knowing his zest for camping which is fully shared by his wife. Besides the jolly story of the book there is much of practical value in the accounts of canoe trips, learning how to swim, fighting forest fires, etc. There are real boys in the book to admire; perhaps the most important feature of the tale is the development of character portrayed. S. P. W. WHEN YOU CHANGE YOUR ADDRESS you usually lose The Arrow, don't you? How stupid! Next time take a post card; state your former address and the new one, and send to the Alumnae Editor. The post office never forwards second-class matter until you have sent' `the fee, and sometimes the post office does not notify you. So remember Send a card to the Alumnae Editor. Send it before the twentieth of the month preceding publication else the change can not be made for that issue. Have a permanent address: let the family do the for-warding if you are unsettled. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

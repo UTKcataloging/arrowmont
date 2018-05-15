@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr2830293_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Pi Beta Phi Settlement School Fund</title>
+                        <author><name>Branson, Anna J.</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>April 1912</date>
+		        <idno type="SPCID">arr2830293_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">April 1912</date>, Pi Beta Phi Settlement School Fund</title>
+                        <author><name>Branson, Anna J.</name></author>
+                        <extent>Page 293</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">35</note>
+                        <note type="Folder">9</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 28, Number 3 (April 1912), Page 293.</note>
+			<note type="document">arr2830293_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Funding</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr2830293_0001" seq="01" n="292-293  "/>
+       <p>THE PI BETA PHI SETTLEMENT SCHOOL 293 PI BETA PHI SETTLEMENT SCHOOL FUND REPORT OF ANNA J. BRANSON, TREASURER FROM MARCH 15, 1911, TO MARCH 15, 1912. March 15, 1911, to April 15, 1911 (including $103.23 from Mrs. Shute, temporary treasurer) $ 203.23 May 15 Total 283.23 June 15 Total 757.45 July 15 Total 883.95 August 15 Total 947.11 September 15 Total 952.11 October 15 Total 1,555.11 November 15 Total 1,555.11 December 15 Total 1,642.01 January 15, 1912 Total 1,746.90 February 15, 1912 Total 1,986.55 March 15, 1912 Total 2,265.13 Upon the following voucher I have advanced $ 500.00 to the running expenses for this year leaving in Treasury $1,765.13 Of this amount $I,500 is placed in a National Bank on Certificate of deposit for 6 or 12 months. I would advise Convention to authorize this sum put in a conservative permanent investment where we would get a good rate of interest. Several pledges given last spring by individuals, chapters and clubs are yet to be redeemed. COPY OF VOUCHER "This authorizes Anna J. Branson to loan to Emma H. Turner five hundred dollars ($5oo) from the endowment fund of the Pi Beta Phi Settlement School, the sum to be used for the maintenance of the school for the three months be-ginning March 1st, 1912. It is understood that this sum is to be returned to the endowment fund, as gifts for maintenance of the school are sent in, and sums now on hand, received from donors who did not restrict their gifts to the endowment fund, may be used for maintenance." Signed by two members of the committee who were at the Philadelphia meeting, authorizing such action. It is most important that the school have an endowment fund, as you will see, gifts are very irregular, and only by having such a fund can the school be made permanent. Therefore we need to keep this fund as nearly intact as possible and gradually add to it as we can. ANNA J. BRANSON, Treasurer. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

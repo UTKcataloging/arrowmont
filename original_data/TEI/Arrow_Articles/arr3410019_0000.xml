@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3410019_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>An important letter from Mrs. Helmick</title>
+                        <author><name>Helmick, Elizabeth A.</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>October 1917</date>
+		        <idno type="SPCID">arr3410019_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">October 1917</date>, An important letter from Mrs. Helmick</title>
+                        <author><name>Helmick, Elizabeth A.</name></author>
+                        <extent>Pages 19-23</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">36</note>
+                        <note type="Folder">6</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 34, Number 1 (October 1917), Pages 19-23.</note>
+			<note type="document">arr3410019_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Facilities</item>
+                                <item>Funding</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3410019_0001" seq="01" n="18-19  "/>
+       <p>18 THE ARROW OF PI BETA PHI EMERGENCY FUND Receipts: Chapter dues $1,658.00 Balance July 1, 1916 1550.50 $3208.50 Expenditures: ARROW Fund $236.34 $236.34 Balance July 31, 1917 $2,972.16 CONVENTION FUND Receipts: Chapter dues $2,931.00 Balance July 1, 1916 3,703.14 $6,634.14 Expenditures: Postage 11.ou Advertisement 13.00 $24.00 Balance July 31, 1917 $6,610.14 ALUMNLE FUND Receipts: Alpha Province dues $126.00 Beta Province dues 83.50 Gamma Province dues 125.50 Delta Province dues 118.5o Epsilon Province dues 185.50 Zeta Province dues 54.50 Eta Province dues 127.50 Balance July x, 1916 $821.00 499.19 $1,320.19 Expenditures: Loan Fund $250.00 Salaries 200.00 Grand Vice-president 30.53 Alumnae Editor 53.00 Province Vice-presidents 8.00 $541-53 Balance July 3x, 1917 $778.66 AN IMPORTANT LETTER FROM MRS. HELMICK 19 ARROW Endowment $33,425.I9 Convention Fund 6,610.14 Emergency Fund 2,972.16 Badge Fund 1,766.88 Contingent Fund 987.96 Fellowship Endowment 789.66 Alumnae Fund 778.66 Loan Fund 418.25 Settlement School End 229.10 $47,978.00 $47,978.00 Respectfully submitted, ANNE STUART, Grand Treasurer. *AN IMPORTANT LETTER FROM S. HELMICK .14 Parkwood Avenue, Charleston, S. C., September 3, 1917. Dear Pi Phis: Since the *annual report was written, the seventh session of our school has been opened. The management of the school will be in the hands of the Grand Vice-president, the seven Province Vice-presidents, and myself, as chairman. We have no Head Resident this year, but at Gatlinburg, Mr. Prickett, who is in charge of the manual training, has been made principal of the school; Ruth Meacham, Illinois A, teacher of higher grades, is librarian; Emily Burton, kindergarten and primary teacher, house manager; Mrs. Norman Prickett, in charge of industrial work also has charge of the settlement work of the school, and Marjorie Jackson, Wisconsin A, teacher of the intermediate grades, will be secretary and business manager at Gatlinburg. Miss Jackson will have charge of the clerical duties of the Head Resident, and to her Pi Phis can write with the assurance that they will have a prompt reply. School opened August 6, with a large gathering of pupils, parents, and friends. The two west rooms were thrown into one and every seat was occupied by one, and some seats by two persons. Speeches were made by Mr. Conner, pastor of the Missionary Baptist Church, Steve Whaley, and others, and the singing by the school children was inspiring. The new piano in the schoolroom, and the new songbooks, and Mr. and Mrs. Prickett and Miss Meacham have brought about a wonderful improvement in both the voices of the children and the *See Report, p, 54. RECAPITULATION Investments $41,500.00 Cash in Bank 4,071.59 Savings bank 1,858.79 ARROW Fund 477.07 Due from chapters 70.55 </p>
+      <pb ref="arr3410019_0002" seq="02" n="20-21  "/>
+       <p>20 THE ARROW OF PI BETA PHI nature of their songs. After the opening exercises were over, the classes were quickly and quietly formed with Mr. Prickett in the manual training room, Miss Burton in kindergarten, Miss Meacham in high school room, Miss Jackson in the intermediate room, and Mrs. Prickett in the industrial department. The teachers have their regular faculty meeting each week and definite plans for an active year have been outlined ; each teacher has, beside her room work, a definite responsibility in the settlement, and under Mr. Prickett's capable and energetic leadership and with these earnest and loyal assistants, we have reason for anticipating a year of greater usefulness than ever before. The lower part of Mrs. Prickett's room has been partitioned off by the manual training boys for the cooking department. Hereto-fore, cooking has been taught in the teachers' cottage. Now, we have two three-holed kerosene stoves, with a complete working outfit to each, and the cooking department is in its own home under the school's roof. Mrs. Prickett's efficient and magnetic management of this and the sewing department has aroused keen interest and these arts are now in favor, popularity, and proving their usefulness. The children are anxious to do any kind of Red Cross work, but especially knitting. Up to the present time, we have not succeeded in getting materials for them, so if any Pi Phis care to send yarns, muslin for bandages, or materials to be made into garments, our teachers will be delighted to see that the work is done properly. They are familiar with Red Cross requirements. Mr. Prickett is working up a Community Club in the old school building at the junction of Baskins and the Little Pigeon for the men. He hopes to gather here the men and big boys in an easy, comfortable atmosphere for reading, debates, and intelligent discussions of public affairs. He would be glad to receive appropriate pictures, reading material, or equipment of any kind, also suggestions and help from those who have organized or worked in such an enterprise. If any of our Pi Phis have cuttings of vines, plants, etc., or magazines devoted to gardening, with suggestions for beautifying our grounds, Mr. Prickett would aPpreciate their help. Pi Phis who can send Ruth Meacham good, useful books or magazines for the library will be helping tremendously. We had a number of very desirable periodicals coming regularly to the school last AN IMPORTANT LETTER FROM MRS. HELMICK 21 year (thanks to the Detroit Alumnx Club) which were greatly appreciated by our children. This is an important help in our work. The teachers join me in requesting that Pi Phis will please not send gifts direct to the school children. Anumber of Pi Phis, from time to time, have corresponded with our pupils. This has been very helpful. The letters have been cherished by them and the whole family is as "proud" of them as they would be of a distinguished guest within their home. If there are other Pi Phis, or Pi Phi daughters who would care to help in this way, please write Marjorie Jackson for advice. At present, we are overstocked with old clothes, so please do not send more until solicited. In Mr. Prickett's room I saw several handsome black walnut chairs, stools, bookcases, etc. If any Pi Phi is interested in seeing a sample of this work, especially mountain porch chairs of hickory, we have in Mr. Prickett a "live" maa who would take pleasure in shipping a sample to show what his boys can do. Miss Burton has fallen heir to the organ given by the Washington Alumnae Club in 1912. Her "leastest ones" are the happiest and busiest, and it would fill every Pi Phi's heart with joy to see their eager faces and hear their sweet, childish voices singing the new kindergarten songs. Miss Burton is a trained kindergarten teacher with several years' experience. She is a tiny little body and from the first hour captivated her children, and is constantly the center of an adoring and charmed group of children. If any of our Pi Phis have paper dolls or materials that might be useful in the kindergarten please send them to Miss Burton. Her children's homes are so bare of such things. It would help. Clubs desiring baskets for the Christmas trade should write Nor-man R. Prickett early. He will be glad to send samples to any club caring to see them. These baskets are very strong, useful, and prices are reasonable. Marjorie Jackson, Wisconsin A, is the business manager of the school at Gatlinburg. Write her if you want any information about the school. Club officers are urged to give the school and its support their earnest thought, Owing to the war, many have reduced or cancelled their annual pledges. Club members, and especially club presidents, </p>
+      <pb ref="arr3410019_0003" seq="03" n="22-23  "/>
+       <p>THE ARROW OF PI BETA PHI are asked to consider seriously their duty toward the school. Our clubs are our only organized alumnae; they are the power, the strength, of the .Alumnae Department: their failure to do their pro-portion weakens our ability to accomplish the work planned for us. It has been carefully worked out and demonstrated that it requires at least $2 per capita of each club's actual membership to meet all the school's expenses per annum. Some clubs gave much more last year, but twenty-five alumnae clubs gave nothing to this wonderful work. The loss was the school's and the fraternity's, but also those twenty-five club's. For, to work shoulder to shoulder with their Fraternity sisters would have given them a national connection, a generous pride in the dear old Fraternity they are bound together to honor and serve, and the wonderful joy and pleasure of doing for these isolated mountain people who have been regenerated by Pi Beta Phi women. I would like to see every alumnae club in the country this year when we are all making sacrifices, make one great and successful effort to arouse in their members, a $2 apiece pledge to the support of the Pi Beta Phi Settlement School. Let the members earn the money if they do not feel that they can give it, and in earning it they will feel the joy of "work." I will gladly offer suggestions to any club wishing to, know how other clubs have managed. Please, dear sisters, take these remarks to your hearts, and lose no time. Start early and work quickly. As I am an Army woman I shall soon be on the move again. I do not expect to go to France. Always put your name and address .upon your envelope when writing me, and have no fear that my mail will not follow me because I make special arrangements at each postoffice for caring and forwarding. I wish to thank every Pi Phi who has helped the school this year. It has been an unusually hard and anxious year in many ways for the school and for all of us. I greatly appreciate the many cordial, friendly, and appreciative letters of Pi Phis over the country. They have buoyed me up and spurred me on to greater effort and given me determination and strength to work for them, for the Fraternity, and the dear, eager children and anxious parents along the Little Pigeon. ELIZABETH A. HELMICK. Owing to "hard times," magazine subscriptions will naturally decrease this year, which makes it more urgent upon every club presi TRIPS OF INSPECTION AND INSTALLATION 23 dent that she appoint a "live wire" in her club to solicit subscriptions for our Pi Beta Phi Magazine Subscription Agency. Our prices are as low as the lo west anywhere and all profits go to the support of the Settlement School. Address Miss Blanche G. Reisinger, 235 East Lafayette Avenue, Baltimore, Md. TRIPS OF INSPECTION AND INSTALLATION After convention postponement, Grand Council began to plan for province and sectional reunions throughout the United States with one or more members of Grand Council present. As a beginning the Grand President and Grand Vice-president spent six weeks this summer on a tour of visiting, inspection, and installation. It was first planned to hold a coast reunion in Los Angeles at the time of the installation of our new California chapter but owing to the great distances throughout the province it was finally decided that more Pi Phis would be reached, therefore more interest and enthusiasm aroused, if several reunions were held in various convenient centers. The trip began with the arrival of Miss Keller in Chicago, July 3. A day at Lake Geneva, breakfast with the Grand Council of K K at the Edgewater Beach Hotel and luncheon with the Chicago Alum-nn Club and girls of Illinois E at Field's were on the program. Leaving Chicago the evening of July 6, the first stop was made in Minneapolis. "Friend husband," of 1915 convention special train fame, personally conducted us over this part of the journey and participated in the two days' hospitable entertainment of the Minnesota A Chapter and Minneapolis and St. Paul Alumnae Club. The new chapter-house with its beautiful furnishings and oriental rugs was much admired. It must be a constant joy to live and work in such surroundings 1 A few days' stop was made at Glacier Park en route to Seattle. With only a few days' notice the energetic and resourceful Eta Province Vice-president had sent out printed notices of our visit and program of the meetings to every Pi Phi in Seattle and surrounding cities. Large numbers responded, over seventy attending the tea given the first day by Mrs. Wilbur. The following morning, with a meeting scheduled at 9 A. M. at the University Club, luncheon at </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

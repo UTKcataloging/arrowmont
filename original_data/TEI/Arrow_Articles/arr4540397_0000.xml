@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr4540397_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Curtis, Blanche Charlton</name></author>
+                        <author><name>Fleming, Ben C.</name></author>
+                        <author><name>Moore, Frances</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>May 1929</date>
+		        <idno type="SPCID">arr4540397_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">May 1929</date>, News From Little Pigeon</title>
+                        <author><name>Curtis, Blanche Charlton</name></author>
+                        <author><name>Fleming, Ben C.</name></author>
+                        <author><name>Moore, Frances</name></author>
+                        <extent>Pages 396-401</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">38</note>
+                        <note type="Folder">2</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 45, Number 3 (May 1929), Pages 396-401.</note>
+			<note type="document">arr4540397_0000</note>
+                        <note type="Table Of Contents">Tasks of a Self Help Boy; Babies' Day</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Agriculture</item>
+                                <item>Well-Baby</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr4540397_0001" seq="01" n="396-397  "/>
+       <p>BEN FLEMING AND THE CHICKENS The above photograph appeared in the rotogravure section of the Nashville Tennessean with other pictures of Settlement School industries. Ben operates the school hatchery. Tasks of a 5e1f7felp Boy By BEN C. FLEMING I N AUGUST, 1927, I came to the Pi Beta Phi Settlement School at Gatlinburg, Tennessee. I came with the intention of working and paying part of my expenses. Mr. O. J. Mattil, our agriculture instructor, gave me a job which was taking care of the school chickens and hogs. One of the most interesting things to me about my work was keeping a trap nest record on the laying flock. By so doing the non-layers can be more easily eliminated from the flock. During this time I learned how to tell a good layer from a poor one. I had several experiences on culling. After I had learned to cull, I culled the flock at home. During the hatching season I learned how to operate the incubator and care for the small chicks. In the fall of 1927 I decided to buy a pig and keep it as a project. I expect to keep it for a brood sow. It will weigh about 325 pounds. My job this year is operating the school's hatchery. This work requires very close attention. The lamps are cleaned and refilled once each day. In the morning I take the eggs out of the incubator and turn them. They are left out in the air to cool for about ten to fifteen minutes. It is very important to keep the ground moist under the incubator to prevent the shells from get ting too dry and tough. If the shell gets too tough the chick is not very likely to hatch out. The most Living in one of the cottage dormitories of the Settlement School means quite a different thing from the average school boarding place. Each boy and each girl has very definite work to do out of school hours and while the work is done under supervision, al great deal has to depend on the young people. The following letter gives some idea of the responsibility that the ones who have regular jobs must be willing to take. The cottages cannot take care of more than ten boys and ten girls and those are pupils who live too far from the school or a pike road to go to and from school each day. There have been times when the teachers have felt that the dormitory boys and girls really had too much work and not enough leisure time but they surely are a happy, healthy looking group and always willing to do any-thing suggested. All of these children are in eight, nine, and ten grades. EVELYN BISHOP </p>
+      <pb ref="arr4540397_0002" seq="02" n="398-399  "/>
+       <p>HERE AND THERE AT THE SETTLEMENT SCHOOL ringing in Chairs for the Shop Charlie Huskey and Harve Reagan With Stools for Shop a Reagan who Weaves the "Barbara" iners and Pillows with LaDelle Little LaDelle Reagan and Big LaDelle The Dormitory Boys and Girls BABIES' DAY .399 important part about a hatchery is keeping the right temperature of the incubators, which is 103 F. The ventillation is also very important. After the chicks are hatched they are not fed for at least forty-eight hours. Their first meal consists of sour milk and grit. Milk is kept before the chicks and they are fed grain about five times a day, leaving it before them only a short period at a time. Gradually we in-crease the length of feeding time. They are kept warm by a brooder stove that burns coke. The tem-perature under the stove should be about 90 F., but reduced as the chicks grow older. A pedigree record is kept of all of the school chickens. By doing so we know what pen each chick comes from. We put a band on each chick which is numbered, the number is recorded and kept for further reference. With the experience that I have had I have learned to do many things that I think will be useful in the future. I think every boy should know something about this kind of work. 4.. Babies' may By FRANCES MOORE TODAY WAS BABY DAY on Baskins and Roaring Fork. I visited ten babies, ranging in age from a week to twenty-one months. Some of them are healthy and some are sick, some are shy and some friendly, a few clean and many otherwise, but all lovable. Most of my babies are dirty to a greater or less degree, but they're just as sweet as the clean ones When I succeed in removing the layers of earth and molasses. The first baby I saw today was blue-eyed Nettie Lucille, eight months old. She was being held partially upside down by her fouryear-old sister. Fortunately, whether it be by natural inclination or by experience, these babies do not seem to object to the rather in-expert mothering of their big sisters and brothers. If they were as sensitive as the delicately-reared infants of modern homes, theymight not respond so contentedly to this rough-and-tumble handling. Ashley The second baby on today's list was Ashley, soot to have his second birthday. Ashley has rickets, and two months ago was one of my sickliest babies. He's getting bet-ter now, since we've given him cod-liver oil. Most of the little ones are friendly after we get acquainted, but Ashley doesn't like me at all. He frowns severely whenever I approach. It is all on account of the cod-liver oil. The day I suggested its use to his mother, she said, "Oh, I know that I can't ever make him take that." just to demonstrate that it could be done, I gave him a dose right on the spot. He hasn't forgiven me yet. Two or three weeks later, when the sister of the Baskins school teacher was visiting at their </p>
+      <pb ref="arr4540397_0003" seq="03" n="400-401  "/>
+       <p>THE ARROW OF PI BETA PHI he mistook her for me, and `Go home, nurse. Take your and go home." I'm having struggle to make the relagive the little fellow proper The grandmother said today `he ate a sight of blackberand that she 'lowed fried s would be good for him." lid, too, that "he cried a sight .eat when he was right little hey had to let him suck a of fat pork most all the :he second house beyond Ash-.s a new baby. He is the only n a family of four children hey are tremendously pleased his arrival. I don't wonder, is as cunning as can be, even h adorned in a pink-checked flannel shirt and a green gingham dress. I intend to one of his sisters in my Lit-others classes as they will no assist very largely in his One of the girls offered me by ground-hog for a pet. her this tribute was offered in ciation of my call, or whether simply happened to have a Is supply of the creatures, I t know. At any rate, I must .e the gift, for I prefer my n babies. Blue Ribbon Baby blue ribbon baby and mother n the next house, a shabby DOM cabin, with a leanto 1]. and a tottering little porch. months-old Bob, chubby, rosy, mailing, is the delight of his i-year-old mother. When I liscovered the baby, he was a pale child, clothed in rags of palling dirty gray. Now he gown fat on cod-liver oil, he sleeps alone in his own little crib (it's really an old packing box), and he wears dainty white clothes. Little Viola has outfitted him from head to foot with new finery purchased at the Health Center. To be sure, they were used garments, but that made no difference to Viola, for they were far prettier than any she had ever seen. Bob has an embroidered bonnet with blue ribbons, two white dresses, silk socks with pink crocheted tops, and blue and white shoes, in addition to less ornamental articles of apparel. One of the baby's recent marks of progress is a daily tub bath. Having no bathtub, he splashes merrily in the battered tin dishpan which also serves for washing the dishes and mixing the bread. Viola's mother lives in the ad-joining "holler." She has a baby boy three months older than Bob. But Florence is much less teachable than her young daughter. She has already brought up a family of five children, and sees no need of learning new ways. Her cabin, dark and dingy, is only one room and contains but the barest necessities. Since Earl has no big sisters at home, he is "minded" by the older brothers while Florence makes baskets. One of the boys has promised to make him a screened crib. Then he can be moved out into the sun-shine for his naps instead of sleeping on mother's bed in the darkest corner of the cabin. Number Six After leaving this home, I had a long ride before I reached the place of my next visit. The countryside is so lovely now that it's a joy just to be out-of-doors. I'm only sorry BABIES' DAY 401 there aren't more babies, so I can ride farther. Even Sparky feels the urge of the springtime, but I'm afraid it is the green clover and the blackberry leaves which appeal to him more than the babies and the green trees and flowers. I arrived at the home of baby number six just in time for dinner. The family had begun to eat, but they rearranged the table and set an extra place for me. My ride over hills and rough toads had stimulated an appetite which made the simple dinner taste like a banquet. We had fried potatoes, mustard greens, cornbread, and milk, and nobody could ask for more. The baby of this family is another of my prize children. He is so chubby and clean, and he's well-trained, too, for his mother obeys unquestioningly every suggestion I make. Clifford, the three-year-old brother, is a special pet of mine. When Odus was born, the mother told the other children that the nurse brought the baby. Little Clifford became confused for a while, and he used to pat the baby so lovingly, saying "little nurse, nice little nurse." After dinner and inspection of the baby, I proceeded on my way. Buford, eleven months old, malnourished and rathitic, was the next patient to be seen. This poor little chap has had a poor start in life, but we are hoping that he may grow strong even yet with cod-liver oil and the sunshine for helpers. The situation is not easy to handle. I spent one entire morning in the home trying to teach the child's mother how to prepare his feedings. The equipment she gave me to use consisted of one batteredkettle, a frying pan, two teaspoons, and, for a strainer, one of the baby's garments. More Sunshine There are two babies at my next house, Eulah, aged twenty months, and Lyman, three months. Also there is a boy three years old. The mother is barely twenty-one and as helpless as a child in caring for her babies. I am trying to help her teach the children proper habits, but sometimes I think the mother needs more teaching than the youngsters. I've been trying for weeks to make her keep the little one out-of-doors during the sunny hours. A few days ago I met her on the road and she said hastily as I began to speak, "The baby's in the house, but I'll put him on the porch as soon as I get home." He was already on the porch today when I arrived. Alice came to the door as I rode up and smiled triumphantly as if to say, "Well, you didn't catch me this time." My last call was to see a girl six weeks old. The father and mother, both under thirty years of age, are victims of tuberculosis, and there are four small children besides baby Faye. That sounds like a doleful tale, but quite the opposite is true. I don't know of any family more cheerful and happy than they seem to be. When Faye had been weighed and duly admired, I returned to the Health Center, parting with Sparky at the gate. The last bit of work was to make entries on my infant and pre-school records and to plan tomorrow's work. So ended the babies' day. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

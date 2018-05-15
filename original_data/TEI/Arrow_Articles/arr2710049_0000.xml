@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr2710049_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>A Trip of Investigation Made by the Settlement House Committee</title>
+                        <author><name>Pettit, Anna F. T. </name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>November 1910</date>
+		        <idno type="SPCID">arr2710049_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">November 1910</date>, A Trip of Investigation Made by the Settlement House Committee</title>
+                        <author><name>Pettit, Anna F. T. </name></author>
+                        <extent>Pages 49-54</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">35</note>
+                        <note type="Folder">6</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 27, Number 1 (November 1910), Pages 49-54.</note>
+			<note type="document">arr2710049_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Philanthropy</item>
+                                <item>Planning</item>
+                                <item>Education</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr2710049_0001" seq="01" n="48-49  "/>
+       <p>d, Iti. ,x M1;, a i.:'\. . . S T 1.. 1. (1") S w, -di: is sLi..g-tiiI(:Lffit: "i.3)': 3::'-e 1(i):. a Av.eonlA.i.) the' t....hC .1'..i7St [..)(2. i (I) 11 it. -t:..() 1101." 01d),.7 Wa.S (iyi,:t.r' fOr v%()-rk { i:' ha(.t ()I .(..''.:,f, perrylide wl..c) 1.-.taive.. .g(2 s,, (,:, (YIe \AfiL11. t11c...'',N,; i2().,. )f of -tl Iape.r Iti(-,I ,yne 01:her o..-f' t. L'LIL? 0i tOgetlei' 44 II` 1'...)nrtiS lin.a.(le , CtC...ST".)LI.i1(2(t (.-:yf.. orm a.LIy ' lit 111C" 'way )11r: w;,ts s.'roi.t:.Llb.lre site r in 54A1i.(:11 cLn.-ipi.ra.is i:., 1ari.d 1t: Lf,lrt: "C.h(:" ,Err } 7 1.: L.:d:.. Of tAse.: (.'..:(Yiif(i'Tr( (J. trip r(...'A....)ITrinle.1-1ciirt..g iridList.ria"1. .il.s .conde-inning the estaiiiiisl-irlTiellt .().i. 2.:n. SCITO(..d.. \Te leaving -Washington, to meet 11',its \;'.v or Lrint.)er A': ears fields </p>
+      <pb ref="arr2710049_0002" seq="02" n="50-51  "/>
+       <p>50 THE ARROW OF PI BETA PHI in the South and who at present is representing the Agricultural Department in its campaign for the establishment of "Corn clubs," among the children. We spent a pleasant and exceedingly profitable day listening to his experiences and soliciting his advice. "Do not consider the independent school," he urged, "Work in cooperation with the public school ; if it seems impractical to you, it is because you do not realize the vast difference between our youthful system and your fully developed one. Go study the public school system yourselves and you will agree with me." About ten o'clock in the evening the heavy chug chug of the engine informed us that we were entering the mountain country. The moon was full and from the windows of our berths we could see indistinct, shadowy mountain tops, many miles away. Toward midnight a storm gathered to the north, producing a most spectacular combination of brilliant moonlight and violet lightning. Sunday morning, we awoke to find ourselves in Asheville and were loathe to take the afternoon train for Knoxville, but we did not know what a treat there was in store for us. For miles the railroad runs along the shores of the beautiful French Broad River, now on one side, now on the other. We do not wonder that the Indians called it the Racing River, nor could we escape the spell of its power and beauty. We breathed a sigh of sheer happiness and dedicated ourselves with renewed courage to the noble purpose of our under-taking. By telephoning to the Superintendent of Education at Knoxville, we found there was to be a convention of all the public school teachters of an adjoining county, Sevier, the following day. Accordingly on Monday we took the early, and only morning train, and after a two hours' ride reached Sevierville in time for breakfast. Through the same good fortune which was characteristic of our whole trip, we met the three speakers of the convention on the train. Upon hearing of our mission, they instantly became interested and very kindly devoted the entire day to helping us. Not only this willingness to help, but the position of each of the speakers made them splendidly able to give us the information and advice we desired, for they were the President of the University of Tennessee, the President of a new Normal School in Tennessee (who was also Ex-State Superintendent of Education) and the State High School Supervisor. They had with them very definite statistics concerning conditions A TRIP OF INVESTIGATION 51 in all of the mountain counties we had under consideration. The percentage of actual illiteracy, they told us, has been exaggerated, but the fact that a large number of pupils have not reached above the third grade is deplorable. In many instances the teachers, themselves, have had only a fifth grade preparation. In one-third of the counties, more men than women are teaching. The average salary of the teachers in Sevier County is $33 a month for a term of less than six months. Think of it able-bodied, able-minded men and women working for $180 a year! The state of Tennessee is doing all it can to educate its people. At present one-fourth of the state tax is given over to education and we were told that probably in the near future the appropriation would be one-thiid of the total tax. The convention was held in an auditorium of the "college," a sectarian school somewhat below the grade of our high schools. There were more than a hundred teachers present. The speeches were very interesting to us, showing as they did, the manner in which these men appealed to the people through their state pride and their greed for education. Miss Turner made us proud by responding to a request from the chairman with a very gracious and pertinent speech. After the meeting and during the afternoon several of the teachers came to talk with us. They were very enthusiastic and earnest about their work and eager for greater facilities. We were especially interested in two young women who were conducting a school many miles back in the mountains and living in one corner of the school room. One was employed by a northern, religious, philanthropic body, the other by the county b6ard of education. They were working together to maintain a model school. "But does this kind of cooperation work out successfully ?" we asked, for we were still sceptical. "Perfectly," they told us. "Come and see for yourselves." In fact we learned later that the state has been so anxious for improved educational conditions and so handicapped by the scarcity o,f tax payers in certain districts, that there has been a state law passed allowing public schools to be run cooperatively with the sectarian schools. "Anything for the good of the people," seems to be the watchword everywhere. Tuesday morning, we made another early start, this time to study conditions in Monroe County, one of the, three most mountainous </p>
+      <pb ref="arr2710049_0003" seq="03" n="52-53  "/>
+       <p>52 THE ARROW OF PI BETA PHI counties in Tennessee, its highest elevation being 5300 feet. At Madisonville, situated in one of the most level portions of the county, we were met by the postmaster who in a short time gathered together the influential men of the town. I wish I could picture to you that meeting. I wish I could make each one of those people stand clearly before you as they do in my memory. I wish you could see their ease of manner despite shirt sleeves and strange ladies. I wish you could feel their simple common-sense way of presenting their case, their eagerness and enthusiasm. They urged us to come to Madisonville. At their suggestion, we went down to the high school. It is brick, good-sized, finely located and well planned. Opposite to it is a frame dormitory which shows the same careful planning. We were especially interested in the dining-room system. There is one dining-room for the girls who wish to have their meals served and there are four small kitchens for the use of the girls who wish to do their own cooking. The Principal and the other gentlemen who went over the buildings with us assured us that ,there would be no trouble in getting sufficient ground to run an agricultural school. They were not, of course, in a position to speak with certainty but they felt sure that some satisfactory mode of cooperation could be arranged to give us entire authority over the agricultural and manual training departments and the dormitory. After dinner we drove ten miles through wild mountain country to a little station where the train was "liable to come along between one and two o'clock." We were somewhat curious to see how we were to get into the train, the only thing which in any way resembled a platform, being several feet above the tracks. When, however, the train arrived we saw at a glance that we were supposed to jump into the open door of the baggage car! At Tellico Plains we had to choose between staying twenty-four hours or twenty-four minutes. We chose the latter, delivered our two letters of introduction, asked as many questions as it is possible to ask in that limited time, and on the whole gained a fairly clear idea of the place. The station is near the centre of the town, as you may have imagined, and the centre of town is near the outskirts! Tellico Plains, romantically situated on the Tellico River, in a valley completely surrounded by mountains, marks the site of the ancient capital and city of refuge of the Cherokee Indians. The set A TRIP OF INVESTIGATION 53 tleraent owes its present growth if such it may be called to a tannic acid which sends once a week, instalments of men back into the mountains to lumber camps. The town, itself is very crude, but if the rest of the people are like the one man with whom we talked, they have a future before them. There is something in the simplicity of these mountaineers that draws one to them, and makes one count each as a new found friend. It is impossible to question what they say. On the way back to Knoxville the all-engaging question was "shall we go to the heart of the mountains or shall we bring the mountains to us :" Tellico Plains on the one hand and Madisonville or Sevierville on the other. A day or so later Miss Keller added Gatlinburg to the former class which still greater complicates the action of the National Committee. Wednesday morning, before five o'clock, our plans were altered by a telephone message informing us that our guide to Gatlinburg, one of the remote districts in Sevier County, had been taken ill and would be unable to drive us through the mountains that day. After a hurried conference Miss. Turner and I decided to start back to Asheville that morning, leaving Miss Keller to go to Gatlin-burg the following day. We were loathe to break up our party for despite "long hours" and "hard work," we had thoroughly enjoyed the trip. Miss Turner made connections for Washington leaving me to spend the night at the home of a charming friend of hers, where a number of delightful southern people were staying. When some of the New Orleans ladies found that I was "in some way interested" in various members of Louisiana Alpha, they in turn became interested in our whole plan. "What a splendid work for such an organization," was the feeling everywhere. Thursday morning I was looking forward with keen enjoyment to a call from Dr. George Winston, who I was told knew more about these mountain people than any other unprejudiced person. Dr. Winston knows these people at first hand ; he knows them because he loves to mingle with them, because he enjoys their humor and independence and innate refinement and because his charming personality inspires them with a desire to know him. The secret of his comradeship is probably the fact that he entirely lacks any feeling of benevolence in dealing with them he enjoys them for what they are. Dr. Winston verified our information as to the need of our pro-posed work and heartily commended us for undertaking it. </p>
+      <pb ref="arr2710049_0004" seq="04" n="54-55  "/>
+       <p>54 THE ARROW OF PI BETA PHI We visited the exhibition room of the Allstand Cottage Industries where examples of the work of the mountaineers are sent for sale. was amazed at the skill shown in the weaving and basket work. Dr. Winston told me that many of the patterns of the bedspreads and rugs were the same as those used fifty years ago. The work produced at the Biltmore Arts and Crafts School is especially note-worthy in its wood carving. This school is maintained and person-ally directed by Mrs. Vanderbilt for the children of the employees on her husband's estate who, by the way, are with few exceptions, native mountaineers. The first thing which attracts the eye as one enters the Biltmore School is a framed picture of the trademark which is used on all of the wood work an arrow piercing a scroll marked Forward! After driving for three hours through the Biltmore estate I took an afternoon train for Washington. Miss Keller writes concerning her visit to Gatlinburg: "I have seldom seen a more ideal situation. There is quite a valley, cup-shaped, entirely surrounded by high mountains. The people are eager for education; if we go to them they will take it; if we prefer to train people to send to them, they will be grateful. In either case there is a tremendous field of opportunity." The investigations of the committee can be practically summed up as follows: The need for industrial education along the lines pro-posed is everywhere apparent. The establishment of an independent school is not advised. Either a school in the heart of the mountains or one in a larger centre will do infinite good. With vou alumnae 5,000 of you the matter rests. What will you do? ANNA F. T. PETTIT. THE PI BETA PHI FELLOWSHIP FOR GRADUATE STUDY For the year 1910-1911 one graduate fellowship with a value of five hundred dollars will be offered. This fellowship is open to any Pi Beta Phi who has received her bachelor's degree. It may be used at any university, either in this country or in Europe, which offers the best advantages in graduate work along the particular line desired by the holder. Two points will be considered by the Grand Council in awarding THE PI BETA PHI FELLOWSHIP 55' the fellowships : first, the scholastic standing of the student, and second, all-round development of character, and the ability to represent the fraternity in whatever place the recipient may be. Applications, together with photographs of the applicants, credentials from professors, and other testimonials should be in the hands of the Grand Council not later than March first, 1911, so that the award may be made before the close of the college year. Blank forms for application for fellowship may be obtained from the Grand President. All applications for the undergraduate loan funds should be made to the Boston Alumnw Club, which has been appointed by the Grand President as the committee in charge of these funds. Information as to conditions, credentials, and terms of loans to undergraduates may be secured from the chairman of the committee on loan fund administration, Miss Mary C. Galbraith, 1187 Blue Hill Ave., Mattapan, Mass. MAY LANSFIELD KELLER, Grand President. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

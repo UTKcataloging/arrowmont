@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7840015_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Golden Anniversary Is Celebrated in Gatlinburg</title>
+                        <author><name>James, Zoe Saunders</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Summer 1962</date>
+		        <idno type="SPCID">arr7840015_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1962</date>, Golden Anniversary Is Celebrated in Gatlinburg</title>
+                        <author><name>James, Zoe Saunders</name></author>
+                        <extent>Pages 14-15, 21</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">14</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 78, Number 4 (Summer 1962), Pages 14-15, 21.</note>
+			<note type="document">arr7840015_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Facilities</item>
+                                <item>Arrowcraft</item>
+                                <item>People</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7840015_0001" seq="01" n="14-15  "/>
+       <p>From 1912 That first class THE ARROW OF PI BETA PHI Moore, Grand Treasurer ; Mrs. Robert Wild, National Panhellenic Conference Delegate; Mrs. William Akers, Eta Province President ; and Mrs. Richard James, Settlement School Committee Treasurer. The occasion was a pleasant one with much talk of the past, present, and future of the Settlement School. Most of the fourteen very active members of this club were once students or teachers at the school or are now on the staff, and their love and devotion to the Settlement School knows no bounds. The fitting climax of the day was a dinner party held at the Ruth Barrett Smith Staff House. Fifty yellow roses graced the head table and yellow spring flowers adorned the other tables. The theme of the after-dinner talks was the warp and the weft the warp being the fifty years and the weft being the contributions of the many who have helped to make Settlement School what it is today. Members of the classes of 1912-13-14 were15 to Pi Phi for giving them and their children and grandchildren the opportunities of a better education and a broader outlook on life. In the early days Pi Phi brought new ideas and information into the mountain community through its teachers and nurse and arranged trips out into the world for many who had never seen the flat-lands and the big cities. Today Pi Phi continues to bring new blood into the community and to open up broader vistas for the people through its teaching of arts and crafts and music, and through its scholarships for those who need help to finish high school or who need assistance for further education. The Pi Beta Phi Settlement School has had a spectacular fifty years from a one teacher, one room school in 1912 to an institution of twelve buildings, 77.8 acres, and a five-point program including education for grades 1-12, a livelihood for the people through Arrowcraft, a dynamic health program, Golden Anniversary Is Celebrated in Gatlinburg Zoe Saunders James, Virginia A, Treasurer, Settlement School Committee 14 Fifty years of the Pi Beta Phi Settlement School! Fifty years in Gatlinburg, Tennessee! Fifty years of service! All Pi Phis will celebrate the Golden Anniversary of the Settlement School this summer at the Convention in Washington. On March 6, 1962, the school children, the townspeople, and the local and visiting Pi Phis observed a day of celebration in Gatlinburg. Fifty years ago on February 20, 1912, Pi Phi's teacher opened the doors of the one room school house to the children of the community. Several of the pupils in those first classes were on hand for the festivities, and many of the present day school children who are descendants of the early students took a prominent part in the activities. School was not closed for the day, although it seemed for a while that the steady snowfall might force a holiday until the school buses could safely travel the mountain roads. Fortunately the snow was only enough to add to the beauty of the day and prevented only a few who live on the steepest roads from attending. First on the agenda for the memorable day was a program for the high school students, towns-people, and visitors. The school auditorium with its folding chairs placed in rows will no longer seat all the children (625) attending the twelve grades in the five buildings, so the program had been giventhe previous day for the elementary school children. Mrs. Marion Mueller, Director, gave a brief introduction explaining the purpose of the program, and then Mrs. Marjorie Chalmers, Health Center Nurse, read the story of the Settlement School while tableaux were presented on the stage. There were scenes of children going to the early school, of the nurse tending a sick baby, and of our Weaving De-signer, Miss Winogene Redding, instructing a weaver. The eight dormitory girls and the eight dormitory boys were introduced for another tableau. Our school has many second and third generation pupils now and about 25 of them appeared on stage. There were also scenes showing the school crafts and the craft workshops. The High School Glee Club, assisted by our music teacher, Mrs. Walter Enloe, led the group singing of "On Top of Ole Smokey," "Pi Beta Phi to Thee," which is the school song, and "God Bless America." The students were fascinated with the history of our school and all during the day they gathered around the bulletin boards where old snapshots had been arranged by Margaret Struble, Iowa Gamma, the School's Arts and Crafts teacher. The second event of the day was the luncheon at the Mountain View Hotel given by the Little Pigeon. Alumnae Club for the visiting Pi Phis: Mrs. William Mansfield, Grand President; Mrs. Henryparticularly honored at the dinner and eight of them were able to attend: Orlie and Josie Watson, jack Huff, Jim Huff, Sue Huff Cox, Mattie Huff Lawson, Pearl Parton, and Ray Bohanon. It was a time for living in the past and conversations beginning with "Do you remember" the strict school teachers, the temptations to stop and fish in the creek along the way to school, the possum hunts, the Christmas parties, and the Friday night socials at the school. There was talk of the first basketball teams: of the scandalized looks when the girls played in bloomers and of the timidity of the boys who wore their basketball trunks over their blue jeans. There was also pride in "their" school and the grateful appreciation To 1962 adult and college level education through workshops, and dormitory facilities for high school boys and girls. The Golden Anniversary celebration in Gatlin-burg was impressive and inspiring, and the day ended with talk of the next fifty years and the wonderful things ahead for the Pi Beta Phi Settlement School. Students of the 1912-13-14 classes of the Settlement School were honored at a dinner party given at the Staff House in Gatlinburg. Seated I. to r. Mattie Huff Lawson, Pearl Parton, Sue Huff Cox, Josie McCarter Watson. Standing I. to r. Orlie Watson, Jack Huff, Ray Bohanon, Jim Huff. </p>
+      <pb ref="arr7840015_0002" seq="02" n="20-21  "/>
+       <p>Jane Williams, Massachusetts Beta, and member of Mills Memorial Hospital Auxiliary, and young patient discuss the new Pi Beta Phi aquarium presented to the Mills Hospital children's ward in the fall of 1961. Pi Phi Project San Mateo Club Brightens Children's Wards After the close of World War II when war work had just been gratefully laid aside, a new project was presented to San Mateo (California) County Pi Phi alumnae. Charlotte Johnson Benson, Indiana Alpha, had spent many hours in the children's ward of Mills Memorial Hospital in San Mateo where her young son had been a long time patient. She had learned how much music helped dispel the boredom of the long days, and how quickly the phonograph records became worn and scratchy. She proposed that the dub provide new records for the ward at various times during the year. This happy idea was accepted unanimously by the members, and a "March of Pi Phi dimes" at each regular meeting has been used to finance the project. For fifteen years Charlotte acted as chairman, purchasing agent and liaison with the hospital staff . When Peninsula Hospital was built in Burlingame the children's ward there was included in the gifts of records. Larger gifts have been made occasionallyat Christmas time, one year a television set, and again a new stereo record player to replace one which has collapsed from long use. In 1960 Charlotte took on the larger job of president of the club, and much as she loved being a "big sister" to the children she turned over the chairmanship to Jessie Morton Wolfe, Wisconsin Alpha, who has carried on most capably. Now each hospital has an Auxiliary of young women, many of them Pi Phis, who assist in many ways, but the club continues its special interest. A letter from R. D. Burness Jr., Administrator of Mills Hospital, tell of the enjoyment the young patients and staff had from Christmas records received from Pi Beta Phi alumnae, and how pleasing it was to discard the old records for new selections. He closes "We are most appreciative of the warm and friendly relations which have been maintained through the years with the Pi Phis. Thank you so much." 20 News from Little Pigeon Edited by Helen Boucher Dix, Ohio B Golden Anniversary Observance at Convention Pi Beta Phi's fifty years of inspired, rewarding, and nationally recognized endeavor at the Settlement School in Gatlinburg, Tennessee, will be celebrated officially by the fraternity at the 1962 Convention in Washington, D.C. It is sincerely hoped that as many as possible of the members of the fraternity who have worked with or for the Settlement School over the years, either on the committee or on the staff, will be able to attend Convention and will make themselves known when registering. An especially gratifying recognition of Pi Beta Phi's achievement is the EXHIBIT to be placed for a full month in the Rotunda (the main entrance) of THE SMITHSONIAN INSTITUTION from June 22 to July 21, 1962. An Arrowcraft weaver will be demonstrating at a loom both at the Smithsonian and at the Mayflower Hotel during the week of Convention. To have an institution of the stature of THE SMITHSONIAN acknowledge in such a manner the high quality of the products of our weavers and the leadership of the fraternity in this field is a signal honor ; no Pi Phi attending Convention this year will want to miss this display. The fraternity in general, and the staff and committee of Settlement School in particular, acknowledge with sincere appreciation the foresight and the great amount of time and thought given to making the arrangements for this exhibit which Marie Lingo, D.C. Alpha, Delta Province Vice President, has de-voted over the past two years. The official opening of the Exhibit will be noted by a reception on June 22, to which THE SMITHSONIAN will issue formal invitations to its regular mailing list and to others whom the fraternity will designate. Fire Damage Described When Zoe Saunders James attended the Fifty-Year celebration in Gatlinburg as the representative of the Settlement School Committee, she inspected the damage at Teachers' Cottage and reported to the Committee as follows, "Teachers' Cottage is a mess! You've seen logs in a fireplace only half burned. The exposed beams in the living room and in Nadine's office look like that. Doors that did not actually burn got so hot that the resin seeped out and is now dried. The men had pretty well cleaned up the debris on the second floor and in the attic,but the first floor still had ashes everywhere, the sofa looked like something that has been on a dump pile for years, and what windows are not broken are now brown. There are only a few actual breaks or holes in the structure of the house and they are next to or near the chimney, but everything is a charred and sad sight!" The work to renovate the damaged building has begun and is to be finished in time for use as a dormitory for the Pi Beta Phi University of Tennessee Craft Workshop, June 11 to July 17, 1962. New Loom House The new Loom House, or Weaving Studio, is under construction at this time to be completed in time for use at the 1962 summer Craft Workshop. This building has been a serious need for some time, if the Craft Workshop were to expand, if the possibilities for other workshops at all times of the year were to be displayed, and to save wear and tear on the looms which have had to be dismantled and moved twice a year. Thus another dream of those who know so well the needs and the possibilities of our national philanthropy is being realized. AT GOLDEN ANNIVERSARY PROGRAM-In the tableau presented at the program (see pages 14-15), Winogene Red-ding, weaving instructor, renacted the scene when she had Mrs. Lee Johnson in her first class. Miss Redding was the first weaving teacher in 1 925 and has been with Arrow-craft at various times for a total of over 20 years. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

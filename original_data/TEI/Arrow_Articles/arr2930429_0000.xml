@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr2930429_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Pettit, Anna F. T. </name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>April 1913</date>
+		        <idno type="SPCID">arr2930429_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">April 1913</date>, News from Little Pigeon</title>
+                        <author><name>Pettit, Anna F. T. </name></author>
+                        <extent>Pages 428-429</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">35</note>
+                        <note type="Folder">12</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 29, Number 3 (April 1913), Pages 428-429.</note>
+			<note type="document">arr2930429_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Extracurricular activities</item>
+                                <item>Planning</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr2930429_0001" seq="01" n="428-429  "/>
+       <p>428 . THE ARROW OF PI BETA PHI versity, as according to the rules of the university the young women are not permitted to have fraternity houses. The student publication, The Collegiate, is a weekly college paper and the senior class publishes each year, an Annual, The 0shihiyi (meaning mocking-bird). A live interest is taken in athletics and with the new gymnasium to stimulate general athletics among the students, Stetson will soon take a higher place in this line than ever before. Every two years a biennial Stetson-De Land Musical Festival is held in the University Auditorium. Among the artists in the past have been Schumann-Heink and Maude Powell. With us this year are Marcus Kellerman, Ellison Van Hoose, and David Bispham. The social life of the university is active and varied. Annual events are the Hallowe'en Masquerade, St. Patrick's Day Celebration, and Presentation Day. Other banquets and parties occur at various times through the year. The future prospects of Stetson are excellent: Recently the endowment has been increased many thousands and each year, through the enthusiastic work of Dr. Hulley, new buildings are added. The number of students in the university especially in the college department, increases year by year and Stetson is easily recognized as the leading educational institution in the south. LILLIAN ELDREDGE. NEWS .FROM LITTLE PIGEON On January 31, the first American flag ever thrown to the breezes at Gatlinburg, Tennessee, was raised on the Settlement School flag staff, in front of the school building. Miss Dell Gillette, our Pi Phi teacher, broke the sod for' the flag pole and Miss Hill attached the flag to the halyard, and while the school children sang the Star Spangled Banner the flag was run up to the top, and will fly every day of the year when school is in session. This handsome flag was presented to the Settlement School by Worth Schantz, the young son of Mrs. O. M. Schantz, corresponding secretary of the Chicago alumnae club, and a loyal member of Iowa , in the days of I. C. and delegate to the Ottumwa Convention in 1888. HISTORY OF JOHN B. STETSON UNIVERSITY 429 The Settlement School offers a splendid opportunity for a Pi Phi to give to these isolated and eager people of our own race in the mountains a service which will bear its fruits in the generations to come as well as to-day. We want a principal for the school, and also an assistant for next year's work. Write Mrs. E. A. Helmick, 4837 Kenmore Ave., Chicago, Ill. Miss Gillette has organized the older girls of the Settlement School and Gatlinburg into a sewing club. They meet every Friday after-noon. Each girl has made for herself a sewing bag, and is delighted with the idea of making pretty things for herself. Their first piece of work was a white linen collar. While the girls are sewing Miss Gillette or some one reads aloud. Miss Hill has established a reading table in her room at school, and children and parents are encouraged to stop and rest and read. Simple reading matter for this table will be appreciated. Address Pi Beta Phi Settlement School, Gatlinburg, Tenn. Miss Gillette has adopted certain Boy Scout rules for behavior and development in her boys' base-ball team. She has two teams an indoor team plays in the abandoned Methodist church, and the second team outside, in "flats". This has been a fine thing for the boys. Miss Hill has not been well and robust this winter, having had a touch of grip, and it has been, indeed, a most fortunate thing for the school that we have had such a capable, high-minded and unselfish a person as Miss Gillette to go ahead with the settlement feature, which is important in our work among these stolid, impassive, ascetic people of our own race in the mountains. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

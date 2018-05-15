@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7530207_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Pi Phi Personalities</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Spring 1959</date>
+		        <idno type="SPCID">arr7530207_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1959</date>, Pi Phi Personalities</title>
+
+                        <extent>Page 206</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">11</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 75, Number 3 (Spring 1959), Page 206.</note>
+			<note type="document">arr7530207_0000</note>
+                        <note type="Table Of Contents">Pi Phi Handicraft Exhibit in Lincoln</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Handicraft</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7530207_0001" seq="01" n="206-207  "/>
+       <p>206 Miss Hathaway, a University of Nebraska student, is vice-president of the university chapter of the ACEI and secretary-treasurer of the state board of the group. She is the daughter of Dr. and Mrs. Harry Hathaway of Holdrege. -+ Pi Phi Handcraft Exhibit In Lincoln Preparing the exhibit of handcraft articles from the Pi Beta Phi Settlement School in Gatlinberg, Tenn., held Friday, April 11 at the Governor's Mansion, are (from the left) Mrs. Edgar Westcott, co-chairman with Mrs. Ralph Ireland for the tea; Mrs. Victor Anderson, hostess ; Mrs. M. G. Volz, general chairman; and Mrs. Kent Morgan, province vice president of the sorority. Committee members for the tea and exhibit, which opened at 10 o'clock in the morning and continued until 9 o'clock in the evening, included Mrs. Frank Roehl, Mrs. J. H. Raglin, Mrs. Ron Clark, Mrs. Richard Kimball, Mrs. L. K. Bourke, THE ARROW OF PI BETA PHI Mrs. O. J. King, Mrs. Victor Jouvenat, Mrs. Lloyd Corp, Mrs. Jerome Hart, Mrs. C. D. Hildebrand, Mrs. Lloyd Cleveland and Mrs. Jerome Dosek. Members of the Mothers Club assisted as hostesses, and presiding at the refreshment table during the day and evening were Mrs. Arthur J. Weaver of Falls City, Mrs. E. C. Ames, Mrs. W. R. McGeachin, Mrs. Jean R. Kinder, Mrs. Anderson, Mrs. C. N. Benjamin, Mrs. Howard Doty, Miss Mary McGahey, Mrs. Florence Bates, Mrs. Ray DePutron and Miss Ruth Louise Dierks. -----* Two Pi Phis Win Rotary Foundation Fellowships. Out of the 121 who won them, there may be more! We have been informed of the following: Nancy O'Connor, Michigan r, a June graduate of Michigan State University, will enroll at Melbourne University in September. She will study English literature in preparation for a teaching career. Nancy is a daughter of Mrs. Warren Weaver of .14 18gii 4 4 /004 . neigowigiet A letter from Miss Dierks accompanied this picture: "The glossy and clipping from The Lincoln Star (the paper for which I'm Club Editor) are still timely for the ARROW, I think. I should explain in the "idents," Mrs. Victor Anderson (Betty May) Nebraska Beta, is the wife of Nebraska's governor, which is why we got to use the brand new mansion for our Settlement School Sale (we cleared about $1,000). Other "idents" Mrs. Edgar Wescott (Jean Tidball) Nebraska Beta; Mrs. M. G. Volz (Zella Johnson), Nebraska Beta; and, of course, Mrs. Kent Morgan (Dorothy Weaver), Nebraska Beta, our new Grand Vice President. THE ARROW OF P1 BETA PHI 207 Richland Road, San Marcos. She was graduated from Escondido High School in 1954 and attended the University of California at Los Angeles one year before transferring to Michigan, her native state. During vacations, she has been a lifeguard at Escondido's municipal swimming pool and now is working as a case-worker for the county Welfare Department. Nancy was elected to Phi Kappa Phi, honorary scholarship society, and Tau Sigma, science and arts honorary. She was active in many extracurricular activities, including the yearbook staff, water carnival, and student government. The fellowships provide an opportunity for young men and women of many nationalities to live, study, and travel in foreign countries. Each student is in direct contact with Rotarians and their families in the country where he studies. Fellows are chosen for high scholastic standing, leadership qualities, interest in world affairs, and ability to make friends easily. Elizabeth Anne Moore, Iowa Zeta, daughter of Mr. and Mrs. Clyde Moore, Dubuque, Iowa, has been awarded a Rotary International Fellowship for 1959-60. One of 121 outstanding graduate students from 33 countries to receive this honor, Miss Moore will spend the 1959-60 academic year studying French literature and civilization at a French university. As a 1958 graduate of the State University of Iowa, Miss Moore majored in European Thought and Literature (Humanities) and minored in French. She held a Speech Scholarship for four years at Iowa. In her senior year, she was awarded the Victor Hugo Bronze Medal as first prize from the French government for excellence in the annual SUI Poetry Contest. The Rotary Fellowship, valued at $2600 is awarded to applicants chosen for their high scholastic standing, leadership, qualities, interest in world affairs and ability to make friends easily. Miss Moore, recommended by the Dubuque Rotary Club, was very active in campus politics, and service organizations. She also participated in Radio and Television plays and the Community Theatre of Iowa City. She has been vice-president of Iowa Zeta. Through the International Institute of Education, Miss Moore applied for and received an Assistant-ship in English (1958-59) at the Lycee de Jeune-Filles, Macon (Saone-et-Loire) France. Her appointment to this position by the French government has enabled her to teach Conversational English to high school girls who have already had six years of Elizabeth Moore, Iowa Z English. She was invited to spend a week-end at a French teacher's home, and also to the home of a French professor. These contacts enable her to understand and further the good will and brotherhood which is one of the main objectives of Rotary Inter-national. From the Illinois Zeta Arrow we gleaned this bit from Idelle Smith Brooks, now living in the South. "We have our roots deep in the south, here in the cradle of the Confederacy. My lawyer husband (Fiji from U. of Ala.) stays busy. Our children, Ellen, 7, and Ricky, nearly 4, have real southern accents, suh ! "I stay 'busy with a daily TV show on which I cook, sew, do home projects and interview interesting people, and do commercials every other breath ! But it's fun. "We have a fine alum club, but t'would be so nice to now'n again have a visitor who was a Zeta Pi Phi when I was! We're in the phone book and the door is always open to any old friends who might be heading south!" </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

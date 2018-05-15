@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7430189_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelock</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Spring 1958</date>
+		        <idno type="SPCID">arr7430189_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1958</date>, News From Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelock</name></author>
+                        <extent>Page 189</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">10</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 74, Number 3 (Spring 1958), Page 189.</note>
+			<note type="document">arr7430189_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Dormitories</item>
+                                <item>Arrowcraft</item>
+                                <item>Employment</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7430189_0001" seq="01" n="188-189  "/>
+       <p>188 THE ARROW OF PI BETA PHI your living creed. Before the member is pledged he or she knows the ideals and the creed. This has many implications for those who are responsible for the selection and subsequent training of members, as you look forward to the ways of group living. You as an organized group have a right to expect loyal cooperation and participation to the fullest possible extent. One of the benefits to our social order of group living is the impression made upon our society by those who have ideas and ideals held in common. Our way of life in a democracy depends upon this expectation of cooperative participation. I come now to one of the most important aspects of cooperative living what does society in general or the world as a whole have a right to expect of you as members of a highly selected social organization? In some circles your very existence is being questioned; they believe that your exclusiveness is detrimental to the growth of a better individual and in turn a better society. This I do not believe, but I am concerned and convinced that you can and must justify your cooperative life through a number of specific results. As a social order we have a right to expect that you_ will serve educational ends by becoming knowledgeable persons. Because you live on a campus and are a definite part of our educational life you are expected to foster a membership which promotes our culture at its best. By your very corporate nature you represent the educational, spiritual and ethical aims of the campus upon which you live. This is a high responsibility. Then, too, as a social order we have a right to expect individual integrity on the part of your members. This is becoming more and more important in the life of our nation and our world. We depend upon the best of leadership, trained for their professions, and imbued with a sense of moral responsibility. This, too, is a high responsibility. Most youth on a college campus do not need urging to be activity-minded. In the minds of some faculty members we have become activity centeredrather than study centered. In spite of this seeming dilemma, I plead for the acceptance on the part of the student an individual responsibility for corporate action. Instead of being neat, little, exclusive self-centered groups you are expected to take a place of leadership in the setting of the moral and intellectual tone of the entire campus. This, too, is a very high responsibility. Yes, we do live in a dwarfing world and in this dwarfing world we must stand tall. To do so we will accept high expectations such as association with a select group, acceptance of those ideals which will produce a knowledgeable leadership of integrity for a needy social order. This requires a challenging creed for you as leaders, may I share this one with you for your consideration. I believe that the common life of man is not the cruel joke, the stupid laugh, bleating across the mystery of the centuries, that on the surface it may seem to be. I believe that there can be seen in men a greater mankind than our dull and uncreative society reveals. I believe that this greater mankind of tomorrow is latent in the lesser mankind of today. I believe that its capacity to leap forth at the touch of a divine fire is already proven. I believe that a flame within the soul, a torch to guide the awakened emotions, a plan of action for the footsteps of enobled purpose, make this whole business of living worth all the tragedy of its human and divine cost. I believe that the task of the true leader is to create for others those living situations in which this coal from the altar of the life of God will touch the lips of growing souls. I believe that such is our task. And so, in humble fellowship with Him who has always brooded over the souls of men, wakening them to the power and beauty of life, we dedicate ourselves to the making of this creed come true. NEW NPC trophy, presented at the formal banquet, gift of an anonymous donor. Standing behind this trophy, which is to be presented for friendship and loyalties, admiring it, are members of the Executive Committee for NPC. Left to right: Mrs. Joseph D. Grigsby, Mrs. Cicero F. Hogan, and Mrs. Darrell R. Nordwall. . :,?. ''.'. ' ewj FROM LITTLE PIGEON Edited by Louise Wheelock Dobter, Washington B DO YOU KNOW that 17 boys and girls this winter' had the chance for a high school education because of the Settlement School dormitories ? These people live too far from a high school to commute daily. DO YOU KNOW Tennessee Gamma gave a Christmas party for the dorm children and presented them with a radio ? DO YOU KNOW Indiana Gamma has plans under way for a spring visit to Settlement School? They plan to charter a bus. The welcome mat is out for all chapters. DO YOU KNOW the Arrowcraft project is one of the few "cottage industries" in the U.S.A.? The government sends foreign guests, who are interested in similar projects, to visit the Pi Beta Phi Settlement School. Mrs. Ramirez from the Philippines spent two nights and a day with us while on a craft tour in early December. A man from Indonesia visited the Settlement School in January. DO YOU KNOW the Gatlinburg Press regularly gives credit to Pi Phi for the Smoky Mountain area becoming the center of the handicraft industry? "In 1912 the national college sorority, Pi Beta Phi, founded a settlement school in Gatlinburg for local and mountain people. The purpose of the school was to develop initiative and independence among the mountain people and to help encourage and teach industries that might become the means of a livelihood. From that beginning the present handicraft industry has grown." DO YOU KNOW there are frequent openings for Pi Phis at Gatlinburg? We need teachers, an assistant to the Director, 2 graduate assistants for the Summer Craft Work Shop. If interested, write to the chairman of the Settlement School Committee. DO YOU KNOW the second FOREIGN CRAFT STUDY TOUR will be conducted July 14-August 19, 1958? It is sponsored by the University of Tennessee and Pi Beta Phi and the university will grant six quarter hours of credit. The instructor will be Miss Marian Heard, Tennessee Gamma. The tour will visit eminent European craftsmen by arrangement with Brownell Tours. Write for information to Miss Henrietta R. Sivyer College of Home Economics University of Tennessee Knoxville, Tennessee DO YOU KNOW over half of the first edition of the new cook book was shipped out the first two months? The book is available at $1.00 plus postage from Arrowcraft Shop, Gatlin-burg, Tennessee. Of course all profits go to the Settlement School. 4-4 Order a new Cook Book from Arrowcraft raft Shop 189 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

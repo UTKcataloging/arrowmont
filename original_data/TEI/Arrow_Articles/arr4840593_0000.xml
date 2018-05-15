@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr4840593_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>A Gift from the Friends of the Mountain Children</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>May 1932</date>
+		        <idno type="SPCID">arr4840593_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">May 1932</date>, A Gift from the Friends of the Mountain Children</title>
+
+                        <extent>Page 593</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">38</note>
+                        <note type="Folder">8</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 48, Number 4 (May 1932), Page 593.</note>
+			<note type="document">arr4840593_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Funding</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr4840593_0001" seq="01" n="592-593  "/>
+       <p>The May ARROW Through War-Torn China By Margaret Thomas Mackenzie, Ontario Alpha OTE : When, the Institute of Pacific Reolls was held last Fall in Shanghai, .s. MacKenzie accompanied her iasid, MacKenzie, of the Departntof Law at the University of To-to, who was a delegate to the Institute. is extract is from her fascinating at.-tut of their experiences.) SAILED from Vancouver September 26, just eight days after e Japanese had taken Mukden by med force. Most of the Canadian legates attending the meeting of the stitute of Pacific Relations had left o weeks before and were now in )kio. The newspapers came out flatly th the statement that the Institute eetings would be postponed in-finitely on account of the trouble in anchuria. However, we sailed! On riving in Tokio we were entertained the Japanese Institute, and they an-minced that their delegation was aving that night for Shanghai, where e conference would be held, but none their wives accompanied them, feel-g that the situation was too dangerts. I spent a day on the train going from okio to Kobe through a densely poputed part of japan, covered with rice !ids and bamboo groves, and every-here people, working in the fields. At obe I rejoined by ship, and sailed for day and a night through the Inland 2a., through beautiful blue water, )tted everywhere with precipitous )lcanic islands. We coaled, and that a sight in itself, at Nagasaki, and en went on to Shanghai through the ellow Sea. The harbor of Shanghai is famed roughout the world for its color and )smopolitan flavour. Ships of all na-)ns are there all kinds and sorts of tips from 30,000 ton liners and battle .uisers, to six foot sampans. We walked from the dock to the Cathay Hotel, only a matter of minutes, surrounded by crowds of children, and nearly being run over at each crossing, owing to the Chinese habit of keeping to the left. My husband and I had a luxurious suite of rooms, beautifully cooked and served meals, unlimited service from our China boy and his underling coolies, all for the tremendous sum of $6.00 gold a day per per-son. The conference met from October 12 to November 3. There were about 180 people in all, English, Australians, New Zealanders, Americans, Canadians, Dutch, Filipinos, Japanese, and Chinese, as well as representatives from the League of Nations and the Labour Office. It was truly an accomplishment that they could tolerantly and understandingly discuss their problems in a time of such national feeling and bitterness. By the time the conference was over, the Japanese army had occupied most of Manchuria and feeling was running high in Shanghai. Everywhere we saw inflammatory posters. Then down the main street would come three Japanese armored cars with machine guns mounted, armed soldiers with gas masks, and sirens wide open the Japanese way of showing the Chinese what would happen if they made any trouble. We drove through the Chapai and Hongkew sections frequently, and all our comings and goings to Nanking, Hangchow, etc., were through the North Shanghai Station, which has since been reduced to a mass of ruins by the Japanese. We left Shanghai on November 4 for Peking. That was the only time on the whole trip that I had the misfortune to be bitten. The train was not overly clean, to say the least. The May ARROW 593 From Peking we went to Mukden by train. That is a simple statement but it encompasses a great deal. In Shanghai we were told that the line was wrecked by bandits and Japanese, and that no trains were running. In Peking we were told that the trains were running, but that the windows were shot out, that there was no food or heat, and that every other train' was held up by bandits. However we went, with over a hundred Chinese soldiers, an armored car with guns on the front, and two on the back. At a certain station all the Chinese soldiers left us, and twenty miles farther on the Japanese came on in full battle order with steel helmets and bayonets fixed. The tracks were torn up about five miles out of Mukden, so we got out and into cars, and drove along a narrow road, where we were held up and searched at intervals by soldiers. We stayed in Mukden for a few days, everywhere seeing evidences of Japanese occupation. Then we went to Changchun, now the capital of the new Manchurian State, from there to Harbin, the Russian center now held by the Japanese. On our way to the Russian frontier we passed through Tsitsihar junction, six miles to the south of where the Japanese and Chinesearmies were fighting. A few hours after our train got through, the Japanese army swept over the tracks and trains were held up. At Manchouli, with a great deal of relief, we got on the Trans-Siberian Express, bound for Moscow. It took us seven days to cross Russia. The train was clean, warm, comfortable, and the food excellent. For dinner we would have caviar, mushrooms, fish, fried chicken, good white bread and butter, a sweet, and coffee, and all reasonable in price. The country was lovely, fairly heavily wooded, and already under snow. The people at the stations were warmly dressed, and appeared well fed and happy. Everywhere one saw book-stalls filled with technical works on economics, physics, biology, etc., and the people were reading them. We went from Moscow to Warsaw, to Berlin, to London, to New York, and home to Toronto, each place looking progressively better. We may talk about depressions in our occidental civilization, but one just has to go to China to realize that for four hundred million people life is just one long economic depression, and our condition, bad as it seems to us, would be like Heaven to them. A Gift from the Friends of the Mountain Children N A letter dated March 16 Miss Bishop wrote, "Last week I had a check of $100 come from the Friends of the Mountain Children, which works in co-operation with the Golden Rule. Last spring at Mountain Conference time the committee told me they might have something for our school. They stipulate that the money shall be usedfor dental and eye work. And we have plenty of need always for help in looking after eyes. As long as the dentist comes out once a month people can usually manage to get some work done; and then he can afford to do some free work too but eye corrections are much more of a problem, and of course there' is usually the matter of glasses." </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

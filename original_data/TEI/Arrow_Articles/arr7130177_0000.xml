@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7130177_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelor</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Spring 1955</date>
+		        <idno type="SPCID">arr7130177_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1955</date>, News From Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelor</name></author>
+                        <extent>Pages 177-179</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">7</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 71, Number 3 (Spring 1955), Pages 177-179.</note>
+			<note type="document">arr7130177_0000</note>
+                        <note type="Table Of Contents">The Eleventh Summer Craft Workshop</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Summer crafts workshop</item>
+                                <item>Staff</item>
+                                <item>Education</item>
+                                <item>University of Tennessee</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7130177_0001" seq="01" n="176-177  "/>
+       <p>176 THE ARROW OF PI BETA PHI Convention decided that something more should be done, something of real significance, and something embodying the gratitude and reverence of Pi Phis everywhere for those twelve women who gave us so much and whose ideals and principles led to the development of the Fraternity as we know it today. The six alumnie clubs to be represented on the Centennial Committee by their representatives were chosen at Convention, and the resulting appointments were printed in the Winter ARROW. In case you missed it, we repeat it here. Chairman Mrs. T. Leonard George, 5708 West Franklin Street, Richmond, Va. Miss Elizabeth Johnson, 5645 Vista Del Monte, Van Nuys, Calif. Mrs. D. D. Jack Adams, 1801 N. Woodward, Oklahoma City, Okla. Mrs. Bertrand Heflin, 101 Brookdale Gardens, Bloomfield, N.J. Mrs. Edwin R. Hodge, Jr., 2100 North 89th Street, Wauwatosa, Wis. Mrs. William Harrison, Box 128, Bowness, Alberta, Canada As the ARROW'S contribution to the project, we give our cherished editorial space to the announcement which has gone out from the committee. The Editor bespeaks the support of Pi Phis everywhere for the work of the committee. We who have been honored with membership in .Pi Beta Phi can by our support make this response so great that in 1967 we shall have a fund so large that a truly great and perpetual memorial may be created. You and only you can make this possible. 44 FROM THE HOLT HOUSE COMMITTEE: The Holt House Committee met in Monmouth October 28 and 29. The new members of the :ommittee, appointed at Convention, are Mrs. Charles Fisher of Cedar Rapids, Iowa, and Mrs. Elizabeth Clark of Joplin, Mo. The change in time of meeting from February to October met with approval of all. February can be a pretty dreary time of year. While the maples, which give Monmouth her name, "The Maple City," had lost part of their glory, the aspect was much better :han bleak February. Under the efficient leadership of Maurine Cook, the committee inspected the house, heard recommendations of the hostess, Mrs. Johnson, and then made the decisions as to work to be done. qrs. Johnson's bedroom has been papered and looks fresh and bright. A bookcase was purchased For the upstairs lounge and is now filled with books by Pi Phi authors. These had reposed in )ores which took up much room in the closet. Another bookcase is an immediate need. In the spring some work must be done in the backyard. Outside painting is becoming a necessity. Holt House has become quite an institution in the life of the town. It is used more and more is a meeting place for clubs and for private parties. . However, this does not mean that income equals outgo. Gifts are most urgently needed and nost welcome. This is a memorial to the twelve founders of Pi Beta Phi and as such is worthy )f your support. 4 NEW KIND OF RUMMAGE SALE From Jean Viney, Albuquerque, comes an interesting story. "Each fall and spring a caravan )f cars and station wagons, loaded to no-visibility from any window, leaves Albuquerque and [rives into the Indian country some 40 miles away. Through one of the alumnae, whose family vas known there years ago, we rent a "fair weather" dance hall for the afternoon. This dance call is centrally located between two pueblos. There has been advance publicity about the Pi Phi -Linarnage Sale, and so, when we all arrive, they are there. Some fathers, many mothers with their )abies supported on their backs with their blankets, some in papoose fashion. The people are .ppreciative and we are dead tired but terribly thankful to be able to bring to these nice people [sable goods at a minimum cost. At first, the Indians bought junk first and necessities later. Now, hey rush for blankets, rugs and children's clothing. Then they look at clothes for themselves." LOUISE CAMPBELL nws FROM LITTLE PIGEON Edited by Louise Wheelock Dobler, Washington Beta THE LAST ARROW announced that Eliza beth Waitt Rue (Mrs. Nelson B., Iowa Gamma) had been chosen the Kentucky Mother of the Year 1954 and in this number the Settlement School Committee is pleased to introduce her as the new Manager of Arrow Craft. Elizabeth Rue was born and reared in Sioux City, Iowa, where she was graduated from High School. She attend Iowa State College at Ames and was initiated into Iowa Gamma. There she married Nelson Bright Rue, a member of Sigma Alpha Epsilon. For seventeen years they lived in Franklin, Tenn., on a three hundred acre farm and apple orchard. Eliza beth operated the farm while her husband Elizabeth Waitt Rue, Iowa r served as Chief of Division of Markets for the State of Tennessee. During World War II she was Chairman of Volunteer Social Services of Williamson County Red Cross and Chairman of the Citizens' Service Corp of Civilian Defense. Since 1946 Mrs. Rue has made her home in Bowling Green, Ky. Wherever she has lived, Elizabeth has given outstanding leadership in many worthy organizations such as the D.A.R., Boy and Girl Scouts, 4H Club, Farm Bureau, P. T. A. and League of Women Voters. In addition she has been loyal to her church workingin the Presbyterian Church locally as well as in the Kentucky Synodical Society of the Presbyterian Church. In 1954 she was elected President of the Bowling Green Council of Church Women. Mrs. Rue has four children, Mary Helen Rue Goodloe, Atlanta, Ga., Wallace Waitt Rue, Knoxville, Tenn., Harrison Bright Rue, Buffalo, N.Y., and Nelson Bright Rue, Jr., Louisville, Ky. The Committee feels Elizabeth Waitt Rue will be a valuable addition _ to the Settlement School staff and to the Gatlinburg community. Alumnae clubs will find her sympathetic to their problems and eager to assist in making Arrow Craft sales a success. Have you always planned to take a trip abroad? Perhaps this is the year to go because for the first time you can avail yourself of the Foreign Study Tour sponsored jointly by University of Tennessee and Pi Beta Phi as a Summer Course. It is possible to earn six hours credit. WHO? People of college age and corresponding educational status. Limited to 30 per-sons. WHEN? July 20-August 27, 1955. WHERE ? Norway, Sweden, Denmark, Finland, France and England. WHAT ? See eminent craftsmen at work; study their materials and designs. Visit craft schools and organizations, museums and homes. See valuable old crafts and historic scenes. At-tend the International Exhibit at Helsingborg, Sweden, of housing, architecture, industrial design, house furnishings and crafts. Strictly for pleasure visit London and Paris HOW? Travel by Pan American airways, b) bus, by train and ferry. HOW MUCH ? The price of the tour is just under $1300 which covers transportatior from New York and return, reservations it good hotels and three meals per day. Thi: also includes the University registration fee WHY? For many years Pi Beta Phi, through it; Arts and Craft program at the Settlemen School, has been committed to the revival 177 </p>
+      <pb ref="arr7130177_0002" seq="02" n="178-179  "/>
+       <p>THE ARROW OF PI BETA PHI servation and encouragement of crafts. Foreign Study Tour is just another way give impetus to crafts and for many to an appreciation of the skills of the tsmen abroad as well as to benefit from broadening influence of foreign travel. RUCTOR ? An important feature of the r is the fact that Marian Heard, Professor Craft Design of UT, Director of Pi Beta -University of Tennessee Craft Workshop, 1954 Pi Beta Phi Convention Initiate [ be the instructor who will travel with group. This promises a great deal to those ) know Marian Heard and her ability. NGEMENTS are under the supervision Bennett's Travel Bureau, Inc. of New lc. If interested, write for a folder to Col-of Home Economis, University of Ten-;ee, Knoville, Tennessee. Do not delay, for number of people is limited. -* 4 you be one of the two lucky Pi Phis will serve as a Graduate Assistant at the .ta. Phi-University of Tennessee Craft shop ? The Workshop will be held at ttlement School in Gatlinburg, Tennessee, [tine 13 to July 16. You will receive $125 )om and board plus the privilege of taking one course, tuition free. Applicants should be Art majors. If interested, write to Mrs. Virginia Brackett Green, 2650 Sutherland Avenue, Indianapolis 5, Indiana, Chairman of the Settlement School Committee. The Eleventh Summer Craft Workshop "This pioneer Settlement School (meaning Pi Beta Phi) has been instrumental in making Gatlinburg a major craft center and the leading area for handweaving in the country." This IT ISN'T TOO LATE TO PLAN FOR 1955 SUMMER CRAFT WORKSHOP Pi Beta Phi School and University of Tennessee Division of University Extension FOR CRAFTSMEN FOR AMATEURS Gatlinburg, Tennessee June 13 to July 16, 1955 12: $75.00 for full session $37.50 for the half session Materials extra $90.00 for full session $45.00 for the half session $12.00 to $18.00 for the half session; $24.00 to $36.00 for full session $12.00 to $22.00 for the half session; $24.00 to $44.00 for full session ,s offered: Enameling Weaving Jewelry Design Metal Work Pottery Recreational Crafts THE ARROW OF P1 BETA PHI 179 statement appeared in the Gatlinburg PRESS last spring. Through the Craft Workshop, jointly sponsored by Pi Beta Phi and the University of Tennessee for eleven years, interest and skill in the crafts have been fostered. An excellent faculty will instruct those interested in learning crafts under outstanding craftsmen whether it be for fun, profit or college credit. We are happy to announce that Mr. Kenneth F. Bates, an international authority and teacher of the art of enameling, will be back this summer. Mr. Bates is with the Cleveland Institute of Art and author of the only complete work on the subject of Enameling since 1902. He is a colorful personality and an inspiring teacher. Miss Winogene Redding, for many years the Designer and Supervisor of Weaving for Arrow Craft, is to be Weaving Instrucor. She is Master Craftsman and the designer of Reddigraphs which are original designs for handloom weavers. It is a double pleasure to welcome Miss Redding back to Settlement School. Miss Jane Glass, a producing craftsman, and Miss Helen Worrall will again be on the faculty. Miss Sara Young of Eagle Bend Pottery, willteach pottery. Miss Marian Heard will head the Workshop and teach Advanced Jewelry. The Craft Workshop will be in two half-sessions from June 13 to July 16. A full session provides opportunities to visit craftsmen and centers in the area. Interesting, talented people, outings, and the beauties of the Smoky Mountains combine to give a delightful, profitable vacation. For a folder and more details, write to Craft Workshop, Pi Beta Phi School, Gatlinburg, Tennessee. Last year Sevier County raised 6% of the funds for school operation in the County and the State contributed 94%. The proposed change in the allocation of funds for education to the various Counties will necessitate a curtailment of the program in the Sevier County schools or the raising of more money locally. The problem of dividing the funds will fall to the next legislature. The enrollment has increased which means more teachers are required. Is there any doubt that the Pi Beta Phi teachers are needed? Weaving Class at Summer Craft Workshop </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

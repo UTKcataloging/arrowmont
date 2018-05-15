@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr4830475_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Frost, Mary Cooper</name></author>
+                        <author><name>Krieg, Shirley Kreasan</name></author>
+                        <author><name>Stark, Nita Hill</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>February 1932</date>
+		        <idno type="SPCID">arr4830475_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">February 1932</date>, News from Little Pigeon</title>
+                        <author><name>Frost, Mary Cooper</name></author>
+                        <author><name>Krieg, Shirley Kreasan</name></author>
+                        <author><name>Stark, Nita Hill</name></author>
+                        <extent>Pages 474-476</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">38</note>
+                        <note type="Folder">8</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 48, Number 3 (February 1932), Pages 474-476.</note>
+			<note type="document">arr4830475_0000</note>
+                        <note type="Table Of Contents">Gatlinburg as Seen by Another Greek; Christmas, 1931, at the School; Hand Loom and Fly Shuttle Weaving; Blanche Huff Pledge by Iowa Gamma</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Holidays</item>
+                                <item>Weaving</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr4830475_0001" seq="01" n="474-475  "/>
+       <p>~1~~~~~~~1~ Av,E3,vPMR., ,P,,vXAv,ElsWigilOMPt iC4'.910-i21C491COIC491C,49it4'91C.491.i O 1)kl "11 ORWWW CM edited by Mary Cooper Frost Gatlinburg as Seen by Another Greek By SHIRLEY KREASAN KRIEG Grand Editor Historian of Zeta Tau Alpha The editor of "News from Little Pigeon" shes to express sincere appreciation of Mrs. -leg's kindness in writing the above article ring the busy holiday season when this is-4' Of THE ARROW went to press. IT WAS late on a brisk ovember day when I made my first sit to the Pi Beta Phi Settlement :hool at Gatlinburg, Tennessee. Since le privilege of editing a woman's aternity magazine is receiving the Lblications of other fraternities, the Lme of the little stream we crossed ought to ,mind the "News from Lit Pigeon" section in THE ARROW rough which, as well as by attend-Lce at the open meeting of the 1923 ites Park Convention, I had become :quainted with II B 43's splendid piece philanthropy. This visit had an added significance, .ough, for I had just come from T A's Health Center in Virginia, here I had explored the mountain ails with our nurse, visited many )mes, learned conditions, and grasped e extent of the vast work ahead. amparing those conditions with the sibly improved community which I )w saw in Gatlinburg, I realized the calculable good that had been ac-Implished there. Since I arrived too late for school, had to content myself with the Ar row Craft Shop, but certainly that was no hardship. Indeed, it was a temptation from a financial standpoint, and I could have spent hours browsing there. It took only a brief examination for me to realize the interesting contribution which the handicrafts, with their lovely native and Early American motifs, are making to the art of the country. Then, too, the products showed that the people could make almost anything in their field of work. But what of the days when the Pi Phi school was not there, when health problems went uncared for, and when handicrafts were carried on by just a handful of old-timers who worked only now and then? The labor and time required to teach and revive the skilled art of native craft work, to perfect it, to create a market for it, and to bring it to the point where it now furnishes a living to scores of people in the district, can be computed only by the II B clls pioneers in the work. Certainly II B cl) has given to this community a much needed major industry. The mountain people lacked nothing so badly as a knowledge of how to help themselves; and in helping them to this knowledge the fraternity has shown true philanthropy. The February ARROW Christmas, 1931, at the School By NITA HILL STARK FROM the days when I served on the Settlement School Committee, I have heard of what the alumni clubs do for the Christmas celebration, and this year I was in Gatlin-burg and saw. There were gifts for the little children, and three or four FROM HILLS LIKE THESE CAME THE CHRISTMAS DECORATIONS.* boxes that came the last minute made possible presents not only for the high school pupils but for the Sugarlands children too, who received them this year for the first time. The alumnm give toys and money, and Mr. Farley of Chicago has given two hundred and fifty pounds of candy for several years. The decorations were as lovely as the mountains from which they came. The natural arrangement of the holly and dogwood berries, o f the mistletoe and galax leaves showed the students how to use what the Lord has given them. The high school boys and girls sang mountain ballads and Christmas carols. They put their whole soul into their singing, voicing the enthusiasm of primitive singers. Their harmony was perfect, and I felt as I listened the thrill that comes from being near simple, unspoiled people. The children in the first six grades gave a cantata, each participant representing a character doll. All the costumes for these were made at very little cost by the older girls of the domestic science class. The changes that time and Pi Phi A BIT OF THE NATIONAL PARK HIGHWAY SYSTEM.* have wrought in mountain conditions were brought forcibly to my mind * Glossy prints of these cuts, seven by nine and one-half, may be obtained for fifty cents each at the Arrow Craft Shop for any publicity that a chapter or club may wish. The pictures of Aunt Lizzie and Harrison McCarter printed elsewhere in this section are in the same set. Others will be published later. </p>
+      <pb ref="arr4830475_0002" seq="02" n="476-477  "/>
+       <p>476 . The February ARROW when I drove over the beautiful new highway, part of the National Park system. However, when I crept warily across a shaky, one-log suspension bridge over the swollen Little Pigeon River and . scaled the ice-covered boulders in the half-mile walk from the highway to the Sugarlands School, I realized that our teachers still need pluck and perseverance. Hand Loo and Fly Shuttle Weaving LA 'MLLE ALLEN T HERE are three distinct types of weaving: hand loom, fly shuttle, and power loom, each differing as much as paintings, tinted photographs, and their printed reproductions. There is no basis for comparison of hand loom and fly shuttle weaving, al-though they are often confused. Hand weaving is one of the oldest handicrafts, although methods used today differ somewhat from those of antiquity. Hand looms used by Gatlin-burg women are ordinarily made of native pine or oak by some member of the family. In handweaving it is the skill of the weaver and the beauty of the design that make each article an expression of art into which the weaver has injected her very own personality. Materials and pattern are supplied by Arrow Craft, but the actual weaving is done by the women. Standardization in weaving tends to give an inferior product. Hand weaving has to be done by the individual artist; there can be no mass production. Fly shuttle weaving is semi-mechan-ical. It is done on a hand loom with a mechanical device to throw the shuttle and regulate the beat. It is an interesting process which enables one to weave ten times as rapidly as on a hand loom. Mass production plays a large part in fly shuttle weaving and should tend to lower prices which are now so nearly equal to those for hand woven goods that people who do not know are liable to confuse the two different products. There is a perfection in fly shuttle weaving which one cannot duplicate in hand weaving. Yet who wants the tinted photograph if he can have the lovely painting? There is a lack of feeling in fly shuttle weaving, that indefinable something called art, which can be produced only by the real artist ana craftsman. There is a difference in the two kinds of weaving which one with an appreciation of art and a discriminating taste recognizes. Hand weaving is one of the highest types of handicrafts, in which art plays an important part, and as such one would expect to pay for it. Blanche of Pledged by Iowa Gamma SINCE its first days the Settlement School has had no more loyal friends than Mr. and Mrs. Andy Huff of Gatlinburg. In the November AR ROW, Iowa r announced the pledging of their daughter, Blanche Huff. Blanche's sister Mattie went to Ames last year and became a Pi Phi. The February ARROW Los Angeles Alumnae Club Stages . .Star" Meeting 47: MOVIE stars in person, and one of them a Pi Beta Phi featured the November meeting of the Los Angeles Alumnae Club. The "star" honor guests were: Marion Lessing, Illinois Z, who starred with George O'Brien in "The Seas Beneath," and in the German version of "The Big Trail"; Marguerite Churchill, star in "Riders of the Purple Sage" and also "The Big Trail" which was written by Hal G. Evarts, husband of Sylvia Evarts, Kansas A; Marion Schilling, woman star of "Young Donovan's Kid" with Richard Dix; Anita Louise, 1931 Wampas Baby Star, who has played in "Millie" with Helen Twelvetrees; Eula Guy, character actress in "Over the Hill" and "The Strange Interlude." The program included: "Women Producers and Directors," by Lucille Webster Gleason, producer-directoractor-manager ; "Choosing of the Extras in Each Picture," by Marion Mel(one task which she recently did wa to find two hundred colored boys be tween 48 and 52 inches tall to be use( in the filming of "Tarzan.") ; "Re search for Accurate Historical am Geographical Details," by Harrie Morris; "Choosing and Designing fa] a Film Cast," by Marian Spinney, low r, of First National Studio; "Scenaric and Title Writing Secrets," by Kather. ine Hilliker; "The Privileges an( Power of the Cutter," by Zella Yourq of Tiffany Studios; "Methods of Filu Publicity," by Eleanor Packer o: MGM Studios; "The Growing Use o: Music in Modern Films," by Helen( Constance Morgan, sister-in-law o: Irene Tolliver Morgan, Kansas B, wh( has written the complete orchestra score for pictures shown here and it Europe; "The Work of a Script Girl,' by Viven Newcom, former script gir and now secretary to Irving Thalberg producer. MARION LESSING, Illinoi Z Still from the German version of "The Bi Motion Picture Star, Playing in Both English Trail," a great hit in Germany and Austria. and German ROles </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

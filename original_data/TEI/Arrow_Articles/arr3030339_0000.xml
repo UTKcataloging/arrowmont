@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3030339_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Our Settlement School Teachers</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>March 1914</date>
+		        <idno type="SPCID">arr3030339_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">March 1914</date>, Our Settlement School Teachers</title>
+
+                        <extent>Pages 338-341</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">35</note>
+                        <note type="Folder">14</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 30, Number 3 (March 1914), Pages 338-341.</note>
+			<note type="document">arr3030339_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Teachers</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3030339_0001" seq="01" n="338-339  "/>
+       <p>338 THE ARROW OF PI BETA PHI OUR SETTLEMENT SCHOOL TEACHERS The value of a school really depends upon its teachers, not upon the buildings or equipment, necessary as they are. The II B i(l) Settlement School is no exception to the rule. The short biographies of Miss Pollard, who is in charge of the school, Miss Bryan, the first assistant, and Miss Stock and Miss Wilson, the volunteer teachers who are devoting three months of their life to the school, can give little but colorless facts. What all of them have meant to the school and to the community can be understood only by those who know them personally, who also know the community, and who have heard the many loving words of appreciation from the mountaineers. But the fraternity at large can gain some appreciation of their work by a careful reading of the monthly bulletins sent out by the chairman of the committee, by the ARROW articles, and by the members themselves entering into active relations with the committee and the teachers by contributions and correspondence. MARY ORENDA POLLARD, who has been in charge of our Settlement School in Gatlinburg since the first of October, is one peculiarly fitted by temperament and train ing to meet the varied demands of her task. Being a zealous II I, a most successful teacher, a true home maker, and a woman of deep religious con viction,. she brings to our work in its formative period the in telligence and sympathy neces sary to lay a strong and sure foundation. Of special value to the development of our Settle ment School is Miss Pollard's splendid college training and her successful teaching experi ence. In 1896 she was gradu ated from the Middlebury Col lege with Phi Beta Kappa MARY O. POLLARD, VERMONT A honors. In 1900 she received Settlement School Principal her M. A. degree from the same institution and since then has continued research work in the University of Nevada, in the University of Chicago, and in North-western* University. For one year she was principal of a graded OUR SETTLEMENT SCHOOL TEACHERS 339 school at Middletown Springs, Vermont, for two years teacher of Latin in the high school at Middlebury, for two years teacher of English at Sherburn, Minnesota, and for five years teacher of English in the high school at Evanston, Illinois. Miss Pollard is a charter member of Vermont A chapter, and for a period of two years was corresponding secretary of the Chicago Alumni Club. Since the founding of her own chapter, she has maintained a deep interest in the development of the best things of our fraternity. In recognition of the high esteem in which she is held by her own chapter sisters, they are planning to raise the money necessary for the complete furnishing of our new building, one of HELEN BRYAN, Ni* YORK B LEAH STOCK, MICHIGAN A Settlement School Assistants EDITH WILSON, INDIANA A her chapter class mates having agreed to double the amount raised by the chapter. This undertaking tells more effectively than words how sincerely she is loved by those who know her best. L. B. L. MARY HELEN BRYAN has spent her years like the bee, winging from flower' to flower, 'instinctively gathering honey for the benefit of others. At last when she went to the II B (I) Settlement School on the Little Pigeon, she found the "others" for whom she had unconsciously been preparing herself. An outline of her life reads like a traveler's itinerary. She was born in Kokomo, Indiana, January 9, 1892. She attended the public schools in Cambridge and Worcester, Massachusetts, in Indianapolis and Franklin, Indiana, and </p>
+      <pb ref="arr3030339_0002" seq="02" n="340-341  "/>
+       <p>340 THE ARROW OF PI BETA PHI in Manila, The Philippine Islands. During her residence in the Islands, she spent a part of every year in China and Japan. On her return from the Orient, she attended Potter College, Bowling Green, Kentucky; Hollins Institute, Roanoke, Virginia; and The Castle, Tarrytown-on-the-Hudson, New York. In 1911, she entered Barnard College, and on December 11, of that year she was initiated into the New York B chapter of II B Her flittings, however, were not' ry.et over. The year 1912 she spent in Europe, six months of that time being devoted to study in Dresden, and the other months to travel. The explanation of her wanderings lies in her father's profession. Dr E B. Bryan, now the president of Colgate University, Hamilton, Ne'' York, is one of those men to whom a call to work .of larger scope is constantly coming. He was called from public school work to Butler College and Indiana University, and then to the presidency of Franklin College. He was in the Philippine Islands as Principal of the Normal School System and Commissioner of Education under app ointment by President Roosevelt. Helen has always been a II B (1. in spirit, she says, having been able to form the Greek letters when she was six years old. Ever since then she has found her friends among Pi Beta Phis. She has been interested in the school ever since she has been in the fraternity. While she was in Europe, she wrote to the committee asking if she could be of any service. Just then there was no need of more teachers or rather there were no funds with which to maintain them. But when she wrote last summer from Asheville, North Carolina, asking if she could help in any way if she came over to Gatlinburg, the committee members then at the cottage felt that she was a veritable gift from the gods. EDITH WILSON was born at Elizabethtown, Indiana. She at-tended high school at Columbus, Indiana, graduating in the spring of 1909. The following year she spent at Western College, Oxford, Ohio. Fortunately for II B she entered Franklin College, in the fall of 1910 and was initiated into Indiana A on November 22 of that year. During her thiee years' course, Edith made many friends not only with her own fraternity sisters, but also with all the college students and with the faculty. For she was an exceptional girl, always standing OUR SETTLEMENT SCHOOL TEACHERS 341 high in her classes, full of fun and yet to be depended upon, active in Y. W. C. A. work, a member of the Scientific Association, on the Senior Class Play Committee, an assistant in the German depart-,rnent, and last but not least a loyal IT (I), ever ready to give her time and thought to the work of the chapter. She was graduated in the spring of 1913, receiving the degree of A.B. with the additional honor of "cum laude" and high honors in her major line, mathematics, thus bringing credit upon her college and fraternity. Now Indiana A is proud to have her as one of the teachers in the Settlement School. \I O. LEAH LOUISE STOCK was born in Hillsdale, Michigan, May, 4, 1892. She received her early education in the private schools of Norfolk, Virginia, until 1903. In 1900 ,she left school to spend several months in Kingston, Jamaica. She was graduated from Hills-dale High School with high honors in 1908. In the fall of the same year she entered Hillsdale College. During her two years at this institution she was prominent and interested in all phases of college life. In 1910, Leah entered Smith College, from which she received the degree of A.B. in 1912. She spent the following year taking courses in English and music at Hillsdale College. Once more' as an active II cf., she proved herself a very efficient leader among the, girls. The summer of 1913 she spent with her mother traveling in Europe. Michigan A feels very proud to have Leah volunteer to teach in the Settlement School. Her keen intellect, thoroughness, and splendid executive ability will enable her to be of valuable service to II B cl) in this work. B. K. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

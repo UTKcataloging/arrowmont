@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr6940311_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Green, Virginia Brackett</name></author>
+                        <author><name>Pollard, Mary O.</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>May 1953</date>
+		        <idno type="SPCID">arr6940311_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">May 1953</date>, News From Little Pigeon</title>
+                        <author><name>Green, Virginia Brackett</name></author>
+                        <author><name>Pollard, Mary O.</name></author>
+                        <extent>Pages 310-313</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">5</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 69, Number 4 (May 1953), Pages 310-313.</note>
+			<note type="document">arr6940311_0000</note>
+                        <note type="Table Of Contents">Gatlinburg Forty Years Ago - by Mary O. Pollard, first teacher at the Settlement School</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Teachers</item>
+                                <item>Summer crafts workshop</item>
+                                <item>Development</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr6940311_0001" seq="01" n="310-311  "/>
+       <p>ewi FROM LITTLE PIGEON Edited by Virginia Brackett Green, Indiana Gamma 311 COMPARATIVELY few Pi Phis realize the extent to which the Fraternity's influence has spread throughout the world. With justifiable pride, members point to the results of the forty years of endeavor at the Settlement School but fail to comprehend that many phases of Pi Beta Phi's activities in Gatlinburg are being copied throughout the world. "That the influence in the field of Craft Education exerted by the Settlement School and the 'Craft Workshop is spreading, is evidenced by the number of foreign visitors we have entertained in the last few years," says Miss Ruth Dyer, Director of the Settlement School. The State Department, the Tennessee Valley Authority, the University of Tennessee, and some-times our own members are responsible for these visits. Some guests come just for a day while others have been allotted more time on their schedules and spend more time with us. We try to show all of them the Arrowcraft Shop and school plant and usually have them as a dormitory guest for a meal with the staff. If there is time, we take them out into the country to visit some of our weavers, the broom man, the woodworking shops and to see the beauties of the Smokies. These guests always bring us pleasure and are enthusiastic about their stay with us. A very interesting German guest was Ruth Zechlin, a writer and exchange teacher in Craft Education on the Kindergarten level. She gave a demonstration in one of the Arts and Crafts classes that simply fascinated the children. We all enjoyed her enthusiasm very much. At Christmas she sent us a copy of one of her books as a gift. The Department of Labor in Washington asked us to entertain Mr. Friedrich Kiss from Vienna and consequently he spent a day with us last September. He was a labor leader at home and was most interested in our weaving program with the rural women. Still another Austrian gentleman, who was concerned with Elementary Education, visited the school with Dr. Little from the University. He attended classes and conferred with the student teachers who were here at the time. Dr. Little brought him to a tea that we were having at the time for both theteachers and student teachers, so he had a glimpse of our social life, too. Some of the most intriguing and entertaining visitors have been Chinese women. We remember with great pleasure, Louise She, Child Welfare Committee, United Service to China, who was an United Nations' Fellow. We wonder what has been her fate for she was to return to China shortly after her visit here at Gatlinburg. Last spring we entertained Dr. Yu-Chen-Liu, an expert on family life, who had a special interest in Crafts that could be taught with little equipmetat in the interior of China. She had been studying at Oregon State College and was a friend of our own Dean Mary Bash. She was a charming person and delighted with our pro-gram. Another person recommended by Dean Bash, was Aida Fabiero from the Philippine Islands. Her main concern was our weaving program. She had beautiful textiles to show us, some of which were woven from native fibers. On her return home, she began work for the government in Craft Education. Another Filipino was Mr. Buillermo Mendoza, superintendent of Industrial Arts and chief of the Crafts-man Section of the Bureau of Public Schools Department in Manila. TVA sent several men to Settlement School, one of whom was from the Pakistan Government and wished to observe the shop. Another was an educator from India. He visited several lower grades and was glad to tell the children about his country; gyp the other was an Etian mostly interested in marketing. In September 1951, we had a Latin American group of fourteen students and teachers of Crafts from 5 South American countries. They were in America under the Department of Inter American Aff airs, traveling with a leader, Miss Bligh Des Brisay. They presented a chapel pro-gram at school and then set up an exhibit of Crafts from their own countries in the Home Economics and Science laboratories. The exhibit was open to the public in the evening and the 'visitors dressed in native costumes to make it a colorful affair. They graciously answered all questions and explained the things in the exhibit to curious spectators. We had a gay time with them at a little party in the Teachers' Cottage </p>
+      <pb ref="arr6940311_0002" seq="02" n="312-313  "/>
+       <p>312 THE ARROW OF PI BETA PHI following the exhibit. Coffee, they were used to, but doughnuts were a novelty. Last summer during Workshop, Mr. Edward Chanell-Ross, an expert in economics who had been sent to the United States by the British government, spent a day at the Settlement School. His particular interest was in the economic aid that our weaving project has provided to the people of the area and in small industries. He was a most charming guest. One of our alums asked me to entertain another Britisher. She was Flight Officer G. E. Campion of the Woman's Royal Air Force. She gave a good talk to the fifth grade children and answered their questions about England. Some of our own teachers and Workshopstudents are representing the Craft movement abroad. Fay Van Roekel, who was our Arts and Crafts teacher and also a Graduate Assistant at Workshop, is now teaching the subject in Heidelberg in the High School, an American School for Army personnel. Helen Roby, another Workshop person, is at present studying weaving in Denmark after having done some work in Scotland. Hannah Norwood, a member of New York Delta and a former Workshop student, had a year's study in Sweden between her graduation from preparatory school and college. From our center at Gatlinburg, the circle of the Pi Beta Phi influence is indeed expanding," concludes Miss Dyer. Gatlinburg Forty Years Ago by Mary O. Pollard, first teacher at The Settlement School My arrival in Gatlinburg in the fall of 1913 was most inauspicious. It was hot. The letter arranging for someone to meet me had not arrived and I had to find' my own transportation. The letter notifying the previous teacher that I was coming to take her place did not arrive till after I did, and I had to break the unpleasant news myself. What the Burg was like when I first saw it as we rounded the curve by Miss Nancy's house no one who enters now can imagine. Only the Mary O. Pollard old inhabitants know what it looked like the schoolhouse perched on the bluff, the old Methodist church with gaping holes where windows had been, the narrow rough road full of boulders, Squire Maple's store and house, the little old schoolhouse now a part of Arrowcraft Shop, the old "church house" with no foundations and with coarse wire over the windows, the miry road leading to the Huffs, and Squire Ogle's store. Up the lane from the main road was the lone teachers' cottage with the old barn in front of it at the foot of the hill. My heart stood still. I wondered how I could ever make friends, for I had been well primed on what I must not do and what I must not say and what people would think. However I pulled myself together and used my common-sense. I like people, just people, without regard to their age or sex or worldly condition. I had always liked them, and usually they liked me. So why not be myself and forget my warnings ? And that I did. I just lived there, laughed at my countless mistakes, visited, received visitors, proved myself just folks like the people around me, and they tell me that people still there who were there in the early day still speak of me and still like me. I hope they do, for I never had friends whom I more esteemed and admired than those I saw in. Gatlinburg from 1913 to 1916. Some things that stick in my memory: Andy's Martha washing at the spring under the big tree between their house and ours and always ready with a helping hand; the afternoon I was caught in a thunderstorm up Mill Creek and ate supper at Nick Huskey's by the, light of burning pitch pine knots; the slippery foot log where Leah Stock fell off and dipped her THE ARROW OF P1 BETA PHI 313 feet in the icy water of late December ; the gourd like a hen's egg that the boys gave me as a Christmas joke (I darned stockings over that gourd for years) ; calling on Mrs. Ogle to teach me how to .make a nest for a setting hen; the first auto that came to the Burg and I and the entire school rushing to the door to watch it splash through the ford over to Ogle's store; the first Christmas tree in the Burg for which the program was to begin at 10 in the morning, and how everybody was there at eight and the whole program over by ten; the roast rabbit Martha Ogle brought me for my Christmas dinner, and did for me the accumulated dishes of a week the most appreciated Christmas present I ever received, visits to Aunt Lyddy Whaley and the morning she brought me a basket as a gift and seated herself on the floor to watch the teachers dress ; how cold we were the first winter with no foundation under the cottage and wind whistling up through the floor cracks and only green wood to burn in the fire-place; the big box of bulbs that came from Washington which I gave away to anyone who would take them and I suppose are the precursers of the spring flowers that visitors tell me bright-en the Burg yards in March and April. Then there is the crowded schoolhouse after the school on the hill closed in the fall, over a hundred pupils and three teachers in the little room some 25 by 30 feet, and Helen Bryan with the primary children in the old Ogle store which in spite of scrubbing still reeked with stale tobacco juice; Mattie Ogle counting 32' kinds of flowers on her trip for the cows in the Turkey Nest the day after I had pulled a flower apartand told her how flowers differed and were classified; taking my Tomato Club girls to Maryville College and introducing them to their first train ride, and first electric light, toilet and bathtubs ; the trip to the lumber camp up beyond Elkmont with Gertrude and Beulah Bohanon and coming back on a log train ; prayer meetings at the Fork of the River, the all-night trip to Alum Cave, the sings including an Old Harp singing at Pigeon Forge, and the spellings. The first baseball team is still vivid in my mind, with the homemade suits of cambric, black and trimmed with white, for which I carried a needle and thread to sew up embarrassing tears in the flimsy cloth during games, and how early in my time there the boys packed up their dolls and went home when they started to be beaten. It didn't take long to develop the spirit of good sportsmanship. But the funniest time was when we had a party for a group of boys, and they so long outstayed their welcome that I at last sent them home. They "stayed not on the order of their going," and we learned next day from one of the sisters that they had consulted an etiquette book before coming and it said that the person who called the meeting should dismiss it. They had been as eager to go as we had been to have them go. When one day from the cottage porch we saw Arlena and Cora turn up some chunks in the woodpile, seat themselves and drum away on their improvised pianos and sing "Tipperary" at the top of their lungs, we knew we had accomplished one of our purposes we had taught the children how to play. Do you wonder that I loved it? The Staff of instructors for the 1953 summer Craft Workshop is headed by Marian G. Heard, Director of the Workshop. She is professor of craft design at the University of Tennessee, and one of the country's outstanding teachers of jewelry making, as well as a capable administrator. Kenneth F. Bates, instructor at Cleveland Institute of Arts, will join the Workshop staff for the first time this summer as a teacher of enameling. Mr. Bates is an authority in this field, and author of the book "Enameling Principles and Practice." Wanda B. Nelles will teach both beginning and advanced weaving, as well as rug weaving. She is a talented artist-craftsman who was formerly head of the Department of Textiles at Ontario College of Art in Canada. Jane Glass will return to teach beginning and advanced courses in metal work, in her usual competent way. Miss Glass is assistant professor of arts and crafts at Radford College in Virginia, and received her master's degree from Columbia University. Meda Johnston, assistant professor of art at Mid-Western University in Texas, will serve her second year on the Workshop staff, bringing her unusual flair for color and design to courses in weaving and textile design. Barbara McDonald will have charge of the pottery classes this year. She is a fine artist-craftsman from Gatlinburg, and with her husband owns and produces imaginative pieces for McDonald Ceramics, Ruth Brotten, dietitian from Michigan State College, will preside over the kitchen, a job she did so well last summer at the Workshop. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

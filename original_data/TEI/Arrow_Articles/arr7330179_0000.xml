@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr7330179_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelock</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Spring 1957</date>
+		        <idno type="SPCID">arr7330179_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1957</date>, News From Little Pigeon</title>
+                        <author><name>Dobler, Louise Wheelock</name></author>
+                        <extent>Pages 178-179</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">40</note>
+                        <note type="Folder">9</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 73, Number 3 (Spring 1957), Pages 178-179.</note>
+			<note type="document">arr7330179_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Healthcare</item>
+                                <item>Nurses</item>
+                                <item>Staff</item>
+                                <item>Community outreach</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr7330179_0001" seq="01" n="178-179  "/>
+       <p>ew6 FROM LITTLE PIGEON Edited by Louise Wheelock Dobler, Washington B ONCE AGAIN Pi Phis have proved the old saying, "When you know you care, and when are you share." happened at Pasadena last summer just after inia Green, Chairman of the Settlement School nittee, had given her report on the school and ioned among other needs, that of a new sterilo replace the worn-out one in our Health Center atlinburg. The convention hostesses decided a sterilizer could be an immediate reality, and lost no time installing a wooden bucket "Wish-Veil" in the entrance to the Huntington Dining n. The idea "caught on," and in no time the s, quarters and dollars had grown to $102.53 1 bit short of the $106 needed. The difference found in the Health Center special gift fund, the sterilizer was delivered in August to the delight and gratification of Marjorie Chalmers, curse in Gatlinburg, who celebrated twenty-one of service on December 1. 'Chat a difference this new equipment makes, how much I appreciate it," said Marjorie. n I first took over the duties of the Health in 1935, the sterilizer was a sort of doubler a long narrow vessel with perforated botset on a base partly filled with water. The con-ace was heated on an oil stove, and sterilizing low and odorous. Within two years an electric izer was purchased, and the stove used only he steam pressure cooker which sterilized gauze ages. ,fter about 15 years, the automatic controls of nstrument sterilizer began to give trouble, and s re-wired and overhauled several times. Finally :ontrols were by-passed and it was turned on )ff by detaching the cord from the outlet. That ed fairly well until the safety control became am that the only way to keep it from popping was to brace the knob with an iron bar and carefully for the proper timing! Lt last the insulation on the bottom wore so thin :he heat went through the heavy pad underneath liscolored the counter top. Then it was agreed the time had come to replace this worn-out )ment, for there is a sizeable amount of steri-Y. to do when inoculations are given at the )f two to three thousand a year. was delighted to hear Virginia Green's report ie success of the `wishing well' at convention, [ lost no time in getting to Knoxville so that I [ `retire' the white enameled sauce pan to which I had had to resort the last two weeks not an efficient way to sterilize, but necessary under the circumstances. "It seemed wise to buy a unit that would be wide enough to hold the needle rack used in clinics. Each rack holds 28 needles, and two of them may be carried in a covered butter dish which fits into the inoculation bag which was purchased last year. The youngsters, by the way, are intensely interested in the racks and dispensers that make up the kit, and they watch closely as things are set up on teacher's desk. In group inoculations, even more than in single ones, the more fun and enthusiasm we can engender, the easier it is for everyone. "Believe me, life is easier and less complicated with the beautiful new sterilizer in our "shooting gallery." Frustration doesn't induce efficiency and there is never enough time to do all the necessary tasks, even with the best of equipment. My sincere thanks to all the Pi Phis who have given to make my work here more effective. Each day that I use the sterilizer, and that is every day, I shall be re Arlie Watson (right) maintenance head for Pi Phi property in Gatlinburg, pictured with his wife, Josie, and their eldest son, Neal, who assists his father in "chores" around the grounds and buildings. 178 THE ARROW OF PI BETA PHI minded of your generosity, and with its use I shall be able to serve, more capably, the people of our community." Added to Marjorie's thanks are those of the entire Settlement School Committee, who, though realizing the handicap of such make-shift equipment, could hardly justify any extra expenditure in the face of the big drain on the budget this year to pay for the mandated sewer which the town voted. Aside from buying and having pipes installed to serve all our buildings: Staff House, Arrowcraft Shop, Health Center, Teachers', Pollard, Stuart, and Arlie's cottage, we must manage our share of the general expense by paying the "sewer tax" an assessment on the amount of water we use each month in each of those places and the more water we use, the higher our tax rate! Having pioneered health education in the area, we are delighted with the protection that an effective sewer can bring, but paying for it means we must urge all our clubs and chapters to give this well-known philanthropy every possible support. No one in "our" part of the Smokies is more cognizant of, nor more grateful to, the Pi Phi nurse and her work than Neal Watson, eldest son of Josie and Arlie Watson. Neal assists his father as our maintenance man, and says he knows he'd be a cripple today if it weren't for "Miss Phyllis." It was during the time that Phyllis Higgenbothamwas pioneering our health service in Gatlin that a playful prank between two brothers ne wood stove upset a pot of boiling water and sca four-and-one-half-year-old Neal on both legs i his hips down. Miss Phyllis visited Neal every for twenty-one days, caring for his wounds and ' was more important, she forced him to straig his legs every day so that the ligaments and mu would not shorten. "And," says Neal, "My and Dad wouldn't do that to me, 'cause I'd c but Miss Phyllis knew I HAD to, or be a crii I sure am grateful to the Pi Phis for what they done for me and my family." The Watson family is indeed a "Pi Phi" far for Josie McCarter and Arlie Watson both after our school and have always lived in the Gatlin] area. Their family consists of one daughter three sons. Lois, the daughter, worked in the Ar. craft Shop under Ethel Snow, and Josie wil remembered by those who attended the Swamp, convention, as the one who demonstrated wea. on the loom which was set up in the hotel. When Arlie first went to work for Pi Ph 1929, his salary was $50 a month. That was cu during the depression, but Arlie says he saved r then than anyone who makes $200 now can His brown eyes twinkle and his face is wreathe smiles as he says, "I reckon this is the suitest I a body could live." In November the Fraternity Lodge of A E at Oxford, Miss., burned and the insurance appraisers called it a complete loss. The Fire Marshal has established that the blaze started in the early morning hours when a smoldering log fell out of the" fireplace onto the floor. Each time we hear of a fraternity chapter fire, the following questions seem to arise how soon can fraternities reach a stage when fireproof buildings will replace all of,the fraternity structures which are now subject to the danger of fire? How can historical materials possessed by chapters be displayed and retained in such a manner that the chapter members may actually live with these mementoes of the past, and at the same time, protect them from thedangers of theft, fire, and other loss ? From Interfraternity Research and Advi Council, December 8. Lewis and Clark College at Portland, Ore., four local fraternities and four local sororitie considering the admisson of natonal organzatior the campus. The institution and the local fratere are contacting national organizations with regal the possibility of chartering of national group; this campus. It is clearly stated by the authorit Lewis and Clark that only nationals without s tivity constitutional clauses will be considered Same source as above. 44</p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

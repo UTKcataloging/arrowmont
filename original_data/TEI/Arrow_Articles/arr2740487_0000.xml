@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr2740487_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Report of the Alumnae Settlement Sub-Committee</title>
+                        <author><name>Harris, Mary</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>July 1911</date>
+		        <idno type="SPCID">arr2740487_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">July 1911</date>, Report of the Alumnae Settlement Sub-Committee</title>
+                        <author><name>Harris, Mary</name></author>
+                        <extent>Pages 486-487</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">35</note>
+                        <note type="Folder">7</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 27, Number 4 (July 1911), Pages 486-487.</note>
+			<note type="document">arr2740487_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Planning</item>
+                                <item>Schools</item>
+                                <item>Teachers</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr2740487_0001" seq="01" n="486-487  "/>
+       <p>486 THE ARROW OF PI BETA PHI catalogue while the class grouping will be convenient for alumnae of the chapter and will be very helpful to undergraduates. With girls who left college without a degree much difficulty has been experienced in grouping under the class with which they would have graduated. The co-operation of every Pi Beta Phi is earnestly desired to complete and correct this list. One omission will readily be noticed: no distinction is made between graduates and non-graduates. It did not seem possible to include the degrees this first year but, of course, they must be included another time. The bill for printing will be sent to the new corresponding secretary of each chapter, with 25 extra copies for distribution among patronesses and chapter friends. The editor realizes how difficult in many cases has been the compiling of this material especially at this time of year and wishes to express her appreciation of the courtesy and spirit with which the various girls have responded to her many and at times none too tender epistles ! S. P. W. REPORT OF THE ALUMNZE SETTLEMENT SUB COMMITTEE At the call of the chairman, Emma Harper Turner, the delegated sub-committee of five, representing the national settlement commit-tee met in Philadelphia, May 27, at the home of Anna Pettit. The development of plans was determined by two factors difficult to harmonize: resources and a desire to begin the work this summer. After ten hours of discussion the following plan was unanimously adopted as the practical course open to us at present : To begin the work by co-operating with a public school in a mountain district, where the county will pay for the services of one teacher, to be selected by the II B I committee ; the II B (I) organization, on its part, to send to the same place at its expense another teacher to develop, as the opportunity offers, the proposed industrial work; these two teachers together to be charged with developing the settlement idea their own home as rapidly as seems wise and in the way the situation demands The school term in the mountain sections is very short often from August 1 to January. The locality for work cannot be announced at this date the committee being still in correspondence regarding the matter. It seemed best to consider this year's work as of an inves REPORT OF THE SETTLEMENT COMMITTEE 487 tigating character, as it would be unfortunate to locate permanently in the wrong neighborhood. We hope to find II B s to under-take the work. The money that has been pledged or paid toward the endowment fund will be set aside for that purpose and used as the nucleus of the permanent fund. The contributions of certain clubs were not restricted to the endowment fund. This fact provides a sum which will justify the starting of the work this year, and additions during the year will be collected to maintain it. The work of the committee was immeasurably lightened by the generous hospitality of Mr. and Mrs. Pettit, who converted what would otherwise have been a strenuous and trying committee meeting into a delightful house-party. MARY HARRIS, Reporter for the Committee, MRS. CHARLES BRANSON, JULIA E. ROGERS, ANNA F. T. PETTIT, Sec. EMMA H. TURNER, Ch. Subcommittee. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

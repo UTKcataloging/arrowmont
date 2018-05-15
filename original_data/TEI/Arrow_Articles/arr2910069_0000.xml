@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr2910069_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>How We Earned Money for our Settlement School</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>November 1912</date>
+		        <idno type="SPCID">arr2910069_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">November 1912</date>, How We Earned Money for our Settlement School</title>
+
+                        <extent>Pages 69-70</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">35</note>
+                        <note type="Folder">11</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 29, Number 1 (November 1912), Pages 69-70.</note>
+			<note type="document">arr2910069_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Planning</item>
+                                <item>Funding</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr2910069_0001" seq="01" n="68-69  "/>
+       <p>HOW WE EARNED MONEY FOR OUR SCHOOL 69 HOW WE EARNED MONEY FOR OUR SET TLEMENT SCHOOL AST summer, the various alumnae clubs as well as the active chapters who had participated in the work of raising the first funds for our Settlement School were asked to tell how they had earned their money. The reports showed a similarity of methods in different parts of the country. These reports have been summarized here and it is hoped that the ideas set forth may prove suggestive to other clubs who are anxious to aid in our great undertaking. Details of the various methods may be learned by writing to the corresponding secretaries of the clubs or chapters who employed them. A large proportion of the clubs raised the money by a voluntary subscription or by a tax. Baltimore and Washington added to their fund by self-denial. At least, the giving up of the elaborate joint banquet with which the two clubs in partnership with the active chapters had always celebrated Founders' Day seemed a bit of real self-denial, at first. But all agreed afterwards that the in-formal, inexpensive picnic on the banks of the Potomac was far more enjoyable than a formal function and the Settlement School has an organ bought with the money saved. Perhaps other clubs or chapters may find a like satisfaction in the substitution of simple, in-expensive entertainments for the old elaborate functions. Missouri A and Texas A found a musical was a most attractive and feasible way of earning money. Vermont B engaged a reader and gave a public entertainment, selling tickets all over the city. Massachusetts A had a unique lecture for which the girls sold tickets. Indiana r gave a play and several gave bazaars. The most successful bazaar from a financial standpoint was the one given by Wash</p>
+      <pb ref="arr2910069_0002" seq="02" n="70-71  "/>
+       <p>70 THE ARROW OF PI BETA PHI ington A by which they raised $165. Some of the features of this fair were unique. The Philadelphia alumnle club made more than $86 on a cake and candy sale and several active chapters tried the same plan with great success. The St. Louis alumnae club is the only one reporting a rummage sale but the members declare it is a most successful way of earning money. Although these reports were solicited from both chapters and clubs, it has been a pleasure as well as a surprise to find in how many cases the reports have been duplicated because, "We joined with the active chapter" or, "We asked the alumnae to help us." This is only one of many proofs that our work for the Settlement School is proving a blessing to us as well as to those we seek to serve because it is another bond of interest which is drawing us all closer together. EDITOR. OUR PUBLISHER R. GEORGE BANTA who has published THE ARROW for the past three years, continues his work in the present volume. He takes such a personal interest in his work and is so vitally interested in everything con cerning the Greek world that it is a great pleasure to introduce him to the readers of our maga zine. Mr. Banta was born in Covington, Ky., but moved to Franklin, Ind., when he was a small child and entered the freshman class in Franklin Col lege in 1870. His course there GEORGE BANTA was somewhat broken by illness and he eventually entered Indiana University from which he was graduated in 1875. Two years earlier he had been initiated into his OUR PUBLISHER 71 father's fraternity, 4) A 0, and had become ardently interested in the organization with which he has long been actively identified. His own words best describe his fraternity activity in those years : From the beginning when I was initiated in 1873, I was an ardent fraternity member. The looseness of fraternity organization and method in those dayi gave a boy every chance to distinguish himself and to develop any latent germ of faculty for organization that lay in him, if his tastes ran toward, fraternity activity. So it was not remarkable that in 1878 the fraternity turned a languishing catalogue over to me to complete and publish, and a little later I was given charge of The Scroll. In 1878, too, I attended my first convention and got my first real view of the national side of fraternity organization. Two years later, Walter B. Palmer and I jointly prepared and put through the convention of 188o an entirely new scheme of organization of (I) A e, and I was at that convention elected the first president of the General Council of (I) A '0, holding the position two years. My business absorbed me for the next six years but in 1888, I began to go again to conventions, and to be drafted upon committees and commissions. I was a trustee of the fraternity for a time, and later was for three years president of a large province. During my work in this latter position I began to see the possibilities that lie in Pan-Hellenism. I had conceived the idea of my publishing business and was working out the manifold problems that it gave me. I was constantly meeting the leaders of the Greek world and I found that my preconceived idea of furnishing a service that would take care of their publishing needs was sound; they all in some. degree felt the need of some sort of mutual co-operation that would reach the needs which are common to all. Having been a deeply interested and active fraternity man for forty years it is not singular that I can interest you younger enthusiasts when I meet you. It is perhaps not remarkable that Mr. Banta is inclined toward Pan-Hellenism when his fraternity relationships are considered. Mrs. Banta is a (I) M, his daughter is a A F, his sister a K A 0, and his brother, now deceased, was a 1 A 0, as was his father. His two sons are also A 0's. His two nieces are A F's. His sister-in law is a K A 0, and his brother-in-law a 1 K *. His daughter-in-law is an A cD and her brother a A E. His personal business staff is his son George Banta, Jr., 41) A 0, John A. Ayres, A E, and Arthur C. Johnson, whose law school supported no fraternities. His chief of the proof reading department is Ruth Wakeman, (I) M. For more than twenty-six years, Mr. Banta was State Agent for Wisconsin of the Phenix Insurance Co. of Brooklyn, N. Y. and is now </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr4520041_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Miss Evelyn of Gatlinburg</title>
+                        <author><name>Spring, Agnes Wright</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>November 1928</date>
+		        <idno type="SPCID">arr4520041_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">November 1928</date>, Miss Evelyn of Gatlinburg</title>
+                        <author><name>Spring, Agnes Wright</name></author>
+                        <extent>Pages 41-42</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">38</note>
+                        <note type="Folder">1</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 45, Number 1a (November 1928), Pages 41-42.</note>
+			<note type="document">arr4520041_0000</note>
+
+                        <note type="Additional Information">This issue and three subsequent issues are numbered inconsistently. </note>
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Teachers</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr4520041_0001" seq="01" n="40-41  "/>
+       <p>THE ARROW OF PI BETA PHI ynn, has made a deep study of man' Lincoln and his period, th the result that he was responde for the play's long run in New )rk and other cities from 1919 to 23. His physical resemblance d superior dramatic ability has tde the role a living one to the ople of United States. The sec d time he had played with ama-Irs, it was a real experience to ve him at the Knox Theater )rking with the student cast. The :al chapter is very proud of Petty mnett, Des Plaines, Illinois, and member of Illinois Delta, who 'is called back to play the part of rs. Lincoln. After four years outstanding dramatic success e graduated last June and rerned for this performance to ke the outstanding role under re-1rkable circumstances. Another Phi member, Alice Stevens, was selected for the cast which was chosen from the entire student body plus some outstanding alumni members. To insure the success of the play in every particular, other graduates of last year or a few years before were secured to lend their dramatic ability to the production of this piece. Needless to say, the presentations were successes from every standpoint. It is easy to comprehend the value the students of the college received from such an event. As partial hosts to the small army of people who poured into Galesburg, the girls of Illinois Delta came in direct contact with famous men, the spirit of patriotism re-lived, and the real story of an event which had an influence on the history of our country that is too powerful to ascertain. ALICE GRIFFITH Students Reject Student Government Student Government at the University of Wisconsin is no more. The faculty has accepted the self-deposed student senate's recommendation that its charter be considered defunct, and thereby .has seconded the opinion of student leaders that there is no reason for maintaining an unimportant and unnecessary institution. Since 1916 the Men's Student Senate has been the highest council in student affairs. In October, the members voted to disband, after deciding that their actual powers were few and of little import. Self-government will be administered by five administrative boards. Centralization will be had by the union of the chairmen of these five bodies in the super-vision of student elections. Otherwise, there will be no central board of contra New Student "MISS EVELYN" OF GATLINBURG ~;7~C~iss Evelyn" of CJatlinburg PICTURE, IF YOU WILL, a slender bright-eyed, smiling young woman who is roused from her bed at daybreak by men and .women bringing baskets for sale, and who greets these people with a happy, "Howdy" and takes in their wares. "MISS EVELYN" See her as she plays the organ each Sunday in the little mountain church-house where men, women and children have gathered to worship and to listen to her Sunday school lessons. You will sit spell-bound in the shadows and listen as she sings the mountain ballads with the same accent and feeling as those mountain folk who learned them from great-grandfathers. Watch this young woman as she goes along the mountain trails stopping to chat with the mountaineers who are eager for wor on the new school building. You will marvel how this mode woman in her quiet yet alert wa has, through the past eleven year supervised organization of classe the running of looms, the ou lining of farm work, the emplo: meat of teachers, the building ( new improvements, or the purcha ing of supplies. It is she who can send a thri through a huge Pi Phi Convey tion by telling of Little Pigec and it is she who can go to ti, humblest cabin of Roaring For and help carry a little fellow wit a broken leg down treacheror trails through darkness and ra, to the safety of the little Jelin Nichol Hospital. No task is tc great or to small for her mir and hands. There is only one Miss Evelyn-Miss Evelyn Bishop, of New Yol Alpha, formerly head resident ar now director of the Settleme School at Gatlinburg, Tennessee. Through her keen understandir of human nature, Miss Evel: readily won her way into the hear of the mountain folk and she h always held their confidence. Th turn to her for advice and comfo for help and encouragement. In 1917 Miss Evelyn became he resident of the school and enter at once into the community wor cheering mothers whose sons we fighting in France, helping to nu' those who were sick with influent assisting in arranging exhibits f the county fair, making improl ments in the living conditions </p>
+      <pb ref="arr4520041_0002" seq="02" n="42-43  "/>
+       <p>42 THE ARROW OF PI BETA PHI the school, and in every way bringing new ideas and inspiration into the life at Gatlinburg. At her right hand is Aunt Lizzie Reagan, the dear mountain woman, who has mothered the teachers and pupils and who has been a decided factor in bringing the mountain people and the school together. For eleven years Miss Evelyn has directed this great altruistic work of Pi Beta Phi. Under her guidance the Jennie Nichol Hospital became a reality; the Gatlin-burg News became an established institution; dormitories have been created; new departments have been added to the school; the standard of work in all handicrafts has been greatly raised; extension work has been organized and be-come a wonderful success at Sugar-lands; the children have been taught to play and to develop as all splendid Americans should, scientific farming has become established; and the lovely hew Ad-ministration Building has become a reality. With the ability to work with her staff ; to work with the Settlement School committees, and to cooperate with the mountain people there has been Miss Evelyn's sense of humor a most essential asset. The people who live up and down the creeks and "hollers" that lead into Gatlinburg are living happier, healthier, and more prosperous lives because they have been privileged to have "Miss Evelyn." AGNES WRIGHT SPRING . -.Ea ram.4. .. Chapter Connandment,s* 1. Wear thy pin proudly yet humbly lest it be shamed through thy vanity. 2. Help thy sisters if thou canst, yet beware lest thou take away their own initiative and self-reliance. 3. Advise if it seemeth necessary, yet overdo it not lest thou become a nuisance and an abomination in the sight of thy sisters. 4. Let not thy studies worry and trouble thee all thy college days, yet take care lest thou come to regard them as mere trifles bagatelles unworthy of serious effort. 5. Honand and love thy fraternity yet overdo it not lest by thy blindness thou makest it seem unworthy of thy devotion. For verily, verily, he that sayeth, "My fraternity, right or wrong," has missed the Way and the Light. The Lamp of Delta Zeta </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

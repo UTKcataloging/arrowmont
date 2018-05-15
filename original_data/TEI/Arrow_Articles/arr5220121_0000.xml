@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr5220121_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Arrow Crafters</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>November 1935</date>
+		        <idno type="SPCID">arr5220121_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">November 1935</date>, Arrow Crafters</title>
+
+                        <extent>Pages 120-121</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">38</note>
+                        <note type="Folder">15</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 52, Number 2 (November 1935), Pages 120-121.</note>
+			<note type="document">arr5220121_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Arrowcraft</item>
+                                <item>Weaving</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr5220121_0001" seq="01" n="120-121  "/>
+       <p>Photograph by Dorothy MacLean SHOP EA Y r Christmas Price List f Articles Shown y DE ING from OW C AFT SHOP Gatlinburg, Tennessee I '',;. A C AFT 1. Cowl scarf, several types featuring the fall colors, also plain white, $1.25 each. 2. One of the specialties, a necktie to please the men, various color schemes, blue and red, bl gray, red and black, and tan with green or brown in a light weight wool tieable tie, $1.50 each. 3. Smoky Mist, a new scarf in six color combinations, three shades of brown, green or blue; green and tan; black, red and white; black, gray and white. The dimensions are 11 by 50 inclthe price $2.00. 4. A knitting bag big enough for that knitted outfit, $1.50 each. 5. Trellis bath mat with blue, yellow, green, lavender, ros and peach ends, $1.75 each. 6. A gay awning striped pillow at $2.00, orange and green or black and red. 7. Bath rug, white with colored borders, $1.75 each. 8. Old Lady with Churn, a locally made character doll. We always have a limited supply at 5( 9. Buckle and button in cherry or walnut, rectangle or other shapes, $1.00 a set, which inc buckle with six buttons. 10. From the same native cherry and walnut and sold at the same price, attractively carved in th of leaves, acorns or Arrow points. 11. A quaint corn shuck doll at 25c. 12. Harriet towel, a new all-linen guest towel in three blended tones of the following colors, blue, yellow, lavender, rose, apricot, brown, black and white, and all white, $1.25 each; finger-tip si 13. Dixie towel, a very durable linen and cotton towel, white with the new deeper shades in i tern, 90c each ; finger-tip size, 45c. 14. Buckle and graduated buttons in hemlock showing the grain of the wood. Other rustic t black walnut, mountain laurel and rhododendron cut crosswise with the bark on the edge. All a set. 15. Breakfast set, decidedly different, white with blue or red stripes in the doilies and plain red napkins, one center, four doilies and four napkins for $3.90. Complete price list on request. All prices subject to change without notice. Postage extra. P ESENTS </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

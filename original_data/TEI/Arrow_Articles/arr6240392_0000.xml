@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr6240392_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Have You Enrolled for the Summer Workshop at the Pi Beta Phi Settlement School, Gatlinburg, Tennessee June 12 to July 20, 1946?</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>May 1946</date>
+		        <idno type="SPCID">arr6240392_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">May 1946</date>, Have You Enrolled for the Summer Workshop at the Pi Beta Phi Settlement School, Gatlinburg, Tennessee June 12 to July 20, 1946?</title>
+
+                        <extent>Page 392</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">39</note>
+                        <note type="Folder">14</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 62, Number 4 (May 1946), Page 392.</note>
+			<note type="document">arr6240392_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Arrowcraft</item>
+                                <item>Summer craft workshop</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr6240392_0001" seq="01" n="392-393  "/>
+       <p>HAVE YOU EN10OLLE. FOR THE SUMME WORK. SHOP AT THE PI BETA PHI SETTLEMENT . SCHOOL, GATLIN URG, TENNESSEE JUNE 12 TO JULY 20, 1946? DON'T DELAY as accommodations are scarce, and classes may need to be limited to available equipment. COME to the second Workshop offered by Pi Beta Phi and the University of Tennessee. LEARN TO CREATE beautiful handicraft articles. PARTICIPATE in planned recreation, and learn the secret of directing community recreation. HAVE A PROFITABLE AND PLEASANT VACATION in the beautiful Smoky Mountains learning, creating, and playing. . University Credit or non-credit courses. Co-Directors: Elsa Ulbricht, Milwaukee State Teachers College and Founder of Milwaukee Handicraft Project Weaving and Textile Decoration Marion Heard, University of Tennessee Jewelry and Metalcraft Recreational Crafts Other Instructors include: Harriett Gill, Berea, Kentucky Woodcraft and Toymaking Josephine Arnquist Bakke, Iowa State College Community Recreation For further details write Miss Ruth Dyer, Pi Beta Phi Settlement School, Gatlin-burg, Tennessee. (Limited number of room and board scholarships available in return for assistance in Settlement School dining room.) 392 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

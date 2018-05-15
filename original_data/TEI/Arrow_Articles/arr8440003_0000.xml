@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr8440003_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Instead of two and a half weeks, I stayed five-</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>April 1968</date>
+		        <idno type="SPCID">arr8440003_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">April 1968</date>, Instead of two and a half weeks, I stayed five-</title>
+
+                        <extent>Page 3</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">41</note>
+                        <note type="Folder">4</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 84, Number 4 (April 1968), Page 3.</note>
+			<note type="document">arr8440003_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>The Birth of Arrowmont, Gatlinburg, Tennessee, 1965-1979</item>
+                                <item>Arrowcraft</item>
+                                <item>Summer crafts workshop</item>
+                                <item>People</item>
+                                <item>Arts</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr8440003_0001" seq="01" n="2-3  "/>
+       <p>off =it.. 1. History is a daily affair in the making but a tedious task that runs into years in the compiling and telling. This underlines the fraternity gratitude now due Historian Jean Orr Donald-son. The Pi Phi milestone marked by the completion of the centennial year history is a major one. Time's passage has begun to give us many four-generation Pi Phi families but not many who have made such a significant contribution in the realm of fraternity service as that of jean, her mother, Ruth Sundell Orr, her grandmother, Laurabel Woodruff Sundell, and now by her daughter, Judi. Today's Pi Phi history on campus is being made in a changing atmosphere. Nothing marks this more clearly than the new trends in building. This is pointed up in this issue's Operation Brass Tacks article, "Whither College Housing," by Mary Margaret Garrard. We recommend it to all, especially those not familiar with the present direction college housing building and development is taking. During the year I have observed some of these trends first hand. The first observation was at the University of Florida. There one finds what must be considered a current ultimate in a Union building. A brochure says that the Florida Union was twenty years in planning and three in construction and that it cost over 5 million dollars. It is undoubtedly representative. of the type of campus community center that is being built everywhere when funds are avail-able. Its activity center boasts everything from an arts and crafts center' to a billiards room and its services range from a gourmet restaurant with a sweeping view of the campus to a browsing library. I was greatly interested in its third floor student activities center. Modern office space is provided for a wide variety of student organizations from the honor court to student publications, honoraries, and others. Here, the student interested in learning the rudiments of community involvement and civic service has a splendid training field. Later in the spring I had lunch in a handsomely appointed revolving restaurant atop a new women's dorm at the University of South Carolina. The view of Columbia was beautiful but the view of the future was better. For this is an honor dorm. It is an 18-story structure called Captstone. Graduate students and upper class women who have an academic record that meets a criterion set by the administration live there. There are no hours set for their coming and going but there had been no abuse of the privilege when I visited the campus. There are all sorts of implications in these and other new campus construction trends. Each person views and interprets them in the light of his own understanding and expectations. I welcome evidence that there will be more opportunity for today's bright and conscientious youth to prepare for civic service. I also commend the trend toward incentives that stress individual responsibility and encourage that responsible attitude with the gift of trust and the reward of respect. -*-* -* Another builder of Pi Phi in days that have gone before has slipped from our midst. Ruth Barrett Smith died on the eve of Chapter Loyalty day. There seemed symbolism in this for her Pi Phi career was one of true loyalty and long, and capable service. She served as Grand Vice President fifteen years (1931-46) and as Settlement School Committee Chairman five years after that. The measure of respect she commanded lives on in the scholarship that bears her name and the Staff House at Gatlinburg, also named for her. Her daughter, Elizabeth Cu1nabock is a Pi Phi, and her granddaughter Betty Culmbock was initiated into California Zeta this year. D D S 2 Dixie Harris Burrage at 1967 Craft Workshop. "Instead of two and a half weeks, I stayed five.. . In the summer of 1967, Missouri Alpha Dixie Harris Burrage of Martinsville, Virginia, at-tended her first Summer Craft Workshop session. Her comment on the experience is a rare testimonial for the program. She writes: "By attending the 1967 Pi Beta Phi University of Tennessee Craft Workshop at Gatlin-burg, Tennessee, I realized a lifetime ambition, to work in pottery. Although I have neither particular art ability or art education, I caught the unusual enthusiasm of the excellent teachers and students and made some fairly accept-able things. The interest was so keen that many of us worked morning, afternoon and eveningbecause we enjoyed it so much. Instead of two and a half weeks, I stayed for the whole five weeks. My appreciation for craft work and its possibilities for expression grew day by day. But above and beyond these was the friendliness. My husband had died the previous October and I felt purposeless. The group took me in and made me one of them in a very wonderful way. A friendlier group' of people, I have never seen. It was a profitable, enjoyable, very happy experience." For information on the 1968 Craft workshop write: Pi Beta Phi University of Tennessee Summer Craft workshop, Gatlinburg, Tenn. 37738. 3 </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

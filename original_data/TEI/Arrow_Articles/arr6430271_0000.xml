@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr6430271_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Moore, Olivia Smith</name></author>
+                        <author><name>Harris, Jessie</name></author>
+                        <author><name>Heard, Marion</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>March 1948</date>
+		        <idno type="SPCID">arr6430271_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">March 1948</date>, News from Little Pigeon</title>
+                        <author><name>Moore, Olivia Smith</name></author>
+                        <author><name>Harris, Jessie</name></author>
+                        <author><name>Heard, Marion</name></author>
+                        <extent>Pages 270-273</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">39</note>
+                        <note type="Folder">16</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 64, Number 3 (March 1948), Pages 270-273.</note>
+			<note type="document">arr6430271_0000</note>
+                        <note type="Table Of Contents">Summer Workshop of Crafts and Community Recreation on the Little Pigeon in Gatlinburg</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Summer workshop</item>
+                                <item>Community</item>
+                                <item>Education</item>
+                                <item>Recreation</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr6430271_0001" seq="01" n="270-271  "/>
+       <p>marmaeamraaaaemmaaeamaaeearmamaareearmmaemaaaarmararaermammmaaammmaameaaaraaateaaemaeaaemamaeeaememnmmeeaameamamaerrraermaemeaaeameraaaaraaaaatameaaaererraateaaraeummemaeaerammmaemmamaeemuaunan NEWS F OM LITTLE PIGEON ID) Edited by OLIVIA SMITH MOORE, Missouri A Summer Workshop of Crafts and Community Recreation on the Little Pigeon in Gatlinburg By JESSIE HARRIS and MARION HEARD Three summers ago, in 1945, without fan-fare, but with the wise planning and fore-thought that has characterized the activities of Pi Phi on the Little Pigeon at Gatlinburg a new and significant educational project was started. This time it was a venture in higher education in the Arts and Crafts. This summer workshop of Crafts and Community Recreation is being developed through cooperation with the University of Tennessee. Students may secure graduate or undergraduate credit for this work, or they may enroll without credit, just for fun of learning a fascinating hobby. Let us acquaint you with this project which is already making a significant contribution to American culture. The possibilities for the further development of our "Settlement School" in the vacation period, into an outstanding center for the study of Crafts is thrilling. The proving period is over ; The Summer Craft Workshop of Pi Beta Phi is already an achievement. Much credit is due to the pioneering spirit of the Settlement School Committee under the leadership of Mildred Sale as chairman for launching the Summer Workshop so successfully. A glimpse at plans for 1948 will show that the present Settlement School Committee, under the able leader-ship of Ruth Barrett Smith, has accepted the challenge and is already looking for "new worlds to conquer." Every Pi Phi should know the Summer Craft Workshop its program, its staff, its students. We give you here the Workshop of 1947. THE PROGRAM The announcement of the workshop was in itself a work of art that created a stir in educational circles. The design of the cover of the announcement gives the work and play spirit of the Workshop in pictorial style. The drawing was done by "Miss Meta" who was then in charge of the Weavers at Gatlinburg. This will become the trade mark of the Craft Workshop, and will be used again on the announcement for 1948. The program was designed to appeal to rec-reation, as a hobby, interest, or for study. Stu-dents had the opportunity to work with master craftsmen, to visit mountain craftsmen in their homes, to picnic in the awe inspiring beauty of the Smokies, and to associate with interesting people from all over the country. The fields of creative work offered included weaving, jewelry, stencilling, block printing, recreational crafts, leather work, and community recreation. THE STAFF Ruth Dyer, director of Pi Beta Phi Settlement School, was in charge of all administration. She, with the able assistance of Helen Borgstrom performed the miracle of converting the grade school into a dormitory. The University of Tennessee secured the furniture and furnishings for this "dormitory" through surplus war materials available to educational institutions. Miss Marian G. Heard was the educational 270 </p>
+      <pb ref="arr6430271_0002" seq="02" n="272-273  "/>
+       <p>272 THE MARCH ARROW director of the Summer Workshop. This was her second summer with the Pi Beta Phi University of Tennessee Workshop. It would be difficult to imagine a person more admirably suited for this work. She holds the dual positions of the Associate Professor of Craft Design in the College of Home Economics at the University of Tennessee in Knoxville, and Director of the Craft Education Program in the Southern Highlands, an area comprising parts of eight states Alabama, Georgia, North and South Carolina, Kentucky, Tennessee, Virginia and West Virginia. Her academic background includes the B. S. degree in Ceramic Art from Alfred University, Alfred, New York and the M. A. in Fine Arts from Columbia. Miss Heard taught the classes in Jewelry and Metal work and Recreational Crafts. Her personal acquaintance with many of the fine local crafts-men added much to the Workshop. Mrs. Mary Elizabeth Starr Sullivan (Mrs. C. J., Jr.) emerged from her current role of homemaker to teach the two weaving classes, one for beginners and one for advanced students. Mrs. Sullivan holds two degrees from the University of Washington, B. S. in Home Economics and M. A. with a major in Clothing, Textiles and Fine Arts. She has done graduate work at the universities of Oregon and Chicago and at Columbia and she has studied weaving with Marianne Strengell at Cranbrook Academy of Art, with Sigrid Synnergren in Sweden, and with Dorothy Liebes at the Portland Art Museum. She is a member of Washington A of II B (I) and 0 N, and is president of Eugene, Oregon, Alumnae Club. Her husband, Dr. Celestine J. Sullivan, Jr., teaches philosophy at the University of Oregon. Miss Jane Glass was the instructor in Leather and Textile Design. Miss Glass has the B. S. degree from Iowa State College and has done advanced work toward her Master's there. She has a rich background of experience in craft work. She is Assistant Professor of Crafts in the College of Home Economics at the University of Tennessee, and is also Arts and Crafts Specialist in the Agricultural Extension Service, which brings her into contact with many of the craftsmen of the region. Jane Glass served her country as a Wave during the war. Mrs. Josephine Arnquist Bakke has been on the Workshop staff for each of its three summers, serving this past summer as a social di-rector and instructor in Community Recreation. Mrs. Bakke is a graduate of Washington State College and has done graduate work at Columbia. She is . secretary of the Y.W.C.A. at Iowa State College and is a member of K K F. She was formerly state leader of 4H girls in Iowa, and in pre war days took the National 4H team of three girls abroad to start 4H in Europe. She has helped to organize 4H in Canada and Denmark. Her husband is Dr. Arthur L. Bakke, Professor of Plant Physiology at Iowa State College and Collaborator with the United States Department of Agriculture. Jo Bakke and her community recreation students made the arrangements for the various tours to visit local craftsmen. These included several of the Arrowcraft weavers, the broom maker, the Pigeon Forge Pottery, the University of Tennessee, Norris Dam, the John C. Campbell Folk School in North Carolina, the Cherokee Indian School also in North Carolina, Asheville, N.C., with visits to Allanstand Craft Shop, Biltmore Industries. The Spinning Wheel, the Pisgah Forest Pottery ; and the Walker sisters who live in the Smoky Mountain National Park in the manner of a hundred years ago. Mr. Allen H. Eaton of New York was on the staff as a special lecturer for three weeks, so arranged that students attending any part of the Workshop could attend at least a part of his lectures. Mr. Eaton has pioneered in stressing the social values of the arts and no one could come in contact with him without becoming imbued with a fine and growing appreeiation of all manner of things made by human hand and a love of the people who made the things. After Mr. Eaton's first lecture one student expressed the feeling of all when she said, "And now our cup runneth over." Mr. Eaton has been with the Russell Sage Foundation for the past twenty-seven years. Formerly he taught art appreciation in the University of Oregon, which institution has more recently granted him an honorary LL.D. degree. He is the author of three remark-able books Imigrant Gifts to American Life, Handicrafts of the Southern Highlands, and (forthcoming soon) Handicrafts of the New England States. Rounding out the staff was Mary Catherine (Katie) Overholt of Iowa r who assisted with the various classes, kept the studios open in the evenings and arranged attractive exhibits in the library. She has an impressive background for one so young. She graduated in June 1947 from Iowa State College with highest honors in the Applied Art department of the Home Economics Curriculum and is a member of A ^1)A, 0 N, Y 0 and 4 K (I) as well as serving Iowa r of Pi Beta Phi as housemanager, convention delegate, and president. She was crafts counselor at the Girl Scout Camp at Decorah, Wisconsin in the Summer of 1946. Katie is the daughter of Clara Bergh Overholt (Mrs. H. E.) .., THE MARCH ARROW 273 Kansas B and Milwaukee Alumnae Club and the sister of Carolyn Overholt Nelson (Mrs. F. E.) one time president of Kansas B. The dietary staff contributed as much as any others to the success of the Workshop and to the happiness of Staff and students. Under the leadership of Miss Ruth Buckley, head of the department of Foods and Institution Management at the University of Tennessee, four college girls, majors in Institution Management, had entire charge of the preparation and serving of the meals and what good meals they were with many fresh foods from the Settlement School garden and farm. The dietitians were Sara Robnett, Elizabeth Young, Ruby Hat-field from the University of Tennessee, and Shirley Glass from Iowa State College. Helen. Borgstrom, who was serving as secretary to Ruth Dyer at the Settlement School in 1946-47, with her executive ability and enthusiasm contributed much to the planning and the carrying out of the Summer Workshop. Helen also added a touch of romance and glamor for in the fall wedding bells were ringing for Helen. THE STUDENTS The four corners of the United States Washington, California, Maine, and Florida bounded, the area from which student body came. There Were ninety students; six staff members and four dietitians which made a total of one hundred participants. These participants came from the following states: Washington-3, Missouri 6, Tennessee 17, North Carolina-6, Illinois 2, Iowa 4, Florida 3, Virginia-5, Massachusetts 1, Maryland 1, South Carolina 4, Pennsylvania 1, Wisconsin-9, Minnesota 1, Indiana 3, Michigan-1, Texas 8, Oklahoma 1, West Virginia-1, California 1, New York 5, Kansas-1, Maine 1, Kentucky 3, Georgia 2, Arkansas-1, Delaware 1, Louisiana 2, Connecticut-1, Ohio 1, Mississippi 2, and Oregon-1. Our youngest student, fifteen, who is the daughter of a college professor, was allowed to attend with her mother. Both are accomplished weavers. Among the group, there were college students and professors, elementary and high school teachers, some who taught art, others who taught home economics, history, English, and physical education school principals, art supervisors, home demonstration agents, extension specialists, gift shop owners, occupational therapists, girl scout leaders, craftsmen-producers, and hobbyists. The largest number were college graduates and studying for graduatecredit. There were four Pi Phis Anna Marie Hughes, an active member from the University of Oklahoma; Charlotte Goss, an active from a Missouri chapter; Gisela Atkinson, an alumni member from Springfield, Missouri; and Katharine Klingbeil, an alumni member from Racine, Wisconsin, and an Iowa Z. The student exhibitions at the end of each three week session proved that the students had been active in creating with materials. All kept in mind that all work and no play was a bad plan, and many found time to engage in the recreational activities of the area. Last but not least there were many distinguished Pi Beta Phi visitors Miss Onken, Grand Council, and The Settlement School Committee were all on hand to evaluate the Summer Craft Workshop, and to lend their counsel, and guidance in the future development of the Craft Education Program. Their enthusiastic approval of the project has meant much to the development and future plans. Pi Beta Phi expresses grateful appreciation to the University of Tennessee for their cooperation in planning and carrying out the Work-shop. It is a pleasure to divide honors with the University in this fine educational program. A LOOK FORWARD TO 1948 The plans for 1948 are to carry on all the work that has been started. As we go to press we can announce that Marion Heard will again be the Educational Director in 1948, and Ruth Dyer will again be the Administrator planning and carrying on the traditions of Little Pigeon in the Craft Workshop. We feel especially fortunate to announce the expansion of the instructional program in 1948. Miss Ingeborg Longbers, from Sweden, will teach advanced weaving and rug making. Miss Longbers is one of three sisters who founded the internationally famous Saterglantan Weaving School in the Province of Dalecarlia in the heart of Sweden. Miss Longbers is an authority on textiles and in the designing of textile fabrics. She will teach advanced weaving and rug making. Miss Longbers says: "Weaving is something which should make everyone who does it happy and give them a chance to create. It should not be a luxury but something important to make one's home beautiful, and to express one's personal tastes giving personality to hand woven textiles which show simplicity in design but life and beauty in the material." Miss Longber's thoughts express Pi Beta Phi's objective for the Summer Craft Work-shop in Gatlinburg. Long may it prosper! </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

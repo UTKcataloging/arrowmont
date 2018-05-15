@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr4520043_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Blanche G. Reisinger</title>
+
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>November 1928</date>
+		        <idno type="SPCID">arr4520043_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">November 1928</date>, Blanche G. Reisinger</title>
+
+                        <extent>Pages 43-44</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">38</note>
+                        <note type="Folder">1</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 45, Number 1a (November 1928), Pages 43-44.</note>
+			<note type="document">arr4520043_0000</note>
+                        <note type="Table Of Contents">A Sketch of the Settlement School Benefactress Who Founded the Magazine Agency</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Philanthropy</item>
+                                <item>Founders</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr4520043_0001" seq="01" n="42-43  "/>
+       <p>43 BLANCHE G. REISINGER Blanche G. Risinger Maryland Alpha A Sketch of the Settlement School Benefactress Who Founded the Magrazine Agency P 1 PHI ALUMNAI the country over, who come to visit in Baltimore, make, almost in-variably, the same request of their hostesses, "Could you find time while I am here to take me to Miss Reisinger's ?" This, of course, from those who are not alumna of Maryland A, for no matter where they are from they do not need to be taken there; they know the way to that hospitable home at number 6 Northfield Place, and thither they repair soon after their arrival in the city. To all others, Miss Reisinger's work for the Settlement School places her high on the list of Pi Phis. One is especially anxious to know and rarely does any-one miss an opportunity of becoming personally acquainted with her. Many who are not thus privileged ask time and again for a sketch of her life and work, but up to the present date such requests have been consistently refused. Only at the solicitation of a close personal friend has consent for even a very brief article been won. Blanche Genevieve Reisinger, a native Baltimorean, was educated at the Girls' Latin School of Baltimore and at Goucher College, graduating with honor, the president of her class, in 1898. Two of her closest friends in this class were Wanda Hartzhorn, later Mrs. Alexander Petrunkevitch, a distinguished writer, and May Lans-field Kellar, President Emeritus of Pi Beta Phi. From the date of her initiation, which occurred soon after the founding of Maryland A, Blanche was a vital force in the chapter. Her home was always available for every sort of fraternity gathering, and to it the out-of-town students went for week-ends and for holidays as to a second home. They all enjoy re-calling the warm hospitality offered on numberless occasions by Miss Reisinger and her delightful father and mother. The year following graduation was spent doing postgraduate work in English and history at Cornell University. Most of the time since then ill-health has kept her at home, but during the years of suffering her loyalty to the Fraternity has never faltered. For the past fifteen years the Settlement School has been her big interest in life, as witness the fact that all the correspondence and bookkeeping of the magazine agency has been carried on by her personally. In the reports published each year in the secret issues of THE ARROW, readers must have re-marked the steady increase in the earnings from this source. But when. one expresses grateful won-der, Blanche disclaims the credit, insisting that without the co-operation of loyal individuals among the alumnae, the results could not have </p>
+      <pb ref="arr4520043_0002" seq="02" n="44-45  "/>
+       <p>44 THE ARROW OF PI BETA PHI been accomplished. She tells that the earnest support she has received from Miss Kellar and Miss Onken, during their respective terms as Grand President, has helped her wonderfully. And she thinks it Nvorthy of note that in spite of the tremendous pressure of duties attendant upon this office, Miss Onken finds time to send in more subscriptions than any other one person. But best of all in this work for the Settlement School is the fact that its author and maintainingorganizer derives untold pleasure from the service. Association through correspondence with individuals and clubs throughout Pi Phi-dom,' brings to her, in larger measure, perhaps, than to any other member, the deep and broadening influence .of fraternity life. Miss Reisinger's reply to any-one who speaks of the good she has accomplished is always to the same effect,, "The Settlement School has done far more for me than I can ever do for the Settlement School." Too Many Honorary Societies At a recent district convention of Mortar Board it was stated that colleges and universities, particularly in the Middle West, have far too many honorary societies, and that their demands are over-taxing the energies of students. There was a hint of criticism for sorority chapters which allow their members to engage in too many activities, and the wish was expressed that somehow or other, the number of honorary groups could be reduced, in the hope that the value of those left could be in-creased. The thought propounded by the Mortar Board delegate; i worth serious consideration. Many chapters demand that their members take part in a specified number of activities. But there should be a maximum as well as a minimum number in which they may engage. The extra-curricular efforts should be limited when they appear to be interfering with studies or sane habits of living. There is no denying the value of honorary societies in special fields. Many professional organizations supplement class-room work. These should remain and be supported. But the dozens of underclass honoraries, membership in many of which is based on political "pull" or friendship rather than merit, and whose record of achievements fail to justify their existence, should go. Sororities can help themselves in conserving the energies of their members for more useful purposes, by with-drawing from meaningless organizations. The Aglaia of Phi Mu THE NEW "ARROW" The ~ew e%~ rro w FRATERNITY JOURNALISM has, in the past few years made a remarkable advance in its dignity of purpose and degree of professional attainment. This, how-ever, is not surprising when onemust be exponents of the I The Bantas father ar and their organization hal the way in this movemel dignified and worthy f press. Through Banta's G GEORGE BANTA, JR. considers the progress of the fraternity world in general. Hand in hand with the realization by Greek leaders of the place and value of fraternity in college and university life of today has come a like recognition that the publications which represent this fraternity world GEORGE BANTA change, through the influ printing plant which pro hundred and eighteen p and, lastly, by reason of did idealism and fraterna of George Banta, Sr. abundantly carried on in the George Banta Publisl </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

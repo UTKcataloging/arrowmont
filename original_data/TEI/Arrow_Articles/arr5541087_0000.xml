@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr5541087_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>Photographs</title>
+                        <author><name>MacLean, Dorothy J.</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>May 1939</date>
+		        <idno type="SPCID">arr5541087_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">May 1939</date>, Photographs</title>
+                        <author><name>MacLean, Dorothy J.</name></author>
+                        <extent>Page 1087</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">39</note>
+                        <note type="Folder">6</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 55, Number 4 (May 1939), Page 1087.</note>
+			<note type="document">arr5541087_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</item>
+                                <item>Mountains</item>
+                                <item>Churches</item>
+                                <item>Homes</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr5541087_0001" seq="01" n="1086-1087  "/>
+       <p>American Express a Trip to the Fair Without C re ; e Foot loose and Fancy Free Let Us Do the Worrying WHEN YOU reach New York, or San Francisco, wouldn't it be pleasant to have some one to look after the bothersome details, leaving you foot-!oose and fancy-free ? Perhaps you can't afford a personal secretary (the recession got us, too!) ... but you can afford to let us play "secretary" for you. How does this sound for a carefree vacation? . . . Hotel reservation made (you will have a long list of the finest from which to choose, and you will be sure to get accommo dations where you want them) ... transportation by taxi to and from the Fair . . . a free ticket to the Fair handed to you . sight seeing trips arranged and paid for ... and at the end, your hotel bill paid! What could be sweeter? The Cost? Only slightly more than you'd pay for your hotel room alone . . . and just look at the extra things included. The price varies with the hotel you select, and of course with the length of your stay. Ask us for all information, without obligation, of course. Write to: Mrs. Edward L. Middleton, 2511 Orrington Ave., Evanston, Ill. II B I) will receive a commission on every reservation so made. NEW YORK To Pi Phis and families After World's Fair Visit o Enjoy every comfort of today while you inspect the World of Tomorrow! Beekman Tower offers the utmost in club and hotel facilities for World's Fair visitors. You'll be at home here among college and fraternity friends, for Beekman Tower has made your special needs its business ! It's the nearest hotel of distinction to the World's Fair. IN 1939? Benjamin Franklin Inn On Atlantic Ocean Asbury Park, N.J. (48 miles from N.Y.) Carrie E. Stroud, N.Y. Alpha, extends sincere hospitality and reduced rates. Send for illustrated folder. 1086 Top: The Church at the Glades, Great Smoky Mountains National Park, where "roadside clinics" are held by the nurse fror the Pi Beta Phi Settlement School. Center: A mountain home, Great Smoky Mountains National Park. Bottom: Mountain home Great Smoky Mountain National Park. Photography by Dorothy J. MacLean, Gatlinburg, Tennessee. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

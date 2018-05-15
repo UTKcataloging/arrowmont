@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr9310015_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News of Arrowmont the Craft School and Arrocraft the Cottage Industry</title>
+                        <author><name>Lehner, Elanor Bushnell</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Fall 1976</date>
+		        <idno type="SPCID">arr9310015_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1976</date>, News of Arrowmont the Craft School and Arrocraft the Cottage Industry</title>
+                        <author><name>Lehner, Elanor Bushnell</name></author>
+                        <extent>Pages 15-19</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">41</note>
+                        <note type="Folder">13</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 93, Number 1 (Fall 1976), Pages 15-19.</note>
+			<note type="document">arr9310015_0000</note>
+                        <note type="Table Of Contents">Early Crafts Featured in Exhibit; Inside Arrowmont; New Arrowcraft Items Now Available</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>The Birth of Arrowmont, Gatlinburg, Tennessee, 1965-1979</item>
+                                <item>Arrowcraft</item>
+                                <item>Baskets</item>
+                                <item>Coverlets</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr9310015_0001" seq="01" n="14-15  "/>
+       <p>Loyal Service Honored At Mortgage Burning hi'' Betty Burnett Welke and Jane Pulley Bloom burn the Indiana Beta mortgage while members of the Bloomington Alumnae Club look on with pride. On April 21, 1976, alumnae and actives of Indiana Beta burned a mortgage a gesture symbolizing the end of an indebtedness of $135,000, borrowed for improvements and remodeling of the chapter house twenty years ago. The group met, too, to acknowledge a debt that they will never pay off a debt of gratitude to Betty Burnett Welke. In February, 1949, Betty Welke was appointed alternate on the Indiana Beta House Corporation Board. Little did the Pi Phis then know that this was an association that would reward us so greatly. Betty served on the board for three years before assuming the presidency of the group in November, 1952. The fifties were a booming era for sororities at Indiana University and Betty soon began steering the group's efforts towards a major addition to the chapter house. By June, 1956, House Corporation had clear title to property, the architectural work was completed, and the loan approved. Mrs. Welke personally signed the mortgage and construction began. Soon her dream was a reality. There have been floods in the rec room, aby XI, GROSSMAN COLE new roof, plumbing disasters, new furniture to purchase, and old furniture to reupholster. She has seen house mothers come and go. She has hired and fired staff. She has watched prices spiral and battled the budget so well that Indiana Beta has never faced a financial crisis. She has been called from her bed late at night, away from her home early in the morning, and spent long hours with plumbers on hot summer days. She has spent hours with swatches, decorators, carpenters, and accountants. Through it all she has remained steadfast. Without complaint and with very little recognition, she has served for twenty-four years. In honor of that selfless dedication, at the Founders' Day dinner, Pi Phis of Indiana Beta named the chapter library The Betty Burnett Welke Library. The Bloomington Alumnae Club pledged to add a reference book to the library each year in her honor. Finally, to the strains of "My Pi Phi Girl," those gathered to honor Betty Welke presented her with a large framed photograph of the chapter house. she has loved and faithfully served for so many years. 14 -w 0 z 1T)trl )'r B 0' the craft schoo the cottage industry Edited by ELEANOR BUSHNELL LEHNER Board of Governors Sue Cox, left, and Helen Lewis stand in front of a woven coverlet made by Sue as a girl of IA. This was one of the displays during the early regional crafts exhibit at Arrowmont. News of The Great Smoky Mountains Gatlinburg, Tennessee 37738 15 </p>
+      <pb ref="arr9310015_0002" seq="02" n="16-17  "/>
+       <p>Early Crafts Featured In Exhibit In April the Crafts Committee of the Sevier County Bicentennial Committee sponsored an exhibit of early regional crafts at Arrowmont. Mrs. Caroline Riddle, Arrowmont Administrator, and Mrs. Hillard Brown, former Arrowmont student, were coordinators for the event. Items for the exhibit were from the Settlement School Historical Collection, from the permanent collection of the Southern High-land Handicraft Guild, and from the treasured personal collections of many Sevier County residents. Articles included examples of early weaving and drafts, wood carvings, kitchen and household implements, farm tools, baskets, examples of iron work, quilts, coverlets, spinning wheels, and looms all items reflecting the rural country life to which they were essential. For all the Pi Phis who saw the exhibit, as well as visitors from the community, it brought back reminders of early Settlement School days. There was a child's desk, with early spellers and arithmetic books almost ready for use; a teacher's desk and school bell, remindful of Pi Phi's early mission in Gatlinburg. Examples of early weaving designs There were Phyllis Higginbotham's saddle bags, in which she carried the medicine and aids delivered by horseback to the mountain people needing nursing care. Other pieces from the Pi Phi collection were a wool wheel, a spinning wheel, a narrow loom used for over 25 years by Josie Watson as a weaver for Arrowcraft, examples of early weaving with the early Arrowcraft book of drafts (some still in use!), a trundle bed with coverlets and antique quilts, several of Aunt Lydia's baskets, a beautiful weaving by Marjorie Chalmers depicting the first Craftsmen's Fair held on Pi Phi grounds in 1948, a corner cupboard, a rocker, a rocking churn all treasures of another year and today. For two weeks the main gallery of Arrowmont was the center for many local visitors. "Oh, I had one of those. I wonder what ever happened to it," was a frequent comment. On the two Saturdays on which the exhibit was held, craft demonstrations were given in such crafts as wood carving, quilting, shingle making, weaving, basketry, vegetable dyeing, and stitchery. Sandy Blain, Assistant Director of Arrowmont, helped in setting up the exhibit of early mountain crafts, and Helen Lewis, former Settlement School Administrator, arranged for the demonstrations. Josie Watson's loom on which she wove for Arrow-craft over 25 years. The large coverlet on the left is owned by Daniel Boone's niece. 16 A picture of Aunt Lydia Whaley together with examples of her baskets. A rocking churn Spinning wheels, yarn winder, and a large basket of vegetable dyed yarn. Weaving with stitchery by Marjorie Chalmers, depicting the first Southern Highland Handicraft Guild fair on Pi Phi grounds in 1948. Examples of basketry </p>
+      <pb ref="arr9310015_0003" seq="03" n="18-19  "/>
+       <p>Inside Arrowmont by ELEANOR BUSHNELL LEHNER Most Pi Beta Phi collegians and alumnae envision Arrowmont as a pleasant school in a mountain setting where students can study weaving or pottery. A few Pi Phis may be able to list some of the other crafts on the curriculum, such as enameling, jewelry, vegetable-dyeing, woodwork, and textiles. But for those who would like to understand Arrowmont from the inside, Director Marian Heard can provide comprehensive answers. The aim of Arrowmont, according to Marian, is to implant in its students a desire to search for excellence in every area. Learning the standards by which to appraise and recognize quality creates a desire to seek out samples, and so a continuous learning process is set in motion. Everyone has to start somewhere, and some-one has to educate the beginners--a challenge which Arrowmont happily accepts. Today's beginner may be tomorrow's designer crafts-man, teacher, consumer, collector. But two-thirds of Arrowmont's students could not fulfill the admissions requirements to such craft schools as Haystack and Penland. Nevertheless, we are the, best. Each of the others makes its own contribution, but in overall standards and facilities we can not be surpassed. We are dedicated to the promotion of crafts in all aspects and this includes extending a spirit of warmth and concern to the novice, so that he or she, too, can learn not only to create but, even more important, to appreciate. (Incidentally, half of our students are returnees!) Marian likes to offer one week sessions, in spite of the difficulties for faculty and staff, because they make the Arrowmont experience available to a wide cross-section of people whose vacation time is limited. Listening to Marian one wonders how she ever gets the summer schedule put together. The details seem almost insurmountable. To discover potential instructors Marian attends conventions and conferences and watches for outstanding exhibitions and for new publications. Once an agreement has been reached with a teacher, the course or courses he or she will teach must be fitted into the proper time slot that coordinates not only with thatteacher's schedule but also with all of the other teachers. Never can two teachers teach the same craft during a single workshop, although two or three pottery instructors, for example, may rotate through the summer. Equipment inventories must also be readied for each individual class so that students can obtain the necessary materials to start their projects as soon as classes begin. Staff assistants are selected from about eighty applications received from interested college graduate students. They are given room, board, and tuition for a certain number of hours of work. Sometimes they take courses. Sometimes they pursue independent projects. For Arrowmont they help to set up exhibits, man the store room, clean the studios, check lights, lock the building at night whatever is needed. In addition, each spends certain hours creating a work to contribute to Arrowmont's permanent exhibit. Each is commissioned by Marian to fit a certain need. For example, 1975 assistants prepared decorative banners to be displayed on the mall and in the auditorium. As these craftsmen enter the professional field and make names for themselves, these gifts to Arrowmont increase in value. When not corralling teachers, assistants, and equipment, Marian explores for needs to fill. How, for example, to teach and provide living facilities for the handicapped. How to intro-duce crafts to park visitors who trek to the Smokies expecting to find merely the wonders of nature. How to bring new courses to the school. How to find a resident designer crafts-man. And when summer classes are over, a stream of workshops begins, so that all of those beautiful rooms can be used year-round. It takes a lot of arranging a lot of trouble and a lot of time. Ask Marian why she bothers and she will say, "Because they help to promote Arrowmont by bringing large numbers of practicing craftsmen to the school. It's a lot of work for the staff, but it adds to the lustre of our name!" Marian thinks ahead to such needs as work-shops to provide business training for craftsmen or merchandising or leadership. A (Continued on page 27) 18 New Arrowcraft Items Now Available Clubs and chapters across the country are receiving revised Guidelines, memos, and order forms for planning their Arrowcraft sales in the year ahead. New articles being offered include a woolen, wooden handled bag to coordinate with wool sweaters, skirts, or slacks; a bridge tally set of natural linen; a bright, happy Christmas Hanging (one of the winners in the Arrowcraft Design contest); a comfortable cotton topper, right for many occasions; a new pastel place-mat in gentle pink or pale yellow; a navy blue tote with bright kelly green dots. The Shop is particularly proud to announce the availability of a limited color range of Tote Jrs., with vibrant, sparkling linings of Key West Fabric. For those not familiar with Key West Hand Print Fabric, this original hand silk screened material is beautiful in design and quality. It washes as easily as one of our own cotton bags. Of particular interest to Pi Phis are the Pi Phi letter (or napkin) holder; two styles of Pi Phi mugs, the Arrowmont Cookbook, angel rocks, a wooden arrow key chain, carved arrow pendants, the Heritage Hanging commemorating this special 50th year, and angel note-paper. Arrowcraft continues to strive for good design, and good workmanship; it continues to stand back of its products. If an item fades in color, it will be replaced happily. If an article is imperfect, it may be returned for replacement. The shop wants its customers to be satisfied and will do everything within its power to provide the kind of service and hand-crafted products of which those customers can be proud. A new weaving studio is being planned as part of the much needed expansion at Arrow-craft. Plans are being drawn for a separate building connected to the present shop by an enclosed walkway. Perhaps by this time next year Arrowcraft will be expanded to its enlarged working area and will be able to per-form more efficiently, with a larger inventory stored and available. Spring Beauty mat (14x19, $3.50) and matching napkin (16x16, $2.25) for elegant dining; in delicate pink, pale yellow gold. Bridge tally set in natural linen and cotton score pad and cover, $4.00 each; matching table numbers, $4.00 set. Wooden arrow Pi Beta Phi key chain, $2.50; Hand carved walnut arrow w/gold chain, $5.00. Tremont blouse-all cotton, natural with rust and related tones only, $27.50. Honeycomb Bag wool w/wooden handles in gold, blue, green, purple, red, brown, natural, and red/white/blue, $12.00. Woven Christmas hanging, green background, santas with bells in red and white wools. Approx 14"x19", $20.00. Arrowmont note paper, package of 12, $2.25. Tote Jr. lined with Key West Fabric in white, black, orange, navy, grey/white, hot pink/white, $10.00. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

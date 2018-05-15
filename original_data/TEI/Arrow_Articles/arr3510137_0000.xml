@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr3510137_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Keller, May L. </name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>October 1918</date>
+		        <idno type="SPCID">arr3510137_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">October 1918</date>, News from Little Pigeon</title>
+                        <author><name>Keller, May L. </name></author>
+                        <extent>Pages 137-139</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">36</note>
+                        <note type="Folder">8</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 35, Number 1 (October 1918), Pages 137-139.</note>
+			<note type="document">arr3510137_0000</note>
+
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Facilities</item>
+                                <item>War</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr3510137_0001" seq="01" n="136-137  "/>
+       <p>136 THE ARROW OF PI BETA PHI bility have attended the office, but the spirit of harmony and the desire to serve the fraternity and Council members on the part of alumni and active girls have compensated for everything. At the close of ten years and a half of active service I can truthfully say that I have a stronger faith in the college fraternity woman than ever before. Never yet has she failed to meet big issues in the right way. In the future it will be my privilege to assist at all times when-ever or wherever needed, and my best wish for my successor, Anna Lytle Tannahill, is that she may be as happy in every fraternity relationship as I have been. Once more my sincere thanks for the parting gift, which shall ever remain with me as an expression of the love and esteem of the f raternity. Very cordially yours, MAY L. KELLER. The Cataloguer desires to express to the fraternity her sincere thanks for the generous gift presented to her last June in Charlevoix by the convention there assembled. The hard work put upon the directory was more than repaid by the kind words of appreciation from those in attendance at convention, and this tangible token of appreciation, in form of the so-called "birthday cake" was rather overwhelming, and left the Cataloguer powerless to respond adequately to the gift as presented by our Grand President Emeritus. She therefore takes this opportunity to present her thanks, and renew her pledge of loyalty to the fraternity. N. B. The cake was of very fine quality, but a trifle too heavily frosted, in the opinion of the recipient! SPECIAL NOTICE Columbia A extends a very cordial invitation to the Pi Phis who are strangers in the city to visit us at 2024 G Street. NEWS FROM LITTLE PIGEON 137 NEWS FROM LITTLE PIGEON When our chairman requested me to go to Gatlinburg for the opening of the Settlement School in August, little did I suspect that the particular date selected was to fall in one of the hottest weeks not of this summer, but of any summer. Such was the case, however, and from torrid, sweltering Knoxville I journeyed on the K. S. and E. to just as hot a climate in Sevierville. War conditions have penetrated to even this remote section, for we were sidetracked in a corn field to let a freight with lumber pass our two coach passenger train. At the familiar sound I realized that there was no escape anywhere. An automobile is now run by the postoffice department between Sevierville and Gatlinburg, so after breakfast at 6:30, Miss Bishop and I departed for Gatlinburg in a trusty Ford with the local mail carrier. As far as Pigeon Forge all seemed changed; we ran at high speed along a good high road, but as soon as we left Pigeon Forge all the old familiar bumps reappeared, the wheels hung over the edges of precipices, and we bounced around in the good old way I remembered so well on former trips. Arriving at the outskirts of Gatlinburg, however, I was astonished at the imposing row of school buildings. The sites have been well chosen, and Mrs. Helmick achieved splendid success in the building of the teachers' cottage. It is comfortable with a large porch on which the Pricketts have placed porch boxes, which are filled with growing plants and trailing vines and from which a wonderful view of mountain peaks is obtained. The furniture suits the rustic character of the whole, and the big fireplace gives the last needed touch to make it homelike. The glory of the cottage and indeed of the whole region round, however, is neither porch, fireplace, piano, nor view, but a bathroom with running water, sight unheard of and undreamed of in this place so near to nature's heart, where the little Pigeon has so long furnished the only running water and the pines, the hemlocks, and the laurel protecting walls. After eight years the changes have been so great and so momentous that one really wonders how it has all come about. A service flag in the schoolroom and in the church with twenty-one stars, and three American flags bear silent testimony to the loyalty and patriotism of this group where many children saw the stars and stripes raised for the first time when General Helmick presented the. school a flag several years ago. The people are wide-awake now, a new store </p>
+      <pb ref="arr3510137_0002" seq="02" n="138-139  "/>
+       <p>138 THE ARROW OF PI BETA PHI building is being erected. Squire Maples was too busy with threshing to come to the opening of school, and so was Mr. Huff, due to the demands of his new hotel where many people come now from Sevierville and Knoxville for the bass and trout fishing. Mr. Steve Whaley has sold his place and Professor Watson of the University of Tennessee is shipping 4,000 bushels of wonderful apples from that place this year. On our school grounds stands a splendid field of corn, of which we are half owners, and a garden will provide many things for the Pi Phi teachers' table. For the first time this summer we are raising corn, vegetables, and chickens on shares with Marshall Ogle, and we are seriously contemplating also, oh speak it gently, the raising of pig, plain pig. Mrs. Helmick's dream of a partially self-supporting school may some day be realized. The opening of school had to be postponed a week, due to a revival which was being conducted by Mr. Tom Sexton, the blacksmith preacher. The nights were hot, but we valiantly attended, sought out a place by the open window, and gasped for breath until the moulner's bench was full and we went forward to shake their hands and help them come through. This week brought me into close touch with the people, and Mr. Prickett took me over the mountains on a day with the thermometer at 102 degrees in the shade to see a number more of them, so that I had an excellent opportunity to meet the people as a whole. I also visited Mattie Ogle's little school up Bearskins or Baskins Creek, and saw her putting in practice what she had learned at the Pi Phi School. On Monday morning at nine o'clock the Reverend Sexton, accompanied by Mr. Watson and a number of residents of Gatlinburg, climbed the hill for the opening of exercises of the school. Mr. Sex-ton gave us a talk on Truth, Mr. Watson read the twenty-third Psalm, and Mr. Prickett and Miss Bishop both gave short talks on what the school hoped to accomplish this year. I spoke for the fraternity, and then the children sang the Pi Phi welcome song. Mr. Prickett con-ducted the exercises, and as the children came marching in by classes, and as their voices rang out in My Country 'Tis of Thee, The Star Strangled Banner, and A merica the Beautiful, I thought of the days when all the songs they knew were the old, old hymns, mostly written for revival services and all sung from shaped notes. The children love music and they are learning to sing now in a truly surprising manner. Many families are planning to have the children take music lessons from Miss Bishop, so you see Gatlinburg is growing progressive. NEWS FROM LITTLE PIGEON 139 The teachers this year are Mr. and Mrs. Prickett, Miss Emily Burton, and Miss Evelyn Bishop as our Pi Phi head resident. They are living in the teachers' cottage with Baby Prickett (aged eight months) who is being well looked after during school hours by Aunt Lizzie Reagan, who is a grandmother many times over, but who has come to look after the Pi Phi cottage this winter and especially the baby. This releases the old cottage for dormitory purposes, and already two boys had arrived as boarders when I left. Thus is realized another of Mrs. Helmick's and Miss Turner's dreams. The number of boarders will undoubtedly increase and we will need be-sides a hospital and a girls' dormitory. This is a very inadequate glimpse of school affairs, but will give you, perhaps, a slight idea of the changes and improvements that are constantly taking place at the school. I am unable to state the number of children in school, since the revival prevented many from attending the first day (services run from 10-12 :30 A. M., 2-5 P. and from 8-10 P. m.), and many of the older boys were still working in the fields and at lumber camps, but the small children were very mu( h in evidence. The school has a number of representatives at the front, for the mountain boys nearly all answered the country's call as volunteers. We are particularly fortunate in having secured the services of Miss Evelyn Bishop for this year, as she is greatly beloved by our mountain friends. As Mr. Huff said, "I have been wanting her for several years. I am so glad she has come." We are glad too, and I believe there is great promise for growth and development this year under our new head resident's guiding hand, and with the helpful cooperation of the entire corps of interested, enthusiastic teachers. MAY L. KELLER. NOTICE Back numbers of several issues of THE ARROW have been sent to all chapters installed since May, 1917, by order of the Editor. A few copies of the Fiftieth Anniversary number ( June, 1917) still remain and may be had on application to the Editor and the payment of twenty-five cents. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr8110027_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News from Little Pigeon</title>
+                        <author><name>Gordon, Sally Wild</name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>Fall 1964</date>
+		        <idno type="SPCID">arr8110027_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">1964</date>, News from Little Pigeon</title>
+                        <author><name>Gordon, Sally Wild</name></author>
+                        <extent>Pages 26-27</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">41</note>
+                        <note type="Folder">1</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 81, Number 1 (Fall 1964), Pages 26-27.</note>
+			<note type="document">arr8110027_0000</note>
+                        <note type="Table Of Contents">Message to Pi Phi from Nurse Nancy Shilling; Southern California Craft Workshop Scholarship Winner; Thanks and Regerets to Lois Summers; Program Planning</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</item>
+                                <item>Staff</item>
+                                <item>Healtchcare</item>
+                                <item>Handicraft</item>
+                                <item>People</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr8110027_0001" seq="01" n="26-27  "/>
+       <p>News from Little Pigeon Edited by Sally Wild Gordon, Wisconsin A Message to Pi Phi from Nurse Nancy Shilling Nurse Nancy Nancy Shilling is Settlement School's newest staff member. This personable and talented young nurse who now directs activities at the Jennie Nicol Health Center has written an open letter to Pi Phis as follows : "This year will be my first as a staff member at the Pi Beta Phi Settlement School, but this will mark the thirteenth year I have spent at Pi Phi. I was graduated in the class of 1960 and since then have been away at school. So this is not really a "new" job, I am merely coming home again. Ever since I was a little girl, I have wanted to be a nurse. Many times I brought my cuts and scratches to our beloved "Miss Marjorie" and lis-:ened to her stories and advice on nursing. Little lid I know that some day I would be sitting at ter desk and doing her job. What is my job ? Well, let me tell a little about The main responsibility I have is to the school zildren. Each year we give all the necessary imiunizations so that they are protected against small-ox, whooping cough, tetanus, typhoid and polio. )ur vaccines come form the U. S. Public Health +epartment. Of course, school children are always itching things like mumps and chickenpox. We to spot these children and send them home for oper care and for the protection of the others. Who does not remember the thousands of .atches and bumps that the normal growing child Lnages to accumulate? I see many of these each day and dispense soap, water, antiseptic and hundreds of bandaids. The most important item in the first aid kit is called "TLC" tender loving care. Somehow a hurt always feels better when there is someone to sympathize and a shiny band-aid to show your friends. Gatlinburg has changed vastly in the last few years and many people get the impression of wealth and ease when they visit us. That is true within a certain area, but when you leave the city limits and go out into the hills and hollers, you find the same small farms and the same people who have always lived here. Many families are still having a difficult time to make ends meet. Here the Health Center helps again. The people learned when Mrs. Chalmers was here that if they really needed something, she could get it for them. Those of us who follow her will continue this with YOUR help. Each year Pi Phi alumnae groups from all over the country send boxes of used clothing and shoes, which we distribute to those who need them. Mountain people are a proud people. Children don't mind going barefoot in the summer and early fall, but when frost comes those with-out shoes or warm clothing will have to stay at home. School clothes are always needed, for all sizes and both sexes. Warm sweaters, slacks, jeans, socks and shoes are always welcome. We also keep baby clothes and diapers and try to make layettes of sorts. One group recently sent a box of flannel baby blankets, each one edged in hand sewing. We some-times get new gowns or diapers and we put a few new things in each layette. Just about any practical piece of clothing can be used. We have little use for formal wear, but "Sunday" dresses are always welcome. Adult clothing goes quickly too. The Health Center serves as liaison between the two local physicians and the people. We have several people who need weekly injections of vitamins or allergy serum. By coming to the Health Center they save both money and time, for we charge only a nominal fee. Each Friday afternoon the Health Center re-sounds with the cooing and crowing of the "least uns." At these Well Baby Clinics the babies are weighed and given protective immunizations while the mothers discuss proper foods, teething, heat rash and the thousand and one little things they never think to ask the doctor. Any signs of illness or deformity is referred to the family physician. 26 THE ARROW OF PI BETA PHI 27 Corrective measures, such as braces, glasses and hearing aids can be obtained with the help of local civic clubs and the U. S. Public Health Crippled Children's Clinic. And last, but not least, the Health Center and its nurse, whoever she may be, stand as one of the best examples of healthful and happy living. In every task the principles of accident prevention and health teaching are stressed so that our future adults will be stronger and better prepared to meet the world of tomorrow. Having met Nancy we have full confidence in her ability and, plus her genuine enthusiasm, we know she will prove a great asset to the Health Center. Grace E. Aldrich, Oregon Beta Southern California Craft Workshop Scholarship Winner Mrs. Grace B. Aldrich, a member of the San Jose Alumnae Club and a teacher of Home Economics, was awarded the 1964E Craft Workshop Scholarship by the Southern California Area Council of Pi Beta Phi. Mrs. Aldrich's active participation in the Alumnae Club and her interest in the Settlement School made her selection most fitting. For a number of years this scholarship has been made possible by the support of the Southern California Alumnae Clubs. Mrs. Aldrich has been most enthusiastic about her first year at the Craft Workshop "What a rare privilege I am having this summer as a student at the Workshop. This dream was made possible by a scholarship given me by the Southern California Alumnae Clubs. The weaving classes I am taking will help me to teach others after I retire next year. "Pi Phi has a wonderful location and many fine facilities to handle these craft classes. Our faculty is outstanding in their fields and widely known for their work in crafts. It is amazing to me that so few Pi Phis take advantage of these "fine opportunities in craft work. In talking to the students I find many return two or three times for summer classes at the Craft Workshop. I love the informal, friendly atmosphere. It is fun meeting people from our country, as well as from other countries. I will leave singing the praises of the Workshop, having been here forfive weeks. It is unbelievable, the fine work accomplished. I hope to return again, too, as one summer is only a beginning, once you get the interest in craft work." Thanks and Regrets to Lois Summers Unfortunately, for the Settlement School Committee, the five year term of Lois Overstreet Summers, Florida Beta, has now expired. Her experience and good judgment contributed so much to the Committee and she will be greatly missed. In her place we welcome Edith Hovey Rankin, of Columbus, Ohio. Mrs. Rankin has been very active with both the chapters and the alumnae, just resigning as Chairman of the Committee on Chaperons, in order to serve on the Settlement School Committee. Program Planning For information about movies and slides please contact Mrs. Allen R. Rankin, 2185 Cambridge Blvd., Columbus 21, Ohio. Two movies available: 1. 16 mm. color film. 1964 Convention Settlement School Program. Movie taken at Settlement School in 1963, including Summer Chaft Workshop. 35 minute program with script. 2. 8 mm. color film. Craftmen's Fair in Gatlinburg. 15 minute program with script. Slides: 1. 1962 Convention Settlement School Pro-gram. Historical, 2. Settlement School as it is today with emphasis on Art and Craft work and including slides of the Smithsonian Exhibition. For information on publicity and pictures for display, please contact Mrs. Wilmot G. Gordon, 1155 S. Oak Knoll Ave., Pasadena, California 91106. Think Ahead to Next Summer Make your plans now for the 1965 Summer Craft Workshop. Scholarships for both actives and alumnae, as well as Assistant Workshop Scholarships, will be available. If interested, please write Mrs. Floyd M. Thorman, 1221 Elm St., Winnetka, Illinois. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+

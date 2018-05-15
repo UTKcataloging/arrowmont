@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "tei.dtd">
+<TEI.2 id="arr4140585_0000">
+	<teiHeader>
+		<fileDesc>
+                    <titleStmt>
+			<title>News From Little Pigeon</title>
+                        <author><name>Geare , Dorothy Smallwood</name></author>
+                        <author><name>Bishop, Evelyn </name></author>
+                        <author><name>Mattil, A. J. </name></author>
+                        <respStmt>
+                             <resp>Responsible for TEI creation from MODS, image and OCR'd text files</resp>
+                             <name>DeRidder, Jody</name>
+                        </respStmt>
+                    </titleStmt>
+		    <publicationStmt>
+                        <publisher>Pi Beta Phi Fraternity</publisher>
+                        <series>The Arrow of Pi Beta Phi</series>
+		        <date>June 1925</date>
+		        <idno type="SPCID">arr4140585_0000</idno>
+		        <availability>
+	        	 <p>Digital Image Copyright (c) 2005. The University of Tennessee Libraries. All Rights Reserved. For permission to use, contact: Great Smoky Mountains Regional Project, The University of Tennessee Libraries, Knoxville, TN.
+</p>
+		        </availability>
+	            </publicationStmt>
+                    <sourceDesc>
+	              <bibl>
+                        <title><date value="">June 1925</date>, News From Little Pigeon</title>
+                        <author><name>Geare , Dorothy Smallwood</name></author>
+                        <author><name>Bishop, Evelyn </name></author>
+                        <author><name>Mattil, A. J. </name></author>
+                        <extent>Pages 585-588</extent>
+                        <note type="collection">Pi Beta Phi Fraternity Archives, St. Louis, Missouri</note>
+                        <note type="Box">37</note>
+                        <note type="Folder">6</note>
+                        <note type="Citation">The Arrow of Pi Beta Phi, Volume 41, Number 4 (June 1925), Pages 585-588.</note>
+			<note type="document">arr4140585_0000</note>
+                        <note type="Table Of Contents">Pioneering in Agriculture</note>
+
+	              </bibl>
+                    </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+                   <projectDesc>
+                       <p>Created for the Great Smoky Mountains Arrowmont project.</p>
+                   </projectDesc>
+                   <editorialDecl n="1">
+                       <p>TEI body is composed of OCR'd text files with no editorial tags.</p>
+                       <p>Non-ascii characters have been removed.</p>
+                       <p>No presentation tags have been added, apart from a paragraph for each page.</p>
+                   </editorialDecl>
+                   <classDecl>
+                        <taxonomy>
+                             <bibl> 
+                               Subjects assigned are chosen from a list designed for the Arrowmont project.  This controlled vocabulary list may be viewed at http://idserver.utk.edu?id=200700000000593.
+                             </bibl>
+                        </taxonomy> 
+                      </classDecl>
+                    </encodingDesc>
+                    <profileDesc>
+                       <textClass>
+                           <keywords>
+                              <list>
+                                <item>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</item>
+                                <item>Agriculture</item>
+
+                              </list>
+                           </keywords>
+                       </textClass>
+                    </profileDesc>
+             </teiHeader>
+	     <text>
+             <body>
+                <div1 type="letter">
+      <pb ref="arr4140585_0001" seq="01" n="584-585  "/>
+       <p>584 Auow OF Pi BET-A. PHI ROY PARTRIDGE husband of Imogene Cunningham Partridge, California B, is an etcher of note and professor of art at Mills College. PAUL CADMAN husband of Frances Mills Cadman, California B, is professor of economics and assistant dean of men at the University of California. PAUL S. TAYLOR husband of Katharine Whiteside Taylor, Wisconsin A, is also a professor of economics at the University of California. DR. ROBERT HARVEY GAULT husband of Anne Lee Gault, New York B, is head of the department of Psychology in Northwestern University and the editor of the "Journal of Criminal Law and Criminology.". At present Dr. Gault is on leave in Washington, D. C., carrying on researches under the American Academy of Science and the National Council of Research. He discovered the possibility of interpreting speech through touch and his researches deal with this study. Dr. Gault is a member of Delta Theta, Phi Eta, and Sigma Xi. BURROWS, A. T. father of Dorothy Burrows, Illinois Z, has been elected Grand President of Phi Sigma Kappa. MOONEY, RALPH Phi Delta Theta, husband of Margaret Sharp Mooney, Missouri B, is commanding recognition in the literary world with his splendid short stories. "David judd," his latest novel which has been appearing in serial form in Munsey's is based on historical facts and shows a comprehensive understanding of the early history of the Mississippi Valley. COOKSON, THOMAS, Grand Secretary of Phi Kappa Psi, is the husband of Mignon White Cookson, Indiana B. RICE, PHILIP BLAIR son of Jeannette Blair Rice, Indiana r, secretary of the Bloomington, Indiana alumnae club, has recently been named from the state of Indiana as a Rhodes Scholar. Philip Rice is a member of Phi Gamma Delta and has been active in journalism and dramatics at Bloomington. He received his B. A. degree, with highest honors, at the mid-year commencement. NEWS FROM LITTLE PIGEON 585 NEWS FROM LITTLE PIGEON Edited by DOROTHY SMALLWOOD GEARE (Mrs. R. W.), Columbia A In the three years that the School has had the Smith-Hughes Agriculture the work has developed and broadened out until as the following article shows, it touches many people on the very remote edges of our community. The half day of class work in this School during the nine months of school and the one after-noon in the Sugarlands School each week is only a small part of the work really done. This spring incubators and brooders have been running on the community plan. Two boys look after them, different men bring the eggs here and the expense of operation and care is divided among them. So far this plan seems to be working out well. A group of men meet every Saturday night for lessons and talks on poultry raising and marketing. Now they want to organize into an association for the better marketing of their poultry. In addition to this there is a Community Club that meets once a month, oftener this time of year when it is necessary to plan for a carload of fertilizer, etc. There are constant calls for Mr. Mattil to look over orchards, some of them miles from here, calls to see sick horses or cows and this past month, calls to innoculate dogs as there has been a' mad clog scare. All this is preparatory to the announcement that I want to make. After months and even years of work we have at last succeeded in securing Smith Hughes work for the months of April, May, June and July in the Home Demonstration Department. The teacher is already here and we are planning classes in Sugarlands, perhaps one or two other nearby communities and of course here in Gatlinburg. It is a long and difficult task to work up interest among those </p>
+      <pb ref="arr4140585_0002" seq="02" n="586-587  "/>
+       <p>5S6 THE ARROW OF PI BETA PHI who never have been in school, but, if it can be done with the men I am sure that it can with the women, and I am looking forward to good canning, sewing and cooking clubs during the summer months. If this does work out well, I feel sure the state will grant us the Smith Hughes work through the entire year. With the state and federal funds paying five-eighths of the salary we would not find it a burden to finance the work. EVELYN BISHOP. PIONEERING IN AGRICULTURE Smith Hughes Agriculture, although a particular type of work is not always the same. Particularly does this hold true at the Pi Beta Phi Settlement School in Gatlinburg, Tennessee for among the mountain people conditions are such that a distinct difference exists in the nature of work when compared with more advanced rural communities. Should I endeavor to apply a descriptive term to the work as found here, I would call it "Pioneering in Agriculture." To make clear my point and to give a better idea of some of the problems as met with in striving for agricultural advancement in the community, I want to relate what I consider a typical case. Education by talks, illustrations, demonstrations or other methods is usually all we consider required in putting over our vocational work, but here, when all this is accomplished, I hit the Teal SNAG as you will see from the following incident. Mr. B , a fairly progressive mountain farmer, owns a farm on righting Creek. He has a very good orchard and in addition uses a small acreage for growing of truck crops. The sale of vegetables and fruit has become a source of income and "living" for him and his family. After hearing and seeing and perhaps reading, he has finally become convinced that the only way his orchard can give him the profitable returns it should will be for him to use better methods ; to prune and spray. Educated to this point and with a firm resolve to do the necessary things he still hesitates. The cost he hasn't the money to do what he feels will not only repay him but give him a good investment on his labors and money spent. Urged by this conviction to go ahead if a way can be found, he seeks my advice as agricultural instructor. NEWS FROM LITTLE PIGEON 587 After talking with him a while, I decided it was a case where assistance would likely accomplish a great deal of good. I therefore volunteered to help him and see him through with his. undertaking. First came the pruning. At an appointed day I arrived to give him a lesson in pruning and to help him prune. Mr. B anxious and ready to learn, had an old trusty hand saw. (In this respect he has better tools than are usually used in the community for generally an axe is used and the trees literally "butchered up." Knowing what I could expect to find in the way of h.nplements to work ,with, I of course took along the pruning tools. After explaining the principles of pruning and applying these by pruning with him for several hours, Mr. B felt that he was ready to try pruning by himself. But after several hours' use of the proper implements he realized that in order to do satisfactory work he needed tools, or at least agood saw. Times were too hard with him to afford a pruning saw. Rather than see him handicapped and to see him mutilate his fruit trees with crude tools I entrusted him with one of the pruning tools from the Farm Shop for a few days (loaning equipment has not been considered a good policy but how else would the situation be met?) After having pruned his orchard he expressed his appreciation of the saw and said : "I don't see how in the world I could have gotten along without it and done the pruning I did need to buy one next year." After the pruning was over there came the question of spraying. Spraying of course since it is a more costly operation offered a greater obstacle. It required not only an outlay of money for materials but a spray pump also. Thirty dollars for a spray pump was out of the question so Mr. B asked if he could use the Barrell spray pump belonging to the School if he would come for it and return it. As he lived five miles frorn Gatlinburg the trips would almost amount to the cost of the pump by the end of the year. Next came the question of materials. The cost was inquired into and when it was found to be about $10.00 the question of spraying became an uncertain one. Ten dollars of ready money even distributed over several months of time would have been uncertain with Mr. B. He had money </p>
+      <pb ref="arr4140585_0003" seq="03" n="588-589  "/>
+       <p>5SS TEE ARROW OF PI BETA PHI coming in soon and also would have some during the summer and fall but none when it was needed for this work. It was also his desire to keep from making obligations that he was not certain of meeting at a specified time. After he was assured that I would see about getting the materials and would take care of the payments for awhile, arrangements were completed. When the time was being set for me to go and show him how to, spray, he suggested that we wait a week as he had to be at "the works" to earn enough money to pay for the fertilizer for his crops. At the time of writing this Mr. B has pruned his orchard and has done a verycreditable job. The orchard is made up of about 150 trees. Also one spray has been applied to the trees and plans have been made to continue a complete schedule of spraying. The story of Mr. B represents fairly well a difficulty most often necessary to overcome before really getting results in community work here in Gatlinburg. People, after being convinced that better methods would be profitable, are really kept from usingthem by lack of funds. Because of the small amount of ready money they feel they cannot afford to use thz better methods, not because they do not believe these will pay, but because they lack capital. just how this obstacle can best be removed is a problem for future thought. A. J. MATTIL. TWO NEW SCHOLARSHIPS Since Pi Beta Phi does not solicit aid and assistance for our Settlement School from those not members of the fraternity, it was a great pleasure to have the Unity Church in Montclair, New jersey voluntarily raise money enough to donate two scholar-ships for students attending our School. It all began when the Rev. Edgar Swan Wiers, the minister of Unity Church, saw the Pi Beta Phi benefit performance of "Sun-Up" given under the auspices of the New York Alumn2e Club. Later, while he and Mrs. Wiers were touring in the Upper South last summer, they spent a week-end at our Settlement School at Gatlinbtirg and their enthusiasm for the work we are NEWS FROM LITTLE PIGEON 589 doing inspired them to urge their church to devote an entire evening to our Pi Phi School. On Good Friday evening, April 10, a dinner was held in Unity House, 67 Curch St., Montclair, N. J., and a charge of $1 a plate was made for the dinner. At least 25c of every dollar so received went towards a Scholarship. Kate B. Miller, formerly a member of our Settlement School Committee, had stereopticon slides and told about the school and the mountaineers Mr. and Mrs. Wiers told of their visit in the community; and baskets, linens, woolen coverlets, chairs, etc., made by the mountaineers were on sale. A great deal of interest was aroused which will probably result in an annual scholarship given by the parishioners of the Unity Church. Such a voluntary contribution is a high recommendation for our work on Little Pigeon. SPECIAL NOTICE The Washington Alumn2e Club wishes to express its thanks and appreciation of the generous response of Pi Phis throughout the country in the sale and purchase of Fleischer Hosiery. Through the efforts of Laura Joy Hawley, New York A, the Washington Club had the opportunity of selling the hosiery and it was through the generous cooperation of many Pi Phis that $1,200 was raised for our 'Settlement School. </p>
+       </div1>
+
+    </body>
+
+  </text>
+
+</TEI.2>
+
+
+
