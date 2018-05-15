@@ -62,7 +62,7 @@
             Tennessee, Knoxville. Libraries</recordContentSource>
     </xsl:template>
     <!-- internetMediaType -->
-    <xsl:template match="internetMediaType"/>
+    <xsl:template match="physicalDescription"/>
     <!-- Digital Collection to Project-->
     <xsl:template match="relatedItem/@displayLabel[. = 'Digital Collection']">
         <xsl:attribute name="displayLabel">
