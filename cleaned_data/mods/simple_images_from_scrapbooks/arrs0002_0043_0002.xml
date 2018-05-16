@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3&#xA;            http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Uncle Tom </title>
+   </titleInfo>
+   <abstract>Uncle Tom who was written up by Ripley because he carried up all the materials and built his cabin alone on top of the mt. Opposite the school. He has lived up there for 43 years. </abstract>
+   <subject>
+      <topic>People</topic>
+   </subject>
+   <subject>
+      <topic>Uncle Tom Campbell</topic>
+   </subject>
+   <identifier type="filename">arrs0002_0043_0002</identifier>
+   <note displayLabel="Project Part">Arrowmont Simple Images from Scrapbooks</note>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not
+                Evaluated</accessCondition>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+</mods>

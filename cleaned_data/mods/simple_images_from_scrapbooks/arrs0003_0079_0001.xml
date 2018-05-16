@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3&#xA;            http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Dr. Ogle</title>
+   </titleInfo>
+   <identifier type="filename">arrs0003_0079_0001</identifier>
+   <note displayLabel="Project Part">Arrowmont Simple Images from Scrapbooks</note>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not
+                Evaluated</accessCondition>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+</mods>

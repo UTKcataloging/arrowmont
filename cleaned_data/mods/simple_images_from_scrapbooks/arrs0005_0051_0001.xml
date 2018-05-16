@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3&#xA;            http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>The McCarter Girls, all in our school but the youngest</title>
+   </titleInfo>
+   <abstract>Those pictured (back row, left to right) are teacher Ruth Sturley, Birthana? McCarter, Cora McCarter, and Polly McCarter.  The two young McCarter girls in the front row are not identified.  The two youngest girls are in photo 3 on page 32, entitled Watermelon Enroute to Red Top and The Glades.</abstract>
+   <subject>
+      <topic>People</topic>
+   </subject>
+   <subject>
+      <topic>Students</topic>
+   </subject>
+   <subject>
+      <topic>Children</topic>
+   </subject>
+   <subject>
+      <topic>Sturley, Ruth</topic>
+   </subject>
+   <subject>
+      <topic>McCarter, Birthana</topic>
+   </subject>
+   <subject>
+      <topic>McCarter, Cora</topic>
+   </subject>
+   <subject>
+      <topic>McCarter, Polly</topic>
+   </subject>
+   <identifier type="filename">arrs0005_0051_0001</identifier>
+   <note displayLabel="Project Part">Arrowmont Simple Images from Scrapbooks</note>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not
+                Evaluated</accessCondition>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+</mods>

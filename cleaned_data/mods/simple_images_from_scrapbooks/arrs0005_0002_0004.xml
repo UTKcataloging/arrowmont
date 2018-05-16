@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3&#xA;            http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Little Pigeon River Valley</title>
+   </titleInfo>
+   <abstract>Students depicted with numbers are 3. Stella Huff; 4. Crettie (Lucrettie) Reagan; 5. Maud Clabo lived with her aunt Ruth Clabo, swept up Teachers' cottage with Ethel Carr, 6. Cora Ogle Andy Ogle's daughter, 7. Lillian Reagan; 8. Bill Ogle; 9. Ephraim Maples; 10. Tom McCarter; 11. Jim Huff; 12. no name given; 13. Cora McCarter; 14. Rellie Maples; Rose Carr and Emma Maples are also present, although they are not labeled.  They are the first two girls on the lower left of the photo.</abstract>
+   <subject>
+      <topic>Boys</topic>
+   </subject>
+   <subject>
+      <topic>Girls</topic>
+   </subject>
+   <subject>
+      <topic>Students</topic>
+   </subject>
+   <subject>
+      <topic>People</topic>
+   </subject>
+   <subject>
+      <topic>Six-Room Schoolhouse, Gatlinburg</topic>
+   </subject>
+   <subject>
+      <topic>Huff, Stella</topic>
+   </subject>
+   <subject>
+      <topic>Reagan, Lucrettie</topic>
+   </subject>
+   <subject>
+      <topic>Clabo, Maud</topic>
+   </subject>
+   <subject>
+      <topic>Ogle, Cora</topic>
+   </subject>
+   <subject>
+      <topic>Reagan, Lillian</topic>
+   </subject>
+   <subject>
+      <topic>Ogle, Bill</topic>
+   </subject>
+   <subject>
+      <topic>Maples, Ephraim</topic>
+   </subject>
+   <subject>
+      <topic>McCarter, Tom</topic>
+   </subject>
+   <subject>
+      <topic>McCarter, Cora</topic>
+   </subject>
+   <subject>
+      <topic>Maples, Rellie</topic>
+   </subject>
+   <subject>
+      <topic>Carr, Rose</topic>
+   </subject>
+   <subject>
+      <topic>Maples, Emma</topic>
+   </subject>
+   <subject>
+      <topic>Huff, Jim</topic>
+   </subject>
+   <identifier type="filename">arrs0005_0002_0004</identifier>
+   <note displayLabel="Project Part">Arrowmont Simple Images from Scrapbooks</note>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not
+                Evaluated</accessCondition>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+</mods>

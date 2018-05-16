@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3&#xA;            http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>On the Way to Store, crossing the footlog over Baskins</title>
+   </titleInfo>
+   <abstract>This is the same footlog pictured in the photo of Martha Hill and the first class of Pi Phi students in 1912.  The photographer was standing on the west bank of Baskins, facing east.</abstract>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>People</topic>
+   </subject>
+   <subject>
+      <topic>Baskins Creek</topic>
+   </subject>
+   <identifier type="filename">arrs0005_0012_0002</identifier>
+   <note displayLabel="Project Part">Arrowmont Simple Images from Scrapbooks</note>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not
+                Evaluated</accessCondition>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+</mods>

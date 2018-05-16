@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3&#xA;            http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>This is one of the churches around Gatlinburg.</title>
+   </titleInfo>
+   <abstract>Sunday in the mountains is devoted fervidly to worship. When meeting is over, the congregation, separated during the week by difficultly traveled mountains, take advantage of the opportunity for conversation. Sometimes they stay at church all day and engage in what they call harp singing. Sunday School begins at 9:15 and church at 10:15. At 6:00 in the evening there is B.Y.P.U. for the young people, after which there is church again. Brother Lewis is the new preacher for the Baptist Church. Land has been purchased for a new parsonage which will soon be erected.</abstract>
+   <subject>
+      <topic>Churches</topic>
+   </subject>
+   <subject>
+      <topic>Buildings </topic>
+   </subject>
+   <identifier type="filename">arrs0002_0048_0001</identifier>
+   <note displayLabel="Project Part">Arrowmont Simple Images from Scrapbooks</note>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not
+                Evaluated</accessCondition>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <typeOfResource>still image</typeOfResource>
+</mods>
