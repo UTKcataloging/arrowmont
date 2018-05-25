@@ -1,9 +1,13 @@
 import os
 import csv
+import argparse
 
 def main():
+    parser = argparse.ArgumentParser(description='Use to specify directory')
+    parser.add_argument("-d", "--dir", dest="directory", help="Specify directory in 360_archival_tiff", required=True)
+    args = parser.parse_args()
     output = "/gwork/mbagget1/metadata/arrowmont/cleaned_data/mods/3dobject-compound_objects"
-    path_to_objects = "/gwork/mbagget1/360_archival_tiff/arbuckle_tiff/"
+    path_to_objects = f"/gwork/mbagget1/360_archival_tiff/{args.directory}"
     for path in os.walk(path_to_objects):
         for object in path[2]:
             new_Record = Record(object, output)
@@ -36,7 +40,7 @@ class Record:
         identifier = f'<identifier type="filename">{self.data[5]}</identifier>'
         rights = '<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>'
         record_info = '<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>'
-        type_of_resource = '<typeOfResource>three dimensional object</typeOfResource>'
+        type_of_resource = '<typeOfResource>still image</typeOfResource>'
         with open(f"{self.output}/{output_file}", "w") as final_xml:
             final_xml.write('<?xml version="1.0" encoding="UTF-8"?>\n')
             final_xml.write(root)
