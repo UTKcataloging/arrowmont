@@ -42,7 +42,7 @@ class Record:
         record_info = '<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>'
         type_of_resource = '<typeOfResource>still image</typeOfResource>'
         with open(f"{self.output}/{output_file}", "w") as final_xml:
-            print(f"Writing file to {self.out}/{output_file}")
+            print(f"Writing file to {self.output}/{output_file}")
             final_xml.write('<?xml version="1.0" encoding="UTF-8"?>\n')
             final_xml.write(root)
             final_xml.write(title)
