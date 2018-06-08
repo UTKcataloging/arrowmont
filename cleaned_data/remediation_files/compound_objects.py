@@ -24,7 +24,7 @@ class Record:
         with open(my_csv) as csv_file:
             readCSV = csv.reader(csv_file, delimiter=',')
             for row in readCSV:
-                if row[6] in self.filename:
+                if row[-1] in self.filename:
                     self.data = row
                     self.create_metadata_record()
 
