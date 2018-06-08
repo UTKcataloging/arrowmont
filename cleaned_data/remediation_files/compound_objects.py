@@ -6,8 +6,8 @@ def main():
     parser = argparse.ArgumentParser(description='Use to specify directory')
     parser.add_argument("-d", "--dir", dest="directory", help="Specify directory in 360_archival_tiff", required=True)
     args = parser.parse_args()
-    output = "/gwork/mbagget1/metadata/arrowmont/cleaned_data/mods/3dobject-compound_objects"
-    path_to_objects = f"/gwork/mbagget1/360_archival_tiff/{args.directory}"
+    output = "/gwork/mbagget1/arrowmont/cleaned_data/mods/3dobject-compound_objects/parts"
+    path_to_objects = f"{args.directory}"
     for path in os.walk(path_to_objects):
         for object in path[2]:
             new_Record = Record(object, output)
@@ -42,6 +42,7 @@ class Record:
         record_info = '<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>'
         type_of_resource = '<typeOfResource>still image</typeOfResource>'
         with open(f"{self.output}/{output_file}", "w") as final_xml:
+            print(f"Writing file to {self.out}/{output_file}")
             final_xml.write('<?xml version="1.0" encoding="UTF-8"?>\n')
             final_xml.write(root)
             final_xml.write(title)
