@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleInfo><title>Health & Family in Southern Appalachia</title></titleInfo>
+<name><namePart>Steve Davis</namePart><role><roleTerm authority='marcrelators' valueURI='http://id.loc.gov/vocabulary/relators/aut'>Author</roleTerm></role></name>
+<identifier type='filename'>Health%20and%20Family%20in%20Southern%20Appalachia.pdf</identifier>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<typeOfResource>text</typeOfResource>
+<subject><topic>Health and Family</topic></subject>
+</mods>
